@@ -2,59 +2,21 @@
 ---
 
 $baseurl: '{{ site.base_url }}';
-$transition-time: 0.3s;
-
-// Fonts
-$font-standard: Merriweather, serif;
-$font-sans: Raleway, sans-serif;
-$font-site-title: "Rock Salt", cursive, sans-serif;
-$font-icons: "FontAwesome";
 
 // Colors
-$color-primary: #222;
-$color-secondary: #01243B; // was: #021523; 
-$color-darkgrey: #555;
-$color-grey: #2e3e4e;
-$color-lightgrey: #E2E2E2; // was: #8899a6;
-$color-lightblue: #81a2be;
-$color-blue: #0a59b0;
+$color-secondary: #01243B;
+$color-lightgrey: #E2E2E2;
 $color-navy: #01243B;
-$color-orange: #cc6666; // was: #FF6154;
-$color-purple: #98b8fe;
-$color-white: #fff;
+$color-orange: #cc6666;
 
 $color-link: $color-blue;
-$color-link-hover: $color-lightblue;
 
-$color-background: #f4f4f4;
 $color-header-background: $color-grey;
-$color-header-background-active: rgba(2, 21, 35, .5); // was: rgba(104,123,137,.5);
+$color-header-background-active: rgba(2, 21, 35, .5);
 $color-social-icons-background: rgba(2, 21, 35, 0.2);
-$color-social-icons-color: $color-lightgrey;
-$color-social-icons-hover: $color-purple;
-$color-post-title: $color-blue;
-$color-post-meta: $color-darkgrey;
-
-// Sizes
-$size-standard-font: 16px;
-$size-standard-line-height: 1.5em;
-
-$size-about-pane: 300px;
-$size-about-pane-mobile: 55px;
-
-// Media Breakpoints
-$media-breakpoint-sm-min: 576px;
-$media-breakpoint-md-min: 768px;
-$media-breakpoint-lg-min: 992px;
-$media-breakpoint-xl-min: 1200px;
-
-$media-breakpoint-xs-max: 575.99px;
-$media-breakpoint-sm-max: 767.99px;
-$media-breakpoint-md-max: 991.99px;
-$media-breakpoint-lg-max: 1199.99px;
 
 // Import
-@import 'core/core';
+@import 'SpaacedOut';
 
 // Overrides
 header {
