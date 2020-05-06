@@ -6,6 +6,7 @@ description: >
   data on the site and in the feed.xml site description.
 
 # git edit capabilities
+remote_theme: jasongaylord/SpaacedOut
 git:
 #  host: https://github.com/
   repository: jasongaylord/SpaacedOut
