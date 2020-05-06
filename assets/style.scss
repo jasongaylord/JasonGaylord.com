@@ -3,6 +3,9 @@
 
 $baseurl: '{{ site.base_url }}';
 
+// Fonts
+$font-site-title: "Rock Salt", cursive, sans-serif;
+
 // Colors
 $color-secondary: #01243B;
 $color-grey: #2e3e4e;
@@ -25,6 +28,10 @@ header {
     background-image: url('#{$baseurl}/assets/images/stars.png');
     background-position-y: top;
     background-position-x: center;
+
+    .site-title {
+        font-size: $size-standard-font*1.4;
+    }
 
     .rocket {
         z-index: 3;

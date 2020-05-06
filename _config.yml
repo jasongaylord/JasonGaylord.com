@@ -21,6 +21,7 @@ permalink: /blog/:year/:month/:day/:title
 
 # content expansion
 content:
+  head-s: true
   header-s: true
 #  header-suffix: header-suffix.html
 #  head-suffix: head-suffix.html  
