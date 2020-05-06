@@ -1,6 +1,6 @@
-title: My site
-subtitle: Just some words
-author: George Washington
+title: Jason N. Gaylord
+subtitle: <i class="fas fa-people-arrows"></i> Social Distancing since 3/14
+author: Jason N. Gaylord
 description: >
   Here is my website. This description will appear in the meta
   data on the site and in the feed.xml site description.
@@ -8,7 +8,6 @@ description: >
 # git edit capabilities
 remote_theme: jasongaylord/SpaacedOut
 git:
-#  host: https://github.com/
   repository: jasongaylord/SpaacedOut
   branch: gh-pages
 
@@ -21,8 +20,8 @@ permalink: /blog/:year/:month/:day/:title
 
 # content expansion
 content:
-#  head-suffix: head-suffix.html  
-#  header-suffix: header-suffix.html
+  header-suffix: header-suffix.html
+  #  head-suffix: head-suffix.html  
 
 # contact
 contact: 
@@ -32,13 +31,13 @@ contact:
 
 # social links (uncomment the links you'd like to include and)
 social:
-#  facebook: jekyll
-#  github: jekyll
-#  instagram: jekyll
-#  linkedin: jekyll
+  facebook: jason.gaylord
+  github: jgaylord
+  instagram: jason.gaylord
+  linkedin: jasongaylord
 #  pinterest: jekyll
 #  stackoverflow: "11111"
-#  twitter: jekyllrb
+  twitter: jgaylord
 #  youtube: jekyll
 
 #  google_analytics: UA-NNNNNNNN-N
@@ -50,9 +49,9 @@ rss: rss
 
 # comments
 comments:
-#  enabled: false
-#  show_count: false
-#  disqus_shortname: jekyll
+  enabled: true
+  show_count: true
+  disqus_shortname: jasongaylord
 
 # front matter
 defaults:
@@ -77,6 +76,17 @@ defaults:
     values:
       layout: page
       comments: false
+
+#Kramdown Configuration      
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
 
 plugins:
   - jekyll-avatar
