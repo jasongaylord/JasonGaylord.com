@@ -93,5 +93,6 @@ plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
