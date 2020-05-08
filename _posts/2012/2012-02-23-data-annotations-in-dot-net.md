@@ -50,7 +50,7 @@ public class DateRange : System.ComponentModel.DataAnnotations.ValidationAttribu
 }
 ```
 
-Notice that in the code snippet above, I’m allowing null or empty strings to be passed in. Keep in mind that the `Required` annotation already checks for nulls or empty strings.
+Notice that in the code snippet above, I'm allowing null or empty strings to be passed in. Keep in mind that the `Required` annotation already checks for nulls or empty strings.
 
 To use the `DateRange` annotation, simply add it to a property in the model like below:
 

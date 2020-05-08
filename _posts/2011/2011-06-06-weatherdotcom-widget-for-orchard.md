@@ -9,14 +9,14 @@ categories: [archive]
 tags:  [archive,orchard,weather]
 ---
 
-If you’ve checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you’ll notice a “bing-like” box that will appear. I’ll talk about this a bit more in a bit, but you’ll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel’s weather.com](https://jasong.us/2LcSmAl).
+If you've checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you'll notice a “bing-like” box that will appear. I'll talk about this a bit more in a bit, but you'll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel's weather.com](https://jasong.us/2LcSmAl).
 
-To take advantage of this service, you must first register on their website at [http://www.weather.com/services/xmloap.html](http://jasong.us/lTxDfY). During this process, you’ll be provided with a Partner ID and a License Key. Be sure to take note of these as you’ll need them at a later point.
+To take advantage of this service, you must first register on their website at [http://www.weather.com/services/xmloap.html](http://jasong.us/lTxDfY). During this process, you'll be provided with a Partner ID and a License Key. Be sure to take note of these as you'll need them at a later point.
 
 > ***<span color="#666666" style="color: rgb(102, 102, 102);">Note: If you are not a programmer or web developer, you may want to skip past the next two sections and go to Adding the Widget to Orchard.</span>***
 
 ## Weather Data from the Web Service
-I wanted to take advantage of all of the data being returned from the Weather Channel’s current conditions web service. So, I converted the result into two strongly-typed class objects. The first class object is called LocationInfo and is defined as:
+I wanted to take advantage of all of the data being returned from the Weather Channel's current conditions web service. So, I converted the result into two strongly-typed class objects. The first class object is called LocationInfo and is defined as:
 
 ```csharp
 public class LocationInfo
@@ -54,7 +54,7 @@ public class CurrentConditions
 }
 ```
 
-In both of these instances, these are the properties that will be exposed to any custom views being rendered. I’ve included both of these class objects in another class object that is returned when the call is made to obtain the current weather. This class object is called Weather and is defined as:
+In both of these instances, these are the properties that will be exposed to any custom views being rendered. I've included both of these class objects in another class object that is returned when the call is made to obtain the current weather. This class object is called Weather and is defined as:
 
 ```csharp
 public class Weather
@@ -113,7 +113,7 @@ $('#weatherSpot').mouseenter(function () {
 });
 ```
 
-Finally, I needed to layout my view. Since it’s a custom view, I had complete control over the rendering and decision of the data. I choose to use many of the default fields.
+Finally, I needed to layout my view. Since it's a custom view, I had complete control over the rendering and decision of the data. I choose to use many of the default fields.
 
 ```csharp
 @using System.Web.Hosting
@@ -143,13 +143,13 @@ I created custom weather icons for each of the potential weather patterns. The W
 You may customize the widget as I have shown above or use the default view which is provided.
 
 ## Adding the Widget to Orchard
-To install the widget, you can log into your Orchard CMS version 1.1 dashboard and go to Modules (If you are running Orchard version 1.0, I’d strongly urge you to upgrade your instance as this instance is much more stable and more user friendly). In the Modules section, choose Gallery and type in Weather in the search box. Choose the WeatherDotCom widget and click Install. After its finished installing, you’ll be prompted to enable this feature.
+To install the widget, you can log into your Orchard CMS version 1.1 dashboard and go to Modules (If you are running Orchard version 1.0, I'd strongly urge you to upgrade your instance as this instance is much more stable and more user friendly). In the Modules section, choose Gallery and type in Weather in the search box. Choose the WeatherDotCom widget and click Install. After its finished installing, you'll be prompted to enable this feature.
 
-If you’d like to install the widget offline, you can [download it directly from the Orchard Gallery website](http://jasong.us/kVwwY7).
+If you'd like to install the widget offline, you can [download it directly from the Orchard Gallery website](http://jasong.us/kVwwY7).
 
-Once it’s enabled, it’s now a new part that can be added to a page, a blog post, or as a widget. In most cases, you’ll want to add it as a widget. To add it as a Widget, choose Widgets in the dashboard. In the appropriate zone click the Add button. I’d recommend using it in AsideFirst, AsideSecond, or one of the zones found AfterMain. On the next screen, choose Web Part Record.
+Once it's enabled, it's now a new part that can be added to a page, a blog post, or as a widget. In most cases, you'll want to add it as a widget. To add it as a Widget, choose Widgets in the dashboard. In the appropriate zone click the Add button. I'd recommend using it in AsideFirst, AsideSecond, or one of the zones found AfterMain. On the next screen, choose Web Part Record.
 
-When it’s added, you’ll have a property window screen that allows you to specify the properties for the widget.
+When it's added, you'll have a property window screen that allows you to specify the properties for the widget.
 
 ## Conclusion
 The source code and the widget can be downloaded by using the links below. If you find any bugs or have any suggestions, be sure to enter them on the CodePlex site, not the Orchard Gallery website, by using the [Issue page](http://jasong.us/jSK0CU) or [Discussion page](http://jasong.us/j2PCWf) respectively.

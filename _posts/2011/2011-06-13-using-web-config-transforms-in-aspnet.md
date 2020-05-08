@@ -31,6 +31,6 @@ So, your connection strings should resemble something like the following in your
 <add name="DefaultSqlServer" connectionString="..." xdt:Transform="SetAttributes(connectionString)" xdt:Locator="Match(name)" />
 ```
 
-In my case, I’m replacing the DefaultSqlServer value with the value defined in the connectionString above. I can replace other attributes by separating the attribute names in the SetAttributes method with a comma.
+In my case, I'm replacing the DefaultSqlServer value with the value defined in the connectionString above. I can replace other attributes by separating the attribute names in the SetAttributes method with a comma.
 
 For additional config transform options, be sure to visit the MSDN page at [http://jasong.us/mhgvPh](http://jasong.us/mhgvPh "http://jasong.us/mhgvPh").

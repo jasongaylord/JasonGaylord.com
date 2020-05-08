@@ -9,7 +9,7 @@ categories: [archive]
 tags:  [archive,javascript]
 ---
 
-For the longest time, If I needed to use an `onclick` event for navigation (`div` or some other page element), I’d use something similar to:
+For the longest time, If I needed to use an `onclick` event for navigation (`div` or some other page element), I'd use something similar to:
 
 ```html
 <div onClick="location.href('/admin');"><!-- Something here --></div>

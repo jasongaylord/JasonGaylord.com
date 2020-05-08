@@ -22,7 +22,7 @@ There are two workarounds for this exception as document on the [Connect website
 
 1.  Upgrade to the .NET Framework 4.0 or later. This version of the framework now includes a `Dispose()` method that properly closes the connection to the server. Anytime you are connecting to the server to send a message, you should dispose the object afterwards.  
 
-2.  If you are using older versions of the framework (.NET Framework 3.5 or earlier), you can set the `MaxIdleTime` property to 0 and the `ConnectionLimit` to 1 on the `SmtpClient`’s `ServicePoint` object. For example, your code may look like the following:
+2.  If you are using older versions of the framework (.NET Framework 3.5 or earlier), you can set the `MaxIdleTime` property to 0 and the `ConnectionLimit` to 1 on the `SmtpClient`'s `ServicePoint` object. For example, your code may look like the following:
 
 ```csharp
  var client = new SmtpClient("hostname");
@@ -35,4 +35,4 @@ There are two workarounds for this exception as document on the [Connect website
      // since the ServicePoint idle time is now 0.
 ```
 
-Hope this helps to solve any issues you’ve had with this.
+Hope this helps to solve any issues you've had with this.
