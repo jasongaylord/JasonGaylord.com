@@ -4,13 +4,14 @@ author: Jason N. Gaylord
 description: >
   Here is my website. This description will appear in the meta
   data on the site and in the feed.xml site description.
+baseurl: /JasonGaylord.com
 
 # git edit capabilities
-base_url: /JasonGaylord.com
 remote_theme: jasongaylord/SpaacedOut
 git:
-  repository: jasongaylord/JasonGaylord.com
-  branch: gh-pages
+  owner: jasongaylord
+  repository: JasonGaylord.com
+  branch: master
 
 # pagination and permalink
 show_excerpts: true
@@ -92,7 +93,7 @@ kramdown:
       start_line: 1
 
 #Plugins and configuration
-future: true
+future: false
 plugins:
   - jekyll-avatar
   - jekyll-feed
