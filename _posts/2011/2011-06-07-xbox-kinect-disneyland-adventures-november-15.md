@@ -1,5 +1,5 @@
 ---
-title: "Disneyland Adventures due out November 15th"
+title: "Disneyland Adventures due out November 15th, 2011"
 author: Jason Gaylord
 email: jason@jasongaylord.com
 cloudscribe_id: "f65658bc-2b7a-4033-8e1b-e53b33d1a3ce"
