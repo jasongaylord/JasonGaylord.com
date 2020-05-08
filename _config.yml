@@ -9,7 +9,7 @@ description: >
 base_url: /JasonGaylord.com
 remote_theme: jasongaylord/SpaacedOut
 git:
-  repository: jasongaylord/SpaacedOut
+  repository: jasongaylord/JasonGaylord.com
   branch: gh-pages
 
 # pagination and permalink
