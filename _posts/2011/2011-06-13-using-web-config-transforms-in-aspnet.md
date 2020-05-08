@@ -7,7 +7,7 @@ cloudscribe_path: "/Blog/using-web-config-transforms-in-aspnet"
 permalink: /Blog/using-web-config-transforms-in-aspnet
 date: 2011-06-13
 categories: [archive]
-tags:  [archive]
+tags:  [archive,dotnet]
 ---
 
 One of my team members was working on an issue today within an application. The application is setup to use web.config transformations. Web.config transforms are a great way to create multiple build configurations (including, but not limited to, the debug and release build configuration that are built-in) and allow different configuration settings based on the build. For instance, you may have a database connection set to your localhost when you are debugging locally. However, you can use web.config transforms to change the server name when you publish the application using the release build configuration. This can also be used to ensure that every time you publish an application as a release, debug and trace are disabled for your application.
