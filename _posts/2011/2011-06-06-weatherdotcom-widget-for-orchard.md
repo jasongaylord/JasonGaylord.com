@@ -10,14 +10,13 @@ categories: [archive]
 tags:  [archive,orchard,weather]
 ---
 
-If you’ve checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you’ll notice a “bing-like” box that will appear. I’ll talk about this a bit more in a bit, but you’ll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel’s weather.com](http://www.weather.com/).
+If you’ve checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you’ll notice a “bing-like” box that will appear. I’ll talk about this a bit more in a bit, but you’ll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel’s weather.com](https://jasong.us/2LcSmAl).
 
-To take advantage of this service, you must first register on their website at [http://www.weather.com/services/xmloap.html](http://jasong.us/lTxDfY "http://jasong.us/lTxDfY"). During this process, you’ll be provided with a Partner ID and a License Key. Be sure to take note of these as you’ll need them at a later point.
+To take advantage of this service, you must first register on their website at [http://www.weather.com/services/xmloap.html](http://jasong.us/lTxDfY). During this process, you’ll be provided with a Partner ID and a License Key. Be sure to take note of these as you’ll need them at a later point.
 
 > ***<span color="#666666" style="color: rgb(102, 102, 102);">Note: If you are not a programmer or web developer, you may want to skip past the next two sections and go to Adding the Widget to Orchard.</span>***
 
 ## Weather Data from the Web Service
-
 I wanted to take advantage of all of the data being returned from the Weather Channel’s current conditions web service. So, I converted the result into two strongly-typed class objects. The first class object is called LocationInfo and is defined as:
 
 ```csharp
@@ -69,7 +68,6 @@ public class Weather
 ```
 
 ## Customizing the Weather View
-
 In my particular instance, I wanted to be able to cache the weather every 15 minutes. I also wanted to show a current weather image in the background and hide the text details for the weather. Then, I would show the text details in a div. To get this to work, I decided to add some custom JavaScript.
 
 The first step in this task was to randomly generate where my first “bing-like” box would appear hinting that a mouseover was needed. To do this, I randomly calculated the location from the top and left and subtracted the size of the details box. This helped me to better place the boxes while staying within the background image location.
@@ -146,7 +144,6 @@ I created custom weather icons for each of the potential weather patterns. The W
 You may customize the widget as I have shown above or use the default view which is provided.
 
 ## Adding the Widget to Orchard
-
 To install the widget, you can log into your Orchard CMS version 1.1 dashboard and go to Modules (If you are running Orchard version 1.0, I’d strongly urge you to upgrade your instance as this instance is much more stable and more user friendly). In the Modules section, choose Gallery and type in Weather in the search box. Choose the WeatherDotCom widget and click Install. After its finished installing, you’ll be prompted to enable this feature.
 
 If you’d like to install the widget offline, you can [download it directly from the Orchard Gallery website](http://jasong.us/kVwwY7).
@@ -156,7 +153,6 @@ Once it’s enabled, it’s now a new part that can be added to a page, a blog p
 When it’s added, you’ll have a property window screen that allows you to specify the properties for the widget.
 
 ## Conclusion
-
 The source code and the widget can be downloaded by using the links below. If you find any bugs or have any suggestions, be sure to enter them on the CodePlex site, not the Orchard Gallery website, by using the [Issue page](http://jasong.us/jSK0CU) or [Discussion page](http://jasong.us/j2PCWf) respectively.
 
 [![](http://jasong.us/jrk74Q) Module Package for Orchard CMS](http://jasong.us/iVgLrU "http://jasong.us/iVgLrU")
