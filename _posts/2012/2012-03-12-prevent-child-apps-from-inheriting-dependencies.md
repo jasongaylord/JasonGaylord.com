@@ -11,7 +11,7 @@ tags:  [archive,dotnet]
 
 Have you ever created a web application for something specific such as a standalone web app (forum, photo gallery, web service, etc.) while using ASP.NET and received this:
 
-[![server error](https://cdn.jasongaylord.com/images/2012/03/servererror.png "server error")](https://cdn.jasongaylord.com/images/2012/03/servererror.png)
+[![server error](https://cdn.jasongaylord.com/images/2012/03/12/servererror.png "server error")](https://cdn.jasongaylord.com/images/2012/03/12/servererror.png)
 
 If you have, you probably became frustrated. I know I have. The reason  this occurs is that sub-applications under the main web application inherit the uplevel web.config settings. This means that the machine.config and other system config files filter into the main web's web.config file as well.
 

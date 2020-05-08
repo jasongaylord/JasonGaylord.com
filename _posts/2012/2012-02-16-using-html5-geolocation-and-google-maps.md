@@ -42,13 +42,13 @@ There are a few “gotchas” to keep in mind when using Geolocation:
 
 2.  The user must opt-in to the HTML 5 geolocation call for each website they visit. In Internet Explorer, the notification bar appears like:  
 
-	[![image_4](https://cdn.jasongaylord.com/images/2012/02/allowlocation.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/allowlocation.png)
+	[![image_4](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png)
 
 3.  The geolocation call may timeout. This is usually caused by a poor Internet connection or that the current area is not reporting (due to a lack of information) the geolocation yet. For more information on how HTML5 Geolocation works, [click here to view the top response to the thread on  StackOverflow.com](https://jasong.us/3bf6DHr).
 
 Now that we've covered some of the information, let's focus on the goal for this post. Our goal is to generate the driving distance between two locations. I've used this method to let potential [TechBash](http://jasong.us/tb) (see image below as an example) attendees know how far away they are from the conference center. Storefronts may want to implement something similar if they'd like to offer a special offering to local shoppers or from shoppers traveling further away.
 
-> [![image_4](https://cdn.jasongaylord.com/images/2012/02/googlemapmiles.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/googlemapmiles.png)
+> [![image_4](https://cdn.jasongaylord.com/images/2012/02/16/googlemapmiles.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/16/googlemapmiles.png)
 > 
 > <small>*Above: Small UI update to show current distance from the TECHbash conference.*</small>
 
