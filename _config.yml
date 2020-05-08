@@ -94,6 +94,7 @@ kramdown:
 plugins:
   - jekyll-avatar
   - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-remote-theme
   - jekyll-seo-tag
