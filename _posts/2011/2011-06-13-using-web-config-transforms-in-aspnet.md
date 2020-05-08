@@ -2,8 +2,8 @@
 title: Using Web.config Transforms in ASP.NET
 author: Jason Gaylord
 cloudscribe_id: "bac41c50-98a8-4ffc-929c-690a934a30e3"
-cloudscribe_path: "/Blog/using-web-config-transforms-in-aspnet"
-permalink: /Blog/using-web-config-transforms-in-aspnet
+cloudscribe_path: "/blog/using-web-config-transforms-in-aspnet"
+permalink: /blog/using-web-config-transforms-in-aspnet
 date: 2011-06-13
 categories: [archive]
 tags:  [archive,dotnet]

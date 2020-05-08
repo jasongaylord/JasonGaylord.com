@@ -2,8 +2,8 @@
 title: Using Data Annotations in the .NET Framework
 author: Jason Gaylord
 cloudscribe_id: "9010b05a-a27a-4aa3-9008-d4992b901377"
-cloudscribe_path: "/Blog/data-annotations-in-dot-net"
-permalink: /Blog/data-annotations-in-dot-net
+cloudscribe_path: "/blog/data-annotations-in-dot-net"
+permalink: /blog/data-annotations-in-dot-net
 date: 2012-02-23
 categories: [archive]
 tags:  [archive,dotnet]

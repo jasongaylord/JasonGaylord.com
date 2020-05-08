@@ -2,8 +2,8 @@
 title: Disneyland Adventures due out November 15th, 2011
 author: Jason Gaylord
 cloudscribe_id: "f65658bc-2b7a-4033-8e1b-e53b33d1a3ce"
-cloudscribe_path: "/Blog/xbox-kinect-disneyland-adventures-november-15"
-permalink: /Blog/xbox-kinect-disneyland-adventures-november-15
+cloudscribe_path: "/blog/xbox-kinect-disneyland-adventures-november-15"
+permalink: /blog/xbox-kinect-disneyland-adventures-november-15
 date: 2011-06-07
 categories: [archive]
 tags:  [archive,disney,xbox]

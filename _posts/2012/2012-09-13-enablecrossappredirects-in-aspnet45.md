@@ -2,8 +2,8 @@
 title: Authentication, Cross-App Redirects, and ASP.NET 4.5
 author: Jason Gaylord
 cloudscribe_id: "f2ffd098-6df8-4ebb-9acd-17bca758208c"
-cloudscribe_path: "/Blog/enablecrossappredirects-in-aspnet45"
-permalink: /Blog/enablecrossappredirects-in-aspnet45
+cloudscribe_path: "/blog/enablecrossappredirects-in-aspnet45"
+permalink: /blog/enablecrossappredirects-in-aspnet45
 date: 2012-09-13
 categories: [archive]
 tags:  [archive,dotnet]

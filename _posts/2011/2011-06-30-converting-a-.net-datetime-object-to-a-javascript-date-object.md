@@ -2,8 +2,8 @@
 title: Converting a .NET DateTime object to a JavaScript Date object
 author: Jason Gaylord
 cloudscribe_id: "71171144-0ef3-41ca-a8ca-678970854f23"
-cloudscribe_path: "/Blog/converting-a-.net-datetime-object-to-a-javascript-date-object"
-permalink: /Blog/converting-a-.net-datetime-object-to-a-javascript-date-object
+cloudscribe_path: "/blog/converting-a-.net-datetime-object-to-a-javascript-date-object"
+permalink: /blog/converting-a-.net-datetime-object-to-a-javascript-date-object
 date: 2011-06-30
 categories: [archive]
 tags:  [archive,dotnet,javascript]
