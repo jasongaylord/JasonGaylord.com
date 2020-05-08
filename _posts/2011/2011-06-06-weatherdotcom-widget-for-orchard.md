@@ -1,7 +1,6 @@
 ---
-title: "The WeatherDotCom Widget for Orchard CMS"
+title: The WeatherDotCom Widget for Orchard CMS
 author: Jason Gaylord
-email: jason@jasongaylord.com
 cloudscribe_id: "5d52916d-5429-4624-9c8d-aea02cffb2fc"
 cloudscribe_path: "/Blog/weatherdotcom-widget-for-orchard"
 permalink: /Blog/weatherdotcom-widget-for-orchard
