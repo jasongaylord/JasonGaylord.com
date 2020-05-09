@@ -17,7 +17,7 @@ After over 10 years of dedication to United One Resources, I've decided that it'
 - Jeff: Over the past several years you've helped ease the burden of day to day operations to allow me to focus on strategy and project management.  
 - Dave, Jim, and Mark: Although we were a small team, we always persisted through the tough times. Thanks for your help through the years.  
 - Senior Leadership/Strategy Team (Lori, Miriam, Frank, Julie, Mike, and Ashley): The direction and vision that you've set forth for the company is exciting. Keep pushing the limits and you'll be rewarded.  
-- Jim S.: I still think it was weird coming into a Jim-less office. You'll forever be known to the team at Zones as ‘Big Jim.' Thanks for the guidance and support especially early on.  
+- Jim S.: I still think it was weird coming into a Jim-less office. You'll forever be known to the team at Zones as 'Big Jim.' Thanks for the guidance and support especially early on.  
 
 This list would be never ending if I listed everyone who had impacted me there. While I'm moving on, United One Resources will continue to prosper and make great strides to becoming a market leader. I'd like to thank all of the team members at United One and wish you all success in the future.
 

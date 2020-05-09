@@ -11,7 +11,7 @@ tags:  [archive,dotnet,javascript]
 
 As ASP.NET evolves, using ASP.NET WebForms is still the most popular way to serve up ASP.NET. One of the biggest benefits of ASP.NET WebForms is the fact that we can use re-usable code in several ways including in a compiled server control. What you may not know is that server controls can be quite powerful and can allow referencing JavaScript files. But, if you're distributing your controls or do not have the means to host your JavaScript files on a content delivery network (CDN), you may want to package the files with your control.
 
-So, let's start from the beginning. Let's assume that we're building a sample web application to test our control output. We'll create a brand new solution in Visual Studio 2012 along with an ASP.NET Empty Web Application. After the project is created, we'll add another new project: an ASP.NET Server Control project called ‘OurSuperCoolControlSuite'.
+So, let's start from the beginning. Let's assume that we're building a sample web application to test our control output. We'll create a brand new solution in Visual Studio 2012 along with an ASP.NET Empty Web Application. After the project is created, we'll add another new project: an ASP.NET Server Control project called 'OurSuperCoolControlSuite'.
 
 After our server control project has been added, we'll see a .cs file (or .vb file if we are using Visual Basic) named ServerControl1.cs. For this example, let's rename this to GreetingControl.cs. I then have updated my GreetingControl.cs to include a basic input text element that calls some custom JavaScript when the input element loses focus to show a Greeting alert. Here's what the GreetingControl.cs looks like:
 
