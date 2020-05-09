@@ -25,4 +25,4 @@ For this script to work, remote RPC needs to be enabled, it should be executed f
 
 Feel free to submit revisions to this Gist:
 
-{% gist [site.git.owner]/5672298 %}
+{% gist jasongaylord/5672298 %}
