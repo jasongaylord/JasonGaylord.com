@@ -11,7 +11,7 @@ tags:  [archive,book,dotnet]
 
 On May 3rd, [Wrox Press](http://jasong.us/16Tpd4h) released [Professional ASP.NET 4.5 in C# and VB](https://amzn.to/2AenHR1). I co-authored this book with two Microsoft employees [Pranav Rastogi](http://jasong.us/16Tw4ut) and [Scott Hanselman](http://jasong.us/16TxXXY) as well as two Microsoft MVPs [Christian Wenz](http://jasong.us/16TwAsg) and [Todd Miranda](http://jasong.us/16TxYLz). The book is packed with the most current information about ASP.NET 4.5. It is also the only book I am aware of that explains One ASP.NET. The foreword for this book is written by [Scott Hunter](http://jasong.us/16Tx9lR) of the ASP.NET team. 
 
-There are ten parts, 35 chapters, 7 appendixes, and nearly 1500 pages in this book. Here’s the table of contents for the book:
+There are ten parts, 35 chapters, 7 appendixes, and nearly 1500 pages in this book. Here's the table of contents for the book:
 
 - Part 1: ASP.NET Fundamentals 
   - Chapter 1: One ASP.NET 

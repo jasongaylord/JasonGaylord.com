@@ -9,7 +9,7 @@ categories: [archive]
 tags:  [archive,ms-office]
 ---
 
-I ran into an interesting problem earlier today. I was using a CDR dump from our Cisco system. However, all of the datetime fields were represented as seconds. I knew right away that it used an epoch value. What I didn’t know is what the originating date was. Apparently, I was correct at my first guess. I guessed that it was using the standard Unix epoch value of 1/1/1970. Many applications, such as Microsoft Excel, use 1/1/1900.
+I ran into an interesting problem earlier today. I was using a CDR dump from our Cisco system. However, all of the datetime fields were represented as seconds. I knew right away that it used an epoch value. What I didn't know is what the originating date was. Apparently, I was correct at my first guess. I guessed that it was using the standard Unix epoch value of 1/1/1970. Many applications, such as Microsoft Excel, use 1/1/1900.
 
 Since I wanted to represent the correct date and time in Excel, I began looking around for a formula. To my surprise, nothing exists out of the box (unless my eyes are failing me). So, I had two options. The first option I headed down had me save my spreadsheet as a macro-enabled workbook. From there, I added a formula to an empty module.
 
@@ -41,7 +41,7 @@ In this formula, the following values are used:
 <td>If you are in the western hemisphere, this would be negative. Otherwise, change this to a plus sign. This handles the offset from GMT.</td></tr>
 <tr>
 <td>5</td>
-<td>The is the value of the timezone from GMT. It’s combined with the minus sign above.</td></tr>
+<td>The is the value of the timezone from GMT. It's combined with the minus sign above.</td></tr>
 <tr>
 <td>3600</td>
 <td>The number of seconds in an hour used to assist with the timezone offset.</td></tr>
@@ -52,6 +52,6 @@ In this formula, the following values are used:
 <td>25569</td>
 <td>The number of days since 1/1/1900 to assist Excel in the proper epoch conversion of 1/1/1970.</td></tr></tbody></table>
 
-In either case, I’ll obtain the same result.
+In either case, I'll obtain the same result.
 
-One thing is for sure, I’m hoping that I’m retired by January 19th, 2038 so that we don’t have another Y2K crisis when the 32-bit versions of epoch have overflows: [http://2038bug.com/](https://jasong.us/3fALlaA).
+One thing is for sure, I'm hoping that I'm retired by January 19th, 2038 so that we don't have another Y2K crisis when the 32-bit versions of epoch have overflows: [http://2038bug.com/](https://jasong.us/3fALlaA).
