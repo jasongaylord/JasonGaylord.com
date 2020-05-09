@@ -21,6 +21,6 @@ There's several ways we can tackle this problem. The best way I could think of i
 
 Here's what I came up with:
 
-{% gist 5096224 %}
+{% gist [site.git.owner]/5096224 %}
 
 You can view all of my Github Gists at [https://gist.github.com/jasongaylord](https://gist.github.com/jasongaylord)
