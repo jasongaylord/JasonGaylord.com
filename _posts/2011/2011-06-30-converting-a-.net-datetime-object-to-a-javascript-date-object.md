@@ -9,7 +9,7 @@ categories: [archive]
 tags:  [archive,dotnet,javascript]
 ---
 
-When using a WCF or ASMX web service in ASP.NET, you might find the need to pass back a DateTime object via JSON. However, what you might not realize is that by passing a .NET DateTime object back to JavaScript, you'd receive an “Invalid date” script exception. The data being passed back to JavaScript may resemble the following:
+When using a WCF or ASMX web service in ASP.NET, you might find the need to pass back a DateTime object via JSON. However, what you might not realize is that by passing a .NET DateTime object back to JavaScript, you'd receive an "Invalid date" script exception. The data being passed back to JavaScript may resemble the following:
 
 ```javascript
 /Date(1315938182867-0400)/

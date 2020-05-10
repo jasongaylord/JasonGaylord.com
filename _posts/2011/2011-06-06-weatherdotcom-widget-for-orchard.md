@@ -9,7 +9,7 @@ categories: [archive]
 tags:  [archive,orchard,weather]
 ---
 
-If you've checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you'll notice a “bing-like” box that will appear. I'll talk about this a bit more in a bit, but you'll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel's weather.com](https://jasong.us/2LcSmAl).
+If you've checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you'll notice a "bing-like" box that will appear. I'll talk about this a bit more in a bit, but you'll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel's weather.com](https://jasong.us/2LcSmAl).
 
 To take advantage of this service, you must first register on their website at [http://www.weather.com/services/xmloap.html](http://jasong.us/lTxDfY). During this process, you'll be provided with a Partner ID and a License Key. Be sure to take note of these as you'll need them at a later point.
 
@@ -69,7 +69,7 @@ public class Weather
 ## Customizing the Weather View
 In my particular instance, I wanted to be able to cache the weather every 15 minutes. I also wanted to show a current weather image in the background and hide the text details for the weather. Then, I would show the text details in a div. To get this to work, I decided to add some custom JavaScript.
 
-The first step in this task was to randomly generate where my first “bing-like” box would appear hinting that a mouseover was needed. To do this, I randomly calculated the location from the top and left and subtracted the size of the details box. This helped me to better place the boxes while staying within the background image location.
+The first step in this task was to randomly generate where my first "bing-like" box would appear hinting that a mouseover was needed. To do this, I randomly calculated the location from the top and left and subtracted the size of the details box. This helped me to better place the boxes while staying within the background image location.
 
 ```javascript
 $(document).ready(function () {

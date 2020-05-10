@@ -36,7 +36,7 @@ HTML5 will introduce many new and exciting features including the addition of ge
 </table>
 ```
 
-There are a few “gotchas” to keep in mind when using Geolocation:
+There are a few "gotchas" to keep in mind when using Geolocation:
 
 1.  The browser may not support the HTML 5 geolocation API. Many older browsers relied on custom built APIs for relaying geolocation information to applications. [Google Gears](https://jasong.us/2AeMMLP), now deprecated, is an example of an API that some browsers have implemented.
 
