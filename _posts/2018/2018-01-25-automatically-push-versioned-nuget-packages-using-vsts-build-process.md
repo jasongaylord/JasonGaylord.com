@@ -35,7 +35,9 @@ In the NuGet task below the PowerShell Script, we’ll change the command to pac
 
 [![Azure DevOps - Variable](https://cdn.jasongaylord.com/images/2018/01/25/variable.png "Azure DevOps - Variable")](https://cdn.jasongaylord.com/images/2018/01/25/variable.png)
 
-{{ include info.html notice="Note: The reason we are taking the above approach as opposed to appending a value by using one of the other options you’ll see in the Automatic package versioning dropdown above is that the the NuGet extension for Visual Studio currently views all –values for the NuGet package as prerelease. The concept in the Package Manager Azure DevOps extension for using @Release and @PreRelease tags are purely conceptual at this point and do not work with the NuGet extension for Visual Studio." }}
+{{ include info-notice.html }}
+**Note:** The reason we are taking the above approach as opposed to appending a value by using one of the other options you’ll see in the Automatic package versioning dropdown above is that the the NuGet extension for Visual Studio currently views all –values for the NuGet package as prerelease. The concept in the Package Manager Azure DevOps extension for using @Release and @PreRelease tags are purely conceptual at this point and do not work with the NuGet extension for Visual Studio.
+{{ include end-notice.html }}
 
 Finally, we’ll update the last NuGet task so that the command is push and we’ll update our Target Feed location to be This account/collection and choose our feed we already have created in the drop down. If you are using an external NuGet server, you’ll be able to choose that option adding your server and credentials through the manager. So, your first phase should be complete and look like so:
 

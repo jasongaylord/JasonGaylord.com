@@ -18,7 +18,9 @@ The .npmrc file in the project, may look like this:
 @foo:always-auth=true
 ```
 
-{% include info.html notice="If you do not scope that you are always authenticating, you will receive an error that 'This request requires auth credentials. Run `npm login` and repeat the request.' This is due to the login being globally set instead of set to the appropriate repository." }
+{% include info-notice.html %}
+**Tip:** If you do not scope that you are always authenticating, you will receive an error that 'This request requires auth credentials. Run `npm login` and repeat the request.' This is due to the login being globally set instead of set to the appropriate repository.
+{% include end-notice.html %}
 
 The .npmrc file in your user profile, may look like this:
 

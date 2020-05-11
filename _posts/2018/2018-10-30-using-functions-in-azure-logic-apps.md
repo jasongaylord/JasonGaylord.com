@@ -19,7 +19,9 @@ While the best solution will likely be for me to create an Azure function to cal
 
 In the image above, you’ll notice that I’ve added a second Html to Text action called `ShortenedString`.
 
-{% include info.html notice="You can name the actions whatever you’d like by clicking the ellipsis on the action and choosing Rename. If you are using the action anywhere in the logic, you won’t be able to do this." %}
+{% include info-notice.html %}
+**Tip:** You can name the actions whatever you’d like by clicking the ellipsis on the action and choosing Rename. If you are using the action anywhere in the logic, you won’t be able to do this.
+{% include end-notice.html %}
 
 Instead of choosing Dynamic content, I chose Expression. Under the String functions, click See more. This will provide a list of all of the potential string functions including `substring()`. Within the expression, I can get the value of a previous step by choosing the Dynamic content item. So, the output of the Html to text item is `body(‘Html_to_text’)`</font>`.  Then, I set the starting index to 0 and the length to be 180.  This will give me a maximum string length of 180 every time this action is executed.
 
