@@ -1,5 +1,5 @@
 ---
-title: Tip: Emergency Editing using App Service Editor
+title: "Tip: Emergency Editing using App Service Editor"
 author: Jason Gaylord
 cloudscribe_id: "4ff4e6fc-9f8e-44a6-a7b1-4b2d3f0d291b"
 cloudscribe_path: "/Blog/tip-emergency-editing-using-app-service-editor"

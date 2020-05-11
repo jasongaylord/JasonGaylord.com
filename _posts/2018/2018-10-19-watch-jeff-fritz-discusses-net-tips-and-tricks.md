@@ -1,5 +1,5 @@
 ---
-title: Watch: Jeff Fritz discusses .NET Tips and Tricks
+title: "Watch: Jeff Fritz discusses .NET Tips and Tricks"
 author: Jason Gaylord
 cloudscribe_id: "22a656c1-50b3-4740-acc4-d1da384918e8"
 cloudscribe_path: "/blog/watch-jeff-fritz-discusses-net-tips-and-tricks"

@@ -1,5 +1,5 @@
 ---
-title: Watch: TechBash 2018 Keynote by Scott Hunter
+title: "Watch: TechBash 2018 Keynote by Scott Hunter"
 author: Jason Gaylord
 cloudscribe_id: "6f7e22cb-1576-4945-a305-c789d507b9a0"
 cloudscribe_path: "/blog/watch-techbash-2018-keynote-by-scott-hunter"
