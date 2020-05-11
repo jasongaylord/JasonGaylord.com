@@ -24,5 +24,5 @@ This tool allows real time code updates to your application. Not only does it pr
 In addition to the notice above, if your application uses a CI/CD process, the next time your application is automatically deployed, your changes will be destroyed. So, I’d highly recommend using this only in an emergency situation and to copy any changes back to your real source code.
 
 {% include info-notice.html %}
-<strong>Bonus Tip:<strong> Azure App Services can also have an application or virtual directory defined within the app service. Today, there’s no obvious way to use the App Service Editor on the application. However, you can do so by using the URL structure similar to this: https://{AppServiceName}.scm.azurewebsites.net/dev/{AppName}/wwwroot/. Be sure to replace {AppServiceName} with the application name and {AppName} with the application or virtual directory name.
+<strong>Bonus Tip:</strong> Azure App Services can also have an application or virtual directory defined within the app service. Today, there’s no obvious way to use the App Service Editor on the application. However, you can do so by using the URL structure similar to this: https://{AppServiceName}.scm.azurewebsites.net/dev/{AppName}/wwwroot/. Be sure to replace {AppServiceName} with the application name and {AppName} with the application or virtual directory name.
 {% include end-notice.html %}
