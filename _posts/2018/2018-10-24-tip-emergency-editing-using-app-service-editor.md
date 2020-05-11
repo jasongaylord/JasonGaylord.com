@@ -17,7 +17,9 @@ You may not be aware, but Azure App Services have an option under the Developmen
 
 This tool allows real time code updates to your application. Not only does it provide upload and download functionality, but you’ll have an online editor for text based files such as razor files or JavaScript. Simply open a file, make the change, and your change will automatically save. With this great power comes great responsibility. Whichever application you edit will be changed live. If you do edit production, whatever change (even partial change) you make will be live.
 
-{% include warning.html notice="Caution: It is not recommended to update a production application unless you understand the full ramifications of what you are changing." %}
+{% include warning-notice.html %}
+**Caution:** It is not recommended to update a production application unless you understand the full ramifications of what you are changing.
+{% include end-notice.html %}
 
 In addition to the notice above, if your application uses a CI/CD process, the next time your application is automatically deployed, your changes will be destroyed. So, I’d highly recommend using this only in an emergency situation and to copy any changes back to your real source code.
 
