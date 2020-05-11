@@ -2,8 +2,8 @@
 title: Filtering Artifacts in Azure DevOps
 author: Jason Gaylord
 cloudscribe_id: "e51109e3-12a8-4955-9c4c-f6733071cfe7"
-cloudscribe_path: "/Blog/filtering-artifacts-in-azure-devops"
-permalink: /Blog/filtering-artifacts-in-azure-devops
+cloudscribe_path: "/blog/filtering-artifacts-in-azure-devops"
+permalink: /blog/filtering-artifacts-in-azure-devops
 date: 2018-10-26
 categories: [devops]
 tags:  [devops]

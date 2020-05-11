@@ -2,8 +2,8 @@
 title: "Tip: Emergency Editing using App Service Editor"
 author: Jason Gaylord
 cloudscribe_id: "4ff4e6fc-9f8e-44a6-a7b1-4b2d3f0d291b"
-cloudscribe_path: "/Blog/tip-emergency-editing-using-app-service-editor"
-permalink: /Blog/tip-emergency-editing-using-app-service-editor
+cloudscribe_path: "/blog/tip-emergency-editing-using-app-service-editor"
+permalink: /blog/tip-emergency-editing-using-app-service-editor
 date: 2018-10-24
 categories: [cloud,development,tip]
 tags:  [cloud,development,tip]
@@ -18,11 +18,11 @@ You may not be aware, but Azure App Services have an option under the Developmen
 This tool allows real time code updates to your application. Not only does it provide upload and download functionality, but you’ll have an online editor for text based files such as razor files or JavaScript. Simply open a file, make the change, and your change will automatically save. With this great power comes great responsibility. Whichever application you edit will be changed live. If you do edit production, whatever change (even partial change) you make will be live.
 
 {% include warning-notice.html %}
-**Caution:** It is not recommended to update a production application unless you understand the full ramifications of what you are changing.
+<strong>Caution:</strong> It is not recommended to update a production application unless you understand the full ramifications of what you are changing.
 {% include end-notice.html %}
 
 In addition to the notice above, if your application uses a CI/CD process, the next time your application is automatically deployed, your changes will be destroyed. So, I’d highly recommend using this only in an emergency situation and to copy any changes back to your real source code.
 
 {% include info-notice.html %}
-**Bonus Tip:** Azure App Services can also have an application or virtual directory defined within the app service. Today, there’s no obvious way to use the App Service Editor on the application. However, you can do so by using the URL structure similar to this: [https://{AppServiceName}.scm.azurewebsites.net/dev/{AppName}/wwwroot/](https://{AppServiceName}.scm.azurewebsites.net/dev/{AppName}/wwwroot/ "https://bhportalspa.scm.azurewebsites.net/dev/quote/wwwroot/"). Be sure to replace {AppServiceName} with the application name and {AppName} with the application or virtual directory name.
+<strong>Bonus Tip:<strong> Azure App Services can also have an application or virtual directory defined within the app service. Today, there’s no obvious way to use the App Service Editor on the application. However, you can do so by using the URL structure similar to this: https://{AppServiceName}.scm.azurewebsites.net/dev/{AppName}/wwwroot/. Be sure to replace {AppServiceName} with the application name and {AppName} with the application or virtual directory name.
 {% include end-notice.html %}

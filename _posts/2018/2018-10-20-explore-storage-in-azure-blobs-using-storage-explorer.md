@@ -2,8 +2,8 @@
 title: Explore Storage in Azure Blobs using Storage Explorer
 author: Jason Gaylord
 cloudscribe_id: "7962dcae-ae6d-4173-b4c8-905718b971b7"
-cloudscribe_path: "/Blog/explore-storage-in-azure-blobs-using-storage-explorer"
-permalink: /Blog/explore-storage-in-azure-blobs-using-storage-explorer
+cloudscribe_path: "/blog/explore-storage-in-azure-blobs-using-storage-explorer"
+permalink: /blog/explore-storage-in-azure-blobs-using-storage-explorer
 date: 2018-10-20
 categories: [cloud]
 tags:  [cloud]

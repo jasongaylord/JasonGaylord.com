@@ -2,8 +2,8 @@
 title: "Watch: Richard Taylor Talks About Unit Test"
 author: Jason Gaylord
 cloudscribe_id: "779039b0-bd53-4f22-9226-b36ec5775712"
-cloudscribe_path: "/Blog/watch-richard-taylor-talks-about-unit-test"
-permalink: /Blog/watch-richard-taylor-talks-about-unit-test
+cloudscribe_path: "/blog/watch-richard-taylor-talks-about-unit-test"
+permalink: /blog/watch-richard-taylor-talks-about-unit-test
 date: 2018-11-02
 categories: [techbash]
 tags:  [techbash]

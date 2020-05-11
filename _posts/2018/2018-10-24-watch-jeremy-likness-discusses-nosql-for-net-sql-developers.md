@@ -2,8 +2,8 @@
 title: "Watch: Jeremy Likness discusses NoSQL for .NET SQL Developers"
 author: Jason Gaylord
 cloudscribe_id: "01177607-b233-432b-b81c-c3cbfff2f7e8"
-cloudscribe_path: "/Blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers"
-permalink: /Blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers
+cloudscribe_path: "/blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers"
+permalink: /blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers
 date: 2018-10-24
 categories: [techbash]
 tags:  [techbash]

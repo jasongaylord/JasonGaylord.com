@@ -2,8 +2,8 @@
 title: Scoping a Private NPM Registry
 author: Jason Gaylord
 cloudscribe_id: "fbecda99-60d8-4822-ad30-a1d0dfbb5a37"
-cloudscribe_path: "/Blog/scoping-a-private-npm-registry"
-permalink: /Blog/scoping-a-private-npm-registry
+cloudscribe_path: "/blog/scoping-a-private-npm-registry"
+permalink: /blog/scoping-a-private-npm-registry
 date: 2018-10-31
 categories: [development,devops]
 tags:  [development,devops]

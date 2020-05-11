@@ -2,8 +2,8 @@
 title: Connecting Azure DevOps to Azure Active Directory
 author: Jason Gaylord
 cloudscribe_id: "e36d2aa3-c68c-4c45-b9cf-98053800d9b8"
-cloudscribe_path: "/Blog/connecting-azure-devops-to-azure-active-directory"
-permalink: /Blog/connecting-azure-devops-to-azure-active-directory
+cloudscribe_path: "/blog/connecting-azure-devops-to-azure-active-directory"
+permalink: /blog/connecting-azure-devops-to-azure-active-directory
 date: 2018-10-23
 categories: [cloud,devops]
 tags:  [cloud,devops]

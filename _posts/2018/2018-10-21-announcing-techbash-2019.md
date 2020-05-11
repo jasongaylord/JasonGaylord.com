@@ -2,8 +2,8 @@
 title: Announcing TechBash 2019
 author: Jason Gaylord
 cloudscribe_id: "6bdd4c9f-5656-45b1-bbe3-5046a9ada968"
-cloudscribe_path: "/Blog/announcing-techbash-2019"
-permalink: /Blog/announcing-techbash-2019
+cloudscribe_path: "/blog/announcing-techbash-2019"
+permalink: /blog/announcing-techbash-2019
 date: 2018-10-21
 categories: [events,techbash]
 tags:  [events,techbash]

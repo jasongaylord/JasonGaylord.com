@@ -2,8 +2,8 @@
 title: Using an Azure Logic App to Broadcast an Article
 author: Jason Gaylord
 cloudscribe_id: "c95dc0b3-eb8f-478a-bcbd-5e80d20f305c"
-cloudscribe_path: "/Blog/using-an-azure-logic-app-to-broadcast-an-article"
-permalink: /Blog/using-an-azure-logic-app-to-broadcast-an-article
+cloudscribe_path: "/blog/using-an-azure-logic-app-to-broadcast-an-article"
+permalink: /blog/using-an-azure-logic-app-to-broadcast-an-article
 date: 2018-10-20
 categories: [cloud,development]
 tags:  [cloud,development]

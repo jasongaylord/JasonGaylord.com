@@ -2,8 +2,8 @@
 title: Microsoft Officially Acquires GitHub
 author: Jason Gaylord
 cloudscribe_id: "baf97f06-a392-49b8-bd41-df4d1897da6b"
-cloudscribe_path: "/Blog/microsoft-officially-acquires-github"
-permalink: /Blog/microsoft-officially-acquires-github
+cloudscribe_path: "/blog/microsoft-officially-acquires-github"
+permalink: /blog/microsoft-officially-acquires-github
 date: 2018-10-27
 categories: [devops]
 tags:  [devops]
