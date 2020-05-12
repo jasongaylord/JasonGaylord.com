@@ -9,7 +9,7 @@ categories: [techbash]
 tags:  [techbash]
 ---
 
-At TechBash 2018, Microsoft’s Paul Yuknewicz [talked about five Azure services](https://jasong.us/2P6epxf) every developer should know. Watch the talk on the TechBash YouTube video to know more.
+At TechBash 2018, Microsoft's Paul Yuknewicz [talked about five Azure services](https://jasong.us/2P6epxf) every developer should know. Watch the talk on the TechBash YouTube video to know more.
 
 To stay up to date on the latest videos posted from TechBash 2018, [subscribe to the TechBash developer channel on YouTube](https://jasong.us/tbyt).
 
