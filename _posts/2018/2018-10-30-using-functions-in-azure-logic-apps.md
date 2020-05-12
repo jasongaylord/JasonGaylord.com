@@ -23,6 +23,6 @@ In the image above, you'll notice that I've added a second Html to Text action c
 <strong>Tip:</strong> You can name the actions whatever you'd like by clicking the ellipsis on the action and choosing Rename. If you are using the action anywhere in the logic, you won't be able to do this.
 {% include end-notice.html %}
 
-Instead of choosing Dynamic content, I chose Expression. Under the String functions, click See more. This will provide a list of all of the potential string functions including `substring()`. Within the expression, I can get the value of a previous step by choosing the Dynamic content item. So, the output of the Html to text item is `body(‘Html_to_text')`</font>`.  Then, I set the starting index to 0 and the length to be 180.  This will give me a maximum string length of 180 every time this action is executed.
+Instead of choosing Dynamic content, I chose Expression. Under the String functions, click See more. This will provide a list of all of the potential string functions including `substring()`. Within the expression, I can get the value of a previous step by choosing the Dynamic content item. So, the output of the Html to text item is `body(‘Html_to_text')`.  Then, I set the starting index to 0 and the length to be 180.  This will give me a maximum string length of 180 every time this action is executed.
 
 After editing, I was able to go back to each of the runs that had failed and resubmit using the new Logic App. Each were successful. At a later date I'll revisit to add in a function with a better Tweet format.
