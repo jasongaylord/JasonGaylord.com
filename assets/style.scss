@@ -68,3 +68,47 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 .github-avatar {
     border-radius: 100px;
 }
+
+.pagination {
+    margin: 15px 0;
+
+    a, span {
+        border: 1px solid $color-lightgrey;
+        padding: 5px;
+    }
+
+    a:hover {
+        border-color: $color-purple;
+    }
+
+    span {
+        color: $color-orange;
+        font-weight: 900;
+    }
+
+    &:first-child {
+        color: $color-primary;
+        font-weight: normal;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+
+    &:last-child {
+        color: $color-primary;
+        font-weight: normal;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+}
+
+.button {
+    padding: 5px;
+    border: 1px solid $color-lightgrey;
+    border-radius: 5px;
+    color: $color-primary;
+
+    &:hover {
+        border-color: $color-purple;
+        color: $color-lightblue;
+    }
+}
