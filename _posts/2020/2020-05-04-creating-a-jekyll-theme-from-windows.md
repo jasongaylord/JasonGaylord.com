@@ -84,7 +84,7 @@ Include files are files that we'll "include" in another area of the website. Thi
 </head>
 ```
 
-This file is fairly self explanatory as it will contain the head section of my HTML file. The `{{ .. }}` value will be injected into this include at runtime.
+This file is fairly self explanatory as it will contain the head section of my HTML file. The `{{ &period;&period; }}` value will be injected into this include at runtime.
 
 ## Adding Layouts
 The `default.html` file contained in the Layouts folder should be considered the default template to be used for content within the site. Typically, this file will contain the HTML header and body for your site. Remember, we can include files from our includes folder as mentioned above.

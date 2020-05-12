@@ -7,7 +7,7 @@ tags: [personal]
 permalink: /about-jason/
 ---
 
-{% avatar {{ site.git.owner }} size=50 %}
+<img src="https://avatars3.githubusercontent.com/jasongaylord?v=3&s=200" class="github-avatar" alt="Jason N. Gaylord" />
 
 Jason is the AVP of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
 
