@@ -24,13 +24,19 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 @import 'SpaacedOut';
 
 // Overrides
-header {
+.header {
     background-image: url('#{$baseurl}/assets/images/stars.png');
     background-position-y: top;
     background-position-x: center;
 
     .site-title {
         font-size: $size-standard-font*1.4!important;
+    }
+
+    .social-links {
+        ul li a {
+            font-size: 1.5em!important;
+        }
     }
 
     .rocket {
