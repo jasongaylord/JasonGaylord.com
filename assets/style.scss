@@ -74,7 +74,8 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 
     a, span {
         border: 1px solid $color-lightgrey;
-        padding: 5px;
+        padding: 5px 10px;
+        border-radius: 5px;
     }
 
     a:hover {
@@ -88,20 +89,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     span:not(:first-child):not(:last-child) {
         color: $color-orange;
         font-weight: 900;
-    }
-
-    &:first-child {
-        color: $color-primary;
-        font-weight: normal;
-        border-top-left-radius: 5px;
-        border-bottom-left-radius: 5px;
-    }
-
-    &:last-child {
-        color: $color-primary;
-        font-weight: normal;
-        border-top-right-radius: 5px;
-        border-bottom-right-radius: 5px;
+        border-color: $color-orange;
     }
 }
 
@@ -115,4 +103,8 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
         border-color: $color-purple;
         color: $color-lightblue;
     }
+}
+
+.post-content {
+    margin-bottom: 30px;
 }
