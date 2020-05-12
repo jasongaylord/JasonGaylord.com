@@ -81,7 +81,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
         border-color: $color-purple;
     }
 
-    span {
+    span:not(:first-child):not(:last-child) {
         color: $color-orange;
         font-weight: 900;
     }
