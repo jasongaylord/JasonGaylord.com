@@ -19,7 +19,7 @@ The .npmrc file in the project, may look like this:
 ```
 
 {% include info-notice.html %}
-**Tip:** If you do not scope that you are always authenticating, you will receive an error that 'This request requires auth credentials. Run `npm login` and repeat the request.' This is due to the login being globally set instead of set to the appropriate repository.
+<strong>Tip:</strong> If you do not scope that you are always authenticating, you will receive an error that <code>'This request requires auth credentials. Run 'npm login' and repeat the request.'</code> This is due to the login being globally set instead of set to the appropriate repository.
 {% include end-notice.html %}
 
 The .npmrc file in your user profile, may look like this:

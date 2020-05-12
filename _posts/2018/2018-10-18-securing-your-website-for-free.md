@@ -19,7 +19,7 @@ For purposes of this post, I’m going to use:
 - Let’s Encrypt
 
 {% include info-notice.html %}
-**Note:** It is recommended that to be a global administrator in Azure or other role with elevated privileges to properly create the service principal account and role.
+<strong>Note:</strong> It is recommended that to be a global administrator in Azure or other role with elevated privileges to properly create the service principal account and role.
 {% include end-notice.html %}
 
 In addition, you do not have to be a developer to complete this. The average Azure user will most likely complete these tasks in 20 minutes.

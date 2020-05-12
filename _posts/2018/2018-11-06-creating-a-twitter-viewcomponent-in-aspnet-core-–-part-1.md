@@ -33,7 +33,7 @@ As with most applications that interact with data, we’ll want to create object
 {% gist jasongaylord/0c08bcab672042c2ba537181b7bb8fb1 %}
 
 {% include info-notice.html %}
-**Tip**: When using [Json.NET](https://jasong.us/2SNtyl5), you can specify the name of the attribute by using a data annotation such as: `[JsonProperty(PropertyName = 'access_token')]`. If we did not do this, we would instead be forced to name the property access_token so that the deserialization would work properly.
+<code>Tip</code>: When using <a href="https://jasong.us/2SNtyl5">Json.NET</a>, you can specify the name of the attribute by using a data annotation such as: <code>[JsonProperty(PropertyName = 'access_token')]</code>. If we did not do this, we would instead be forced to name the property access_token so that the deserialization would work properly.
 {% include end-notice.html %}
 
 Once we have our token, we’ll connect to Twitter to obtain a raw response.  This response will include tweet information and information about the user that posted the tweet. So it’s easy to find both of these classes for this purpose, we’ll break the Singleton pattern and drop both in the same file:
