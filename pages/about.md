@@ -1,5 +1,5 @@
 ---
-title: "Who is Jason N. Gaylord?"
+title: "Who is Jason?"
 nav_title: "About"
 description: "A bit about Jason N. Gaylord"
 include_nav: true
@@ -7,4 +7,16 @@ tags: [personal]
 permalink: /about-jason/
 ---
 
-Here's an overview.
+{% avatar {{ site.git.owner }} size=50 %}
+
+Jason is the AVP of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
+
+In addition to his daily duties, Jason, is a founding board member of the [TechBash Foundation](https://jasong.us/tbfoundation), organizer of [TechBash](https://jasong.us/tb), [ASPInsider](https://jasong.us/3csnPdY), and a [former Microsoft MVP](https://jasong.us/msftmvp). He resides in Northeastern Pennsylvania with his wife and four children.
+
+## Books
+[![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
+
+## Websites
+- [techbash.com](https://jasong.us/tb)
+- [mylightdisplay.com](http://jasong.us/mylightdisplay)
+- [exeterlionslittleleague.org](https://jasong.us/elll)

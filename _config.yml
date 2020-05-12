@@ -44,7 +44,9 @@ social:
   twitter: jgaylord
 #  youtube: jekyll
 
-#  google_analytics: UA-NNNNNNNN-N
+google:
+  analytics: UA-2053573-1
+  adsense: ca-pub-2663334448189019
 
 rss: rss
 # The site generates a feed at /feed.xml. Uncomment below to override
