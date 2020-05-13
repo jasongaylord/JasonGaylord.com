@@ -9,7 +9,12 @@ permalink: /about-jason/
 
 <img src="https://avatars3.githubusercontent.com/jasongaylord?v=3&s=200" class="github-avatar" alt="Jason N. Gaylord" />
 
-## Background
+#### Quick Bio
+Jason is the AVP of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
+
+In addition to his daily duties, Jason, is a founding board member of the [TechBash Foundation](https://jasong.us/tbfoundation), organizer of [TechBash](https://jasong.us/tb), [ASPInsider](https://jasong.us/3csnPdY), and a [former Microsoft MVP](https://jasong.us/msftmvp). He creates web applications and has even authored a book. He resides in Northeastern Pennsylvania with his family.
+
+#### Technical Background
 It all started back in 1995. My uncle gave me my first Windows computer -- a Compaq Presario 33MHz machine. I didn't have a math coprocessor chip and lacked a turbo button. But, it did the trick. It allowed me to get started writing Quick Basic and Pascal applications. Here's a snippet of an application I wrote back then for the 1996 Olympics in Atlanta Georgia:
 
 ```vb
@@ -41,13 +46,15 @@ Fast forward to fall of 1999. I was a student at Penn State Wilkes-Barre studyin
 
 Right before my 3rd semester, a friend of the family had introduced my to a local accounting firm then called Parente Randolph. I started with Parente in September of 2000. When working for Parente, I built many applications including a helpdesk system for our department. It was a Classic ASP application that stored data in Microsoft SQL 2000. In 2001, I started investigating this new technology that I found online called ASP.NET. At the time, I knew that there was a new language called C#, but I focused on Visual Basic.NET. I spent quite a bit of time learning about ASP.NET writing small applications and responding on the [ASP.NET forums](https://forums.asp.net/). I quickly rose to be a Top 25 poster on the forums and was invited to Building 20.
 
-[![Microsoft Building 20 Magnet](https://blogartifacts.blob.core.windows.net/images/about%2Fmicrosoft-building-20.jpg =200px)](https://blogartifacts.blob.core.windows.net/images/about%2Fmicrosoft-building-20.jpg)
+[![Microsoft Building 20 Magnet](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg =200px)](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg)
 
-Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before
+Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before the general public. Having this access was a two way street -- I would provide feedback to Microsoft about the features and in turn they'd provide me with early access. I started a local user group called .NET Valley. While .NET Valley no longer exists, it was one of the only technology user groups in Northeastern Pennsylvania. 
 
-Jason is the AVP of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
+From there, I started writing articles for an online technical source called ASPAlliance.
 
-In addition to his daily duties, Jason, is a founding board member of the [TechBash Foundation](https://jasong.us/tbfoundation), organizer of [TechBash](https://jasong.us/tb), [ASPInsider](https://jasong.us/3csnPdY), and a [former Microsoft MVP](https://jasong.us/msftmvp). He resides in Northeastern Pennsylvania with his wife and four children.
+[]
+
+
 
 ## Books
 [![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
