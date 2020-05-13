@@ -62,7 +62,9 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     }
 
     .social-links {
-        height:unset!important;
+        @media screen and (max-width: $media-breakpoint-md-min) {
+            height:unset!important;
+        }
 
         ul li a {
             font-size: 1.5em!important;
