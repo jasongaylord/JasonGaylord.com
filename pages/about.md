@@ -46,13 +46,13 @@ Fast forward to fall of 1999. I was a student at Penn State Wilkes-Barre studyin
 
 Right before my 3rd semester, a friend of the family had introduced my to a local accounting firm then called Parente Randolph. I started with Parente in September of 2000. When working for Parente, I built many applications including a helpdesk system for our department. It was a Classic ASP application that stored data in Microsoft SQL 2000. In 2001, I started investigating this new technology that I found online called ASP.NET. At the time, I knew that there was a new language called C#, but I focused on Visual Basic.NET. I spent quite a bit of time learning about ASP.NET writing small applications and responding on the [ASP.NET forums](https://forums.asp.net/). I quickly rose to be a Top 25 poster on the forums and was invited to Building 20.
 
-[![Microsoft Building 20 Magnet](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg =200px)](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg)
+[![Microsoft Building 20 Magnet](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg | 200px)](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg)
 
 Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before the general public. Having this access was a two way street -- I would provide feedback to Microsoft about the features and in turn they'd provide me with early access. I started a local user group called .NET Valley. While .NET Valley no longer exists, it was one of the only technology user groups in Northeastern Pennsylvania. 
 
 From there, I started writing articles for an online technical source called ASPAlliance.
 
-[]
+[![ASPAlliance Coffee Mug](https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg | 200px)](https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg)
 
 
 
