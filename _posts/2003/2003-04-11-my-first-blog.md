@@ -1,7 +1,7 @@
 ---
 title: My First Blog
 author: Jason Gaylord
-date: 2003-04-11
+date: 2003-04-11 17:19:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/posts/5447.aspx
 categories: [aspnet-weblog]
 tags:  [personal]

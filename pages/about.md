@@ -48,7 +48,9 @@ Right before my 3rd semester, a friend of the family had introduced my to a loca
 
 <a href="https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg" target="_blank"><img src="https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg" width="200" alt="Microsoft Building 20 Magnet" style="border: 0;" /></a>
 
-Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before the general public. Having this access was a two way street -- I would provide feedback to Microsoft about the features and in turn they'd provide me with early access. I started a local user group called .NET Valley. While .NET Valley no longer exists, it was one of the only technology user groups in Northeastern Pennsylvania. 
+Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before the general public. Having this access was a two way street -- I would provide feedback to Microsoft about the features and in turn they'd provide me with early access.
+
+On April 11, 2003, I authored my very first blog post. I've ported it from my old .Text Weblog on ASP.NET over to here. [Read it now](https://jasong.us/first-post). I know. Not that inspiring. Ten days later on April 21, I [announced](https://jasong.us/2AtKiJD) that I was starting a local user group called .NET Valley. While .NET Valley no longer exists, it was one of the only technology user groups in Northeastern Pennsylvania.
 
 From there, I started writing articles for an online technical source called ASPAlliance.
 
@@ -56,7 +58,7 @@ From there, I started writing articles for an online technical source called ASP
 
 Before I left Parente in September 2003, I was notified that I would be a [Microsoft MVP](https://jasong.us/msftmvp). In September, I started working for United One Resources, a company that offers title insurance, credit reports, and courthouse record searches for customers. The primary application I was to maintain was a VB6 application. Still stuck in a VB world, I started to expand out further into the world of C# writing articles and applications. I also expanded into other areas of technology by helping to maintain our network and servers.
 
-In November 2013, I made the choice to leave for Berkshire Hathaway GUARD Insurance. I've been with Berkshire Hathaway ever since and now lead the technology team for [biBERK.com](https://jasong.us/biberk), a direct market commercial insurance company. 
+In November 2013, I made the choice to leave for Berkshire Hathaway GUARD Insurance. I've been with Berkshire Hathaway ever since and now lead the technology team for [biBERK.com](https://jasong.us/biberk), a direct market commercial insurance company.
 
 #### Books I Authored
 [![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
