@@ -7,6 +7,7 @@ permalink: /blog/migrating-from-cloudscribe-to-github-pages
 date: 2020-05-01
 categories: [development,jekyll]
 tags:  [development,jekyll]
+bitly: https://jasong.us/2WuGRK3
 ---
 
 I've been messing around more and more with GitHub Pages and [Jekyll](https://jasong.us/35iEvSm) as of late. Jekyll is a Ruby application that is built to run and support GitHub Pages and other static websites. The purpose of Jekyll is to provide a lightweight static content generator that operates off of Markdown pages. Since GitHub Pages is great for hosting a blog, I was curious to see what I could do with it. The first step in my process was to see if I could migrate from my existing blog provider, CloudScribe, over to GitHub Pages.

@@ -7,6 +7,7 @@ permalink: /blog/creating-a-jekyll-theme-from-windows
 date: 2020-05-04
 categories: [development,jekyll]
 tags:  [development,jekyll]
+bitly: https://jasong.us/35luIer
 ---
 
 [Static content generators](https://jasong.us/3f5KGxx) are becoming more and more popular as there's a drive to deliver content as quickly as possible from versioned source code to the browser. [Jekyll](https://jasong.us/35iEvSm) is a static content generator that is written in Ruby and available as a Ruby Gem. Jekyll can be executed locally, on a server, within a cloud service, or within GitHub. Within this post, you'll learn how to create a Jekyll theme using a Windows based PC. While the steps are the same if you are using a Mac or Linux machine, there are a few subtle differences for Windows such as the way you get started. Jekyll Themes are actually Ruby Gems. Wait! You've never created a Ruby Gem? Neither have I. We'll go through this process together.
