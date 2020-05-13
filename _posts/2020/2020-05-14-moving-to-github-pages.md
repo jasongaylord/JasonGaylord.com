@@ -1,7 +1,7 @@
 ---
 title: Moving JasonGaylord.com to GitHub Pages
 author: Jason Gaylord
-date: 2020-05-13
+date: 2020-05-14
 categories: [jekyll,personal,web]
 tags:  [jekyll,personal,web]
 ---
