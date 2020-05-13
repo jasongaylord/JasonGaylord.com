@@ -46,20 +46,20 @@ Fast forward to fall of 1999. I was a student at Penn State Wilkes-Barre studyin
 
 Right before my 3rd semester, a friend of the family had introduced my to a local accounting firm then called Parente Randolph. I started with Parente in September of 2000. When working for Parente, I built many applications including a helpdesk system for our department. It was a Classic ASP application that stored data in Microsoft SQL 2000. In 2001, I started investigating this new technology that I found online called ASP.NET. At the time, I knew that there was a new language called C#, but I focused on Visual Basic.NET. I spent quite a bit of time learning about ASP.NET writing small applications and responding on the [ASP.NET forums](https://forums.asp.net/). I quickly rose to be a Top 25 poster on the forums and was invited to Building 20.
 
-[![Microsoft Building 20 Magnet](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg | 200px)](https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg)
+<a href="https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg" target="_blank"><img src="https://cdn.jasongaylord.com/images/about/microsoft-building-20.jpg" width="200" alt="Microsoft Building 20 Magnet" style="border: 0;" /></a>
 
 Around that same time, I joined a new Microsoft sponsored program called the [ASPInsiders](https://jasong.us/3csnPdY). Being an ASPInsider allowed me to learn more about .NET and to test many of the features before the general public. Having this access was a two way street -- I would provide feedback to Microsoft about the features and in turn they'd provide me with early access. I started a local user group called .NET Valley. While .NET Valley no longer exists, it was one of the only technology user groups in Northeastern Pennsylvania. 
 
 From there, I started writing articles for an online technical source called ASPAlliance.
 
-[![ASPAlliance Coffee Mug](https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg | 200px)](https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg)
+<a href="https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg" target="_blank"><img src="https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg" width="200" alt="ASPAlliance Coffee Mug" style="border: 0;" /></a>
 
+Before I left Parente in September 2003, I was notified that I would be a [Microsoft MVP](https://jasong.us/msftmvp). In September, I started working for United One Resources, a company that offers title insurance, credit reports, and courthouse record searches for customers. The primary application I was to maintain was a VB6 application. Still stuck in a VB world, I started to expand out further into the world of C# writing articles While at United One, my responsibilities expanded into other areas of technology.
 
-
-## Books
+#### Books I Authored
 [![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
 
-## Websites
+#### Websites I Maintain
 - [techbash.com](https://jasong.us/tb)
 - [mylightdisplay.com](http://jasong.us/mylightdisplay)
 - [exeterlionslittleleague.org](https://jasong.us/elll)

@@ -3,7 +3,7 @@ subtitle: <i class="fas fa-people-arrows"></i> Social Distancing since 3/14
 author: Jason N. Gaylord
 description: >
   Jason Gaylord is a web application developer from Northeast Pennsylvania. He is the AVP of Technology for biBERK and also a Co-Organizer for TechBash.
-baseurl: /JasonGaylord.com
+baseurl: 
 
 # git edit capabilities
 remote_theme: jasongaylord/SpaacedOut
