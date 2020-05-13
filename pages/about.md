@@ -54,7 +54,9 @@ From there, I started writing articles for an online technical source called ASP
 
 <a href="https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg" target="_blank"><img src="https://cdn.jasongaylord.com/images/about/aspalliance-mug.jpg" width="200" alt="ASPAlliance Coffee Mug" style="border: 0;" /></a>
 
-Before I left Parente in September 2003, I was notified that I would be a [Microsoft MVP](https://jasong.us/msftmvp). In September, I started working for United One Resources, a company that offers title insurance, credit reports, and courthouse record searches for customers. The primary application I was to maintain was a VB6 application. Still stuck in a VB world, I started to expand out further into the world of C# writing articles While at United One, my responsibilities expanded into other areas of technology.
+Before I left Parente in September 2003, I was notified that I would be a [Microsoft MVP](https://jasong.us/msftmvp). In September, I started working for United One Resources, a company that offers title insurance, credit reports, and courthouse record searches for customers. The primary application I was to maintain was a VB6 application. Still stuck in a VB world, I started to expand out further into the world of C# writing articles and applications. I also expanded into other areas of technology by helping to maintain our network and servers.
+
+In November 2013, I made the choice to leave for Berkshire Hathaway GUARD Insurance. I've been with Berkshire Hathaway ever since and now lead the technology team for [biBERK.com](https://jasong.us/biberk), a direct market commercial insurance company. 
 
 #### Books I Authored
 [![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
