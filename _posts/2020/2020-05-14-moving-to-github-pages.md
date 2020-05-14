@@ -4,6 +4,7 @@ author: Jason Gaylord
 date: 2020-05-14
 categories: [jekyll,personal,web]
 tags:  [jekyll,personal,web]
+bitly: https://jasong.us/3dN88ht
 ---
 
 Over the past several weeks I've hinted that I may move my website, JasonGaylord.com, over to GitHub Pages. I wanted to do this for a few reasons. The biggest reason was to focus more on delivering content and posts and less on the way something looked and how it worked. [CloudScribe](https://jasong.us/3bogZVs) is a great .NET Core CMS that offers a lot of flexibility in a full featured website. However, that's not the needs of my personal site. 
