@@ -155,6 +155,14 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     margin-bottom: 30px;
 }
 
+.desktop, .mobile {
+    &.ad {
+        &:first-child {
+            margin: 0 auto;
+        }
+    }
+}
+
 
 @media screen and (max-width: $media-breakpoint-sm-max) {
     .desktop {
