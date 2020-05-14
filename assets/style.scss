@@ -111,7 +111,6 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     a, span {
         border: 1px solid $color-lightgrey;
         padding: 5px 10px;
-        //border-radius: 5px;
     }
 
     a:hover {
@@ -128,12 +127,12 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
         border-color: $color-orange;
     }
 
-    &:first-child {
+    :first-child {
         border-top-left-radius: 5px;
         border-bottom-left-radius: 5px;
     }
 
-    &:last-child {
+    :last-child {
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
     }
@@ -157,7 +156,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 
 .desktop, .mobile {
     &.ad {
-        &:first-child {
+        :first-child {
             margin: 0 auto;
         }
     }
