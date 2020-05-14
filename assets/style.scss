@@ -109,7 +109,9 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     margin: 15px 0;
 
     a, span {
-        border: 1px solid $color-lightgrey;
+        border-top: 1px solid $color-lightgrey;
+        border-left: 1px solid $color-lightgrey;
+        border-bottom: 1px solid $color-lightgrey;
         padding: 5px 10px;
     }
 
@@ -125,6 +127,11 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
         color: $color-orange;
         font-weight: 900;
         border-color: $color-orange;
+        border-right: 1px solid $color-lightgrey;
+    }
+
+    span + a {
+        border-left: 0;
     }
 
     :first-child {
@@ -135,6 +142,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     :last-child {
         border-top-right-radius: 5px;
         border-bottom-right-radius: 5px;
+        border-right: 1px solid $color-lightgrey;
     }
 }
 
