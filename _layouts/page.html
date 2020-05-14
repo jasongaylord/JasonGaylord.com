@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="wrapper">
-  <div data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="page"></div>
+    <div style="text-align:center;">
+        <div class="desktop" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="page"></div>
+        <div class="mobile" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="300x250" data-zone="page"></div>
+    </div>
   <article class="page">
     <header class="post-header">
       <h1 class="post-title">{{ page.title | escape }}</h1>
@@ -12,4 +15,8 @@ layout: default
       {{ content }}
     </div>
   </article>
+  <div style="text-align:center;">
+    <div class="desktop" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="page"></div>
+    <div class="mobile" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="300x250" data-zone="page"></div>
+</div>
 </div>

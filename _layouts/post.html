@@ -3,7 +3,10 @@ layout: default
 ---
 
 <div class="wrapper">
-  <div data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="post"></div>
+    <div style="text-align:center;">
+        <div class="desktop" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="post"></div>
+        <div class="mobile" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="300x250" data-zone="post"></div>
+    </div>
   <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
     <header class="post-header">
       <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -15,6 +18,11 @@ layout: default
     </div>
     <span class="edit">Found a typo or mistake in the post? {% include post/edit.html %}</span>
   
+    <div style="text-align:center; margin: 30px 0;">
+        <div class="desktop" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="728x90" data-zone="post"></div>
+        <div class="mobile" data-type="ad" data-publisher="lqm.jasongaylord.site" data-format="300x250" data-zone="post"></div>
+    </div>
+
     {% if site.comments.enabled %}
       {% include comments/comments.html %}
     {% endif %}

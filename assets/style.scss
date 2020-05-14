@@ -62,7 +62,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     }
 
     .social-links {
-        @media screen and (max-width: $media-breakpoint-md-min) {
+        @media screen and (min-width: $media-breakpoint-md-min) {
             height:unset!important;
         }
 
@@ -153,4 +153,23 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 
 .post-content {
     margin-bottom: 30px;
+}
+
+
+@media screen and (max-width: $media-breakpoint-sm-max) {
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+}
+
+@media screen and (min-width: $media-breakpoint-md-min) {
+    .desktop {
+        display: block;
+    }
+    .mobile {
+        display: none;
+    }
 }
