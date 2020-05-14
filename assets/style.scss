@@ -23,10 +23,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 // Import
 @import 'SpaacedOut';
 
-// Overrides
-@import 'header';
-@import 'ads';
-
+// Custom Styles
 .avatar-small {
     border-radius: 15px;
 }
@@ -93,3 +90,102 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 .post-content {
     margin-bottom: 30px;
 }
+
+// Ads
+.desktop, .mobile {
+    &.ad {
+        :first-child {
+            margin: 0 auto;
+        }
+    }
+}
+
+@media screen and (max-width: $media-breakpoint-sm-max) {
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+}
+
+@media screen and (min-width: $media-breakpoint-md-min) {
+    .desktop {
+        display: block;
+    }
+    .mobile {
+        display: none;
+    }
+}
+
+// Header Overrides
+.header {
+    background-image: url('#{$baseurl}/assets/images/stars.png');
+    background-position-y: top;
+    background-position-x: center;
+
+    .site-avatar {
+        position: relative;
+    }
+
+    .planet1 {
+        max-width:  100px;
+        top: 10px;
+        position: absolute;
+        z-index: 1!important;
+        left: 20px;
+
+        @media screen and (max-width: $media-breakpoint-sm-max) {
+            display: none;
+        }
+    }
+
+    .planet2 {
+        max-width:  120px;
+        bottom: 90px;
+        position: absolute;
+        z-index: 1!important;
+        left: 140px;
+
+        @media screen and (max-width: $media-breakpoint-sm-max) {
+            display: none;
+        }
+    }
+
+    .site-title {
+        font-size: $size-standard-font*1.4!important;
+    }
+
+    .social-links {
+        @media screen and (min-width: $media-breakpoint-md-min) {
+            height:unset!important;
+        }
+
+        ul li a {
+            font-size: 1.5em!important;
+        }
+    }
+
+    .rocket {
+        z-index: 3;
+        position: absolute;
+        top: 185px;
+        left: 242px;
+
+        @media screen and (max-width: $media-breakpoint-sm-max) {
+            top: 10px;
+        }
+
+        img {
+            width: 30px;
+        }
+    }
+
+    @media screen and (max-width: $media-breakpoint-sm-max) {
+        .main-navigation {
+            background-image: url('#{$baseurl}/assets/images/stars.png');
+            background-position-y: top;
+            background-position-x: center;
+        }
+    }
+} // header
