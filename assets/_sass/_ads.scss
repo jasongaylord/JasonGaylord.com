@@ -1,0 +1,25 @@
+.desktop, .mobile {
+    &.ad {
+        :first-child {
+            margin: 0 auto;
+        }
+    }
+}
+
+@media screen and (max-width: $media-breakpoint-sm-max) {
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+}
+
+@media screen and (min-width: $media-breakpoint-md-min) {
+    .desktop {
+        display: block;
+    }
+    .mobile {
+        display: none;
+    }
+}

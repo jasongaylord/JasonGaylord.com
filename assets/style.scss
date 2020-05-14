@@ -24,79 +24,23 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 @import 'SpaacedOut';
 
 // Overrides
-.header {
-    background-image: url('#{$baseurl}/assets/images/stars.png');
-    background-position-y: top;
-    background-position-x: center;
-
-    .site-avatar {
-        position: relative;
-    }
-
-    .planet1 {
-        max-width:  100px;
-        top: 10px;
-        position: absolute;
-        z-index: 1!important;
-        left: 20px;
-
-        @media screen and (max-width: $media-breakpoint-sm-max) {
-            display: none;
-        }
-    }
-
-    .planet2 {
-        max-width:  120px;
-        bottom: 90px;
-        position: absolute;
-        z-index: 1!important;
-        left: 140px;
-
-        @media screen and (max-width: $media-breakpoint-sm-max) {
-            display: none;
-        }
-    }
-
-    .site-title {
-        font-size: $size-standard-font*1.4!important;
-    }
-
-    .social-links {
-        @media screen and (min-width: $media-breakpoint-md-min) {
-            height:unset!important;
-        }
-
-        ul li a {
-            font-size: 1.5em!important;
-        }
-    }
-
-    .rocket {
-        z-index: 3;
-        position: absolute;
-        top: 185px;
-        left: 242px;
-
-        @media screen and (max-width: $media-breakpoint-sm-max) {
-            top: 10px;
-        }
-
-        img {
-            width: 30px;
-        }
-    }
-
-    @media screen and (max-width: $media-breakpoint-sm-max) {
-        .main-navigation {
-            background-image: url('#{$baseurl}/assets/images/stars.png');
-            background-position-y: top;
-            background-position-x: center;
-        }
-    }
-}
+@import '_sass/header';
+@import '_sass/ads';
 
 .avatar-small {
     border-radius: 15px;
+}
+
+.button {
+    padding: 5px;
+    border: 1px solid $color-lightgrey;
+    border-radius: 5px;
+    color: $color-primary;
+
+    &:hover {
+        border-color: $color-purple;
+        color: $color-lightblue;
+    }
 }
 
 .github-avatar {
@@ -116,22 +60,22 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     }
 
     a:hover {
-        border-color: $color-purple;
+        background-color: $color-purple;
     }
 
     span {
         color: $color-lightgrey;
-    }
 
-    span:not(:first-child):not(:last-child) {
-        color: $color-orange;
-        font-weight: 900;
-        border-color: $color-orange;
-        border-right: 1px solid $color-lightgrey;
-    }
+        & + a {
+            border-left: 0;
+        }
 
-    span + a {
-        border-left: 0;
+        &:not(:first-child):not(:last-child) {
+            color: $color-orange;
+            font-weight: 900;
+            border-color: $color-orange;
+            border-right: 1px solid $color-orange;
+        }
     }
 
     :first-child {
@@ -146,45 +90,6 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     }
 }
 
-.button {
-    padding: 5px;
-    border: 1px solid $color-lightgrey;
-    border-radius: 5px;
-    color: $color-primary;
-
-    &:hover {
-        border-color: $color-purple;
-        color: $color-lightblue;
-    }
-}
-
 .post-content {
     margin-bottom: 30px;
-}
-
-.desktop, .mobile {
-    &.ad {
-        :first-child {
-            margin: 0 auto;
-        }
-    }
-}
-
-
-@media screen and (max-width: $media-breakpoint-sm-max) {
-    .desktop {
-        display: none;
-    }
-    .mobile {
-        display: block;
-    }
-}
-
-@media screen and (min-width: $media-breakpoint-md-min) {
-    .desktop {
-        display: block;
-    }
-    .mobile {
-        display: none;
-    }
 }
