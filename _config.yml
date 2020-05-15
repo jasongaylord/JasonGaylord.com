@@ -95,6 +95,7 @@ kramdown:
 
 #Plugins and configuration
 future: false
+timezone: America/New_York
 plugins:
   - jekyll-avatar
   - jekyll-feed
