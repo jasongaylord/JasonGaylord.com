@@ -4,6 +4,7 @@ author: Jason Gaylord
 date: 2020-05-15
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/2WAwoOs
 ---
 
 The Call for Speakers for [TechBash 2020](http://jasong.us/tb) ends tonight. TechBash is an event geared towards web and software development, DevOps, and cloud technologies. We continue to feature speakers from a very diverse skillset and background. To submit for the event, you can visit the link over at Sessionize by visiting [https://jasong.us/tb20cfp](https://jasong.us/tb20cfp). 

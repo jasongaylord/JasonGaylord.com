@@ -1,7 +1,7 @@
 ---
 title: Microsoft Azure Storage Explorer Copy URL Issue
 author: Jason Gaylord
-date: 2020-05-16
+date: 2020-05-16 08:00:00 -4
 categories: [cloud]
 tags:  [cloud]
 bitly: https://jasong.us/2yTQLNe

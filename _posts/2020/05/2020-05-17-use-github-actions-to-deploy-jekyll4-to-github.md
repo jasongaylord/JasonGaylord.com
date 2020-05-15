@@ -1,7 +1,7 @@
 ---
 title: Use GitHub Actions to Deploy Jekyll 4 to GitHub Pages
 author: Jason Gaylord
-date: 2020-05-17
+date: 2020-05-17 08:00:00 -4
 categories: [development,jekyll]
 tags:  [development,jekyll]
 bitly: https://jasong.us/2AtDz2f
