@@ -1,0 +1,11 @@
+---
+title: Security Begins At The Developer
+author: Jason Gaylord
+date: 2006-05-25 12:27:00
+aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/05/25/security-begins-at-the-developer.aspx
+categories: [aspnet-weblog]
+tags: [archive]
+bitly: https://jasong.us/2ZeUKyU
+---
+
+Last night at our .NET Valley event, we discussed security. The conversation started with an open ended question by Microsoft TechNet Presenter, [Mike Murphy](http://blogs.technet.com/mjmurphy/), asking "How do you know if you've been hacked?" Many of the IT Professionals gave their answer and then one of the developers there gave the answer "Besides event logs, I'm not sure." This was a great answer. Reason is, most developers aren't sure how to detect hackers. I won't go into things you can look for here, but rather point out that developers know what to do to prevent hacking. The problem that we all agreed on last night is that everyone needs to be on the same page. Meaning, developers have to chat with dba's, network admins have to discuss upgrades with developers, etc. Probably the biggest gap is that non-IT employees have to understand why IT spends money on security and the implications it can have on the business. Since 9/11, many companies have implemented disaster recovery plans which is great. However, many of these plans don't include disasters such as the backup jobs becoming corrupt (see [DotNetValley.com](www.dotnetvalley.com) for more info on this one) or data being leaked (Veteran Affair [incident](http://www.msnbc.msn.com/id/12971220/) last week). Even more common than these two incidents are things such as using impersonation to impersonate the account Administrator, requiring applications have Full Trust in .NET, leaving the sa username enabled on a SQL box with a blank password, and using weak password on "face" applications (ie: websites, web services, etc). As developers, we need to ensure that our methodology or development process includes full testing for security because in many of these cases, an intrusion detection system (IDS) cannot recognize these issues. `<ramble end="true" />`
