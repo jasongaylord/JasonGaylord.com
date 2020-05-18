@@ -16,7 +16,7 @@ Open Forum
 6:30pm
 Microsoft FrontPage 2003 Essentials  
 _[Christian Leeds](http://www.contentseed.com/ "Chris Leeds"), Microsoft MVP_  
-[![Chris Leeds](http://web.archive.org/web/20060205040242im_/http://www.dotnetvalley.com/images/persons/chrisleeds.gif)](http://www.dotnetvalley.com/Speakers/340.aspx)
+[![Chris Leeds](http://www.dotnetvalley.com/images/persons/chrisleeds.gif)](http://www.dotnetvalley.com/Speakers/340.aspx)
 
 7:45pm
 SWAG Handout and Survey

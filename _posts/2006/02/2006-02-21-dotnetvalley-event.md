@@ -13,12 +13,12 @@ This event will be held at Luzerne County Community College, Nanticoke on Februa
 6:00pm
 An Overview of the Patterns & Practices Enterprise Library  
 _[Peter Laudati](http://www.dotnetvalley.com/Speakers/344.aspx "Peter Laudati"), [Microsoft](http://www.microsoft.com/ "Microsoft") Developer Evangelist_  
-[![Peter Laudati](http://web.archive.org/web/20060405181810im_/http://www.dotnetvalley.com/images/persons/photona.gif)](http://www.dotnetvalley.com/Speakers/344.aspx)
+[![Peter Laudati](http://www.dotnetvalley.com/images/persons/photona.gif)](http://www.dotnetvalley.com/Speakers/344.aspx)
 
 7:00pm
 Upgrading to SQL Server 2005  
 _[Michael J. Murphy](http://www.dotnetvalley.com/Speakers/309.aspx "Mike Murphy"), [Microsoft](http://www.microsoft.com/ "Microsoft") TechNet Presenter_  
-[![Mike Murphy](http://web.archive.org/web/20060405181810im_/http://www.dotnetvalley.com/images/persons/mmurphy.jpg)](http://www.dotnetvalley.com/Speakers/309.aspx)
+[![Mike Murphy](http://www.dotnetvalley.com/images/persons/mmurphy.jpg)](http://www.dotnetvalley.com/Speakers/309.aspx)
 
 **An Overview of the Patterns & Practices Enterprise Library (Peter Laudati, [Microsoft](http://www.microsoft.com/ "Microsoft") Developer Evangelist)**  
 Sick and tired of writing the same old plumbing code? How many times do you find yourself writing the same 10 lines of ADO.NET code?! Wish you could agree on and share best practice implementations within your organization? Then the [Microsoft](http://www.microsoft.com/ "Microsoft") patterns & practices Enterprise Library might be just what the doctor ordered!  
