@@ -15,7 +15,7 @@ This event will be held at Luzerne County Community College, Nanticoke on July 2
 6:30pm
 IT Professional Presentation: Understanding Group Policy on Windows Server 2003  
 _Michael J. Murphy, [Microsoft](http://www.microsoft.com/ "Microsoft") TechNet Presenter_  
-[![Michael J. Murphy](http://web.archive.org/web/20050720074347im_/http://www.dotnetvalley.com/images/persons/mmurphy.jpg)](http://www.dotnetvalley.com/Speakers/309.aspx)
+[![Michael J. Murphy](http://www.dotnetvalley.com/images/persons/mmurphy.jpg)](http://www.dotnetvalley.com/Speakers/309.aspx)
 
 7:30pm
 BREAK
@@ -23,7 +23,7 @@ BREAK
 7:45pm
 Developer Presentation: Functional Network Development using [ASP.NET](http://www.asp.net/ "ASP.NET")  
 _[Jason N. Gaylord](http://www.jasongaylord.com/ "Jason N. Gaylord"), [Microsoft](http://www.microsoft.com/ "Microsoft") Most Valuable Professional and ASPInsider_  
-[![Jason N. Gaylord](http://web.archive.org/web/20050720074347im_/http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
+[![Jason N. Gaylord](http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
 
 8:45pm
 SWAG Handout and Survey

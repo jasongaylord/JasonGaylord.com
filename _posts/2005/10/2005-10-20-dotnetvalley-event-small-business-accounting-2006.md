@@ -18,7 +18,7 @@ Open Forum
 6:30pm
 IT Professional Presentation: [Microsoft](http://www.microsoft.com/ "Microsoft") Small Business Accounting 2006 Features, Part I  
 _[Jason N. Gaylord](http://www.jasongaylord.com/ "Jason N. Gaylord"), [Microsoft](http://www.microsoft.com/ "Microsoft") MVP and ASPInsider_  
-[![Jason N. Gaylord](http://web.archive.org/web/20051101103506im_/http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
+[![Jason N. Gaylord](http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
 
 7:30pm
 BREAK
@@ -26,7 +26,7 @@ BREAK
 7:45pm
 Developer Presentation: Creating Add-Ins for [Microsoft](http://www.microsoft.com/ "Microsoft") Small Business Accounting 2006  
 _[Jason N. Gaylord](http://www.jasongaylord.com/ "Jason N. Gaylord"), [Microsoft](http://www.microsoft.com/ "Microsoft") MVP and ASPInsider_  
-[![Jason N. Gaylord](http://web.archive.org/web/20051101103506im_/http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
+[![Jason N. Gaylord](http://www.dotnetvalley.com/images/persons/jgaylord.jpg)](http://www.dotnetvalley.com/Speakers/186.aspx)
 
 8:45pm
 SWAG Handout and Survey
