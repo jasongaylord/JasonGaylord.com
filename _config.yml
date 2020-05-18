@@ -4,6 +4,7 @@ author: Jason N. Gaylord
 description: >
   Jason Gaylord is a web application developer from Northeast Pennsylvania. He is the AVP of Technology for biBERK and also a Co-Organizer for TechBash.
 baseurl: 
+url: "https://www.jasongaylord.com"
 
 # git edit capabilities
 remote_theme: jasongaylord/SpaacedOut
