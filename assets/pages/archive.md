@@ -5,8 +5,6 @@ include_nav: false
 ---
 
 <div class="archives" itemscope itemtype="http://schema.org/Blog">
-<h1>{{ page.title }}</h1>
-<p>&nbsp;</p>
 {% for post in site.posts %}
     {% assign currentyear = post.date | date: "%Y" %}
     {% if currentyear != year %}
@@ -15,7 +13,15 @@ include_nav: false
       <ul>
       {% assign year = currentyear %} 
     {% endif %}
+    {% if currentmonth != month %}
+      {% unless forloop.first %}</ul>{% endunless %}
+      <h4 id="{{ post.date | date:"%Y-%B" }}">{{ currentmonth }}</h4>
+      <ul>
+      {% assign month = currentmonth %} 
+    {% endif %}
+    {% if post.url %}
         <li>{% include post/archive-listitem.html %}</li>
+    {% endif %}
     {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 </div>
