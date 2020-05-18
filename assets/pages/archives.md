@@ -22,7 +22,7 @@ include_nav: true
         {% assign prevmonth = post2.previous.date | date: "%B %Y" %}
         {% assign countermonth = countermonth | plus: 1 %}
         {% if thismonth != prevmonth %}
-          <li><a href="/archive/#{{ post2.date | date:"%B-%Y" }}">{{ thismonth }} ({{ countermonth }})</a></li>
+          <li><a href="/archive/#{{ post2.date | date:"%Y-%B" }}">{{ thismonth }} ({{ countermonth }})</a></li>
           {% assign countermonth = 0 %}
         {% endif %}
       {% endif %}

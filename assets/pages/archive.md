@@ -10,7 +10,6 @@ include_nav: false
     {% if currentyear != year %}
       {% unless forloop.first %}</ul>{% endunless %}
       <h2 id="{{ post.date | date:"%Y" }}">{{ currentyear }}</h2>
-      <ul>
       {% assign year = currentyear %} 
     {% endif %}
     {% assign currentmonth = post.date | date: "%B" %}
