@@ -13,13 +13,14 @@ include_nav: false
       <ul>
       {% assign year = currentyear %} 
     {% endif %}
+    {% assign currentmonth = post.date | date: "%B" %}
     {% if currentmonth != month %}
       {% unless forloop.first %}</ul>{% endunless %}
       <h4 id="{{ post.date | date:"%Y-%B" }}">{{ currentmonth }}</h4>
       <ul>
       {% assign month = currentmonth %} 
     {% endif %}
-    {% if post.url %}
+    {% if post.url != "" %}
         <li>{% include post/archive-listitem.html %}</li>
     {% endif %}
     {% if forloop.last %}</ul>{% endif %}
