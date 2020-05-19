@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-05-19 13:30:00 -4
 categories: [cloud,dev,devops]
 tags:  [cloud,dev,devops]
-bitly: https://jasong.us/3bLB2x9
+bitly: https://jasong.us/3bORZ9Y
 ---
 
 Announced today at Microsoft Build is a new service called [Azure Static Web Apps](https://jasong.us/2X4WzeQ). 
