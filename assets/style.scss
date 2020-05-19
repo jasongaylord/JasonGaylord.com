@@ -50,6 +50,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     border: 0;
     background-color: transparent;
     font-family: $font-standard;
+    font-size:  $size-standard-font;
     color: $color-link;
     transition: color $transition-time;
     &:hover {
