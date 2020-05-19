@@ -14,7 +14,7 @@ include_nav: false
     {% endif %}
     {% assign currentmonth = post.date | date: "%B" %}
     {% if currentmonth != month %}
-      {% unless forloop.first %}<!--</ul>-->{% endunless %}
+      {% unless forloop.first %}</ul>{% endunless %}
       <h4 id="{{ post.date | date:"%Y-%B" }}">{{ currentmonth }}</h4>
       <ul>
       {% assign month = currentmonth %} 
