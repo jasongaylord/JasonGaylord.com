@@ -1,10 +1,10 @@
 ---
 title: Using the 'Copy as Markdown' Browser Extension
 author: Jason Gaylord
-date: 2020-05-19 08:00:00 -4
+date: 2020-05-20 08:00:00 -4
 categories: [browser]
 tags:  [browser]
-bitly: https://jasong.us/2ZgyDrW
+bitly: https://jasong.us/3g279fv
 ---
 
 I've been using the **Copy as Markdown** browser extension quite a bit lately. It's great I'm trying to capture existing website pages and convert them to Markdown. While it was meant just to copy single links or images as Markdown, It has really been expanded to copy entire content pages as Markdown. It handles nearly all of the common text formatting such as *italic*, **bold**, ~~strikethrough~~, and `inline code`. It also handles code blocks, ordered and unordered lists, headings, links and images. It also claims to have table support, but I've had issues with it working properly.
@@ -18,3 +18,5 @@ To install, you can access the following links:
 I have found that the Microsoft Edge version is a few versions behind Chrome and Firefox and is missing some features. Hopefully Laxman updates soon.
 
 You can also check out the source code at [https://github.com/notlmn/copy-as-markdown](https://jasong.us/2Ax0hX5).
+
+![](https://cdn.jasongaylord.com/images/2020/05/20/copy-as-markdown.jpg)
