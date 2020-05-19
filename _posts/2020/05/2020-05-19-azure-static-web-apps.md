@@ -9,11 +9,11 @@ bitly: https://jasong.us/3bLB2x9
 
 Announced today at Microsoft Build is a new service called [Azure Static Web Apps](https://jasong.us/2X4WzeQ). 
 
-![](https://cdn.jasongaylord.com/images/2020/05/19/azure-static-web-apps.png)
+<a href="https://cdn.jasongaylord.com/images/2020/05/19/azure-static-web-apps.png"><img src="https://cdn.jasongaylord.com/images/2020/05/19/azure-static-web-apps.png" width="400"></a>
 
 Azure Static Web Apps allows static sites to be built using Visual Studio Code or your editor of choice. I prefer Visual Studio Code as I prefer to use the new preview of the [GitHub Pull Requests and Issues](https://jasong.us/36fLFr1) extension. Here is what the extension looks like inside of Visual Studio Code:
 
-![](https://cdn.jasongaylord.com/images/2020/05/19/github-pull-requests-demo.gif)
+<a href="https://cdn.jasongaylord.com/images/2020/05/19/github-pull-requests-demo.gif"><img src="https://cdn.jasongaylord.com/images/2020/05/19/github-pull-requests-demo.gif" width="400"></a>
 
 I also have the ability of using the new Static Web Apps extension which can be grabbed at [aka.ms/savscode](https://jasong.us/3cNRbU3). 
 
