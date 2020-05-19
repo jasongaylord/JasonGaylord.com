@@ -1,0 +1,30 @@
+<div class="meta">
+    <ul class="tags">{% include post/tags.html %}</ul>
+    <div class="post-date">
+        <div class="meta-part">
+            <i class="far fa-calendar-alt"></i>
+            <time class="date dt-published" datetime="{{ page.date | default:post.date | date_to_xmlschema }}" itemprop="datePublished">
+                {% assign date_format = "%b %-d, %Y" %}
+                {{ page.date | default:post.date | date: date_format }}
+            </time>
+            <span class="vertical-bar">|</span>
+        </div>
+        {% if post.bitly %}
+        <div class="meta-part">
+            <button class="btn" data-clipboard-text="{{ post.bitly }}">
+                permalink
+            </button>
+        </div>
+        {% endif %}
+        {% if site.comments.enabled and site.comments.show_count == true %}
+        <div class="meta-part">
+            {% include comments/comments_link.html %}
+            <span class="vertical-bar">|</span>
+        </div>
+        {% endif %}
+        <div class="meta-part">
+            <i class="fas fa-pencil-alt"></i>
+            <span class="edit">{% include post/edit.html %}</span>
+        </div>
+    </div>
+</div>

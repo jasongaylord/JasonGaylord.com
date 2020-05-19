@@ -56,7 +56,7 @@ rss: rss
 # comments
 comments:
   enabled: true
-  show_count: true
+  show_count: false
   disqus_shortname: jasongaylord
 
 # front matter
