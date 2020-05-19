@@ -46,6 +46,17 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     margin: 0 0 30px 30px;
 }
 
+.no-format {
+    border: 0;
+    background-color: transparent;
+    font-family: $font-standard;
+    color: $color-link;
+    transition: color $transition-time;
+    &:hover {
+        color: $color-link-hover;
+    }
+}
+
 .pagination {
     margin: 15px 0;
 

@@ -11,9 +11,10 @@
         </div>
         {% if post.bitly %}
         <div class="meta-part">
-            <button class="btn" data-clipboard-text="{{ post.bitly }}">
-                permalink
+            <button class="no-format" data-clipboard-text="{{ page.bitly | default:post.bitly }}">
+                <i class="fas fa-copy"></i> Permalink
             </button>
+            <span class="vertical-bar">|</span>
         </div>
         {% endif %}
         {% if site.comments.enabled and site.comments.show_count == true %}
