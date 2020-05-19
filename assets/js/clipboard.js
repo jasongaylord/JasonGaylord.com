@@ -10,7 +10,7 @@ SpaacedOut.ready(function() {
             }
 
             try {
-                var copy_value = copy_elements[copy_count].getAttribute("data-copy-text");
+                var copy_value = event.srcElement.getAttribute("data-copy-text"); //copy_elements[copy_count].getAttribute("data-copy-text");
                 await navigator.clipboard.writeText(copy_value);
 
                 event.target.dataset.clipboard = copy_value;
