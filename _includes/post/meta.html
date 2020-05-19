@@ -11,9 +11,7 @@
         </div>
         {% if post.bitly %}
         <div class="meta-part">
-            <button class="no-format" data-clipboard-text="{{ page.bitly | default:post.bitly }}">
-                <i class="fas fa-copy"></i> Permalink
-            </button>
+            <span class="cursor" data-copy-text="{{ page.bitly | default:post.bitly }}"><i class="fas fa-copy"></i> Permalink</span>
             <span class="vertical-bar">|</span>
         </div>
         {% endif %}
