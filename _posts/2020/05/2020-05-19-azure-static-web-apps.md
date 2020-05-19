@@ -15,6 +15,10 @@ Azure Static Web Apps allows static sites to be built using Visual Studio Code o
 
 ![](https://cdn.jasongaylord.com/images/2020/05/19/github-pull-requests-demo.gif)
 
+I also have the ability of using the new Static Web Apps extension which can be grabbed at [aka.ms/savscode](https://jasong.us/3cNRbU3). 
+
+**Note, at the time of this post, you must use the Visual Studio Code Insiders build for this extension to work properly.**
+
 Next, I can use any JavaScript or TypeScript framework including, but not limited to:
 
 - Angular
