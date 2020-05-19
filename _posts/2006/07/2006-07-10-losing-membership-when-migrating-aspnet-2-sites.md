@@ -1,5 +1,5 @@
 ---
-title: 'Losing' Membership Data When Migrating ASP.NET 2.0 Websites
+title: "'Losing' Membership Data When Migrating ASP.NET 2.0 Websites"
 author: Jason Gaylord
 date: 2006-07-10 11:23:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/07/10/456122.aspx
