@@ -5,4 +5,4 @@ before_install:
 language: ruby
 rvm:
   - 2.5.3
-script: "bundle exec jekyll build --verbose --incremental"
+script: "bundle exec jekyll build --verbose" #--incremental
