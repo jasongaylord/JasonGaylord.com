@@ -33,3 +33,5 @@ I can also use a static generator such as:
 - DocFx
 
 By connecting your GitHub account to Azure and using the new GitHub Action, you can deploy your static application to Azure. Of course, Static web apps also give you the power of adding APIs by using Azure Functions. So, quickly and easily, you can be up and running with a thin, lightweight application.
+
+**Looking to get started?** John Papa has produced a first look, getting started post at [https://johnpapa.net/static-web-apps-first-look/](https://jasong.us/2ZhCMvC).
