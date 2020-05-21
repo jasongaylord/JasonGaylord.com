@@ -10,13 +10,13 @@ SpaacedOut.ready(function() {
             }
 
             try {
-                var copy_value = event.srcElement.getAttribute("data-copy-text"); //copy_elements[copy_count].getAttribute("data-copy-text");
+                var copy_value = event.srcElement.getAttribute("data-copy-text");
                 await navigator.clipboard.writeText(copy_value);
 
-                event.target.dataset.clipboard = copy_value;
-                setTimeout(() => {
-                delete event.target.dataset.clipboard;
-                }, 1500); 
+                //event.target.dataset.clipboard = copy_value;
+                //setTimeout(() => {
+                //delete event.target.dataset.clipboard;
+                //}, 1500); 
             } catch (error) {
                 console.error("copy failed", error);
             }
