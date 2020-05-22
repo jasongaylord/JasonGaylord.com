@@ -31,3 +31,4 @@ Below you'll find the list of other posts in the series:
 9. [Blockbuster Surviving Covid-19](https://jasong.us/2YduAvE)
 10. [DevAroundTheSun a 24-hour Fundraiser May 12](https://jasong.us/2VWxxzm)
 11. [Repairing My Lenovo Yoga Pro 2](https://bit.ly/2TtEfLv)
+12. [Hard Drive Docking Station](https://bit.ly/2TtEfLv)
