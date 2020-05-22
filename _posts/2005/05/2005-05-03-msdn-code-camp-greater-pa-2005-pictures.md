@@ -3,7 +3,8 @@ title: MSDN Code Camp - Greater PA 2005 Pictures
 author: Jason Gaylord
 date: 2005-05-03 20:18:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/05/03/405544.aspx
-categories: [aspnet-weblog]
+sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/05/03/13395.aspx
+categories: [aspnet-weblog,sqljunkies-blog]
 tags:  [archive]
 bitly: https://jasong.us/2WZu2Y3
 ---

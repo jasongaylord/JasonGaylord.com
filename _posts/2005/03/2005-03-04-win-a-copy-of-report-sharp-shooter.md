@@ -3,7 +3,8 @@ title: Win a copy of Report Sharp-Shooter
 author: Jason Gaylord
 date: 2005-03-04 21:25:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/03/04/385629.aspx
-categories: [aspnet-weblog]
+sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/03/05/8538.aspx
+categories: [aspnet-weblog,sqljunkies-blog]
 tags:  [archive]
 bitly: https://jasong.us/3cykqdD
 ---

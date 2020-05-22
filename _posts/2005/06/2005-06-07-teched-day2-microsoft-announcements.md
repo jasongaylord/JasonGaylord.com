@@ -3,7 +3,8 @@ title: "TechEd Day 2: MS Announces Release Dates For Visual Studio.NET 2005 and 
 author: Jason Gaylord
 date: 2005-06-07 11:00:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/06/07/410664.aspx
-categories: [aspnet-weblog]
+sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/06/07/SQL_Server_2005_Release_Date_Announced.aspx
+categories: [aspnet-weblog,sqljunkies-blog]
 tags:  [archive]
 bitly: https://jasong.us/2T7Kzbt
 ---
