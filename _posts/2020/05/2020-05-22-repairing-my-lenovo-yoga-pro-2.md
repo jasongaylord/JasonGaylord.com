@@ -7,8 +7,6 @@ tags: [covid19,hardware,shopping,technology]
 bitly: https://bit.ly/2TtEfLv
 ---
 
-https://www.jasongaylord.com/blog/2020/05/22/repairing-my-lenovo-yoga-pro-2
-
 Now that the kids are home due to COVID-19 and still doing school work, I needed to make sure everything was in order and that they all had machines to use. I booted up my old Lenovo Yoga Pro 2, which is now 5 years old, and the first issue I found was a battery that wouldn't charge. So, I had to purchase a new battery from Amazon:
 
 <a href="https://amzn.to/2zcj5ea"><img src="https://cdn.jasongaylord.com/images/2020/05/22/battery.jpg" alt="L12M4P21 Laptop Battery" style="width:400px" /></a>
