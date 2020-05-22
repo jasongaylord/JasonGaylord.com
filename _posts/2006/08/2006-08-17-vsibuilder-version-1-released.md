@@ -3,7 +3,8 @@ title: VSIBuilder Version 1.0 Released
 author: Jason Gaylord
 date: 2006-08-14 14:20:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/08/17/VSIBuilder-Version-1.0-Released.aspx
-categories: [aspnet-weblog]
+aspinsiders-link: http://aspinsiders.com/blogs/jgaylord/archive/2006/08/17/86.aspx
+categories: [aspnet-weblog,aspinsiders-blog]
 tags: [archive]
 bitly: https://jasong.us/3dWY9GH
 ---

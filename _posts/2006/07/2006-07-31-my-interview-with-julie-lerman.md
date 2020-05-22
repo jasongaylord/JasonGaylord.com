@@ -3,7 +3,8 @@ title: My Interview with Julie Lerman
 author: Jason Gaylord
 date: 2006-07-31 08:22:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/07/31/My-Interview-with-Julie-Lerman.aspx
-categories: [aspnet-weblog]
+aspinsiders-link: http://aspinsiders.com/blogs/jgaylord/archive/2006/07/31/85.aspx
+categories: [aspnet-weblog,aspinsiders-blog]
 tags: [archive]
 bitly: https://jasong.us/3g2jAIc
 ---
