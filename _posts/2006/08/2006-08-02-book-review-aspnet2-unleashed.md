@@ -10,4 +10,4 @@ bitly: https://jasong.us/2ZdSuYE
 
 Since ASP.NET 1.0, one of the most popular books (if not the most popular book) has been Stephen Walther's ASP.NET Unleashed. Recently, Sams Publishing has released ASP.NET 2.0 Unleashed, again written by Stephen. This review will discuss the good and the bad of the book.
 
-To read the review, visit [http://aspalliance.com/932](http://web.archive.org/web/20080519144348/http://aspalliance.com/932)
+To read the review, visit [http://aspalliance.com/932](http://aspalliance.com/932)

@@ -8,8 +8,6 @@ tags: [archive]
 bitly: https://jasong.us/3g0cZ12
 ---
 
-https://www.jasongaylord.com/blog/2006/05/31/filter-a-gridview-after-the-initial-bind
-
 One of the goals that Microsoft has really pushed for in ASP.NET 2.0 is saving the amount of coding necessary to perform common tasks such as data access. On a recent project, I needed the ability to filter the results on a `GridView` control after I returned the results from my data source. To accomplish this, I added a `DropDownList` and set the `AutoPostBack` property on the `DropDownList` to `True`. I added two values to the list; one that showed all of the results, and one that showed the filtered result set which in my case was a list of exceptions. I also added a `SqlDataSource` object called `MySqlDataSource`. I set the `OnChange` event to a subroutine similar to below:  
   
 ```vb
