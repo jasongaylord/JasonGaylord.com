@@ -3,7 +3,8 @@ title: Announcing... TECHbash 2005
 author: Jason Gaylord
 date: 2005-11-07 17:02:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/11/07/429837.aspx
-categories: [aspnet-weblog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/11/07/Announcing-TECHbash-2005.aspx
+categories: [aspnet-weblog,windowsadvice-blog]
 tags: [archive]
 bitly: https://jasong.us/3fT1JU1
 ---

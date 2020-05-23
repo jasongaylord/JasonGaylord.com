@@ -3,7 +3,8 @@ title: MSDN Code Camp Presentations
 author: Jason Gaylord
 date: 2005-04-22 17:33:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/04/22/403917.aspx
-categories: [aspnet-weblog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/04/22/MSDN-Code-Camp-2005-Presentations.aspx
+categories: [aspnet-weblog,windowsadvice-blog]
 tags:  [archive]
 bitly: https://jasong.us/3cyVHWA
 ---

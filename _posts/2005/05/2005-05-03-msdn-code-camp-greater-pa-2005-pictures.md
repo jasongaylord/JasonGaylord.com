@@ -4,7 +4,8 @@ author: Jason Gaylord
 date: 2005-05-03 20:18:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/05/03/405544.aspx
 sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/05/03/13395.aspx
-categories: [aspnet-weblog,sqljunkies-blog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/05/03/MSDN-Code-Camp-2005-Photos-On-DotNetValley.aspx
+categories: [aspnet-weblog,sqljunkies-blog,windowsadvice-blog]
 tags:  [archive]
 bitly: https://jasong.us/2WZu2Y3
 ---

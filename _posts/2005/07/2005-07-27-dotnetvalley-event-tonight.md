@@ -1,9 +1,10 @@
 ---
-title: .NET Valley Event Tonight!!!
+title: .NET Valley Event Tonight!!! - Exchange 2003 Disaster Recovery
 author: Jason Gaylord
 date: 2005-07-27 14:40:00
 aspnet-weblog-link: http://www.dotnetvalley.com/Events/304.aspx
-categories: [aspnet-weblog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/07/27/July-2005-DotNetValley-Meeting.aspx
+categories: [aspnet-weblog,windowsadvice-blog]
 tags: [archive]
 bitly: https://jasong.us/3fVzQKT
 ---

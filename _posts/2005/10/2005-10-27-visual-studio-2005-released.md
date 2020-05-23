@@ -3,7 +3,8 @@ title: Visual Studio 2005, .NET 2.0, and SQL Server 2005 Released!
 author: Jason Gaylord
 date: 2005-10-27 14:02:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/10/27/428682.aspx
-categories: [aspnet-weblog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/10/27/Visual-Studio-2005-And-SQL-Server-2005.aspx
+categories: [aspnet-weblog,windowsadvice-blog]
 tags: [archive]
 bitly: https://jasong.us/2z326KZ
 ---

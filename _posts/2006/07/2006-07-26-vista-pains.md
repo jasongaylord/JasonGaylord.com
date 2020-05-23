@@ -1,0 +1,11 @@
+---
+title: Vista Pains
+author: Jason Gaylord
+date: 2006-07-26 16:02:00
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/07/26/Vista-July-CTP-Pains.aspx
+categories: [windowsadvice-blog]
+tags: [archive]
+bitly: https://bit.ly/3enfDML
+---
+
+I'm not happy with the July CTP of Vista. There are a bunch of reasons why I'm not satisfied. First, Microsoft does not appear to be working with many of the media companies. Vista's big "thing" is multimedia and unless someone found some hacks, neither Nero or LightScribe can install on Vista. Most home PCs that have been purchased over the last 2 years tend to have LightScribe drives as many home PCs are HP and Compaq purchased from retailers such as Best Buy, Staples, Circuit City, and Home Depot. I'd consider myself to be a fairly advanced PC user. I had an ISO file that I was going to burn to a DVD. Not using Vista much to burn things, I clicked on the ISO and a Burn button lit up on the toolbar. I clicked it thinking it was going to burn the contents of the ISO to the DVD. About 1/2 through the burn I said to myself, "I bet this is just another confusing Microsoft Beta mistake." Sure enough, it burned the ISO file and not the contents to the DVD. I tried to then install NERO so I can burn the ISO directly and NERO is not compatible. I then tried to access the Windows DVD Burning software and I couldn't because I was using a built-in 64MB Intel video card. I'm not seeing why my video card should prevent me from burning a DVD. I then decided to check out some of the other media options and noticed that Media Player changed names to M3b1a 91ay3r or something Greek ("no pun intended"). So, I then tried to access some of the cool features like Windows Flip and Aero and of course it doesn't work. What Vista failed to tell me is what the Windows Experience Level meant. To this point I'm assuming 1.0 means you aren't really using Vista's capabilities. I'd expect that the first time I use the Windows Key + Tab that Windows would say "Hey, if you get your *** to the store to pick up a 128 MB or greater COMPATIBLE video card, I might actually work." Argh! The pains of Vista and I've only skimmed the top layer

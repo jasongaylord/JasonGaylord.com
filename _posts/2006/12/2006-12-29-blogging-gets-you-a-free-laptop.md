@@ -1,0 +1,17 @@
+---
+title: Blogging Gets You A Free Laptop?
+author: Jason Gaylord
+date: 2006-12-29 14:32:00
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/12/27/Error-Adding-Users-in-SharePoint-2003-_2D00_-Resolved.aspx
+categories: [windowsadvice-blog]
+tags: [archive]
+bitly: https://bit.ly/3g8nBuC
+---
+
+I've been reading up on recent blog posts by [Mitch Denny](http://notgartner.wordpress.com/2006/12/27/acer-ferrari-1000-the-unboxing/) lately regarding a laptop he had received from Microsoft. Earlier today, I received my daily email from eWeek containing an [opinion post](http://www.eweek.com/article2/0,1895,2077596,00.asp?kc=EWWKNEMNL122906EOAD) regarding the \*free\* laptops. I followed through all of the links provided and read up on the stories behind the laptops. It seems as though they are tied to a game called the Vanishing Point. Many developers and IT pros have commented about Microsoft's latest gimmick.
+
+Personally, I don't see what the big deal is. Microsoft is not trying to bribe these bloggers, but rather reward them for their contributions. It also seems as though they have handed these out to solicit feedback. Let's face it: when Vista is rolled out in a few weeks in retail fashion, there will still be bugs in Vista. A few of the features found with Vista and Office 2007 include blogging from Word, RSS feeds in the sidebar, etc. Can't it be possible that Microsoft is genuinely attempting to solicit feedback? Why does it always have to be a negative thing when they reward users? [Robert Scoble](http://scobleizer.com/2006/12/27/i-think-the-microsoft-vista-giveaway-is-an-awesome-idea/) brought up some great points as to why he feels Microsoft did no wrong. Probably the best point is that it will help educate the individual and thus educate the mass. Look at Mitch for instance. He has already began [blogging about findings](http://notgartner.wordpress.com/2006/12/29/ferrari-1000-the-windows-experience-index/) with the new laptop. He brought up a pretty good comparison with the three laptops he had at his desk.
+
+Personally, I don't see what the big deal is. Microsoft is not trying to bribe these bloggers, but rather reward them for their contributions. It also seems as though they have handed these out to solicit feedback. Let's face it: when Vista is rolled out in a few weeks in retail fashion, there will still be bugs in Vista. A few of the features found with Vista and Office 2007 include blogging from Word, RSS feeds in the sidebar, etc. Can't it be possible that Microsoft is genuinely attempting to solicit feedback? Why does it always have to be a negative thing when they reward users? [Robert Scoble](http://scobleizer.com/2006/12/27/i-think-the-microsoft-vista-giveaway-is-an-awesome-idea/) brought up some great points as to why he feels Microsoft did no wrong. Probably the best point is that it will help educate the individual and thus educate the mass. Look at Mitch for instance. He has already began [blogging about findings](http://notgartner.wordpress.com/2006/12/29/ferrari-1000-the-windows-experience-index/) with the new laptop. He brought up a pretty good comparison with the three laptops he had at his desk.
+
+So what do you think?

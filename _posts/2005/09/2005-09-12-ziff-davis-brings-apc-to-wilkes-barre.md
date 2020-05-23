@@ -3,7 +3,8 @@ title: Ziff Davis Brings APC to Wilkes-Barre
 author: Jason Gaylord
 date: 2005-09-12 15:09:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/09/12/424921.aspx
-categories: [aspnet-weblog]
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/09/12/ZiffDavis-APC-WilkesBarre-2005.aspx
+categories: [aspnet-weblog,windowsadvice-blog]
 tags: [archive]
 bitly: https://jasong.us/2LsWvQW
 ---
