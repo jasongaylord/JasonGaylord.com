@@ -17,7 +17,7 @@ date: 2020-05-18 08:00:00 -4
 
 By doing this, I'm setting the time to 8am ET. GitHub Pages and Travis-CI operate from UTC time. Currently, Eastern Time is `-4`. So, when using Travis-CI, this post will be "skipped" if built anytime before 8am ET on 5/18/2020. 
 
-![](https://blogartifacts.blob.core.windows.net/images/2020/05/18/travis-ci-skipping-posts.jpg)
+![](https://cdn.jasongaylord.com/images/2020/05/18/travis-ci-skipping-posts.jpg)
 
 In addition, I like to see the time appropriately on the server in my Travis-CI logs just to be sure it matches with what I'd expect when I look at a build. So, I've included the following in my `.travis.yml` file:
 
@@ -29,4 +29,4 @@ before_install:
 
 This sets the build server timezone to Eastern Time and then outputs the date in the log and allows me to see the specific time the build kicked off.
 
-![](https://blogartifacts.blob.core.windows.net/images/2020/05/18/travis-ci-date.jpg)
+![](https://cdn.jasongaylord.com/images/2020/05/18/travis-ci-date.jpg)

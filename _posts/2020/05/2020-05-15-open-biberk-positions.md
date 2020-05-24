@@ -36,4 +36,4 @@ While we started on this journey 4 years ago under the stable, Berkshire Hathawa
 
 These positions are in Wilkes-Barre, PA although based on role and experience, we would consider other options.
 
-![](https://blogartifacts.blob.core.windows.net/images/2020%2F05%2F15%2Fbiberk-careers-page.jpg)
+![](https://cdn.jasongaylord.com/images/2020%2F05%2F15%2Fbiberk-careers-page.jpg)
