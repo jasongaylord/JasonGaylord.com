@@ -14,11 +14,11 @@ Windows Registry Editor Version 5.00
 
 ```
 \[HKEY\_CURRENT\_USER\\Software\\Microsoft\\Internet Explorer\\Main\]  
-"Start Page"="[http://www.jasongaylord.com](http://web.archive.org/web/20080907085200/http://www.jasongaylord.com/)"
+"Start Page"="[http://www.jasongaylord.com](http://www.jasongaylord.com/)"
 ```
 
 ```
 \[HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Internet Explorer\\Main\]  
-"Default\_Page\_URL"="[http://www.jasongaylord.com](http://web.archive.org/web/20080907085200/http://www.jasongaylord.com/)"  
-"Start Page"="[http://www.jasongaylord.com](http://web.archive.org/web/20080907085200/http://www.jasongaylord.com/)"
+"Default\_Page\_URL"="[http://www.jasongaylord.com](http://www.jasongaylord.com/)"  
+"Start Page"="[http://www.jasongaylord.com](http://www.jasongaylord.com/)"
 ```

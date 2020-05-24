@@ -3,7 +3,7 @@ title: Announcing TECHbash 2007 (Northeastern Pennsylvania)
 author: Jason Gaylord
 date: 2007-04-09 23:59:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/04/09/announcing-techbash-2007-northeastern-pennsylvania.aspx
-windowsadvice-link: http://web.archive.org/web/20080502201451/http://windowsadvice.com/blogs/jason_n_gaylord/archive/2007/04/09/TECHbash-2007-Announced.aspx
+windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2007/04/09/TECHbash-2007-Announced.aspx
 categories: [aspnet-weblog,windowsadvice-blog]
 tags: [archive]
 bitly: https://jasong.us/2Ts0l18
