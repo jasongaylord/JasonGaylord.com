@@ -1,7 +1,7 @@
 ---
 title: Hard Drive Docking Station
 author: Jason Gaylord
-date: 2020-05-22
+date: 2020-05-23
 categories: [covid19,hardware,shopping,technology]
 tags: [covid19,hardware,shopping,technology]
 bitly: https://bit.ly/2WTIjXE
