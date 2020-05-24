@@ -20,9 +20,9 @@ and the original location for Cheers
 
 The content was really good. [Joel Spolsky](http://twitter.com/spolsky) gave a really good keynote to kick off the day talking about simplicity of an application versus features and defining the fine line between to keep users interested while providing top functionality.
 
-[Ned Batchelder](http://www.nedbatchelder.com/) followed up with an overview of Python development. He showed a basic spell check suggestion function. Some of the functionality was really neat. I wish some of the shortcuts could be implemented in C#. For example the simplicity of combining two lists and obtaining only the unique items. While his presentation style was not as good as Joel’s, he actually had me interested in the talk about Python.
+[Ned Batchelder](http://www.nedbatchelder.com/) followed up with an overview of Python development. He showed a basic spell check suggestion function. Some of the functionality was really neat. I wish some of the shortcuts could be implemented in C#. For example the simplicity of combining two lists and obtaining only the unique items. While his presentation style was not as good as Joel's, he actually had me interested in the talk about Python.
 
-[Dan Pilone](http://twitter.com/danpilone) followed up to discuss iPhone development. He emphasized the iPhone development process including the “2 week” approval/denial process.
+[Dan Pilone](http://twitter.com/danpilone) followed up to discuss iPhone development. He emphasized the iPhone development process including the "2 week" approval/denial process.
 
 It went back to Joel to talk about the the [Stack Exchange](http://stackexchange.com/) network and [Careers.StackOverflow.com](http://careers.stackoverflow.com/). It was the [first time Careers @ StackOverflow was announced](http://twitter.com/jgaylord/status/4687862976). In fact, [Jeff was still doing some work](http://twitter.com/codinghorror/status/4689709228) on it. FogBugz and Kiln. Having used FogBugz awhile back, I was impressed with some of the new features in FogBugz 7. Kiln looks really cool too. I wish they had the functionality for Subversion and/or TFS. I also wish there was a version for internal use rather than a hosted cloud offering.
 
@@ -30,6 +30,6 @@ After lunch, [Patrick Hynds](http://patrickhynds.sys-con.com/) and [Chris Bowen]
 
 [John Resig](http://ejohn.org/) came up next to talk about JavaScript Validation. He covered many validation frameworks and showed why it was so difficult to test the various frameworks. He also talked about [Test Swarm](http://ejohn.org/blog/test-swarm-alpha-open/).
 
-Finally, [Miguel de Icaza](http://tirania.org/blog/)  spoke about Mono. Unfortunately, I had to miss Miguel’s talk to try and beat the traffic.
+Finally, [Miguel de Icaza](http://tirania.org/blog/)  spoke about Mono. Unfortunately, I had to miss Miguel's talk to try and beat the traffic.
 
-Overall, the conference was pretty good. I thought some areas could have been blown out more. The organization of the conference could have been a bit better. I thought as a paying participant that they would have requested something from me before entering. It would have been really easy to just enter without paying. Maybe that’s something that will be corrected going forward, but I’m not sure.
+Overall, the conference was pretty good. I thought some areas could have been blown out more. The organization of the conference could have been a bit better. I thought as a paying participant that they would have requested something from me before entering. It would have been really easy to just enter without paying. Maybe that's something that will be corrected going forward, but I'm not sure.

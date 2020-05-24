@@ -8,4 +8,4 @@ tags: [archive]
 bitly: https://jasong.us/3efG6vF
 ---
 
-I recently setup an account with BlogMailr.com. It’s difficult to get the time right now to blog on the site, so why not use email? Thanks to the folks over at Telligent for providing this cool service. Very nice!
+I recently setup an account with BlogMailr.com. It's difficult to get the time right now to blog on the site, so why not use email? Thanks to the folks over at Telligent for providing this cool service. Very nice!

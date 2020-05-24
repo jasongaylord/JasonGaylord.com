@@ -29,7 +29,7 @@ Architecture and Projects
 
 ASP.NET and ASP.NET MVC
 
-- [ASP.NET - Blumin’ Dynamic Data](http://misfitgeek.com/blog/aspnet/blumin-rsquo-dynamic-data/) – Tweeted by [Joe Stagner](http://twitter.com/MisfitGeek)
+- [ASP.NET - Blumin' Dynamic Data](http://misfitgeek.com/blog/aspnet/blumin-rsquo-dynamic-data/) – Tweeted by [Joe Stagner](http://twitter.com/MisfitGeek)
 - [ASP.NET - By Design bugs](http://dotnet.org.za/codingsanity/archive/2009/07/05/by-design-bugs.aspx) – Tweeted by [Scott Koon](http://twitter.com/lazycoder)
 - [ASP.NET - Global Application settings and the web.config file](http://misfitgeek.com/blog/aspnet/global-application-settings-and-the-web-config-file/) – Tweeted by [Joe Stagner](http://twitter.com/MisfitGeek)
 - [ASP.NET MVC - ASP.NET MVC: How to combine scripts and other resources](http://weblogs.asp.net/gunnarpeipman/archive/2009/07/04/asp-net-mvc-how-to-combine-scripts-and-other-resources.aspx) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
@@ -41,7 +41,7 @@ ASP.NET and ASP.NET MVC
 
 Desktop and Server Technology
 
-- [Browser – Bored with Firefox 3.5? Here’s Namoroka (3.6)](https://wiki.mozilla.org/Firefox/Namoroka "https://wiki.mozilla.org/Firefox/Namoroka") – Tweeted by [Jon Galloway](http://twitter.com/jongalloway)
+- [Browser – Bored with Firefox 3.5? Here's Namoroka (3.6)](https://wiki.mozilla.org/Firefox/Namoroka "https://wiki.mozilla.org/Firefox/Namoroka") – Tweeted by [Jon Galloway](http://twitter.com/jongalloway)
 - [Cloud - Unified Cloud Interface Project (UCI)](http://groups.google.com/group/unifiedcloud) – Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick)
 - [Mac - 25 Free Mac Apps That Will Boost Your Productivity](http://www.smashingmagazine.com/2009/07/05/25-open-source-mac-apps-that-will-boost-your-productivity/) – Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick)
 - [Office - Register Office 2007 file format MIME types on servers](http://blogs.technet.com/office_resource_kit/archive/2009/06/30/register-office-2007-file-format-mime-types-on-servers.aspx) – Tweeted by [Laura Rogers](http://twitter.com/WonderLaura)
@@ -101,12 +101,12 @@ Web Design and Graphics
 - [Graphics - Great Designers Steal?](http://www.webdesignerdepot.com/2009/07/great-designers-steal/) – Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick)
 - [Web Design - 4 Tips and 17 Examples for Spectacular Login](http://www.webair.it/blog/2009/07/06/4-tips-and-17-examples-for-spectacular-login/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [Web Design - 10 Principles Of Navigation Design And Why Quality Navigation Is So Critical](http://www.onextrapixel.com/2009/07/03/10-principles-of-navigation-design-and-why-quality-navigation-is-so-critical/) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
-- [Web Design - A Designer’s Guide To Accessibility and 508 Compliance](http://www.viget.com/inspire/a-designers-guide-to-accessibility-and-508-compliance/) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
+- [Web Design - A Designer's Guide To Accessibility and 508 Compliance](http://www.viget.com/inspire/a-designers-guide-to-accessibility-and-508-compliance/) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
 - [Web Design - An Unofficial Q&A about the Discontinuation of the XHTML2 WG](http://hsivonen.iki.fi/xhtml2-html5-q-and-a/) – Tweeted by [Mike Amundsen](http://twitter.com/mamund)
 - [Web Design - Features over Usability : How not to design a web application](http://community.irritatedvowel.com/blogs/pete_browns_blog/archive/2009/07/06/Features-over-Usability-_3A00_-How-not-to-design-a-web-application.aspx) – Tweeted by [Pete Brown](http://twitter.com/Pete_Brown)
 - [Web Design – HTML 5 Cheat Sheet (PDF)](http://www.smashingmagazine.com/2009/07/06/html-5-cheat-sheet-pdf/) – Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
 - [Web Design – HTML 5 is a Big Deal for Enterprise Developers](http://cfossguy.blogspot.com/2009/07/html5-is-big-deal-for-enterprise.html) – Tweeted by [DZone](http://twitter.com/DZone)
-- [Web Design – HTML 5 Won’t Be Ready Until 2022. Yes, 2022.](http://www.webmonkey.com/blog/HTML_5_Won_t_Be_Ready_Until_2022DOT_Yes__2022DOT) – Tweeted by [Darcy Lussier](http://twitter.com/Darcy_Lussier)
+- [Web Design – HTML 5 Won't Be Ready Until 2022. Yes, 2022.](http://www.webmonkey.com/blog/HTML_5_Won_t_Be_Ready_Until_2022DOT_Yes__2022DOT) – Tweeted by [Darcy Lussier](http://twitter.com/Darcy_Lussier)
 - [Web Design - That's kind of scary: .msonormal and .smalltext are among Top 20 most popular classes in markup](http://code.google.com/intl/de-DE/webstats/2005-12/classes.html) – Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
 
 Miscellaneous Technology News
@@ -118,7 +118,7 @@ Other Link Lists
 
 - [Dew Drop – July 6, 2009](http://www.alvinashcraft.com/2009/07/06/dew-drop-july-6-2009/) – Tweeted by [Alvin Ashcraft](http://www.twitter.com/alvinashcraft)
 
-**Today’s Birthdays**
+**Today's Birthdays**
 
 - [Sarah Dutkiewicz](http://twitter.com/sadukie) – Ohio, United States
 
@@ -128,7 +128,7 @@ Other Link Lists
 - [Redmond, WA – Project Natal, Microsoft](http://www.microsoft-entertainment-jobs.com/go/Introducing-Project-Natal/150565/) – Tweeted on 7/1/2009
 - [Redmond, WA - Software Development Engineer in Test Job, Microsoft](http://www.microsoft-entertainment-jobs.com/job/REDMOND-Software-Development-Engineer-in-Test-Job-WA-98074/528316/) - Tweeted on 7/1/2009
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009
 - [Des Moines, IA – Iowa Code Camp](http://iowacodecamp.com/default.aspx) – November 7th, 2009

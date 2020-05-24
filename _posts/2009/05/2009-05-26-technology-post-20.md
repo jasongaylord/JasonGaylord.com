@@ -10,9 +10,9 @@ bitly: https://bit.ly/3bPiSL2
 
 <small>Edition: #20</small>
 
-Phew! After an extra day off, there’s so many more links. Can’t wait to see the post when I take off two days in the middle of June.
+Phew! After an extra day off, there's so many more links. Can't wait to see the post when I take off two days in the middle of June.
 
-**Daily Joke** \- [Video parodies Microsoft’s vision of the future](http://venturebeat.com/2009/05/25/video-parodies-microsofts-vision-of-the-future/) (Suggested by [Thomas Johansen](http://twitter.com/thomasjo))
+**Daily Joke** \- [Video parodies Microsoft's vision of the future](http://venturebeat.com/2009/05/25/video-parodies-microsofts-vision-of-the-future/) (Suggested by [Thomas Johansen](http://twitter.com/thomasjo))
 
 .NET Languages – C# and Visual Basic
 
@@ -120,7 +120,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [Hands On MVC Training (Philadelphia, PA) – May 29th](http://www.platinumbay.com/blogs/dotneticated/archive/2009/05/18/training-hands-on-introduction-to-asp-net-mvc-development.aspx)
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009

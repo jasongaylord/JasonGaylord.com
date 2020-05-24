@@ -8,7 +8,7 @@ tags: [archive]
 bitly: https://bit.ly/3bV7FZf
 ---
 
-Since its inception in 2005, TECHbash has evolved into the premier technology conference in Northeastern Pennsylvania. Join an estimated 300 Developers, IT Professionals, CIO’s and Industry Experts from Maryland, New Jersey, New York, and host-state,...
+Since its inception in 2005, TECHbash has evolved into the premier technology conference in Northeastern Pennsylvania. Join an estimated 300 Developers, IT Professionals, CIO's and Industry Experts from Maryland, New Jersey, New York, and host-state,...
 
 {% include warning-notice.html %}
 Unfortunately, the complete post has not been captured so only a fragment is present.

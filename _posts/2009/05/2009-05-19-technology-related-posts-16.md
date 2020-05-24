@@ -16,7 +16,7 @@ bitly: https://bit.ly/2AK8XcL
 
 - [API - Windows 7 Managed Code APIs](http://windowsteamblog.com/blogs/developers/archive/2009/05/18/windows-7-managed-code-apis.aspx) - Yochay Kiriaty (Suggested by [Peter Laudati](http://twitter.com/jrzyshr))
 - [General - Creating a folder inside the ZIP file with System.IO.Packaging](http://alpascual.com/blog/creating-a-folder-inside-the-zip-file-with-system-io-packaging/) - [Al Pascual](http://twitter.com/alpascual)
-- [General - “foreach” vs “ForEach”](http://blogs.msdn.com/ericlippert/archive/2009/05/18/foreach-vs-foreach.aspx) - Eric Lippert (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [General - "foreach" vs "ForEach"](http://blogs.msdn.com/ericlippert/archive/2009/05/18/foreach-vs-foreach.aspx) - Eric Lippert (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [General - Multithreading: more on ManualResetEvent](http://msmvps.com/blogs/luisabreu/archive/2009/05/19/multithreading-more-on-manualresetevent.aspx) – [Luis Abreu](http://twitter.com/luisabreu)
 - [General - Why Isn't My Encryption.. Encrypting?](http://www.codinghorror.com/blog/archives/001267.html) – [Jeff Atwood](http://twitter.com/codinghorror)
 
@@ -31,7 +31,7 @@ Architecture, Design Patterns, and Testing
 ASP.NET and ASP.NET MVC
 
 - [ASP.NET - Creating 3DBarChart using ASP.NET 2.0](http://www.codeproject.com/KB/aspnet/Creating3DBarChart.aspx) - Ravikumar Commuri
-- [ASP.NET - Reasons ASP.NET Webforms doesn’t works](http://www.techunits.com/blog/2009/05/15/reasons-aspnet-webforms-doesnt-works.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [ASP.NET - Reasons ASP.NET Webforms doesn't works](http://www.techunits.com/blog/2009/05/15/reasons-aspnet-webforms-doesnt-works.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [ASP.NET MVC - Code and Slides for Best of Mix 09 Presentation](http://weblogs.asp.net/dwahlin/archive/2009/05/18/asp-net-mvc-code-and-slides-for-best-of-mix-09-presentation.aspx) - [Dan Wahlin](http://twitter.com/DanWahlin)
 - [ASP.NET MVC - For Visual Studio 2010 Beta 1](http://haacked.com/archive/2009/05/18/aspnetmvc-vs2010-beta1.aspx) – [Phil Haack](http://twitter.com/haacked)
 - [ASP.NET MVC - Gravatar Helpers](http://hackingon.net/post/ASPNET-MVC-Gravatar-Helpers.aspx) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -60,7 +60,7 @@ Web Design, Layout, and Graphic Design
 - [General - 8 Online Text Editors To Consider For Your Projects](http://blog.themeforest.net/resources/8-online-text-editors-to-consider-for-your-projects/) - Sebastian Bratu (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [General - Top 10 Mistakes Made By Web Developers](http://blogs.msdn.com/petel/archive/2009/05/18/teched09-top-10-mistakes-made-by-web-developers.aspx) – Pete LePage
 - [UML – Create UML diagrams Online using yUML](http://yuml.me/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [UML - “Practical UML™: A Hands-On Introduction for Developers” from the Embarcadero Developer Network](http://coolthingoftheday.blogspot.com/2009/05/practical-uml-hands-on-introduction-for.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [UML - "Practical UML™: A Hands-On Introduction for Developers" from the Embarcadero Developer Network](http://coolthingoftheday.blogspot.com/2009/05/practical-uml-hands-on-introduction-for.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
 JavaScript and JavaScript Libraries
 
@@ -82,7 +82,7 @@ Mobile Devices
 Podcasts and Videos
 
 - [API - Sensor and Location .NET Library for Windows 7](http://channel9.msdn.com/shows/Continuum/SensorLocationLibraryWin7/) – [Channel 9](http://twitter.com/ch9)
-- [General - I. M. Wright podcast: “Crash dummies: Resilience”](http://blogs.msdn.com/microsoft_press/archive/2009/05/19/i-m-wright-podcast-crash-dummies-resilience.aspx) (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
+- [General - I. M. Wright podcast: "Crash dummies: Resilience"](http://blogs.msdn.com/microsoft_press/archive/2009/05/19/i-m-wright-podcast-crash-dummies-resilience.aspx) (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
 - [JavaScript - JSConf audio podcasts](http://jsmag.com/blog/2009/05/jsconf-audio-podcasts-2/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [RIA - .NET RIA Services at TechEd 2009](http://blogs.msdn.com/brada/archive/2009/05/18/net-ria-services-at-teched-2009.aspx) – Brad Abrams
 - [SharePoint - TDD with SharePoint – the best movie ever](http://weblogs.asp.net/rosherove/archive/2009/05/19/tdd-with-sharepoint-the-best-movie-ever.aspx) - Roy Osherove
@@ -126,7 +126,7 @@ Other Resources
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

@@ -73,7 +73,7 @@ Web Design and Graphics
 - [CSS - CSS cascade - a simple step-by-step presentation](http://www.maxdesign.com.au/2009/06/30/css-cascade/) - Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
 - [Graphics - Best of the Web - June 2009](http://psd.tutsplus.com/articles/web/best-of-the-web-june-2009/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [Web Design - 10 Things Every Web Designer Just Starting Out Should Know](http://sixrevisions.com/web_design/10-things-every-web-designer-just-starting-out-should-know/) – Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
-- [Web Design - Best Practices For Effective Design Of “About me”-Pages](http://www.smashingmagazine.com/2009/07/01/best-practices-for-effective-design-of-about-us-pages/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
+- [Web Design - Best Practices For Effective Design Of "About me"-Pages](http://www.smashingmagazine.com/2009/07/01/best-practices-for-effective-design-of-about-us-pages/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [Web Design - Is it time to move beyond 960?](http://cameronmoll.com/archives/2009/04/is_it_time_to_move_beyond_960/) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
 
 Miscellaneous Technology News
@@ -87,7 +87,7 @@ Miscellaneous Technology News
 - [Redmond, WA – Project Natal, Microsoft](http://www.microsoft-entertainment-jobs.com/go/Introducing-Project-Natal/150565/) – Tweeted on 7/1/2009
 - [Redmond, WA - Software Development Engineer in Test Job, Microsoft](http://www.microsoft-entertainment-jobs.com/job/REDMOND-Software-Development-Engineer-in-Test-Job-WA-98074/528316/) - Tweeted on 7/1/2009
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events this Week](http://blogs.msdn.com/gduthie/archive/2009/06/29/events-this-week-june-29th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

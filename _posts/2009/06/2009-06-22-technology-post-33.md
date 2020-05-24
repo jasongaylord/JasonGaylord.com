@@ -71,7 +71,7 @@ JavaScript and JavaScript Libraries
 - [JavaScript - 50 Fresh JavaScript Tools That Will Improve Your Workflow](http://www.smashingmagazine.com/2009/06/21/50-fresh-javascript-tools-that-will-improve-your-workflow/) - [Smashing Magazine](http://twitter.com/smashingmag)
 - [jQuery - Create Featured Content Slider Using jQuery UI](http://webdeveloperplus.com/jquery/featured-content-slider-using-jquery-ui/) – Web Developer Plus (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery - jQuery - Select elements - tips and tricks](http://myphpetc.blogspot.com/2009/03/jquery-select-elements-tips-and-tricks.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [jQuery - “Outside the Box” Navigation with jQuery](http://net.tutsplus.com/tutorials/javascript-ajax/jquery-os-x-style-dock-and-stack-navigation/) – NetTuts (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [jQuery - "Outside the Box" Navigation with jQuery](http://net.tutsplus.com/tutorials/javascript-ajax/jquery-os-x-style-dock-and-stack-navigation/) – NetTuts (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery - Top10 Simplest jQuery Tutorials](http://www.webair.it/blog/2009/06/22/top10-simplest-jquery-tutorials/) – WebAir Blog (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery - Tutorial: Use the Flickr API, Javascript (jQuery), AJAX and JSON to Build Detailed a Photo Wall](http://kylerush.net/javascript/tutorial-flickr-api-javascript-jquery-ajax-json-build-detailed-photo-wall/) – Kyle Rush (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
 - [jQuery Plugin - 8 jQuery plugin to enhance your HTML form element](http://www.dreamcss.com/2009/06/jquery-plugin-to-enhance-your-html-form.html) – Dream CSS (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -130,7 +130,7 @@ Miscellaneous Technology Announcements and News
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009
 - [Des Moines, IA – Iowa Code Camp](http://iowacodecamp.com/default.aspx) – November 7th, 2009

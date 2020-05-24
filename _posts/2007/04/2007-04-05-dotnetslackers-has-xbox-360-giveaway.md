@@ -8,7 +8,7 @@ tags: [archive]
 bitly: https://jasong.us/3cPGJvu
 ---
 
-Repost from DotNetSlackers and .NET Valley : "DotNetSlackers is proud to present its authors with the chance to win 1 of 3 Xbox 360 Core Systems (worth 299$). Simply write an article for DotNetSlackers, following our Submission Guidelines, and you’ll...
+Repost from DotNetSlackers and .NET Valley : "DotNetSlackers is proud to present its authors with the chance to win 1 of 3 Xbox 360 Core Systems (worth 299$). Simply write an article for DotNetSlackers, following our Submission Guidelines, and you'll...
 
 {% include warning-notice.html %}
 Unfortunately, the complete post has not been captured so only a fragment is present.

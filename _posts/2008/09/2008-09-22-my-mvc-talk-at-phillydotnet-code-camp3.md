@@ -8,8 +8,8 @@ tags: [archive]
 bitly: https://bit.ly/2WShwLp
 ---
 
-I’ll be presenting at the third code camp of 2008 for the Philly.NET code camp. Apparently, several other Microsoft MVPs and ASPInsiders will as well. It should be a great time. Be sure to register on phillydotnet.org.
+I'll be presenting at the third code camp of 2008 for the Philly.NET code camp. Apparently, several other Microsoft MVPs and ASPInsiders will as well. It should be a great time. Be sure to register on phillydotnet.org.
 
-Anyway, if you’ll be coming to my MVC talk, be sure to check back on my blog before the event. I’ll be posting some source code that will allow attendees to follow along during my talk.
+Anyway, if you'll be coming to my MVC talk, be sure to check back on my blog before the event. I'll be posting some source code that will allow attendees to follow along during my talk.
 
 Hope to see you there!

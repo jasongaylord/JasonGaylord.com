@@ -56,7 +56,7 @@ Desktop and Server Technology
 - [Google - Customize Google Using Server-Side Scripts](http://googlesystem.blogspot.com/2009/05/customize-google-using-server-side.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Hardware - Fast Food Apple Pies and Why Netbooks Suck](http://www.joeydevilla.com/2009/05/26/fast-food-apple-pies-and-why-netbooks-suck/) – Joey deVilla (Suggested by [Brad Wilson](http://twitter.com/bradwilson))
 - [Search - Bing! Microsoft Prepares For War With A Revamped Search Engine (Screenshots)](http://www.techcrunch.com/2009/05/28/bing-microsoft-prepares-for-war-with-a-revamped-search-engine-screenshots/) – TechCrunch (Suggested by [George Dearing](http://twitter.com/GeorgeDearing))
-- [Search - Microsoft’s New Search at Bing.com Helps People Make Better Decisions](http://www.microsoft.com/presspass/press/2009/may09/05-28NewSearchPR.mspx) – [Microsoft](http://microsoft.com/) (Suggested by [Jennifer Marsman](http://twitter.com/jennifermarsman))
+- [Search - Microsoft's New Search at Bing.com Helps People Make Better Decisions](http://www.microsoft.com/presspass/press/2009/may09/05-28NewSearchPR.mspx) – [Microsoft](http://microsoft.com/) (Suggested by [Jennifer Marsman](http://twitter.com/jennifermarsman))
 - [Search - Woz-Bing! Apple Co-Founder a "Big Fan" of Microsoft's New Search Engine](http://finance.yahoo.com/tech-ticker/article/255750/Woz-Bing!-Apple-Co-Founder-a-%22Big-Fan%22-of-Microsofts-New-Search-Engine) – Yahoo!
 - [SQL - Pivots to the Rescue – Providing Flexible SQL Server Queries](http://weblogs.asp.net/dwahlin/archive/2009/05/28/pivots-to-the-rescue-providing-flexible-sql-server-queries.aspx) – [Dan Wahlin](http://twitter.com/DanWahlin)
 - [Surface - Microsoft Touch Pack for Windows 7](http://blogs.msdn.com/surface/archive/2009/05/27/microsoft-touch-pack-for-windows-7.aspx) – Surface Blog (Suggested by [Jennifer Marsman](http://twitter.com/jennifermarsman))
@@ -108,7 +108,7 @@ Silverlight, WPF, and RIA
 
 Social Networking and Community Platforms
 
-- [General - Don’t Miss This One: “31 Days to Build a Better Blog” Workbook](http://www.dailyblogtips.com/build-a-better-blog-workbook/) – Daily Blog Tips (Suggested by [Simone Chiaretta](http://twitter.com/simonech))
+- [General - Don't Miss This One: "31 Days to Build a Better Blog" Workbook](http://www.dailyblogtips.com/build-a-better-blog-workbook/) – Daily Blog Tips (Suggested by [Simone Chiaretta](http://twitter.com/simonech))
 - [General - Skype 4.1 beta: Share your Windows screen](http://download.cnet.com/8301-2007_4-10250076-12.html) – CNET
 - [General - Social Networking Media ROI Calculator](http://www.dragonsearchmarketing.com/social-media-roi-calculator.htm) (Suggested by [George Dearing](http://twitter.com/GeorgeDearing))
 - [Twitter - 50 Web 2.0 Twitter Applications & Sites](http://pelfusion.com/showcases/50-web-20-twitter-applications-sites/)
@@ -117,7 +117,7 @@ Social Networking and Community Platforms
 
 Technology Deals
 
-- 25% discount code on June Headspring training (Suggested by Jeffrey Palermo) - :  Call 512-459-2260 and ask for Talisha.  Give her the super-secret coupon code “palermo” to register with a 25% discount. - [http://www.headspringsystems.com/](http://www.headspringsystems.com/ "http://www.headspringsystems.com/")
+- 25% discount code on June Headspring training (Suggested by Jeffrey Palermo) - :  Call 512-459-2260 and ask for Talisha.  Give her the super-secret coupon code "palermo" to register with a 25% discount. - [http://www.headspringsystems.com/](http://www.headspringsystems.com/ "http://www.headspringsystems.com/")
 
 Visual Studio and Other IDEs
 
@@ -128,7 +128,7 @@ Miscellaneous Technology Announcements and News
 - [AOL Spinoff Approved Last Night by Time Warner Board: Here Are the Inside Details (Not in the Press Release)](http://kara.allthingsd.com/20090528/aol-spin-off-approved-last-night-by-time-warner-board-heres-the-inside-details-not-in-the-press-release/) – All Things Digital (Suggested by [Kirk Allen Evans](http://twitter.com/kaevans))
 - [Application Development: 19 Reasons Why Microsoft Is Huge with Developers (and 1 Reason Why Not)](http://www.eweek.com/c/a/Application-Development/19-Reasons-Why-Microsoft-is-Huge-with-Developers-And-One-Reason-Why-Not-144136/) – eWeek (Suggested by [Jeff Sandquist](http://twitter.com/jeffsand))
 - [Gears 0.5.21.0 Released](http://gearsblog.blogspot.com/2009/05/gears-05210-released.html) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
-- [Google Wave: What Might Email Look Like If It Were Invented Today?](http://radar.oreilly.com/2009/05/google-wave-what-might-email-l.html) – Tim O’Reilly (Suggested by [Alan Stevens](http://twitter.com/alanstevens))
+- [Google Wave: What Might Email Look Like If It Were Invented Today?](http://radar.oreilly.com/2009/05/google-wave-what-might-email-l.html) – Tim O'Reilly (Suggested by [Alan Stevens](http://twitter.com/alanstevens))
 - [How To Create A Modern Press Release](http://www.sitepoint.com/article/modern-press-release/) - Brandon Eley (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
 - [Refactory.org](http://www.refactory.org/ "http://www.refactory.org/")
 - [The Future of the Parallelism and its Challenges](http://highscalability.com/future-parallelism-and-its-challenges) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
@@ -141,7 +141,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [Hands On MVC Training (Philadelphia, PA) – May 29th](http://www.platinumbay.com/blogs/dotneticated/archive/2009/05/18/training-hands-on-introduction-to-asp-net-mvc-development.aspx)
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009

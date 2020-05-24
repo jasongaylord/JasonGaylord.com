@@ -8,4 +8,4 @@ tags: [archive]
 bitly: https://jasong.us/2WAZ89N
 ---
 
-The 2006 asp.netPRO Readers’ Choice Awards winners have been announced. You can find a full listing at www.aspnetpro.com.
+The 2006 asp.netPRO Readers' Choice Awards winners have been announced. You can find a full listing at www.aspnetpro.com.

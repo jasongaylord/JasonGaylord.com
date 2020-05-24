@@ -10,7 +10,7 @@ bitly: https://bit.ly/2zlP9MA
 
 <small>Edition: #43</small>
 
-**Please Note: I am in the process of converting this daily blog post over to a new web application. While my posting hasn’t been as frequent, I have big plans for continuing the Technology Post. Thanks in advance for your patience in this matter.**
+**Please Note: I am in the process of converting this daily blog post over to a new web application. While my posting hasn't been as frequent, I have big plans for continuing the Technology Post. Thanks in advance for your patience in this matter.**
 
 **Daily Oddball** – [10 Odd Things you can buy from Amazon](http://www.random-good-stuff.com/2009/07/14/odd-things-you-can-buy-from-amazon/) – Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick)
 
@@ -48,7 +48,7 @@ Desktop and Server Technology
 
 JavaScript and JavaScript Libraries
 
-- [JavaScript - Create a Twitter-Like “Load More” Widget](http://net.tutsplus.com/tutorials/javascript-ajax/create-a-twitter-like-load-more-widget/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
+- [JavaScript - Create a Twitter-Like "Load More" Widget](http://net.tutsplus.com/tutorials/javascript-ajax/create-a-twitter-like-load-more-widget/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [jQuery - Making an Expanding Code Box](http://diggingintowordpress.com/2009/07/making-an-expanding-code-box/) – Tweeted by [jQuery](http://twitter.com/jquery)
 - [jQuery - Swipe away, then quickly flip with simple jQuery plugins](http://ajaxian.com/archives/swipe-flip-iphone) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 
@@ -97,11 +97,11 @@ Other Link Lists
 
 - [Dew Drop – July 16, 2009](http://www.alvinashcraft.com/2009/07/16/dew-drop-july-16-2009/) – Tweeted by [Alvin Ashcraft](http://twitter.com/alvinashcraft)
 
-**Today’s Birthdays**
+**Today's Birthdays**
 
 - [Rich Campbell](http://twitter.com/richcampbell), Coquitlam, BC
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009
 - [Des Moines, IA – Iowa Code Camp](http://iowacodecamp.com/default.aspx) – November 7th, 2009

@@ -19,9 +19,9 @@ Alternate Languages – Java, Rails, and other Languages
 
 Architecture, Design Patterns, and Testing
 
-- [Architecture - I Love Code Generation – Why Don’t You?](http://professionalaspnet.com/archive/2009/05/23/I-Love-Code-Generation-_1320_-Why-Don_1920_t-You_3F00_.aspx) – [Chris Love](http://twitter.com/ChrisLove)
+- [Architecture - I Love Code Generation – Why Don't You?](http://professionalaspnet.com/archive/2009/05/23/I-Love-Code-Generation-_1320_-Why-Don_1920_t-You_3F00_.aspx) – [Chris Love](http://twitter.com/ChrisLove)
 - [Design Patterns - Anti-Patterns and Worst Practices – Monster Objects](http://www.lostechies.com/blogs/chrismissal/archive/2009/05/28/anti-patterns-and-worst-practices-monster-objects.aspx) – [Chris Missal](http://twitter.com/lostechies)
-- [ORM - Why Defer Loading in Entity Framework isn’t going to work](http://ayende.com/Blog/archive/2009/05/29/why-defer-loading-in-entity-framework-isnrsquot-going-to-work.aspx) - Ayende Rahien
+- [ORM - Why Defer Loading in Entity Framework isn't going to work](http://ayende.com/Blog/archive/2009/05/29/why-defer-loading-in-entity-framework-isnrsquot-going-to-work.aspx) - Ayende Rahien
 - [Testing - ELMAH for Error Logging and Reporting in ASP.NET & ASP.NET MVC](http://devlicio.us/blogs/billy_mccafferty/archive/2009/05/28/elmah-for-error-logging-and-reporting-in-asp-net-amp-asp-net-mvc.aspx) – Billy McCafferty (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Testing – NBuilder](http://code.google.com/p/nbuilder/) (Suggested by [Craig Shoemaker](http://twitter.com/craigshoemaker))
 - [Testing - Pex 0.13 Released: Unit Tests as Inputs, Fuzzing and Visual Studio 2010 Beta 1, F# Beta 1 support](http://blogs.msdn.com/nikolait/archive/2009/05/28/pex-0-13-released-unit-tests-as-inputs-fuzzing-and-visual-studio-2010-beta-1-f-beta-1-support.aspx) – Nikolai Tillmann (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -40,7 +40,7 @@ Books
 
 Desktop and Server Technology
 
-- [Hardware - Kicking AMD’s Dead Carcass](http://statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/379/Kicking-AMDrsquos-Dead-Carcass.aspx) - [Jason Massie](http://twitter.com/statisticsio)
+- [Hardware - Kicking AMD's Dead Carcass](http://statisticsio.com/Home/tabid/36/articleType/ArticleView/articleId/379/Kicking-AMDrsquos-Dead-Carcass.aspx) - [Jason Massie](http://twitter.com/statisticsio)
 - [Surface - Developing UI for Microsoft Surface](http://misfitgeek.com/blog/developing-ui-for-microsoft-surface/) – [Joe Stagner](http://twitter.com/MisfitGeek)
 - [Virtualization - Installing VisualSVN in a Virtual PC](http://weblogs.asp.net/jgaylord/archive/2009/05/29/installing-visualsvn-in-a-virtual-pc.aspx) – [Jason Gaylord](http://twitter.com/jgaylord)
 
@@ -94,7 +94,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

@@ -24,8 +24,8 @@ CSS
 
 General Technology
 
-- [iPhone “lite” and iPhone “media pad” might be Verizon Wireless devices](http://www.msnbc.msn.com/id/30459034/) - MSNBC
-- [Obama Announces President’s Council on Science and Technology](http://www.ostp.gov/cs/pcast) – ostp.gov
+- [iPhone "lite" and iPhone "media pad" might be Verizon Wireless devices](http://www.msnbc.msn.com/id/30459034/) - MSNBC
+- [Obama Announces President's Council on Science and Technology](http://www.ostp.gov/cs/pcast) – ostp.gov
 
 Image Editing
 
@@ -52,7 +52,7 @@ Social Networking
 - Twitter – [Remember the Milk](http://www.rememberthemilk.com/services/twitter/) – Interact with your task lists on Remember the Milk
 - Twitter - [Twibs.com](http://twibs.com/) – Find and network with businesses.
 - Twitter – [Tweetlater.com](http://www.tweetlater.com/) and [Twuffer.com](http://twuffer.com/) – Schedule tweets for a later time.
-- Twitter – [Twitter Karma](http://dossy.org/twitter/karma/) and [Friend or Follow](http://friendorfollow.com/) – Determine who follows you and who doesn’t
+- Twitter – [Twitter Karma](http://dossy.org/twitter/karma/) and [Friend or Follow](http://friendorfollow.com/) – Determine who follows you and who doesn't
 - [Vine – Microsoft Releases Vine for Seattle](http://www.vine.net/)
 
 Software

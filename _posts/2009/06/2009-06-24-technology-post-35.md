@@ -23,7 +23,7 @@ Other Link Lists
 
 Architecture, Design Patterns, and Testing
 
-- [Design Patterns - Kate Oneal: Funding Susan’s Projects](http://xprogramming.com/xpmag/kate-oneal-funding-susans-projects.htm) (Suggested by [Eric Landes](http://twitter.com/ericlandes))
+- [Design Patterns - Kate Oneal: Funding Susan's Projects](http://xprogramming.com/xpmag/kate-oneal-funding-susans-projects.htm) (Suggested by [Eric Landes](http://twitter.com/ericlandes))
 - [Design Patterns - Patterns and Practices of Lean Software Development](http://misfitgeek.com/blog/patterns-and-practices-of-lean-software-development/) – [Joe Stagner](http://twitter.com/MisfitGeek)
 
 ASP.NET and ASP.NET MVC
@@ -87,7 +87,7 @@ Visual Studio and Other IDEs
 
 Web Design, Layout, and Graphic Design
 
-- [CSS - On CSS3: ‘Graceful Degradation’ or ‘Progressive Enhancement’](http://esquareda.com/journal/on-css3-graceful-degradation-or-progressive-enhancement.html)
+- [CSS - On CSS3: 'Graceful Degradation' or 'Progressive Enhancement'](http://esquareda.com/journal/on-css3-graceful-degradation-or-progressive-enhancement.html)
 - [Graphic Design - Draw Fairy Tale Characters in Photoshop](http://www.grafpedia.com/tutorials/draw-fairy-tale-characters-in-photoshop) – Grafpedia (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
 - [Graphic Design - Inside Adobe Illustrator](http://blogs.adobe.com/infiniteresolution/) – Adobe (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
 - [Web Design - 7 Dos and Don'ts in Getting Started in User Centered Design](http://community.infragistics.com/pixel8/media/p/103725.aspx) – Infragistics (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -107,7 +107,7 @@ Miscellaneous Technology Announcements, News, and Deals
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \---  [Events This Week – June 23rd, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/23/events-this-week-june-23rd-2009.aspx) - [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

@@ -30,7 +30,7 @@ When the Logic App designer loads, you'll notice that you can do all sorts of th
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Designer_Blank_Template.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Designer_Blank_Template.png)
 
-After the template loads, you'll be able to search for connectors and triggers. In the search box, type ‘RSS'. You'll see an item appear under Triggers that reads ‘When a feed item is published.'
+After the template loads, you'll be able to search for connectors and triggers. In the search box, type 'RSS'. You'll see an item appear under Triggers that reads 'When a feed item is published.'
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_RSS_Trigger.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_RSS_Trigger.png)
 
@@ -39,27 +39,27 @@ We'll choose this. We can then add in our RSS feed URL and change the frequency 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_RSS_Trigger_Values.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_RSS_Trigger_Values.png)
 
 ## Step 3: Create actions on each feed item
-Now that we can connect, we'll update our app by choosing a new action using the link below our trigger. In the search bar, enter ‘For each'. We're going to add a loop through any RSS items posted in the past 15 minutes and perform a series of actions on each item. When we add the For each control, we'll notice that there is a tooltip window that appears that contains Dynamic content. Within the Dynamic content view, choose the ‘See more' link next to ‘When a feed item is published.'
+Now that we can connect, we'll update our app by choosing a new action using the link below our trigger. In the search bar, enter 'For each'. We're going to add a loop through any RSS items posted in the past 15 minutes and perform a series of actions on each item. When we add the For each control, we'll notice that there is a tooltip window that appears that contains Dynamic content. Within the Dynamic content view, choose the 'See more' link next to 'When a feed item is published.'
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_For_Each_Expand.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_For_Each_Expand.png)
 
-This allows us to see the option ‘Feed links'. Choose that option. Then, in the control itself, choose ‘Add an action.' Then type in ‘HTML' into the search box. Choose the HTML to Text option in the action window.
+This allows us to see the option 'Feed links'. Choose that option. Then, in the control itself, choose 'Add an action.' Then type in 'HTML' into the search box. Choose the HTML to Text option in the action window.
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_HTML_to_TEXT.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_HTML_to_TEXT.png)
 
-Then, click in the content window and choose the ‘Feed Summary' field from the tooltip.
+Then, click in the content window and choose the 'Feed Summary' field from the tooltip.
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_HTML_to_Text_Completed.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_HTML_to_Text_Completed.png)
 
-Then, we're going to click ‘Add an Action' button again. This time we'll type in ‘Twitter'. Scroll until you find ‘Post a Tweet' in the action window.
+Then, we're going to click 'Add an Action' button again. This time we'll type in 'Twitter'. Scroll until you find 'Post a Tweet' in the action window.
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Post_A_Tweet_Action.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Post_A_Tweet_Action.png)
 
-After you choose the ‘Post a tweet' action, you'll see a ‘Sign In' button. Press to sign into Twitter, use your Twitter account to authenticate giving Microsoft Azure Logic Apps permissions, and then configure the Tweet message in a similar fashion to this:
+After you choose the 'Post a tweet' action, you'll see a 'Sign In' button. Press to sign into Twitter, use your Twitter account to authenticate giving Microsoft Azure Logic Apps permissions, and then configure the Tweet message in a similar fashion to this:
 
 ![https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Tweet_Message.png](https://cdn.jasongaylord.com/images/2018/10/19/Azure_Logic_App_Tweet_Message.png)
 
-Now that we've configured Twitter, we can repeat by clicking ‘Add an Action' for the other services we may have such as LinkedIn, Facebook, Medium, and others.
+Now that we've configured Twitter, we can repeat by clicking 'Add an Action' for the other services we may have such as LinkedIn, Facebook, Medium, and others.
 
 ## Summary
 We can use Logic App triggers and actions to create an application that can have a decision tree, repeater, and more without writing a single line of code. Since it's serverless, we can scale our logic app by using a slider in Azure. While there are plenty of other ways you can post your latest blog posting to social media, Logic Apps definitely make it easier. I'd be interested to hear how you're using Logic Apps to solve problems.

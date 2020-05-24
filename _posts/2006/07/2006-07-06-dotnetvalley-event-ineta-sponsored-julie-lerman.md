@@ -18,7 +18,7 @@ The next .NET Valley meeting will be held on **Thursday July 20th** at [Luzerne 
 Presenting for .NET Valley will be Julie Lerman, a Microsoft MVP, leader of the [Vermont .NET User Group](http://www.vtdotnet.org/), and brain power behind the [Data Farm](http://www.thedatafarm.com/).  
   
 5 Supposedly Scary Things about .NET (That Don't Have to Be) (6:00pm - 7:45pm)  
-There are a number of topics that many developers typically tend to avoid when learning .NET. But they really don’t need to be so intimidating. This session will explore five of these daunting challenges - delegates, reflection, threading, Code Access Security (CAS) and declarative programming. The goal of this talk is to give attendees a high level, conceptual understanding of these topics – enough to recognize where they can help you in your application development and confidence to dig deeper on your own.  
+There are a number of topics that many developers typically tend to avoid when learning .NET. But they really don't need to be so intimidating. This session will explore five of these daunting challenges - delegates, reflection, threading, Code Access Security (CAS) and declarative programming. The goal of this talk is to give attendees a high level, conceptual understanding of these topics – enough to recognize where they can help you in your application development and confidence to dig deeper on your own.  
 
 * * *
 

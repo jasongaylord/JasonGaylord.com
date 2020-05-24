@@ -10,7 +10,7 @@ bitly: https://bit.ly/3bVclyu
 
 <small>Edition: #32</small>
 
-As a reminder, I will not be around really for the remainder of the week. If you don’t get a post from me, don’t be surprised. :) Normal posts will begin again on June 22nd.
+As a reminder, I will not be around really for the remainder of the week. If you don't get a post from me, don't be surprised. :) Normal posts will begin again on June 22nd.
 
 .NET Languages – C# and Visual Basic
 
@@ -84,7 +84,7 @@ Visual Studio and Other IDEs
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events This Week – June 15th, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/15/events-this-week-june-15th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

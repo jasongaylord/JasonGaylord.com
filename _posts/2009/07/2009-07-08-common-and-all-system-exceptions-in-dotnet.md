@@ -8,7 +8,7 @@ tags: [archive]
 bitly: https://bit.ly/3e7MaWO
 ---
 
-I couldn’t find a list of exceptions for .NET anywhere on the web, although, I didn’t look hard. Below is a list of the exceptions that are in the System namespace. The exceptions in bold are, what I would consider, the most common.
+I couldn't find a list of exceptions for .NET anywhere on the web, although, I didn't look hard. Below is a list of the exceptions that are in the System namespace. The exceptions in bold are, what I would consider, the most common.
 
 > AccessViolationException  
 > AppDomainUnloadedException  
@@ -61,4 +61,4 @@ I couldn’t find a list of exceptions for .NET anywhere on the web, although, I
 > **UnauthorizedAccessException**  
 > UniFormatException
 
-If there are any additional exceptions you’d recommend me listing from other namespaces, let me know.
+If there are any additional exceptions you'd recommend me listing from other namespaces, let me know.

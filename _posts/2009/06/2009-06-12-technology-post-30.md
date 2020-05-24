@@ -10,7 +10,7 @@ bitly: https://bit.ly/2XiK3J6
 
 <small>Edition: #30</small>
 
-I noticed on Alvin Ashcraft’s blog that he’ll be on vacation next week. I’ll essentially be out most of the week with Monday being the exception. Until we return, be sure to check out [Chris Alcock’s Morning Brew](http://blog.cwa.me.uk/tags/morning-brew/) and [Jason Haley’s Interesting Finds](http://jasonhaley.com/blog/).
+I noticed on Alvin Ashcraft's blog that he'll be on vacation next week. I'll essentially be out most of the week with Monday being the exception. Until we return, be sure to check out [Chris Alcock's Morning Brew](http://blog.cwa.me.uk/tags/morning-brew/) and [Jason Haley's Interesting Finds](http://jasonhaley.com/blog/).
 
 **Daily Error** – [Error message of the day](http://twitpic.com/73zxg) (Posted by [Rachel Appel](http://twitter.com/RachelAppel))
 
@@ -37,7 +37,7 @@ Architecture, Design Patterns, and Testing
 
 ASP.NET and ASP.NET MVC
 
-- [ASP.NET MVC - If you’re going to provide RAD for ASP.NET MVC, change your thinking hat](http://www.hadihariri.com/blogengine/post/2009/06/11/If-youe28099re-going-to-provide-RAD-for-ASPNET-MVC-change-your-thinking-hat.aspx) - Hadi Hariri (Suggested by [Simone Chiaretta](http://twitter.com/simonech))
+- [ASP.NET MVC - If you're going to provide RAD for ASP.NET MVC, change your thinking hat](http://www.hadihariri.com/blogengine/post/2009/06/11/If-youe28099re-going-to-provide-RAD-for-ASPNET-MVC-change-your-thinking-hat.aspx) - Hadi Hariri (Suggested by [Simone Chiaretta](http://twitter.com/simonech))
 - [ASP.NET MVC - NetAdvantage ASP.NET in ASP.NET MVC](http://blogs.infragistics.com/blogs/craig_shoemaker/archive/2009/06/11/netadvantage-asp-net-in-asp-net-mvc.aspx) – Craig Shoemaker (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
 Cloud Computing
@@ -97,7 +97,7 @@ Visual Studio and Other IDEs
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [CodeStock, CodeStock… CODESTOCK!!](http://netcave.org/CodeStockCodeStockhellipCODESTOCK.aspx) - [Alan Stevens](http://twitter.com/alanstevens)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

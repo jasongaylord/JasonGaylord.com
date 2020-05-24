@@ -104,7 +104,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [Hands On MVC Training (Philadelphia, PA) – May 29th](http://www.platinumbay.com/blogs/dotneticated/archive/2009/05/18/training-hands-on-introduction-to-asp-net-mvc-development.aspx)
 - \--- [XamlFest](http://xamlfestonline.com/)

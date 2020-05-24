@@ -19,7 +19,7 @@ Architecture, Design Patterns, and Testing
 - [Architecture - Short and Long-Running Processes in SOA – Part 1](http://www.packtpub.com/article/short-and-long-running-processes-soa-1) – [Packt Publishing](http://twitter.com/packtpub)
 - [Architecture - Short and Long-Running Processes in SOA – Part 2](http://www.packtpub.com/article/short-and-long-running-processes-soa-2) – [Packt Publishing](http://twitter.com/packtpub)
 - [API - A Developer's First Look at Windows 7](http://www.msdev.com/Directory/SeriesDescription.aspx?CourseId=104) (Suggested by [Scott Hanselman](http://twitter.com/shanselman))
-- [Security - New Templates added to Microsoft’s SDL (Secure Development) resources](http://misfitgeek.com/blog/new-templates-added-to-microsoft-rsquo-s-sdl-secure-development-resources/) – [Joe Stagner](http://twitter.com/MisfitGeek)
+- [Security - New Templates added to Microsoft's SDL (Secure Development) resources](http://misfitgeek.com/blog/new-templates-added-to-microsoft-rsquo-s-sdl-secure-development-resources/) – [Joe Stagner](http://twitter.com/MisfitGeek)
 - [Testing - A First Look at Moq](http://blog.objectmentor.com/articles/2009/05/19/a-first-look-at-moq) - Brett Schuchert (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Testing - A note on testing methodology](http://www.quirksmode.org/blog/archives/2009/05/a_note_on_testi.html) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
 - [Testing - Choosing A Dependency Injection Pattern](http://brendan.enrick.com/blog/choosing-a-dependency-injection-pattern/) - [Brendan Enrick](http://twitter.com/brendoneus)
@@ -34,7 +34,7 @@ ASP.NET and ASP.NET MVC
 
 Books
 
-- [eBook - Pablo’s SOLID Software Development](http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [eBook - Pablo's SOLID Software Development](http://www.lostechies.com/blogs/derickbailey/archive/2009/05/19/announcing-pablo-s-e-books-book-1-pablo-s-solid-software-development.aspx) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [eBook - The Practical Guide to Defect Prevention](http://blogs.msdn.com/microsoft_press/archive/2009/05/20/two-free-e-books-available-in-may.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
 - [eBook - Windows Server 2008 Terminal Services Resource Kit](http://blogs.msdn.com/microsoft_press/archive/2009/05/20/two-free-e-books-available-in-may.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
 - [New - Beginning JavaScript and CSS Development with jQuery](http://www.wrox.com/WileyCDA/WroxTitle/Beginning-JavaScript-and-CSS-Development-with-jQuery.productCd-0470227796.html) – Wrox (Suggested by [NetTuts](http://twitter.com/NETTUTS))
@@ -92,7 +92,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [XamlFest](http://xamlfestonline.com/)
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009

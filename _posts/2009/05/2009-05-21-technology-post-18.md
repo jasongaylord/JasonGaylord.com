@@ -29,7 +29,7 @@ Architecture, Design Patterns, and Testing
 - [Design Patterns - Can you justify your actions with regards to this pattern?](http://ayende.com/Blog/archive/2009/05/21/can-you-justify-your-actions-with-regards-to-this-pattern.aspx) – Oren Eini
 - [EF - Entity Framework minimum permission considerations](http://mosesofegypt.net/post/Entity-Framework-minimum-permission-considerations.aspx) - Muhammad Mosa (Suggested by **[Chris Love](http://twitter.com/ChrisLove)**)
 - [Logging - Back to Basics: Using Fusion Log Viewer to Debug Obscure Loader Errors](http://www.hanselman.com/blog/BackToBasicsUsingFusionLogViewerToDebugObscureLoaderErrors.aspx) – [Scott Hanselman](http://twitter.com/shanselman)
-- [Testing - Art Of Unit Testing (The Samurai Book)– Get it now, it’s done.](http://weblogs.asp.net/rosherove/archive/2009/05/20/art-of-unit-testing-the-samurai-book-get-it-now-it-s-done.aspx) – Roy Osherove
+- [Testing - Art Of Unit Testing (The Samurai Book)– Get it now, it's done.](http://weblogs.asp.net/rosherove/archive/2009/05/20/art-of-unit-testing-the-samurai-book-get-it-now-it-s-done.aspx) – Roy Osherove
 - [Testing - Using ELMAH with ASP.NET MVC](http://code.google.com/p/elmah/wiki/MVC "http://code.google.com/p/elmah/wiki/MVC") – [Phil Winstanely](http://twitter.com/Plip)
 
 ASP.NET and ASP.NET MVC
@@ -37,7 +37,7 @@ ASP.NET and ASP.NET MVC
 - [ASP.NET - 20 Image Resizing Pitfalls](http://nathanaeljones.com/11191_20_Image_Resizing_Pitfalls) – Nathanael Jones
 - [ASP.NET - An Ultra-Simple Sum of Numbers Captcha UserControl](http://www.eggheadcafe.com/article.aspx?id=c7a5828b-13c9-47d7-88a7-5d8f632aef8d) – Peter Bromberg
 - [ASP.NET - Displaying SQL Server Data using a Linq Data Source](http://www.packtpub.com/article/displaying-sql-server-data-using-linq-data-source) – [Packt Publishing](http://twitter.com/packtpub)
-- [ASP.NET - Don’t use Response.End() with OutputCache](http://west-wind.com/Weblog/posts/773859.aspx) – [Rick Strahl](http://twitter.com/rickstrahl)
+- [ASP.NET - Don't use Response.End() with OutputCache](http://west-wind.com/Weblog/posts/773859.aspx) – [Rick Strahl](http://twitter.com/rickstrahl)
 - [ASP.NET MVC - 25+ Best ASP.NET MVC Tutorials and Articles](http://www.ajaxline.com/25-plus-best-asp-net-mvc-tutorials-and-articles) – Ajax Line (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [ASP.NET MVC – Controls](http://samples.syncfusion.com/mvcdemolaunchpad) – [Scott Hanselman](http://twitter.com/shanselman)
 
@@ -45,12 +45,12 @@ Books
 
 - [New - Inside Microsoft Dynamics AX 2009](http://blogs.msdn.com/microsoft_press/archive/2009/05/20/rtm-d-today-inside-microsoft-dynamics-ax-2009.aspx) – [Microsoft Press](http://twitter.com/MicrosoftPress)
 - [New - MCTS Self-Paced Training Kit (Exam 70-433): Microsoft SQL Server 2008—Database Development](http://blogs.msdn.com/microsoft_press/archive/2009/05/21/new-book-mcts-self-paced-training-kit-exam-70-433-microsoft-sql-server-2008-database-development.aspx) – [Microsoft Press](http://twitter.com/MicrosoftPress)
-- [New - Regular Expressions Cookbook](http://oreilly.com/catalog/9780596520687/) – Tim O’Reilly
+- [New - Regular Expressions Cookbook](http://oreilly.com/catalog/9780596520687/) – Tim O'Reilly
 - [New - Using the Google App Engine](http://blogoscoped.com/archive/2009-05-21-n19.html) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
 
 Cloud Computing
 
-- [Azure - Ray Ozzie Asserts Microsoft’s Position In The Cloud](http://www.techcrunchit.com/2009/05/20/microsofts-ozzie-asserts-microsofts-postion-in-the-cloud/) – Tech Crunch (Suggested by [Cloudmeme](http://twitter.com/cloudmeme))
+- [Azure - Ray Ozzie Asserts Microsoft's Position In The Cloud](http://www.techcrunchit.com/2009/05/20/microsofts-ozzie-asserts-microsofts-postion-in-the-cloud/) – Tech Crunch (Suggested by [Cloudmeme](http://twitter.com/cloudmeme))
 - [Azure - Windows Azure and Cloud Computing Posts for 5/19/2009+](http://oakleafblog.blogspot.com/2009/05/windows-azure-and-cloud-computing-posts_20.html) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
 - [Kumo - Microsoft Kumo Search Engine Coming Next Week](http://techfragments.com/news/787/Tech/Microsoft_Kumo_Search_Engine_Coming_Next_Week.html) - Michael Horton (Suggested by [Cloudmeme](http://twitter.com/cloudmeme))
 - [S3 - Moving Large Data Sets into Amazon S3 with AWS Import/Export](http://www.innoq.com/blog/st/2009/05/moving_large_data_sets_into_am.html) - Stefan Tilkov (Suggested by [Mike Amundsen](http://twitter.com/mamund))
@@ -79,7 +79,7 @@ JavaScript and JavaScript Libraries
 - [jQuery - 7 ways to load content via Ajax](http://freeajaxcodes.blogspot.com/2009/05/7-ways-to-load-content-via-ajax.html) – Free AJAX Codes
 - [jQuery - jQuery Function Builder](http://accessify.com/tools-and-wizards/developer-tools/jquery-builder/default.php) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery - How to access iframe in jQuery](http://simple.procoding.net/2008/03/21/how-to-access-iframe-in-jquery/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [jQuery Plugin - jGrowl - jQuery plug-in to create pop-up notifications like OS X’s Growl Framework](http://www.dreamcss.com/2009/05/jgrowl-jquery-plug-in-to-create-pop-up.html) – Dream CSS
+- [jQuery Plugin - jGrowl - jQuery plug-in to create pop-up notifications like OS X's Growl Framework](http://www.dreamcss.com/2009/05/jgrowl-jquery-plug-in-to-create-pop-up.html) – Dream CSS
 - [jQuery Plugin - jQuery Progressbar](http://blog.dmbcllc.com/2009/05/20/jquery-progressbar/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery Plugin - Step By Step To Create Content Slider using jFlow, A Minimalist jQuery Plugin](http://www.webdesignbooth.com/step-by-step-to-create-content-slider-using-jflow-a-minimalist-jquery-plugin/) – Web Design Booth
 - [Mootools - ByCropper - Image cropper script using mootools](http://freeajaxcodes.blogspot.com/2009/05/bycropper-image-cropper-script-using.html) – Free AJAX Codes
@@ -130,7 +130,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [Hands On MVC Training (Philadelphia, PA) – May 29th](http://www.platinumbay.com/blogs/dotneticated/archive/2009/05/18/training-hands-on-introduction-to-asp-net-mvc-development.aspx)
 - \--- [XamlFest](http://xamlfestonline.com/)

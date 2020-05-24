@@ -68,7 +68,7 @@ You'll notice that after the serve command executes, you'll receive a URL like s
 
 Navigate to that URL and be prepared to be amazed. Wait! The page is blank? That's because of two things. Let's go back to our Jekyll file so we can observe. Don't close out of the browser just yet.
 
-Open up the index.markdown file in the Explorer pane. This is our entry file for our test site. You'll notice that it references the home Layout file. We haven't explored the layouts in our theme yet, but for now we only have a default, post, and page layout. Let's replace home with default for now. Below the YAML header at the top of the file, the area that has three dashes (---), add a new line of text that simply reads ‘Hello World!'. Save the file and navigate back to the browser. Refresh and you'll notice your new file being served.
+Open up the index.markdown file in the Explorer pane. This is our entry file for our test site. You'll notice that it references the home Layout file. We haven't explored the layouts in our theme yet, but for now we only have a default, post, and page layout. Let's replace home with default for now. Below the YAML header at the top of the file, the area that has three dashes (---), add a new line of text that simply reads 'Hello World!'. Save the file and navigate back to the browser. Refresh and you'll notice your new file being served.
 
 Now that we've tested our theme and building a sample Jekyll site, let's start analyzing our theme a little bit more.
 

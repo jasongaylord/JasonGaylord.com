@@ -42,7 +42,7 @@ ASP.NET and ASP.NET MVC
 Books
 
 - [New - Introducing Microsoft Silverlight 3](http://blogs.msdn.com/microsoft_press/archive/2009/05/27/rtm-d-today-introducing-microsoft-silverlight-3.aspx) – [Microsoft Press](http://twitter.com/MicrosoftPress)
-- [New - Windows Essential Business Server 2008 Administrator’s Companion](http://blogs.msdn.com/microsoft_press/archive/2009/05/27/new-book-windows-essential-business-server-2008-administrator-s-companion.aspx) – [Microsoft Press](http://twitter.com/MicrosoftPress)
+- [New - Windows Essential Business Server 2008 Administrator's Companion](http://blogs.msdn.com/microsoft_press/archive/2009/05/27/new-book-windows-essential-business-server-2008-administrator-s-companion.aspx) – [Microsoft Press](http://twitter.com/MicrosoftPress)
 
 Cloud Computing
 
@@ -58,8 +58,8 @@ Desktop and Server Technology
 
 Web Design, Layout, and Graphic Design
 
-- [Adobe - Professional Tips for Improving Photoshop’s Performance](http://psd.tutsplus.com/tutorials/tools-tips/professional-tips-for-improving-photoshops-performance/) – PSD Tuts (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
-- [General - 20 Time-Saving Tips to Improve Designer’s Workflow](http://www.smashingmagazine.com/2009/05/26/20-time-saving-tips-to-improve-designers-workflow-part-1/) – Smashing Magazine
+- [Adobe - Professional Tips for Improving Photoshop's Performance](http://psd.tutsplus.com/tutorials/tools-tips/professional-tips-for-improving-photoshops-performance/) – PSD Tuts (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
+- [General - 20 Time-Saving Tips to Improve Designer's Workflow](http://www.smashingmagazine.com/2009/05/26/20-time-saving-tips-to-improve-designers-workflow-part-1/) – Smashing Magazine
 - [General - 45+ Really Essential Free HTML \[Form\] Enhancements](http://www.tripwiremagazine.com/tools/html/45-really-essential-free-html-form-enhancements.html) – Tripwire Magazine
 - [General – Google Web Elements](http://www.google.com/webelements/ "http://www.google.com/webelements/") (Suggested by [Scott Koon](http://twitter.com/lazycoder)) 
 
@@ -99,14 +99,14 @@ Technology Deals
 Visual Studio and Other IDEs
 
 - [Team Suite - Team Suite 2008 Developer Machine Install](http://blog.benday.com/archive/2009/05/27/23225.aspx) - Benjamin Day (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [Tools - My Dot Net Developer’s tools list, and more…](http://www.dotnetsurfers.com/Blog/2009/05/23/MyDotNetDeveloperrsquosToolsListAndMorehellip.aspx) - Latish Sehgal (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [Tools - My Dot Net Developer's tools list, and more…](http://www.dotnetsurfers.com/Blog/2009/05/23/MyDotNetDeveloperrsquosToolsListAndMorehellip.aspx) - Latish Sehgal (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Visual Studio - Get VS2010 Extensions easily with built-in Extension Manager (and checking out a VS2010 T4 editor)](http://thedatafarm.com/blog/tools/get-vs2010-extensions-easily-with-built-in-extension-manager-and-checking-out-a-vs2010-t4-editor/) – Julie Lerman
 - [Visual Studio - Using Microsoft AJAX Control Toolkit with Visual Studio 10 Beta 1](http://blogs.msdn.com/webdevtools/archive/2009/05/26/using-microsoft-ajax-control-toolkit-with-visual-studio-10-beta-1.aspx) – Visual Web Developer Team Blog
 
 Miscellaneous Technology Announcements and News
 
 - [Acrobat.com Presentations](http://labs.adobe.com/technologies/presentations/) (Suggested by [Darcy Lussier](http://twitter.com/Darcy_Lussier))
-- [Google Bets Big on HTML 5: News from Google I/O](http://radar.oreilly.com/2009/05/google-bets-big-on-html-5.html) – [Tim O’Reilly](http://www.twitter.com/radar)
+- [Google Bets Big on HTML 5: News from Google I/O](http://radar.oreilly.com/2009/05/google-bets-big-on-html-5.html) – [Tim O'Reilly](http://www.twitter.com/radar)
 
 Other Resources
 
@@ -117,7 +117,7 @@ Other Resources
 
 - June 7th, 2009 - [St Louis, Missouri – Day of .NET](http://stlouisdayofdotnet.com/Speakers.aspx)
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \--- [Hands On MVC Training (Philadelphia, PA) – May 29th](http://www.platinumbay.com/blogs/dotneticated/archive/2009/05/18/training-hands-on-introduction-to-asp-net-mvc-development.aspx)
 - [Phoenix, Az - Free WPF Training Event](http://weblogs.asp.net/dwahlin/archive/2009/05/14/free-wpf-training-event-in-phoenix-june-5th-and-6th.aspx) – June 5th-6th, 2009

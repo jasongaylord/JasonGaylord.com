@@ -46,7 +46,7 @@ Web Design, Layout, and Graphic Design
 - [CSS - 24 CSS (in some cases with jQuery) Navigation and Menu Tutorials](http://speckyboy.com/2009/06/08/24-css-in-some-cases-with-jquery-navigation-and-menu-tutorials/) – Specky Boy (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
 - [CSS - Adaptive CSS-Layouts: New Era In Fluid Layouts?](http://www.smashingmagazine.com/2009/06/09/smart-fixes-for-fluid-layouts/) - [Smashing Magazine](http://twitter.com/smashingmag)
 - [Web Development – Web Development Timeline](http://upload.wikimedia.org/wikipedia/commons/e/e4/Web_development_timeline.png) (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
-- [Web Development - Why Web Developers Don’t Need A Mac](http://www.smashingmagazine.com/2009/06/10/why-web-developers-dont-need-a-mac/) - [Smashing Magazine](http://twitter.com/smashingmag)
+- [Web Development - Why Web Developers Don't Need A Mac](http://www.smashingmagazine.com/2009/06/10/why-web-developers-dont-need-a-mac/) - [Smashing Magazine](http://twitter.com/smashingmag)
 
 JavaScript and JavaScript Libraries
 
@@ -86,7 +86,7 @@ Miscellaneous Technology Announcements and News
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [New Community Megaphone Event Tools](http://blogs.msdn.com/gduthie/archive/2009/06/11/new-community-megaphone-event-tools.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

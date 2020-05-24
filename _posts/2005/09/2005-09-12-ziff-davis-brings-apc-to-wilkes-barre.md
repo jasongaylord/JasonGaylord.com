@@ -15,11 +15,11 @@ bitly: https://jasong.us/2LsWvQW
   
 **Enjoy a peer-to-peer discussion while viewing first-hand the industry's only on-demand architecture for network-critical physical infrastructure (NCPI). The demonstration of APC** [**InfraStruXure**](http://www.apcc.com/products/infrastruxure/index.cfm)**™ to be followed by a networking event at a local restaurant.**  
   
-_“I learned a lot during this educational evening. The unit being demonstrated was the same model as we will be installing in the next couple of months, so it helped me to understand how it will be used better.” –Attendee: APC Real-time InfraStruXure Award Dinner_  
+_"I learned a lot during this educational evening. The unit being demonstrated was the same model as we will be installing in the next couple of months, so it helped me to understand how it will be used better." –Attendee: APC Real-time InfraStruXure Award Dinner_  
   
-_“This event was above any existing expectations that I had. The real kicker was being able to interact with the host IT-Department's personnel, and really getting a feeling about how pleased they were with the move to APC InfraStruXure__TM__. The APC rep was top-notch, and gave sincere, direct answers to all my questions.” –Attendee: APC Real-time InfraStruXure Award Dinner_  
+_"This event was above any existing expectations that I had. The real kicker was being able to interact with the host IT-Department's personnel, and really getting a feeling about how pleased they were with the move to APC InfraStruXure__TM__. The APC rep was top-notch, and gave sincere, direct answers to all my questions." –Attendee: APC Real-time InfraStruXure Award Dinner_  
   
-__“_It was an incredible display of how in less than a year you can go from a horrible server room to a beautifully ran data center, both clean and professional. I was very impressed.” –Attendee: APC Real-time InfraStruXure Award Dinner_  
+__"_It was an incredible display of how in less than a year you can go from a horrible server room to a beautifully ran data center, both clean and professional. I was very impressed." –Attendee: APC Real-time InfraStruXure Award Dinner_  
   
 The demonstration is of an actual live system at one of our InfraStruXure customer's locations.  
   

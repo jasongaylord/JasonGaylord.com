@@ -10,7 +10,7 @@ bitly: https://bit.ly/3bYVY3L
 
 <small>Edition: #41</small>
 
-_I won’t be posting anything tomorrow due to the US holiday of Independence Day on Saturday. I will be taking the day off._
+_I won't be posting anything tomorrow due to the US holiday of Independence Day on Saturday. I will be taking the day off._
 
 **Daily Oddball** – [The Best Way to Photograph Fireworks](http://www.pcworld.com/printable/article/id,165973/printable.html) (Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick))
 
@@ -92,7 +92,7 @@ Web Design and Graphics
 
 - [CSS - 20+ Resources and Tutorials for Creative Forms using CSS](http://speckyboy.com/2009/07/02/20-resources-and-tutorials-for-creative-forms-using-css/) – Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
 - [Graphics - Make a Vintage Magazine Ad in Photoshop](http://www.outlawdesignblog.com/2009/make-a-vintage-magazine-ad-in-photoshop/) – Tweeted by [Smashing Magazine](http://twitter.com/smashingmag)
-- [Web Design - 50 Free High-Quality and “New” (X)HTML/CSS Templates](http://www.noupe.com/css/50-free-high-quality-and-new-xhtmlcss-templates.html) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
+- [Web Design - 50 Free High-Quality and "New" (X)HTML/CSS Templates](http://www.noupe.com/css/50-free-high-quality-and-new-xhtmlcss-templates.html) – Tweeted by [Umut Muhaddisoglu](http://twitter.com/umutm)
 - [Web Design - Modernizr: HTML5 and CSS3 detection](http://ajaxian.com/archives/modernizr-html5-and-css3-detection) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [Web Design – XHTML FAQ](http://www.w3.org/2009/06/xhtml-faq) – Tweeted by [Dana Coffey](http://twitter.com/crazeegeekchick)
 
@@ -100,7 +100,7 @@ Miscellaneous Technology News
 
 - [General - This Week C9: Revolution 9 - The Future of Channel 9](http://channel9.msdn.com/shows/This+Week+On+Channel+9/This-Week-C9-Revolution-9-The-Future-of-Channel-9/) – Tweeted by [PDC 09](http://twitter.com/PDC09)
 
-**Today’s Birthdays**
+**Today's Birthdays**
 
 - [Sam Gentile](http://twitter.com/SamGentile) – New Jersey, USA
 
@@ -110,7 +110,7 @@ Miscellaneous Technology News
 - [Redmond, WA – Project Natal, Microsoft](http://www.microsoft-entertainment-jobs.com/go/Introducing-Project-Natal/150565/) – Tweeted on 7/1/2009
 - [Redmond, WA - Software Development Engineer in Test Job, Microsoft](http://www.microsoft-entertainment-jobs.com/job/REDMOND-Software-Development-Engineer-in-Test-Job-WA-98074/528316/) - Tweeted on 7/1/2009
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009
 - [Des Moines, IA – Iowa Code Camp](http://iowacodecamp.com/default.aspx) – November 7th, 2009

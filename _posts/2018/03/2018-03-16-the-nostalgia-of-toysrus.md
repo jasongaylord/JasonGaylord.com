@@ -25,7 +25,7 @@ So what? What does this mean for technology? Well, a lot actually. Many of the S
 
 It's crazy to think that some of our favorite childhood memories will never be experienced by kids of tomorrow. While some circuses still exist, will the next generation know what those are? Are toys far behind?
 
-I don't think I'll ever forget Geoffrey. I don't think I'll ever forget the big, giant wheel in Times Square. I don't wanna grow up, ‘cause maybe if I did, I couldn't be a Toys'R'Us kid.
+I don't think I'll ever forget Geoffrey. I don't think I'll ever forget the big, giant wheel in Times Square. I don't wanna grow up, 'cause maybe if I did, I couldn't be a Toys'R'Us kid.
 
 [![Toys'R'Us New York City](https://cdn.jasongaylord.com/images/2018/03/16/toysrus-nyc.jpg "Toys'R'Us New York City")](https://cdn.jasongaylord.com/images/2018/03/16/toysrus-nyc.jpg)  
 Photo taken July 9, 2011

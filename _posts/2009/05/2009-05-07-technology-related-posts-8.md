@@ -15,7 +15,7 @@ bitly: https://bit.ly/2XdVTnu
 .NET Languages – C# and Visual Basic
 
 - [.NET MF moves to Developer Division](http://blogs.msdn.com/netmfteam/archive/2009/05/07/net-mf-moves-to-developer-division.aspx) – Colin Miller (Suggested by [Scott Hanselman](http://twitter.com/shanselman))
-- [.NET’s Most Influential People in 2009](http://theruntime.com/blogs/jaykimble/archive/2009/05/06/dotnets-most-influential-people-in-2009.aspx) – Jay Kimble (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [.NET's Most Influential People in 2009](http://theruntime.com/blogs/jaykimble/archive/2009/05/06/dotnets-most-influential-people-in-2009.aspx) – Jay Kimble (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
 Architecture, Design Patterns, and Testing
 
@@ -45,7 +45,7 @@ JavaScript and JavaScript Libraries
 - [10 Transition Effects: The art of Showing/Hiding Content](http://devsnippets.com/) – devSnippent (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [15 Excellent jQuery Navigation Techniques and Solutions](http://webdesignledger.com/tutorials/15-excellent-jquery-navigation-techniques-and-solutions) – Henry Jones (Suggested by [Dana Coffey](http://twitter.com/crazeegeekchick))
 - [Acid.JS Library 3.0 Has Been Released With 6 New Additions](http://acidmartin.wordpress.com/2009/05/07/acidjs-library-30-has-been-released-with-6-new-additions/) - Martin Ivanov
-- [Function’less event handlers in jQuery](http://james.padolsey.com/javascript/functionless-event-handlers-in-jquery/) - James Padolsey (Suggested by [jQuery](http://twitter.com/jquery))
+- [Function'less event handlers in jQuery](http://james.padolsey.com/javascript/functionless-event-handlers-in-jquery/) - James Padolsey (Suggested by [jQuery](http://twitter.com/jquery))
 - [Guestbook.XML – The New AJAX Guestbook](http://acidmartin.wordpress.com/2009/05/07/guestbookxml-the-new-ajax-guestbook/) – Martin Ivanov
 - [How to check if checkbox is checked using jQuery](http://jquery-howto.blogspot.com/2008/12/how-to-check-if-checkbox-is-checked.html) – jQuery HowTo (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [How to realize a calendar with Mootools (STEP I)](http://moonkiki.blogspot.com/2009/05/how-to-realize-calendar-with-mootools.html) – moonKiki
@@ -80,7 +80,7 @@ Podcasts and Videos
 Silverlight, WPF, and RIA
 
 - [NBC Olympics Wins an Emmy with Silverlight](http://team.silverlight.net/announcements/nbc-olympics-wins-an-emmy-with-silverlight/) – [Team Silverlight](http://twitter.com/teamsilverlight)
-- [Silverlight RIA calling Stored Procedures that don’t return tables](http://blogs.msdn.com/tom/archive/2009/05/07/silverlight-ria-calling-stored-procedures-that-don-t-return-tables.aspx) - Tom
+- [Silverlight RIA calling Stored Procedures that don't return tables](http://blogs.msdn.com/tom/archive/2009/05/07/silverlight-ria-calling-stored-procedures-that-don-t-return-tables.aspx) - Tom
 
 Technology Announcements and News
 
@@ -98,7 +98,7 @@ Other Resources
 
 **Call For Speakers** (Sorted by Date)
 
-- [Las Vegas, NV – Open Force ‘09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
+- [Las Vegas, NV – Open Force '09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
 - [Tample, FL - Day of DotNetNuke](http://dayofdnn.com/Speakers/tabid/215/Default.aspx) – Due May 13th, 2009
 
 **Upcoming Technology Events** (Sorted by State)

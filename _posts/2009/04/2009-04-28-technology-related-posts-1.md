@@ -10,7 +10,7 @@ bitly: https://bit.ly/2WSazK8
 
 <small>Edition: #1</small>
 
-I’m going to try to put together a list of links I grab and post them to intermittent blog posts. I’d like to do a post like this once a day or at the very least once a week, but let’s see where things go. :) Anyway, here’s the first batch of links summarized by technology. Some of these may be a couple of weeks old, so please bare with me as the first list is quite lengthy. I’ll also add in recently released books, software releases and updates, and upcoming technology events.
+I'm going to try to put together a list of links I grab and post them to intermittent blog posts. I'd like to do a post like this once a day or at the very least once a week, but let's see where things go. :) Anyway, here's the first batch of links summarized by technology. Some of these may be a couple of weeks old, so please bare with me as the first list is quite lengthy. I'll also add in recently released books, software releases and updates, and upcoming technology events.
 
 > If you are looking to follow this series, be sure to subscribe to my RSS feed at [http://feeds.jasongaylord.com/JasonNGaylord](http://feeds.jasongaylord.com/JasonNGaylord "http://feeds.jasongaylord.com/JasonNGaylord") or my [Twitter](http://twitter.com/jgaylord) account at [http://twitter.com/jgaylord](http://twitter.com/jgaylord).
 

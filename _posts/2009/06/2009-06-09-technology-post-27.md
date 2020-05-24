@@ -20,7 +20,7 @@ Other Link Lists
 
 - [C# - C# 4.0 Dynamic Types](http://azamsharp.com/Posts/230_C__4_0_Dynamic_Types.aspx) - [Mohammad Azam](http://twitter.com/azamsharp)
 - [General - Regular Expressions for Regular Programmers](http://www.codinghorror.com/blog/archives/001274.html) – Jeff Atwood (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [General - Visual Studio 2010 Exams Are Changing](http://blogs.msdn.com/gerryo/archive/2009/05/28/visual-studio-2010-exams-are-changing.aspx) – Gerry O’Brien (Suggested by [Rafael Van Dyke](http://twitter.com/rafaelvandyke))
+- [General - Visual Studio 2010 Exams Are Changing](http://blogs.msdn.com/gerryo/archive/2009/05/28/visual-studio-2010-exams-are-changing.aspx) – Gerry O'Brien (Suggested by [Rafael Van Dyke](http://twitter.com/rafaelvandyke))
     
 
 Alternate Languages – Java, Rails, and other Languages
@@ -72,8 +72,8 @@ Desktop and Server Technology
 Web Design, Layout, and Graphic Design
 
 - [CSS - Adaptive CSS-Layouts: New Era In Fluid Layouts?](http://www.smashingmagazine.com/2009/06/09/smart-fixes-for-fluid-layouts/) - [Smashing Magazine](http://twitter.com/smashingmag)
-- [CSS - Coding Calendars (again) - Lists and Sprites Oh My!](http://www.nikibrown.com/designoblog/2009/05/31/coding-calendars-lists-and-sprites/) – The Design O’Blog (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
-- [CSS - CSS Beginners Do’s and Dont’s Part 2](http://www.sohtanaka.com/web-design/css-beginners-do%25E2%2580%2599s-and-dont%25E2%2580%2599s-part-2/) – Soh Tanaka (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [CSS - Coding Calendars (again) - Lists and Sprites Oh My!](http://www.nikibrown.com/designoblog/2009/05/31/coding-calendars-lists-and-sprites/) – The Design O'Blog (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
+- [CSS - CSS Beginners Do's and Dont's Part 2](http://www.sohtanaka.com/web-design/css-beginners-do%25E2%2580%2599s-and-dont%25E2%2580%2599s-part-2/) – Soh Tanaka (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [CSS - CSS Redundancy Checker](http://services.immike.net/css-checker/) (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
 - [CSS - Ten CSS tricks you may not know](http://www.webcredible.co.uk/user-friendly-resources/css/css-tricks.shtml) – Web Credible (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Design - Design With Intent](http://designmind.frogdesign.com/articles/power/design-with-intent.html) – Frog Design (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
@@ -130,13 +130,13 @@ Social Networking and Community Platforms
 Visual Studio and Other IDEs
 
 - [Visual Studio - The strange case of Visual Studio getting "out of memory"](http://msmvps.com/blogs/carlosq/archive/2009/06/09/the-strange-case-of-visual-studio-getting-quot-out-of-memory-quot.aspx) - Carlos Quintero (Suggested by [Keyvan Nayyeri](http://twitter.com/keyvan))
-- [Visual Studio - What is the “VSIX Project” template?](http://blogs.msdn.com/aaronmar/archive/2009/06/09/what-is-the-vsix-project-template.aspx) – Aaron Marten (Suggested by [Keyvan Nayyeri](http://twitter.com/keyvan))
+- [Visual Studio - What is the "VSIX Project" template?](http://blogs.msdn.com/aaronmar/archive/2009/06/09/what-is-the-vsix-project-template.aspx) – Aaron Marten (Suggested by [Keyvan Nayyeri](http://twitter.com/keyvan))
 
 **Call For Speakers** (Sorted by Date)
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events This Week – June 8th, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/08/events-this-week-june-8th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

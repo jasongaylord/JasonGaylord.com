@@ -10,7 +10,7 @@ bitly: https://bit.ly/3cV9t5P
 
 <small>Edition: #26</small>
 
-**Daily Humor** – DRY - Don’t Repeat Yourself – Motivator (Posted by [Steve Smith](http://twitter.com/ardalis))
+**Daily Humor** – DRY - Don't Repeat Yourself – Motivator (Posted by [Steve Smith](http://twitter.com/ardalis))
 
 .NET Languages – C# and Visual Basic
 
@@ -71,7 +71,7 @@ Podcasts and Videos
 Silverlight, WPF, and RIA
 
 - [WPF - Code to HTML converter using WPF](http://www.coderun.com/ide/?p=convert-code-to-html-wpf-xbap) (Suggested by [Brian Henderson](http://twitter.com/brian_henderson))
-- [WPF - Did you know that if you’re an MSDN Subscriber you can get Telerik WPF controls FREE ?](http://misfitgeek.com/blog/did-you-know-that-if-you-rsquo-re-an-msdn-subscriber-you-can-get-telerik-wpf-controls-free/) – [Joe Stagner](http://twitter.com/MisfitGeek)
+- [WPF - Did you know that if you're an MSDN Subscriber you can get Telerik WPF controls FREE ?](http://misfitgeek.com/blog/did-you-know-that-if-you-rsquo-re-an-msdn-subscriber-you-can-get-telerik-wpf-controls-free/) – [Joe Stagner](http://twitter.com/MisfitGeek)
 
 Visual Studio and Other IDEs
 
@@ -85,7 +85,7 @@ Miscellaneous Technology Announcements and News
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events This Week – June 8th, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/08/events-this-week-june-8th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

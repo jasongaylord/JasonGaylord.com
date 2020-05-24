@@ -38,9 +38,9 @@ Architecture, Design Patterns, and Testing
 ASP.NET and ASP.NET MVC
 
 - [ASP.NET - Session Attacks and ASP.NET - Part 2](https://blogs.sans.org/appsecstreetfighter/2009/06/24/session-attacks-and-aspnet-part-2/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [ASP.NET - ASP.NET 4.0: WebForm Routing (quick ’n dirty version)](http://mostlylucid.net/archive/2009/01/25/asp.net-4.0-webform-routing-quick-rsquon-dirty-version.aspx) – Scott Galloway (Suggested by [Rick Strahl](http://twitter.com/RickStrahl))
+- [ASP.NET - ASP.NET 4.0: WebForm Routing (quick 'n dirty version)](http://mostlylucid.net/archive/2009/01/25/asp.net-4.0-webform-routing-quick-rsquon-dirty-version.aspx) – Scott Galloway (Suggested by [Rick Strahl](http://twitter.com/RickStrahl))
 - [ASP.NET MVC - ASP.NET Mvc Grid – Part 1](http://xlib.wordpress.com/2009/06/25/asp-net-mvc-grid-part-1/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [ASP.NET MVC - ASP.NET MVC Validation Refresh: Best Techniques & Frameworks](http://goneale.com/2009/06/25/aspnet-mvc-validation-refresh-best-techniques-frameworks/) – Graham O’Neale (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [ASP.NET MVC - ASP.NET MVC Validation Refresh: Best Techniques & Frameworks](http://goneale.com/2009/06/25/aspnet-mvc-validation-refresh-best-techniques-frameworks/) – Graham O'Neale (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [ASP.NET MVC - Generating strongly typed content links in ASP .Net MVC with T4 templates](http://www.jacopretorius.net/2009/06/generating-strongly-typed-content-links.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [ASP.NET MVC - Mind if my MVC T4 template changes your code a bit?](http://blogs.msdn.com/davidebb/archive/2009/06/24/mind-if-my-mvc-t4-template-changes-your-code-a-bit.aspx) – David Ebbo (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [ASP.NET MVC - MvcContrib Grid and Pager Helpers for ASP.NET MVC Framework](http://davidhayden.com/blog/dave/archive/2009/06/25/MvcContribGridPagerHelpers.aspx) – David Hayden (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -108,7 +108,7 @@ Miscellaneous Technology Announcements, News, and Deals
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \---  [Events This Week – June 23rd, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/23/events-this-week-june-23rd-2009.aspx) - [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

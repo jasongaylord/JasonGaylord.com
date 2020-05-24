@@ -27,7 +27,7 @@ Architecture, Design Patterns, and Testing
 ASP.NET and ASP.NET MVC
 
 - [Databind a Combobox to an Enum Property – Version 2.0](http://exceptionz.wordpress.com/2008/04/18/databind-a-combobox-to-an-enum-property-version-20/) – Marcus Wyatt (Suggested by [Keyvan Nayyeri](http://twitter.com/keyvan))
-- [I’m a Web Developer At Heart](http://haacked.com/archive/2009/05/07/18616.aspx) – [Phil Haack](http://twitter.com/haacked)
+- [I'm a Web Developer At Heart](http://haacked.com/archive/2009/05/07/18616.aspx) – [Phil Haack](http://twitter.com/haacked)
 - [Modifying the default unit tests for an ASP.NET MVC project to use Moq](http://dotnetaddict.dotnetdevelopersjournal.com/aspnet_mvc_moq.htm) - Kevin Hoffman (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Using complex types to make calling services less… complex](http://encosia.com/2009/04/07/using-complex-types-to-make-calling-services-less-complex/) – Dave Ward (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
@@ -97,12 +97,12 @@ Other Resources
 
 **Call For Speakers** (Sorted by Date)
 
-- **LAST CALL:** [Las Vegas, NV – Open Force ‘09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
+- **LAST CALL:** [Las Vegas, NV – Open Force '09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
 - [Tample, FL - Day of DotNetNuke](http://dayofdnn.com/Speakers/tabid/215/Default.aspx) – Due May 13th, 2009
 
 **Upcoming Technology Events** (Sorted by State)
 
-- \---[Announcing the Summer 2009 MSDN “Suburban” Roadshow Series](http://blogs.msdn.com/peterlau/archive/2009/05/08/announcing-the-summer-2009-msdn-suburban-roadshow-series.aspx)
+- \---[Announcing the Summer 2009 MSDN "Suburban" Roadshow Series](http://blogs.msdn.com/peterlau/archive/2009/05/08/announcing-the-summer-2009-msdn-suburban-roadshow-series.aspx)
 - \---[West Michigan Tech Events](http://elevatorup.com/atrium/west-michigan-tech-events) (Suggested by [Chris Woodruff](http://twitter.com/cwoodruff))
 - \---[May 2009 NY/NJ/CT/PA Area Microsoft User Group Meetings](http://blogs.msdn.com/peterlau/archive/2009/05/05/may-2009-area-user-group-meetings.aspx) - [Peter Laudati](http://twitter.com/jrzyshr) 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

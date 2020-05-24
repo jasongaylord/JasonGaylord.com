@@ -8,7 +8,7 @@ tags: [archive]
 bitly: https://bit.ly/2zmFKnQ
 ---
 
-How cool is this? One of my good friends, Aaron Seet, just posted a message to one of the email lists that I’m on with the following link: http://channel9.msdn.com/shows/Continuum/QuakeLightPreview/ Yes. Quake is being ported to a Silverlight game. I...
+How cool is this? One of my good friends, Aaron Seet, just posted a message to one of the email lists that I'm on with the following link: http://channel9.msdn.com/shows/Continuum/QuakeLightPreview/ Yes. Quake is being ported to a Silverlight game. I...
 
 {% include warning-notice.html %}
 Unfortunately, the complete post has not been captured so only a fragment is present.

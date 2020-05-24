@@ -23,7 +23,7 @@ Architecture, Design Patterns, and Testing
 - [Common Logging 2.0 for .NET Released](http://eeichinger.blogspot.com/2009/05/common-logging-20-for-net-released.html) - Erich Eichinger (Suggested by [Glenn Block](http://twitter.com/gblock))
 - [HTTP cookies explained](http://www.nczonline.net/blog/2009/05/05/http-cookies-explained/) - Nicholas C. Zakas (Suggested by [Mike Amundsen](http://twitter.com/mamund))
 - [Lightweight Test Automation Framework for ASP.NET](http://aspnet.codeplex.com/Wiki/View.aspx?title=ASP.NET%20QA) (Suggested by [K. Scott Allen](http://twitter.com/OdeToCode))
-- [Multithreading: what’s the stack for?](http://msmvps.com/blogs/luisabreu/archive/2009/05/04/multithreading-what-s-the-stack-for.aspx) - [Luis Abreu](http://twitter.com/luisabreu)
+- [Multithreading: what's the stack for?](http://msmvps.com/blogs/luisabreu/archive/2009/05/04/multithreading-what-s-the-stack-for.aspx) - [Luis Abreu](http://twitter.com/luisabreu)
 - [On Engineering and Design: An Open Letter](http://www.businessweek.com/innovate/content/apr2009/id20090429_083139.htm) - Bill Buxton (Suggested by [Chris Woodruff](http://twitter.com/cwoodruff))
 - [Web Deployment: Web.Config Transformation](http://blogs.msdn.com/webdevtools/archive/2009/05/04/web-deployment-web-config-transformation.aspx) - WebDevTools (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
@@ -42,7 +42,7 @@ ASP.NET and ASP.NET MVC
 Books
 
 - [Five Windows 7 chapters free to all](http://blogs.msdn.com/microsoft_press/archive/2009/04/27/five-windows-7-chapters-free-to-all.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
-- [RTM’d today: Windows PowerShell 2.0 Administrator's Pocket Consultant](http://blogs.msdn.com/microsoft_press/archive/2009/05/05/rtm-d-today-windows-powershell-2-0-administrator-s-pocket-consultant.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
+- [RTM'd today: Windows PowerShell 2.0 Administrator's Pocket Consultant](http://blogs.msdn.com/microsoft_press/archive/2009/05/05/rtm-d-today-windows-powershell-2-0-administrator-s-pocket-consultant.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
 
 Web Design and Layout
 
@@ -55,7 +55,7 @@ JavaScript and JavaScript Libraries
 - [12 jquery tooltip for web developer](http://www.dreamcss.com/2009/05/12-jquery-tooltip-for-web-developer.html) - raj
 - [20 More Excellent AJAX Effects You Should Know](http://net.tutsplus.com/articles/web-roundups/20-more-excellent-ajax-effects-you-should-know/) - Glen Stansberry (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [jQuery and JavaScript Coding: Examples and Best Practices](http://www.smashingmagazine.com/2008/09/16/jquery-examples-and-best-practices/) - Smashing Magazine
-- [jQuery & MicrosoftAjax “happy together”](http://blogs.msdn.com/devkeydet/archive/2009/05/05/jquery-microsoftajax-happy-together.aspx) (Suggested by [G. Andrew Duthie](http://twitter.com/devhammer))
+- [jQuery & MicrosoftAjax "happy together"](http://blogs.msdn.com/devkeydet/archive/2009/05/05/jquery-microsoftajax-happy-together.aspx) (Suggested by [G. Andrew Duthie](http://twitter.com/devhammer))
 - [Localizing client side JavaScript](http://imar.spaanjaars.com/QuickDocId.aspx?QUICKDOC=489) - Imar Spaanjaars
 - [Make Fancy Light up RSS button with jQuery Fading](http://design-notes.info/tutorial/jquery-tutorial/make-fancy-light-up-rss-button-with-jquery-fading/) - Design Notes(Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Plugin - jQuery Biggerlink 2](http://www.ollicle.com/eg/jquery/biggerlink2/) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -73,7 +73,7 @@ Podcasts and Videos
 
 - [DimeCasts #107 - Testing MVC Routes](http://www.dimecasts.net/Casts/CastDetails/107) - Kyle Baley (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Hanselminutes Podcast 160 - JavaFX and the Web's Four Virtual Machines](http://www.hanselman.com/blog/HanselminutesPodcast160JavaFXAndTheWebsFourVirtualMachines.aspx) – Scott Hanselman
-- [I. M. Wright podcast: “It starts with shipping”](http://blogs.msdn.com/microsoft_press/archive/2009/05/05/i-m-wright-podcast-it-starts-with-shipping.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
+- [I. M. Wright podcast: "It starts with shipping"](http://blogs.msdn.com/microsoft_press/archive/2009/05/05/i-m-wright-podcast-it-starts-with-shipping.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
 - [Microsoft Enterprise Developer & Solutions Conference Live Stream](http://blogs.msdn.com/gduthie/archive/2009/05/05/ms-enterprise-developer-solutions-conference-live-stream.aspx) - [G. Andrew Duthie](http://twitter.com/devhammer)
 - [My MVC Best Practives Talk](http://serialseb.blogspot.com/2009/05/my-mvc-best-practices-talk.html) - [Ian Smith](http://twitter.com/serialseb) (Suggested by [Mike Amundsen](http://twitter.com/mamund))
 - [Windows 7 Graphics Architecture Overview - Part 2](http://channel9.msdn.com/posts/yochay/Windows-7-Graphics-Architecture-Overview-Part-2/) - Yochay Kiriaty (Suggested by [Channel 9](http://twitter.com/ch9))
@@ -105,7 +105,7 @@ Other Resources
 
 **Call For Speakers** (Sorted by Date)
 
-- [Las Vegas, NV – Open Force ‘09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
+- [Las Vegas, NV – Open Force '09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
 - [Tample, FL - Day of DotNetNuke](http://dayofdnn.com/Speakers/tabid/215/Default.aspx) – Due May 13th, 2009
 
 **Upcoming Technology Events** (Sorted by State)

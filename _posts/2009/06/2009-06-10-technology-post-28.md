@@ -69,7 +69,7 @@ Mobile Devices
 
 Podcasts and Videos
 
-- [Architecture - The SOA Report: Author of “Mashup Patterns”](http://www.developerfusion.com/media/42343/author-of-mashup-patterns/) – [Developer Fusion](http://twitter.com/devpodcasts)
+- [Architecture - The SOA Report: Author of "Mashup Patterns"](http://www.developerfusion.com/media/42343/author-of-mashup-patterns/) – [Developer Fusion](http://twitter.com/devpodcasts)
 - [Rails - Rails Envy Podcast: Episode #082: 06/10/2009](http://www.developerfusion.com/podcast/31224/rails-envy-podcast/) – [Developer Fusion](http://twitter.com/devpodcasts)
 
 Social Networking and Community Platforms
@@ -89,7 +89,7 @@ Visual Studio and Other IDEs
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events This Week – June 8th, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/08/events-this-week-june-8th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

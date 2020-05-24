@@ -8,4 +8,4 @@ tags: [archive]
 bitly: https://bit.ly/3d4mkmg
 ---
 
-[Wally](http://www.morewally.com/) just published the [latest ASP.NET Podcast](http://aspnetpodcast.com/CS11/blogs/asp.net_podcast/archive/2008/11/03/asp-net-podcast-show-126-application-performance-and-notatpdc.aspx). He also announced that there is a new co-host… [David Penton](http://www.pentonizer.com/). For those of you that don’t know Dave, he’s an extremely talented guy and should help to keep Wally in line. Keep up the good work guys!
+[Wally](http://www.morewally.com/) just published the [latest ASP.NET Podcast](http://aspnetpodcast.com/CS11/blogs/asp.net_podcast/archive/2008/11/03/asp-net-podcast-show-126-application-performance-and-notatpdc.aspx). He also announced that there is a new co-host… [David Penton](http://www.pentonizer.com/). For those of you that don't know Dave, he's an extremely talented guy and should help to keep Wally in line. Keep up the good work guys!

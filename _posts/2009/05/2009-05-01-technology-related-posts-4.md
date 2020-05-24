@@ -10,7 +10,7 @@ bitly: https://bit.ly/3ecBBBE
 
 <small>Edition: #4</small>
 
-I’ve streamlined the categories a bit more. I’m also going to add suggestions that I come across on Twitter. Do you have any suggestions for my link series? Let me know by leaving a comment here. Whether it is additional resources to find links or changing the format – all suggestions are welcome!
+I've streamlined the categories a bit more. I'm also going to add suggestions that I come across on Twitter. Do you have any suggestions for my link series? Let me know by leaving a comment here. Whether it is additional resources to find links or changing the format – all suggestions are welcome!
 
 .NET Languages – C# and Visual Basic
 
@@ -76,7 +76,7 @@ Podcasts and Videos
 - [Jason Olson: Composing Programming Languages, F# and OO - Channel 9](http://channel9.msdn.com/posts/Charles/Jason-Olson-Composing-Programming-Languages-F-and-OO/)
 - [7 Valuable Visual Studio Hidden Features](http://hatim.indexdev.net/2009/04/30/7-valuable-visual-studio-hidden-features/) – Hatim
 - [Tip #60: Did you know… How to profiling an asp.net site?](http://blogs.msdn.com/webdevelopertips/archive/2009/04/30/tip-60-did-you-know-how-to-profiling-an-asp-net-site.aspx) - Xinyang Qiu
-- [Scott Allen’s AJAX with ASP.NET MVC](http://www.pluralsight.com/main/olt/Module.aspx?a=scott-allen&n=mvc-ajax&cn=aspdotnet-mvc) – Recommended by Fritz Onion
+- [Scott Allen's AJAX with ASP.NET MVC](http://www.pluralsight.com/main/olt/Module.aspx?a=scott-allen&n=mvc-ajax&cn=aspdotnet-mvc) – Recommended by Fritz Onion
 - [Sod This 4 - Now with 100% less swearing! - Dino Esposito](http://www.sodthis.com/podcast/2009/04/30/sod-this-4-now-with-100-less-swearing)
 
 Silverlight, WPF, and RIA

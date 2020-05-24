@@ -10,7 +10,7 @@ bitly: https://bit.ly/36reNeT
 
 <small>Edition: #39</small>
 
-I’ve changed the Technology Post format again a bit in preparation for the new website. Let me know what you think.
+I've changed the Technology Post format again a bit in preparation for the new website. Let me know what you think.
 
 **Daily Oddball** – [Googling with Bing](http://news.cnet.com/8301-13860_3-10274832-56.html?tag=newsLatestHeadlinesArea.0) (Tweeted by [Shawn Wildermuth](http://twitter.com/ShawnWildermuth))
 
@@ -56,7 +56,7 @@ Desktop and Server Technology
 - [Search – Google vs Bing](http://www.google-vs-bing.com/) – Tweeted by [Scott Hanselman](http://twitter.com/shanselman)
 - ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Security - Absolute Software - Theft Recovery, Data Protection, Secure Asset Tracking](http://channel9.msdn.com/shows/Inside+Out/Absolute-Software-Theft-Recovery-Data-Protection-Secure-Asset-Tracking/) – Tweeted by [Channel 9](http://twitter.com/ch9)
 - [Surface - Microsoft Surface SDK FInally made available for all Microsoft Partners](https://partner.surface.com/login/SignIn.aspx?ReturnUrl=%2fEN%2fSecure%2fPages%2fdefault.aspx) – Tweeted by [Phil Winstanley](http://twitter.com/Plip)
-- [Windows - Windows 7 and Windows Installer Error “Another installation is in progress”](http://weblogs.asp.net/jgaylord/archive/2009/06/30/windows-7-and-windows-installer-error-another-installation-is-in-progress.aspx) – Tweeted by [Jason Gaylord](http://twitter.com/jgaylord)
+- [Windows - Windows 7 and Windows Installer Error "Another installation is in progress"](http://weblogs.asp.net/jgaylord/archive/2009/06/30/windows-7-and-windows-installer-error-another-installation-is-in-progress.aspx) – Tweeted by [Jason Gaylord](http://twitter.com/jgaylord)
 - [Windows Server - How to stop that annoying beep on your server](http://sqlblogcasts.com/blogs/simons/archive/2009/06/30/How-to-stop-that-annoying-beep-on-your-server.aspx) – Tweeted by [Luciano E. Guerche](http://twitter.com/guercheLE)
 
 Gaming
@@ -80,13 +80,13 @@ JavaScript and JavaScript Libraries
 
 Mobile Devices
 
-- [iPhone - 5 things I can do with my windows mobile phone that you can’t do with your iPhone](http://www.pathf.com/blogs/2009/06/5-things-i-can-do-with-my-windows-mobile-phone-that-you-cant-do-with-your-iphone/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
+- [iPhone - 5 things I can do with my windows mobile phone that you can't do with your iPhone](http://www.pathf.com/blogs/2009/06/5-things-i-can-do-with-my-windows-mobile-phone-that-you-cant-do-with-your-iphone/) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 
 Silverlight, WPF, and RIA
 
 - [Silverlight - Handling Events within Silverlight Control Templates – AutoCompleteBox Example](http://weblogs.asp.net/dwahlin/archive/2009/06/30/handling-events-within-silverlight-control-templates-autocompletebox-example.aspx) – Tweeted by [Dan Wahlin](http://twitter.com/DanWahlin)
 - [Silverlight - Hilighting entire row in datagrid](http://leeontech.wordpress.com/2009/06/29/hilighting-entire-rows-in-datagrid/) – Tweeted by [Silverlight News](http://twitter.com/SilverlightNews)
-- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Silverlight - Prism’s Event Aggregator](http://www.sparklingclient.com/prisms-event-aggregator/) – Tweeted by [Silverlight News](http://twitter.com/SilverlightNews)
+- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Silverlight - Prism's Event Aggregator](http://www.sparklingclient.com/prisms-event-aggregator/) – Tweeted by [Silverlight News](http://twitter.com/SilverlightNews)
 - [Silverlight - Silverlight 3 Polling Duplex Chat and Realtime Stock Updates](http://www.eggheadcafe.com/tutorials/aspnet/002292a9-a5f1-4d0c-8842-eabcc4492bb7/silverlight-3-polling-dup.aspx) – Tweeted by [Silverlight News](http://twitter.com/SilverlightNews)
 - [WPF - Arranging Shapes in a Circle with Expression Blend – Part One](http://blog.wpfwonderland.com/2009/06/26/arranging-shapes-in-circle-with-expression-blend-part-one/) – Tweeted by [Silverlight News](http://twitter.com/SilverlightNews)
 - [WPF - How to Contribute to Open Source (When You're Not Exactly Scott Hanselman)](http://girldeveloper.com/waxing-dev/how-to-contribute-to-open-source-when-you-re-not-exactly-scott-hanselman/) – Tweeted by [Sara Chipps](http://twitter.com/SaraJChipps)
@@ -99,8 +99,8 @@ Social Networking and Community Platforms
 
 Visual Studio and Other IDEs
 
-- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Expression Blend - Russ’ Toolshed Tooltip #16 - Expression Blend 2 Video, Animation and VS Integration Basics](http://channel9.msdn.com/shows/toolshed/Toolshed-Tooltip-16-Expression-Blend-2-Video-Animation-and-VS-Integration-Intro/) – Tweeted by [Wally McClure](http://twitter.com/wbm)
-- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Expression Blend - Russ’ Toolshed Tooltip #17 - Expression Blend 3 SketchFlow - The game has changed](http://channel9.msdn.com/shows/toolshed/Toolshed-Tooltip-17-Expression-Blend-3-SketchFlow-The-game-has-changed/) – Tweeted by [Wally McClure](http://twitter.com/wbm)
+- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Expression Blend - Russ' Toolshed Tooltip #16 - Expression Blend 2 Video, Animation and VS Integration Basics](http://channel9.msdn.com/shows/toolshed/Toolshed-Tooltip-16-Expression-Blend-2-Video-Animation-and-VS-Integration-Intro/) – Tweeted by [Wally McClure](http://twitter.com/wbm)
+- ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Expression Blend - Russ' Toolshed Tooltip #17 - Expression Blend 3 SketchFlow - The game has changed](http://channel9.msdn.com/shows/toolshed/Toolshed-Tooltip-17-Expression-Blend-3-SketchFlow-The-game-has-changed/) – Tweeted by [Wally McClure](http://twitter.com/wbm)
 - ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Visual Studio - First Look at the Visual Studio 2010 Beta 1](http://www.screencastaday.com/ScreenCasts/104_First_Look_at_the_Visual_Studio_2010_Beta_1.aspx) – Tweeted by [Elijah Manor](http://twitter.com/elijahmanor)
 - [Visual Studio - Mono in Visual Studio 2010](http://jpobst.blogspot.com/2009/06/mono-in-visual-studio-2010.html) – Tweeted by [Scott Hanselman](http://twitter.com/shanselman)
 - ![Video](http://jasongaylord.com/images/techpost/video.jpg)[Visual Studio - Visual Studio Learning Pack for you to download](http://channel9.msdn.com/posts/MaxZuck/Visual-Studio-Learning-Pack-for-you-to-download/) – Tweeted by [Channel 9](http://twitter.com/ch9)
@@ -116,14 +116,14 @@ Web Design and Graphics
 Miscellaneous Technology News
 
 - [Learn All About HTTPS](http://www.robmiles.com/journal/2009/6/29/learn-all-about-https.html) – Tweeted by [Microsoft Press](http://twitter.com/MicrosoftPress)
-- [Staying Productive When You’re Working From Home](http://www.dumblittleman.com/2009/06/staying-productive-when-youre-working.html) – Tweeted by [Don Makoviney](http://twitter.com/donmak)
+- [Staying Productive When You're Working From Home](http://www.dumblittleman.com/2009/06/staying-productive-when-youre-working.html) – Tweeted by [Don Makoviney](http://twitter.com/donmak)
 - [White House Unveils USASpending.gov to Track IT Spending](http://www.fastcompany.com/blog/kit-eaton/technomix/us-government-bares-its-spending-habits-all-see) – Tweeted by [George Dearing](http://twitter.com/GeorgeDearing)
 
 Other Link Lists
 
 - [Dew Drop – June 30, 2009](http://www.alvinashcraft.com/2009/06/30/dew-drop-june-30-2009/) – Tweeted by [Alvin Ashcraft](http://twitter.com/alvinashcraft)
 
-**Today’s Birthdays**
+**Today's Birthdays**
 
 - [Dave Bost](http://twitter.com/davebost) – Microsoft Developer Evangelist, St. Charles, IL
 
@@ -135,7 +135,7 @@ Other Link Lists
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events this Week](http://blogs.msdn.com/gduthie/archive/2009/06/29/events-this-week-june-29th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

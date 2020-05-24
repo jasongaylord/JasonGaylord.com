@@ -17,7 +17,7 @@ If you're using NPM, you may notice that the default view is to show all package
 
 ![https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Default_View.png](https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_Default_View.png)
 
-However, if you choose the Source dropdown menu, you can choose ‘This Feed' to see only your packages that you've uploaded.
+However, if you choose the Source dropdown menu, you can choose 'This Feed' to see only your packages that you've uploaded.
 
 ![https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_This_Feed.png](https://cdn.jasongaylord.com/images/2018/10/26/Artifacts_This_Feed.png)
 

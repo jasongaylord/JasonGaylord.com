@@ -32,8 +32,8 @@ ASP.NET and ASP.NET MVC
 
 Books
 
-- [SQL Server Reporting Services Step by Step: What’s new for 2008?](http://blogs.msdn.com/microsoft_press/archive/2009/05/06/sql-server-reporting-services-step-by-step-what-s-new-for-2008.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
-- [Windows Small Business Server 2008 Administrator’s Pocket Consultant](http://blogs.msdn.com/microsoft_press/archive/2009/05/06/now-available-windows-sbs-2008-administrator-s-pocket-consultant.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
+- [SQL Server Reporting Services Step by Step: What's new for 2008?](http://blogs.msdn.com/microsoft_press/archive/2009/05/06/sql-server-reporting-services-step-by-step-what-s-new-for-2008.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
+- [Windows Small Business Server 2008 Administrator's Pocket Consultant](http://blogs.msdn.com/microsoft_press/archive/2009/05/06/now-available-windows-sbs-2008-administrator-s-pocket-consultant.aspx) - [Microsoft Press](http://twitter.com/MicrosoftPress)
 
 Cloud Computing
 
@@ -48,12 +48,12 @@ Cloud Computing
 Web Design and Layout
 
 - [18 Seriously Helpful Cheat Sheets for Easier Coding](http://webdesignledger.com/resources/18-seriously-helpful-cheat-sheets-for-easier-coding) – Henry Jones (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
-- [Code Your Own Online “Paint Shop” App: New Plus Tutorial](http://net.tutsplus.com/articles/news/code-your-own-online-paintshop-app/) – NetTuts (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [Code Your Own Online "Paint Shop" App: New Plus Tutorial](http://net.tutsplus.com/articles/news/code-your-own-online-paintshop-app/) – NetTuts (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
 JavaScript and JavaScript Libraries
 
 - [15+ Excellent jQuery Plugins To Enhance HTML Forms](http://webdeveloperplus.com/jquery/15-excellent-jquery-plugins-to-enhance-html-forms/) - jQuery
-- [20 New examples of advanced jQuery UI’s in action.](http://blarnee.com/wp/20-new-examples-of-advanced-jquery-uis-in-action/) - (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
+- [20 New examples of advanced jQuery UI's in action.](http://blarnee.com/wp/20-new-examples-of-advanced-jquery-uis-in-action/) - (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Ask JW: How do I Make AJAX Requests With jQuery?](http://blog.themeforest.net/screencasts/ask-jw-how-do-i-make-ajax-requests-with-jquery/) – Jeffrey Way (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Create an Image Rotator with Description (CSS/jQuery)](http://designm.ag/tutorials/image-rotator-css-jquery/) – Soh Tanaka (Suggested by [jQuery](http://twitter.com/jquery))
 - [Improve your jQuery - 25 excellent tips](http://www.tvidesign.co.uk/blog/improve-your-jquery-25-excellent-tips.aspx) - Jon Hobbs-Smith (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
@@ -88,7 +88,7 @@ Technology Announcements and News
 
 - [Is Dell cooking up an Android-powered netbook?](http://www.engadget.com/2009/05/06/is-dell-cooking-up-an-android-powered-netbook/) - Engadget
 - [Kindle DX: Amazon's 9.7" Wireless Reading Device (Latest Generation)](http://www.amazon.com/Kindle-DX-Amazons-Wireless-Generation/dp/B0015TCML0/ref=sr_1_1?ie=UTF8&s=electronics&qid=1241620598&sr=8-1)
-- [Web learning startup takes top spot in Microsoft’s Imagine Cup](http://www.masshightech.com/stories/2009/05/04/daily22-Web-learning-startup-takes-top-spot-in-Microsofts-Imagine-Cup.html) - Mass High Tech Staff (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
+- [Web learning startup takes top spot in Microsoft's Imagine Cup](http://www.masshightech.com/stories/2009/05/04/daily22-Web-learning-startup-takes-top-spot-in-Microsofts-Imagine-Cup.html) - Mass High Tech Staff (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
 
 Miscellaneous
 
@@ -100,7 +100,7 @@ Other Resources
 
 **Call For Speakers** (Sorted by Date)
 
-- [Las Vegas, NV – Open Force ‘09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
+- [Las Vegas, NV – Open Force '09](http://openforce08.com/Home/tabid/55/Default.aspx) – Due May 8th, 2009
 - [Tample, FL - Day of DotNetNuke](http://dayofdnn.com/Speakers/tabid/215/Default.aspx) – Due May 13th, 2009
 
 **Upcoming Technology Events** (Sorted by State)

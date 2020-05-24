@@ -8,4 +8,4 @@ tags: [archive]
 bitly: https://bit.ly/2ZwjSkH
 ---
 
-[Infragistics](http://www.infragistics.com/), a User Interface Components company, has released a new UX Pattern website that allows users to view various patterns and submit their own to the library. The site can be found at [http://quince.infragistics.com/](http://quince.infragistics.com/ "http://quince.infragistics.com/"). If you haven’t checked it out yet, I’d recommend it. It’s a great way to browse patterns or even to showcase certain design capabilities to end users.
+[Infragistics](http://www.infragistics.com/), a User Interface Components company, has released a new UX Pattern website that allows users to view various patterns and submit their own to the library. The site can be found at [http://quince.infragistics.com/](http://quince.infragistics.com/ "http://quince.infragistics.com/"). If you haven't checked it out yet, I'd recommend it. It's a great way to browse patterns or even to showcase certain design capabilities to end users.

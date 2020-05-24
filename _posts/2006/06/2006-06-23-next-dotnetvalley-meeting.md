@@ -17,11 +17,11 @@ The next .NET Valley meeting will be held on **Wednesday June 28th** at [Luzerne
 There will be two presentations at this event. Presenting for .NET Valley first will be Michael Murphy, a Microsoft TechNet Presenter. The second presenter will be Jason N. Gaylord, an ASPInsider and Microsoft MVP.  
   
 Presentation 1: Exchange 2007 Technical Preview (6:00pm - 6:45pm)  
-In this session, we’ll take a look at how Exchange Server gives you more administrative control; from role-based installation, through to improved management tools, like the Shell, and the Exchange Management Console. We will look at role-based server deployment, the 64-bit imperative, the Exchange Management Shell and Console, and client AutoDiscovery.  
+In this session, we'll take a look at how Exchange Server gives you more administrative control; from role-based installation, through to improved management tools, like the Shell, and the Exchange Management Console. We will look at role-based server deployment, the 64-bit imperative, the Exchange Management Shell and Console, and client AutoDiscovery.  
   
-Great client-side improvements mean that Exchange 2007 gives you Anywhere Access to your inbox, we’ll take a look at how. We’ll cover OWA improvements and we’ll discuss Unified Messaging.  
+Great client-side improvements mean that Exchange 2007 gives you Anywhere Access to your inbox, we'll take a look at how. We'll cover OWA improvements and we'll discuss Unified Messaging.  
   
-In the final part of the session, we’ll take a look at how Exchange Server 2007 protects your organization from external, and internal, security threats – and makes your organization more secure.  
+In the final part of the session, we'll take a look at how Exchange Server 2007 protects your organization from external, and internal, security threats – and makes your organization more secure.  
   
 Presentation 2: Understanding Membership and Profiles in ASP.NET 2.0 (7:00pm - 7:45pm)  
 Three of the most useful features in ASP.NET 2.0 is the Membership, Role Manager and Personalization providers. During this presentation, we'll pick apart each of these APIs and the controls that they contain. We'll also see ways to use this to our advantage by creating custom providers.  

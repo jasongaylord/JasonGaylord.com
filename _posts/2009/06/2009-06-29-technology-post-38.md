@@ -55,7 +55,7 @@ Desktop and Server Technology
 
 JavaScript and JavaScript Libraries
 
-- [ASP.NET AJAX - Never worry about ASP.NET AJAX’s .d again](http://encosia.com/2009/06/29/never-worry-about-asp-net-ajaxs-d-again/) – Encosia (Suggested by [Craig Shoemaker](http://twitter.com/craigshoemaker))
+- [ASP.NET AJAX - Never worry about ASP.NET AJAX's .d again](http://encosia.com/2009/06/29/never-worry-about-asp-net-ajaxs-d-again/) – Encosia (Suggested by [Craig Shoemaker](http://twitter.com/craigshoemaker))
 - [JavaScript - 10 Impressive JavaScript Animation Frameworks](http://sixrevisions.com/javascript/10-impressive-javascript-animation-frameworks/) – Six Revisions (Suggested by [Keyvan Nayeri](http://twitter.com/keyvan))
 - [JavaScript - JavaScript Shortcuts](http://www.myviewstate.net/blog/post/2009/06/24/JavaScript-Shortcuts.aspx) – MyViewState.NET (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [JavaScript - KeyTable – Keyboard Navigation & Event Binding For HTML Table](http://www.w3avenue.com/2009/06/29/keytable-keyboard-navigation-event-binding-for-html-table/) – W3Avenue (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
@@ -118,7 +118,7 @@ Miscellaneous Technology Announcements, News, and Deals
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \-- [Events this Week](http://blogs.msdn.com/gduthie/archive/2009/06/29/events-this-week-june-29th-2009.aspx) – [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

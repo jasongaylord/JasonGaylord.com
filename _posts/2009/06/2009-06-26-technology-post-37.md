@@ -104,7 +104,7 @@ Miscellaneous Technology Announcements, News, and Deals
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009
 - [Des Moines, IA – Iowa Code Camp](http://iowacodecamp.com/default.aspx) – November 7th, 2009

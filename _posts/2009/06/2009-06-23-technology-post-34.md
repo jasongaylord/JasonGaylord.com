@@ -106,7 +106,7 @@ Miscellaneous Technology Announcements and News
 
 - _None_
 
-**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what’s the best way for me to list these events? By date order or by state, then city, then date?
+**Upcoming Technology Events** (Sorted by State) – Want something listed? Post your comments. Also, what's the best way for me to list these events? By date order or by state, then city, then date?
 
 - \---  [Events This Week – June 23rd, 2009](http://blogs.msdn.com/gduthie/archive/2009/06/23/events-this-week-june-23rd-2009.aspx) - [G. Andrew Duthie](http://twitter.com/devhammer)
 - [Phoenix, Az - BarCamp Phoenix](http://barcamp.org/BarCampPhoenix) – August 29th, 2009

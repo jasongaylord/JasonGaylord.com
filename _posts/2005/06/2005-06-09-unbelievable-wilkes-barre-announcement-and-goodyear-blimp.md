@@ -10,7 +10,7 @@ bitly: https://jasong.us/3fKqi5z
 
 Mayor Tom Leighton announced earlier this week that he had an "unbelievable" announcement for Wilkes-Barre. It turns out that it was more of an "unbelievable" disappointment. Here is the blurb from the [Wilkes-Barre Times Leader](http://www.timesleader.com/mld/timesleader/11856153.htm):  
   
-> _Mayor Tom Leighton’s much awaited announcement of something “UNBELIEVABLE” coming to Wilkes-Barre turned out to be not a new business or industry for the city but instead a new marketing plan that Leighton hopes will foster a more optimistic attitude. The program centers on the phrase “I Believe...” and will seek to get people more involved and more positive about the city’s future._
+> _Mayor Tom Leighton's much awaited announcement of something "UNBELIEVABLE" coming to Wilkes-Barre turned out to be not a new business or industry for the city but instead a new marketing plan that Leighton hopes will foster a more optimistic attitude. The program centers on the phrase "I Believe..." and will seek to get people more involved and more positive about the city's future._
 
 For the WNEP article, [click here](http://www.wnep.com/Global/story.asp?S=3453693).  
   

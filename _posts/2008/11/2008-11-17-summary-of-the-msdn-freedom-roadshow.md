@@ -8,7 +8,7 @@ tags: [archive]
 bitly: https://bit.ly/36irfgW
 ---
 
-For those not at the MSDN Freedom Roadshow in Scranton, PA today, you are missed a good show. Here’s what happened: David Solivan – David presented a talk called UI, UX, U confused? The purpose was to show the various options we have and to explain when...
+For those not at the MSDN Freedom Roadshow in Scranton, PA today, you are missed a good show. Here's what happened: David Solivan – David presented a talk called UI, UX, U confused? The purpose was to show the various options we have and to explain when...
 
 {% include warning-notice.html %}
 Unfortunately, the complete post has not been captured so only a fragment is present.
