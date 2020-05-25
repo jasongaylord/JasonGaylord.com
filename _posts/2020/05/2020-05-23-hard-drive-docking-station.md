@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-05-23
 categories: [covid19,hardware,shopping,technology]
 tags: [covid19,hardware,shopping,technology]
-bitly: https://bit.ly/2WTIjXE
+bitly: https://bit.ly/3efSdsn
 ---
 
 One of the tasks I had while being in quarantine was to recover my aunt's hard drive. My old docking station, which was an original USB dock, would not support SATA drives. Rather, it was SCSI only. So, I headed out to Amazon to find something that would satisfy the need. I came across a USB-C and USB 3 Cable Matters SATA docking station for both 2.5 and 3.5 inch drives.
