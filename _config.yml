@@ -15,7 +15,7 @@ git:
 
 # pagination and permalink
 show_excerpts: true
-paginate: 5
+paginate: 10
 page_group_size: 5
 paginate_path: "/blog/page/:num"
 permalink: /blog/:year/:month/:day/:title
