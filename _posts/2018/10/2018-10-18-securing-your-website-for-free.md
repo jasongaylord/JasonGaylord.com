@@ -7,6 +7,7 @@ permalink: /blog/securing-your-website-for-free
 date: 2018-10-18
 categories: [development,security]
 tags:  [development,security]
+bitly: https://bit.ly/2ZBHggD
 ---
 
 If you concern yourself with security, you probably have heard of [Troy Hunt](https://jasong.us/2J3Xm8F). Over the years, Troy has blogged about numerous free SSL services including [Let's Encrypt](https://jasong.us/2pX9nUA) and [Cloudflare](https://jasong.us/2NKkY2Q). He's also blogged a lot about why [static](https://jasong.us/2J30eCv) [websites](https://jasong.us/2CQmsHH) need [HTTPS](https://jasong.us/2EwnXwx). I've long been a fan of Let's Encrypt and use Azure WebApps for many of my projects, especially those that are supporting non-profit organizations, such as [TechBash](https://jasong.us/techbash), or those for personal use such as [my own blog](https://jasong.us/blog). So, while this post will specifically target those using Azure, you can and should use Let's Encrypt or Cloudflare regardless of your hosting provider. 
