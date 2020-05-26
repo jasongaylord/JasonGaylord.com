@@ -5,7 +5,9 @@
         {{ page.date | default:post.date | date: date_format }}
     </time>
 
+    &nbsp;
     &#9679;
+    &nbsp;
 
     {% capture words %}
         {{ page.content | number_of_words | minus: 225 }}
@@ -14,7 +16,9 @@
         {{ words | plus: 225 | divided_by: 225 | append: " minute(s) to read" }}
     {% endunless %}
 
+    &nbsp;
     &#9679;
+    &nbsp;
 
     <i class="fas fa-pencil-alt"></i>
     <span class="edit">{% include post/edit.html %}</span>
