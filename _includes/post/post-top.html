@@ -1,6 +1,3 @@
-{% capture count_words %}{{ page.content | number_of_words }}{% endcapture %}
-{% capture time_words %}{{ count_words | divided_by: 4.167 }}{% endcapture %}
-
 <div>
     <i class="far fa-calendar-alt"></i>
     <time class="date dt-published" datetime="{{ page.date | default:post.date | date_to_xmlschema }}" itemprop="datePublished">
@@ -10,5 +7,15 @@
 
     &middot;
 
-    {{time_words | divided_by: 60}} minute(s) to read
+    {% capture words %}
+        {{ page.content | number_of_words | minus: 225 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+        {{ words | plus: 225 | divided_by: 225 | append: " minute(s) to read" }}
+    {% endunless %}
+
+    &middot;
+
+    <i class="fas fa-pencil-alt"></i>
+    <span class="edit">{% include post/edit.html %}</span>
 </div>
