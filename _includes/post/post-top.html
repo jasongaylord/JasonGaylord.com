@@ -1,0 +1,14 @@
+{% capture count_words %}{{ page.content | number_of_words }}{% endcapture %}
+{% capture time_words %}{{ count_words | divided_by: 4.167 }}{% endcapture %}
+
+<div>
+    <i class="far fa-calendar-alt"></i>
+    <time class="date dt-published" datetime="{{ page.date | default:post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {% assign date_format = "%b %-d, %Y" %}
+        {{ page.date | default:post.date | date: date_format }}
+    </time>
+
+    &middot;
+
+    {{time_words | divided_by: 60}} minute(s) to read
+</div>

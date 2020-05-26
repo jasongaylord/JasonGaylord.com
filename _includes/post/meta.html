@@ -9,7 +9,7 @@
             </time>
             <span class="vertical-bar">|</span>
         </div>
-        {% if post.bitly %}
+        {% if page.bitly or post.bitly %}
         <div class="meta-part">
             <span class="cursor" data-copy-text="{{ page.bitly | default:post.bitly }}"><i class="fas fa-copy"></i> Permalink</span>
             <span class="vertical-bar">|</span>
