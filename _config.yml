@@ -50,8 +50,8 @@ google:
 
 rss: rss
 # The site generates a feed at /feed.xml. Uncomment below to override
-# feed:
-#   path: /myfeed.xml
+feed:
+  path: /feed.xml
 
 # comments
 comments:
