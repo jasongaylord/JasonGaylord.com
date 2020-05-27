@@ -16,9 +16,9 @@ I've been using the free SSL service with [Let's Encrypt](https://jasong.us/2pX9
 
 As I read some of the open issues for my existing extension, I noticed several having issues connecting using ACMEv2 with it. So, I started looking at alternatives and found two.
 
-{% include warning_notice.html %}
+{% include warning-notice.html %}
 <strong>Warning:</strong> Your custom domain DNS must be managed by an Azure DNS Zone for the following to work. If it is not, please visit <a href="https://bit.ly/3d7zrU6">https://bit.ly/3d7zrU6</a> for other options.
-{% include end_notice.html %}
+{% include end-notice.html %}
 
 ## Option 1: Using AzureWebAppSSLManager
 This service will capture new certificates from Let's Encrypt, validate the certs against a TXT record in Azure DNS, download the certs to blog storage, and install the certs to any app service or function you desire within a single Azure subscription.
@@ -33,9 +33,9 @@ Before we begin, we'll need to setup several resources.
 > az ad sp create-for-rbac
 > ```
 
-{% include info_notice.html %}
+{% include info-notice.html %}
 <strong>Note:</strong> It's a good idea for you to capture the appId, password, and tenant. It's especially important to capture the password as you won't be able to obtain this again after leaving the screen or terminating the CLI window.
-{% include end_notice.html %}
+{% include end-notice.html %}
 
 3. Setup SendGrid and obtain a SendGrid API key. SendGrid is free for up to 100 emails a day. 
 4. You'll need to capture your Azure Subscription ID as well.
@@ -54,9 +54,9 @@ This option can be deployed by [clicking here](https://portal.azure.com/#create/
 ## Option 2: Using Acmebot
 This option is a little bit more straight forward especially if you lack experience with app configuration and/or Azure configuration. To get started, you can [click here](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshibayan%2Fappservice-acmebot%2Fmaster%2Fazuredeploy.json). This service also allows you to not only use Let's Encrypt, but also BuyPass. 
 
-{% include info_notice.html %}
+{% include info-notice.html %}
 <strong>Note:</strong> I always recommend setting up a separate resource group for these resources. Typically, I use a group called 'myapp-letsencrypt' or something similar.
-{% include end_notice.html %}
+{% include end-notice.html %}
 
 After the template is deployed, you'll have a new storage account, app service plan, app service (with a function), and an application insights account. 
 
