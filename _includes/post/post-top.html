@@ -1,4 +1,4 @@
-<div>
+<div class="post-header">
     <i class="far fa-calendar-alt"></i>
     <time class="date dt-published" datetime="{{ page.date | default:post.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign date_format = "%b %-d, %Y" %}
@@ -19,6 +19,14 @@
         &#9679;
         &nbsp;
     {% endunless %}
+
+    {% if page.bitly or post.bitly %}   
+        <span class="cursor" data-copy-text="{{ page.bitly | default:post.bitly }}"><i class="fas fa-copy"></i> Permalink</span>
+
+        &nbsp;
+        &#9679;
+        &nbsp;
+    {% endif %}
 
     <i class="fas fa-pencil-alt"></i>
     <span class="edit">{% include post/edit.html %}</span>

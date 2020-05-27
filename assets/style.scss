@@ -116,6 +116,15 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     margin-bottom: 30px;
 }
 
+.post-header {
+    color: $color-post-meta;
+    margin-bottom: 30px;
+
+    a, a:hover {
+        color: $color-post-meta;
+    }
+}
+
 // Ads
 .desktop, .mobile {
     &.ad {
