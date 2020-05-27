@@ -1,7 +1,6 @@
 ---
 title: Free Azure SSL Using Let's Encrypt and ACMEv2
 author: Jason Gaylord
-permalink: /blog/azure-devops-change-may-break-application
 date: 2020-05-27
 categories: [cloud,devops,development,security]
 tags:  [cloud,devops,development,security]
