@@ -3,7 +3,7 @@ title: Google's Stadia Gaming Free for Two Months
 author: Jason Gaylord
 cloudscribe_id: "97dc5fd6-f6cd-4c2c-ba86-a486378e95b4"
 cloudscribe_path: "/blog/google's-stadia-gaming-free-for-two-months"
-permalink: /blog/google's-stadia-gaming-free-for-two-months
+permalink: "/blog/google's-stadia-gaming-free-for-two-months"
 date: 2020-04-13
 categories: [covid19,gaming,google,shopping,technology]
 tags:  [covid19,gaming,google,shopping,technology]
