@@ -5,6 +5,7 @@ date: 2020-05-28
 categories: [cloud,development,dotnet,serverless]
 tags:  [cloud,development,dotnet,serverless]
 bitly: https://bit.ly/2AisxfS
+image: https://cdn.jasongaylord.com/images/2020/05/28/azure-function-command-line.jpg
 ---
 
 There are several ways you can create an Azure Function. You can use Visual Studio, Visual Studio Code, or even the Command Line. For purposes of this article, we're going to use the command line. We're also going to use C# for this article, though you can follow essentially the same steps for TypeScript or JavaScript. You can also use Java, PowerShell, or Python for your Azure function. The prerequisites, command-line parameters, and code samples will be different for other languages.
