@@ -14,9 +14,9 @@ tags:  [angular,development,javascript]
 Before we can start building Angular applications, we'll need to setup our development environment. There are many ways in which we can do this and there are some steps that are common for all. As we go through the setup process for our environment, we have two options:
 
 1. We can install each application manually
-2. We can install some of the applications using Chocolately
+2. We can install some of the applications using Chocolatey
 
-If we'd like to install using Chocolately, we need to first install Chocolately. If you are unfamiliar with Chocolately, it is a package manager for Windows. It uses a repository to allow your system to install packages and to keep up to date. Some packages are installed using the Microsoft Store. However, not all packages are available especially if they are developer add-ins. Chocolately can be installed by visiting [https://chocolatey.org/install](https://jasong.us/2K7k5C6). If you install Chocolately, for each application below, check for the appropriate instructions.
+If we'd like to install using Chocolatey, we need to first install Chocolatey. If you are unfamiliar with Chocolatey, it is a package manager for Windows. It uses a repository to allow your system to install packages and to keep up to date. Some packages are installed using the Microsoft Store. However, not all packages are available especially if they are developer add-ins. Chocolatey can be installed by visiting [https://chocolatey.org/install](https://jasong.us/2K7k5C6). If you install Chocolatey, for each application below, check for the appropriate instructions.
 
 ## Installing NodeJS and NPM
 If we currently are missing NodeJS, we must go to [https://nodejs.org/](https://jasong.us/2xroU6F) to install it. If you're not sure if it's installed, you can go to a command prompt and run the following command:
@@ -27,7 +27,7 @@ node -v
 
 If a version number is returned, NodeJS is installed.
 
-If you are using Chocolately, you can run the following command:
+If you are using Chocolatey, you can run the following command:
 
 ```shell
 choco install nodejs
@@ -43,13 +43,13 @@ If you already have NodeJS installed but need to update NPM, you can do so a cou
 3. Then, install the upgrader tool by running `npm install -g --production npm-windows-upgrade`.
 4. Finally, run the upgrader tool by running `npm-windows-upgrade`.
 
-If you are using Chocolately, you can install the latest NodeJS by running this:
+If you are using Chocolatey, you can install the latest NodeJS by running this:
 
 ```shell
 choco upgrade nodejs
 ```
 
-Advanced developers may not like this approach as this will remove any custom NPM configuration that was made. So, if you had installed using Chocolately, you'll want to first check to see if npm is removed from the choco\bin directory by running `where.exe npm`. If its still there, first install the npm-windows-upgrade using Step 3 above. Then, you'll need to delete the files from that bin directory or run `choco uninstall npm`. Finally, run Step 4 above. This will help to clear out any custom configuration.
+Advanced developers may not like this approach as this will remove any custom NPM configuration that was made. So, if you had installed using Chocolatey, you'll want to first check to see if npm is removed from the choco\bin directory by running `where.exe npm`. If its still there, first install the npm-windows-upgrade using Step 3 above. Then, you'll need to delete the files from that bin directory or run `choco uninstall npm`. Finally, run Step 4 above. This will help to clear out any custom configuration.
 
 ## Installing Angular CLI
 
@@ -59,7 +59,7 @@ Now onto Angular CLI. The Angular CLI will allow you to create new, build, and r
 npm install -g @angular/cli
 ```
 
-There is no Chocolately setup for the Angular CLI.
+There is no Chocolatey setup for the Angular CLI.
 
 You can learn more about the Angular CLI commands by visiting [https://cli.angular.io/](https://jasong.us/3bsD1Hr).
 
