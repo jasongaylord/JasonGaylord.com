@@ -117,11 +117,15 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
 }
 
 .post-header {
-    color: $color-post-meta;
+    color: #888;
     margin-bottom: 30px;
 
-    a, a:hover {
-        color: $color-post-meta;
+    a {
+        color: #888;
+
+        &:hover {
+            color: $color-post-meta;
+        }
     }
 }
 
