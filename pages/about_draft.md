@@ -7,6 +7,32 @@ tags: [personal]
 permalink: /about-jason-draft/
 ---
 
+<!-- 
+815 posts as of 5/23/20 (before missing posts)
+
+ASPAdvice Posts: 35 posts 
+5 posts in 4/07
+7 posts in 5/08
+4 posts in 6/08
+5 posts in 8/08
+2 posts in 10/08
+7 posts in 05/09
+5 posts in 06/09
+
+Windows Advice Posts: 9 posts
+5 posts in 05/06
+1 post in 06/06
+1 post in 07/06
+2 posts in 08/06
+-->
+
+<!-- First ASP.NET Forum Post 
+Re: System.Net.WebException: The underlying connection was closed: An unexpected error occurred on a receive
+Created in WCF, ASMX and other Web Services on Mon, Nov 25 2002 09:10 AM.
+-->
+
+{% include github-generate.html repo="jasongaylord/MyFirstAzureStaticApp" %}
+
 <img src="https://avatars3.githubusercontent.com/jasongaylord?v=3&s=200" class="github-avatar" alt="Jason N. Gaylord" />
 
 #### Quick Bio

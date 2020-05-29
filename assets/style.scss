@@ -51,6 +51,20 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     }
 }
 
+a.github-button {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: #24292e;
+    color: #fff;
+    font-family: Raleway;
+    text-decoration: none;
+
+    &:hover {
+        color: #ffffffb3;
+    }
+}
+
 .github-avatar {
     border-radius: 100px;
     float: right;
@@ -116,7 +130,7 @@ $color-social-icons-background: rgba(2, 21, 35, 0.2);
     margin-bottom: 30px;
 }
 
-.post-header {
+div.post-header {
     color: #888;
     margin-bottom: 30px;
 
