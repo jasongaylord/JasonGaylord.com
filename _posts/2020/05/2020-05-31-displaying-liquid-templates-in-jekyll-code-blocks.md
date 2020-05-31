@@ -21,4 +21,4 @@ This will display a proper code sample in your post like so:
 {% raw %}{%{% endraw %} include foobar.html {% raw %}%}{% endraw %}
 ```
 
-While you really only need to put the first `{%` inside a `raw` tag to escape, I have a habit of also following with the last `%}` as well.
+While you really only need to put the first `{% raw %}{%{% endraw %}` inside a `raw` tag to escape, I have a habit of also following with the last `{% raw %}%}{% endraw %}` as well.
