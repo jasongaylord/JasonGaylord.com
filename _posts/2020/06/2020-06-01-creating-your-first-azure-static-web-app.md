@@ -103,4 +103,5 @@ The API will be deployed to a `/api` folder regardless of the source folder. Tha
 At this point we've build our first Azure Static Web App. I'm interested in hearing what apps you create.
 
 If you'd like, you can skip past the coding and simply copy my repository by clicking below:
+
 {% include github-generate.html bitly="bit.ly/2XCiydy" repo="jasongaylord/MyFirstAzureStaticApp" %}
