@@ -7,6 +7,7 @@ permalink: /blog/big-news-about-techbash-2016
 date: 2016-08-31
 categories: [archive]
 tags:  [archive,events,techbash]
+bitly: https://jasong.us/2ZY4n5e
 ---
 
 ![techbash-2016-square-whitebkg](https://cdn.jasongaylord.com/images/2016/08/31/techbash-2016-square-whitebkg_2.png "TechBash 2016")

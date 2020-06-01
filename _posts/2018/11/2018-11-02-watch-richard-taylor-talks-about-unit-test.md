@@ -7,6 +7,7 @@ permalink: /blog/watch-richard-taylor-talks-about-unit-test
 date: 2018-11-02
 categories: [techbash]
 tags:  [techbash]
+bitly: https://jasong.us/2SKfokO
 ---
 
 At TechBash 2018, Richard Taylor talked about [raising the value of unit tests](https://jasong.us/2EWGGkV). Watch the talk on the TechBash YouTube video to know more.

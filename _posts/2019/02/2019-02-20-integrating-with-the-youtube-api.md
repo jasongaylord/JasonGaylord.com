@@ -7,6 +7,7 @@ permalink: /blog/integrating-with-the-youtube-api
 date: 2019-02-20
 categories: [development,dotnet,google]
 tags:  [development,dotnet,google]
+bitly: https://jasong.us/2SfJyL8
 ---
 
 For some reason, over the past few years, the documentation surrounding the various Google APIs has gone downhill. So, while working on a feature for the upcoming TechBash website refresh, I shouldn't have been too surprised that the YouTube API lacked solid documentation around connecting to our TechBash YouTube channel to obtain our most recent videos that we have posted.

@@ -7,6 +7,7 @@ permalink: /blog/using-spy-to-obtain-winform-control-treeview
 date: 2018-11-24
 categories: [development,windows]
 tags:  [development,windows]
+bitly: https://jasong.us/2AelZv6
 ---
 
 Typically I find myself developing .NET Core applications for the web. However, even the most cutting edge developer will find their way to supporting legacy applications from time to time. This holiday week was a great example. I have an older Win32 application that was recently updated. As a result, the UI had changed. I needed to use COM Interop to connect to the process and read the form values. 

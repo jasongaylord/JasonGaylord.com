@@ -7,7 +7,7 @@ permalink: /blog/azure-devops-change-may-break-application
 date: 2019-02-25
 categories: [cloud,devops,tip]
 tags:  [cloud,devops,tip]
-bitly: https://bit.ly/2X1IJLt
+bitly: https://jasong.us/2SrnXiN
 ---
 
 Microsoft recently made a change to the deployment type in the release pipeline. This change offers some great benefits and is known as the "Run as Package" feature. The feature is explained at [https://github.com/Azure/app-service-announcements-discussions/issues/32](https://github.com/Azure/app-service-announcements-discussions/issues/32 "https://github.com/Azure/app-service-announcements-discussions/issues/32"). 

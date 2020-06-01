@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/watch-jeff-fritz-discusses-net-tips-and-tricks"
 permalink: /blog/watch-jeff-fritz-discusses-net-tips-and-tricks
 date: 2018-10-19
 categories: [techbash]
-tags:  [techbash]
+tags: [techbash]
+bitly: https://jasong.us/2BkphRP
 ---
 
 At [TechBash 2018](https://jasong.us/2CpBe7n), Jeff Fritz discussed .NET Framework Improvements, Tips and Tricks. The video can be watched on the TechBash YouTube Channel. As the TechBash Foundation will be launching additional videos over the next several weeks, [I highly recommend subscribing to the channel to keep posted on what's coming next](https://jasong.us/tbyt).

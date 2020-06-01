@@ -7,6 +7,7 @@ permalink: /blog/techbash-2019-tickets-on-sale-now
 date: 2019-07-30
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/2K6S26x
 ---
 
 ![https://cdn.jasongaylord.com/images/2019/07/30/techbash2019.png](https://cdn.jasongaylord.com/images/2019/07/30/techbash2019.png)

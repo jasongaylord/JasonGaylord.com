@@ -7,6 +7,7 @@ permalink: /blog/writing-sound-business-requirements-user-stories
 date: 2014-06-13
 categories: [archive]
 tags:  [archive,business]
+bitly: https://jasong.us/3dpvbPE
 ---
 
 I've read a lot of requirements over the years. I mean, a lot. As a developer, it's amazing how many requirements are missing substance and are either extremely vague such as "Customers should be able to place orders" or have nothing to do with the actual request such as "Orders need to reach the processing department because the sky is blue."

@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/techbash-2018-call-for-speakers"
 permalink: /blog/techbash-2018-call-for-speakers
 date: 2018-03-28
 categories: [events,techbash]
-tags:  [events,techbash]
+tags: [events,techbash]
+bitly: https://jasong.us/2ApNypc
 ---
 
 Are you interested in presenting at TechBash 2018, a developer conference located in the Poconos in Pennsylvania? We're looking for passionate developers and technologists to present at TechBash 2018. Last year, we had 84 speakers submit 239 sessions. As of this post, we have 16 speakers that have submitted a total of 55 sessions. To see a list of the talks already submitted, visit [https://techbash.com/submissions](https://jasong.us/2Ll3Amo). 

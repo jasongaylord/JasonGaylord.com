@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/connecting-azure-devops-to-azure-active-directory"
 permalink: /blog/connecting-azure-devops-to-azure-active-directory
 date: 2018-10-23
 categories: [cloud,devops]
-tags:  [cloud,devops]
+tags: [cloud,devops]
+bitly: https://jasong.us/2yYhnss
 ---
 
 A lot of groups start out by using Azure DevOps or another source control system using individual user accounts. However, as your organization continues to grow, you will likely need to connect to a directory such as Azure Active Directory to authenticate users. For Azure DevOps, this is really quite simple. To do this, log into the Azure portal as an Application Administrator or Global Administrator. Once you are logged in, click on All Services in the menu to the left and scroll until you find 'Azure DevOps Services organizations (formerly Team Services)'. Click on the appropriate DevOps organization. If you don't see the organization you are expecting, be sure you are at least a Project Administrator in the DevOps instance. Then, you'll see the settings come up similar to the following:

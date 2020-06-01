@@ -7,6 +7,7 @@ permalink: /blog/understanding-font-rules-in-css
 date: 2013-12-24
 categories: [archive]
 tags:  [archive,css,web]
+bitly: https://jasong.us/2XLpipw
 ---
 
 Quite often, developers or designers include a list of fonts within their CSS. As an example, one might define a CSS rule such as:

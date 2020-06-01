@@ -7,6 +7,7 @@ permalink: /blog/techbash-call-for-speakers-ends-may-15
 date: 2020-04-28
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/2YdsCvn
 ---
 
 As of this post, [TechBash 2020](http://jasong.us/tb) is still planning on taking place from October 13-16, 2020 at the Kalahari Resort and Convention Center in Pocono Manor, Pennsylvania. This is just an hour or two drive from many major cities including New York City and Philadelphia. In addition, it's within a reasonable drive from Baltimore, Boston, Hartford, Pittsburgh, State College, Syracuse, and Washington DC. Last year we received over 550 submissions from over 200 presenters. 

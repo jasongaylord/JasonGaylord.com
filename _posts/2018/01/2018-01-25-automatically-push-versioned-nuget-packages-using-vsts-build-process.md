@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/automatically-push-versioned-nuget-packages-using-vsts-
 permalink: /blog/automatically-push-versioned-nuget-packages-using-vsts-build-process
 date: 2018-01-25
 categories: [devops,development]
-tags:  [devops,development]
+tags: [devops,development]
+bitly: https://jasong.us/2PteeLu
 ---
 
 I've been using Azure DevOps (formerly called VSTS) hosted at visualstudio.com for a few years now. Over the past year I've been using their platform for continuous integration and continuous deployments. This is one of the more powerful features that the team continually is improving and making life easier for developers.

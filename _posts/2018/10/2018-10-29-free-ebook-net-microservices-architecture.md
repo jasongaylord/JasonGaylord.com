@@ -7,6 +7,7 @@ permalink: /blog/free-ebook-net-microservices-architecture
 date: 2018-10-29
 categories: [cloud,development,tip]
 tags:  [cloud,development,tip]
+bitly: https://jasong.us/2StgJfp
 ---
 
 Yesterday I [shared](https://jasong.us/2qahUDC) a post about a free eBook titled *Architecting Modern Web Application with ASP.NET Core and Microsoft Azure*. Within that book, there were samples shared about a monolithic online store. This particular book, authored by [Cesar de la Torre](https://jasong.us/2CF2NJS) from Microsoft, takes that same example and explains how to containerize the application. The book titled *.NET Microservices – Architecture for Containerized .NET Applications* provides best practices using .NET Core and Docker. It explains how microservices communicate between one another and how to migrate legacy applications to a microservice-based architecture. You can obtain a copy of [this eBook here](https://jasong.us/2yxUb5c).

@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/customize-the-color-scheme-and-theme-of-visual-studio-2
 permalink: /blog/customize-the-color-scheme-and-theme-of-visual-studio-2012
 date: 2012-09-08
 categories: [archive]
-tags:  [archive,visual-studio]
+tags: [archive,visual-studio]
+bitly: https://jasong.us/2ZVk50W
 ---
 
 During early builds of Visual Studio 2012, many developers griped and complained about the lack of color within the application. By the time VS2012 has RTM'd, two themes shipped with VS2012. There is a light theme and a dark theme.

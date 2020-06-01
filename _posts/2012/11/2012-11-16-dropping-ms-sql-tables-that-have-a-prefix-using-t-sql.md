@@ -7,6 +7,7 @@ permalink: /blog/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql
 date: 2012-11-16
 categories: [archive]
 tags:  [archive,data]
+bitly: https://jasong.us/2TWcXgX
 ---
 
 How many times have you wanted to drop a selection of Microsoft SQL Server tables that have begin with some common characters? I have many times especially when I'm testing certain web applications, such as Orchard CMS, and using different database prefix values to switch between instances. Thanks to [Curt Hagenlocher](http://jasong.us/UJWppw) over at a [StackOverflow post](http://jasong.us/UJWt8T), I now can.

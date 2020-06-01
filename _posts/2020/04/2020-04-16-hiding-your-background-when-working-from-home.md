@@ -7,10 +7,12 @@ permalink: /blog/hiding-your-background-when-working-from-home
 date: 2020-04-16
 categories: [covid19,technology,tip]
 tags:  [covid19,technology,tip]
+bitly: https://jasong.us/3enL8XE
 ---
 
 At this point, nearly everyone who is working remote has had to use Zoom, Microsoft Teams, WebEx, Skype, and others. 
-![https://cdn.jasongaylord.com/images/2020/04/16/blur.jpg](https://cdn.jasongaylord.com/images/2020/04/16/blur.jpg)
+
+<img src="https://cdn.jasongaylord.com/images/2020/04/16/blur.jpg" alt="Microsoft Teams Blur" style="width: 400px;" />
 
 Many workplaces and teams, mine included, recommend that employees turn on video to keep some sort of normalcy to the day. However, you may not have a nice clean office space at your house. So, want to hide the clutter or blank out the kids that are burning down the house behind you? Here are tutorials for the most popular video streaming services and how you can hide your background:
 
@@ -28,11 +30,11 @@ Below you'll find the list of other posts in the series:
 2. [Free Technical Training and Welcome Spring](https://jasong.us/2XeHw3W)
 3. [Use Docking Station from Home and Add Home Projects](https://jasong.us/3bRuoWK)
 4. [Technology Events in 2020](https://jasong.us/2wvKshS)
-5. [Google's Stadia Gaming Free for Two Months](https://jasong.us/3a9Rne9)
+5. [Google's Stadia Gaming Free for Two Months](https://jasong.us/2ySyXSR)
 6. [Debugging COVID-19 Data Using Excel](https://jasong.us/2K5BhHV)
 7. [Hiding Your Background When Working From Home](https://jasong.us/3enL8XE)
 8. [Pixel by LabCorp Releases At Home Test](https://jasong.us/2xVsplI)
 9. [Blockbuster Surviving Covid-19](https://jasong.us/2YduAvE)
 10. [DevAroundTheSun a 24-hour Fundraiser May 12](https://jasong.us/2VWxxzm)
-11. [Repairing My Lenovo Yoga Pro 2](https://bit.ly/2TtEfLv)
-12. [Hard Drive Docking Station](https://bit.ly/2TtEfLv)
+11. [Repairing My Lenovo Yoga Pro 2](https://jasong.us/370OTzb)
+12. [Hard Drive Docking Station](https://jasong.us/3clW9GH)

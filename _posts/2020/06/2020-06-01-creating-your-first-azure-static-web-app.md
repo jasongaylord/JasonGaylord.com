@@ -5,10 +5,10 @@ date: 2020-06-01
 categories: [cloud,development,dotnet,serverless]
 tags:  [cloud,development,dotnet,serverless]
 image: https://cdn.jasongaylord.com/images/2020/06/01/azure-static-web-apps-in-search.jpg
-bitly: https://bit.ly/2ZOttDB
+bitly: https://jasong.us/2XmCKRL
 ---
 
-Last week, I [blogged](https://bit.ly/2AisxfS) about creating an Azure Function from a command line. We didn't change the function at all as the post was just to show how easy it is to create and serve an Azure function locally. In this article, we're going to use that basic function, add a static file, and post both to an Azure Static Web App.
+Last week, I [blogged](https://jasong.us/3eCA0Fv) about creating an Azure Function from a command line. We didn't change the function at all as the post was just to show how easy it is to create and serve an Azure function locally. In this article, we're going to use that basic function, add a static file, and post both to an Azure Static Web App.
 
 ## Prerequisites
 At this point, I'm assuming you've followed my previous post. We'll need to push our new app structure to GitHub so that it looks similar to the following:
@@ -18,7 +18,7 @@ At this point, I'm assuming you've followed my previous post. We'll need to push
 ## Creating Static Content
 Azure Static Web Apps allow us to use any static content or anything that can generate static content. This can be a static content generator such as Gatsby, Jekyll, or DocFX. It can also be Angular, Vue, or React. It can even be a combination of both. In our case, we're going to create a single, HTML file with some inline JavaScript. Our goal is just to prove that we can get something deployed to the Azure Static Web App resource.
 
-So, we'll start with creating a `web` folder at the same root of the `api` folder we created for the Azure Function at [https://bit.ly/2AisxfS](https://bit.ly/2AisxfS). So, in my case, it's at `c:\repos\web`. 
+So, we'll start with creating a `web` folder at the same root of the `api` folder we created for the Azure Function at [https://jasong.us/3eCA0Fv](https://jasong.us/3eCA0Fv). So, in my case, it's at `c:\repos\web`. 
 
 {% include info-notice.html %}
 Currently, there's an issue with Static Web Apps using C# Azure Functions. So, I created a new function app by running `func init` choosing `node` and `javascript` and then creating a new function by running `func new` setting the template to `HttpTrigger` and naming it `welcome`.
@@ -104,4 +104,4 @@ At this point we've build our first Azure Static Web App. I'm interested in hear
 
 If you'd like, you can skip past the coding and simply copy my repository by clicking below:
 
-{% include github-generate.html bitly="bit.ly/2XCiydy" repo="jasongaylord/MyFirstAzureStaticApp" %}
+{% include github-generate.html bitly="jasong.us/2XoXHM2" repo="jasongaylord/MyFirstAzureStaticApp" %}

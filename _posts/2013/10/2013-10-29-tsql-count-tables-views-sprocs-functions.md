@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/tsql-count-tables-views-sprocs-functions"
 permalink: /blog/tsql-count-tables-views-sprocs-functions
 date: 2013-10-29
 categories: [archive]
-tags:  [archive,data]
+tags: [archive,data]
+bitly: https://jasong.us/2yW5E1K
 ---
 
 Have you ever needed to obtain a list or count of all tables, views, stored procedures, and functions in a database? It's quite easy. Simply copy the T-SQL from below to a query window, set the desired database and execute.

@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/azure-resource-changes-coming-121"
 permalink: /blog/azure-resource-changes-coming-121
 date: 2018-11-09
 categories: [cloud]
-tags:  [cloud]
+tags: [cloud]
+bitly: https://jasong.us/2zFNWfa
 ---
 
 If you are doing any scripting or integrating using GUIDs and/or resource names, you may want to pay attention. Azure is changing the GUIDs and resource names for several service types on December 1st. Here is a list of what's known so far:

@@ -7,6 +7,7 @@ permalink: /blog/call-for-speakers-open-for-techbash-2019
 date: 2019-03-19
 categories: [archive,events,techbash]
 tags:  [archive,events,techbash]
+bitly: https://jasong.us/2Y54ZTj
 ---
 
 The TechBash 2019 Call for Speakers is now open on the TechBash website. Much like last year, TechBash 2019 will be preceded by a day of workshops geared more towards hands on and/or in depth conversation on the hottest topics. The three days of the conference are sure to be filled with around 70 sessions of the the latest content. If you'd like to present at TechBash, you [can read the CFP announcement blog post](https://jasong.us/tb19cfp) and then hop over to their Sessionize page at [https://sessionize.com/techbash2019/](https://sessionize.com/techbash2019/).

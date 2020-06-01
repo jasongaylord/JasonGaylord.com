@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/prevent-child-apps-from-inheriting-dependencies"
 permalink: /blog/prevent-child-apps-from-inheriting-dependencies
 date: 2012-03-12
 categories: [archive]
-tags:  [archive,dotnet]
+tags: [archive,dotnet]
+bitly: https://jasong.us/36WxOpR
 ---
 
 Have you ever created a web application for something specific such as a standalone web app (forum, photo gallery, web service, etc.) while using ASP.NET and received this:

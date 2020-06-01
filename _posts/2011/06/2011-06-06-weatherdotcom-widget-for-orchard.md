@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/weatherdotcom-widget-for-orchard"
 permalink: /blog/weatherdotcom-widget-for-orchard
 date: 2011-06-06
 categories: [archive]
-tags:  [archive,orchard,weather]
+tags: [archive,orchard,weather]
+bitly: https://jasong.us/2XMNXtO
 ---
 
 If you've checked out my new website recently, you may have noticed that I have included the weather on the site. Mouse over on the right-hand side and you'll notice a "bing-like" box that will appear. I'll talk about this a bit more in a bit, but you'll notice that the weather pulls for my local zip code. These are the results from the [Weather Channel's weather.com](https://jasong.us/2LcSmAl).

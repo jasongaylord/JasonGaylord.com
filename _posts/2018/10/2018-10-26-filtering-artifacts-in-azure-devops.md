@@ -7,6 +7,7 @@ permalink: /blog/filtering-artifacts-in-azure-devops
 date: 2018-10-26
 categories: [devops]
 tags:  [devops]
+bitly: https://jasong.us/2z3Z2dH
 ---
 
 Azure DevOps is currently undergoing a facelift. If you are using the new design and you leverage the Package Management (Artifacts) option in Azure DevOps:

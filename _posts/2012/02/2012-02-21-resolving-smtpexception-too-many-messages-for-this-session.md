@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/resolving-smtpexception-too-many-messages-for-this-sess
 permalink: /blog/resolving-smtpexception-too-many-messages-for-this-session
 date: 2012-02-21
 categories: [archive]
-tags:  [archive,dotnet]
+tags: [archive,dotnet]
+bitly: https://jasong.us/3ewHSIO
 ---
 
 Have you ever noticed an exception being thrown by your application stating something like the following:

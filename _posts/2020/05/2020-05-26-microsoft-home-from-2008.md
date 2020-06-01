@@ -4,10 +4,10 @@ author: Jason Gaylord
 date: 2020-05-26
 categories: [hardware,technology]
 tags: [hardware,technology]
-bitly: https://bit.ly/3ei8bT0
+bitly: https://jasong.us/2MjLOQZ
 ---
 
-While porting old posts over to Markdown, I came across a post from May 18th, 2008. The post contained [a link](http://web.archive.org/web/20080518021312/http://tech.msn.com/products/article.aspx?cp-documentid=994057) to a futuristic Microsoft Home detailing some of what we may find in our homes in 2015. The article starts off by mentioning many of Hollywood's perceived futuristic features:
+While porting old posts over to Markdown, I came across a post from May 18th, 2008. The post contained [a link](https://jasong.us/36REDsA) to a futuristic Microsoft Home detailing some of what we may find in our homes in 2015. The article starts off by mentioning many of Hollywood's perceived futuristic features:
 
 - Robots handle all manual chores
 - Families use unisex jumpsuits rather than today's clothes

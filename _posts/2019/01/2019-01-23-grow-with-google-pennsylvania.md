@@ -7,6 +7,7 @@ permalink: /blog/grow-with-google-pennsylvania
 date: 2019-01-23
 categories: [archive,events,google]
 tags:  [archive,events,google]
+bitly: https://jasong.us/2R6Iite
 ---
 
 Google is offering free training and coaching at local libraries. The training includes free digital skills workshops and one-on-one coaching. There are three events currently scheduled in Pennsylvania. The first one is Monday, January 28th from 9am-4:30pm in Philadelphia. There are two other events next week in York and Erie. For complete details and to register for the free events, visit [g.co/growpennsylvania](https://jasong.us/2DsZUvU). Registration is necessary as seating is limited. Here are the locations and times of the event:

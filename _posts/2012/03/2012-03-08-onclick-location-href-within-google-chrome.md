@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/onclick-location-href-within-google-chrome"
 permalink: /blog/onclick-location-href-within-google-chrome
 date: 2012-03-08
 categories: [archive]
-tags:  [archive,javascript]
+tags: [archive,javascript]
+bitly: https://jasong.us/2AwC577
 ---
 
 For the longest time, If I needed to use an `onclick` event for navigation (`div` or some other page element), I'd use something similar to:

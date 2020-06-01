@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/get-the-nth-past-date-after-removing-a-list-of-dates-fr
 permalink: /blog/get-the-nth-past-date-after-removing-a-list-of-dates-from-mssql
 date: 2013-03-05
 categories: [archive]
-tags:  [archive,data]
+tags: [archive,data]
+bitly: https://jasong.us/2ZXrv43
 ---
 
 This stemmed from a strange request that came across my desk. I had the need to pull a date 7 business days ago by using T-SQL in Microsoft SQL Server. Sounds simple right? Here's the catch: the date had to be the 7th business day in the past after removing the days the individual was off.

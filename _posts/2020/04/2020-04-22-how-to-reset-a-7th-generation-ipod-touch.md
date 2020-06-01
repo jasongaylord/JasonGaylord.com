@@ -7,9 +7,10 @@ permalink: /blog/how-to-reset-a-7th-generation-ipod-touch
 date: 2020-04-22
 categories: [apple,technology,tip]
 tags:  [apple,technology,tip]
+bitly: https://jasong.us/2VR6ZOB
 ---
 
-![iPod Touch 7th Generation](https://cdn.jasongaylord.com/images/2020/04/22/iPodTouch.jpg)
+<img src="https://cdn.jasongaylord.com/images/2020/04/22/iPodTouch.jpg" alt="iPod Touch 7th Generation" style="width: 400px;">
 
 One of the nice parts about having an iPod Touch as opposed to an iPhone is the fact that it's smaller than most of the newer iPhone's, does not have the calling capabilities, but has most of the newest hardware. Many people are unaware that Apple released a 7th Generation iPod Touch in 2019. You can get one here: [https://amzn.to/2xTQAkH](https://amzn.to/2xTQAkH "https://amzn.to/2xTQAkH")
 

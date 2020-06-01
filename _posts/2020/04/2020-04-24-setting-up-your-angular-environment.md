@@ -7,6 +7,7 @@ permalink: /blog/setting-up-your-angular-environment
 date: 2020-04-24
 categories: [angular,development,javascript]
 tags:  [angular,development,javascript]
+bitly: https://jasong.us/351w65D
 ---
 
 ![https://cdn.jasongaylord.com/images/2020/04/24/angular.jpg](https://cdn.jasongaylord.com/images/2020/04/24/angular.jpg)

@@ -7,6 +7,7 @@ permalink: /blog/watch-stephen-bohlen-talk-about-ai
 date: 2018-11-08
 categories: [techbash]
 tags:  [techbash]
+bitly: https://jasong.us/2SWmmTV
 ---
 
 At TechBash 2018, Stephen Bohlen talked about [AI with Microsoft Cognitive Services](https://jasong.us/2zxhs6J). Watch the talk on the TechBash YouTube video to know more.

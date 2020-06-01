@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/force-email-to-be-confirmed-with-identity"
 permalink: /blog/force-email-to-be-confirmed-with-identity
 date: 2016-01-28
 categories: [archive]
-tags:  [archive,dotnet,security]
+tags: [archive,dotnet,security]
+bitly: https://jasong.us/2zSPOoV
 ---
 
 Microsoft Identity is an extremely flexible solution for authentication in modern web applications. The default table structure created with Identity contains properties for EmailConfirmed and PhoneConfirmed. Out of the box, these fields simply indicate whether or not the related fields have been confirmed.

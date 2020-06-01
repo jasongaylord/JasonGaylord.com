@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/watch-bill-wolff-talk-about-visual-studio-code-and-sql-
 permalink: /blog/watch-bill-wolff-talk-about-visual-studio-code-and-sql-operations-studio
 date: 2019-01-08
 categories: [techbash]
-tags:  [techbash]
+tags: [techbash]
+bitly: https://jasong.us/2QtxZPz
 ---
 
 At TechBash 2018, Bill Wolff demonstrated the free tools available from Microsoft: [Visual Studio Code and SQL Operations Studio](https://jasong.us/2F7JZo3). Watch the talk on the TechBash YouTube Channel and [subscribe to the TechBash developer channel on YouTube](https://jasong.us/tbyt) to stay up to date on the latest videos posted from TechBash 2018.

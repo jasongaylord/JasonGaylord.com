@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/tip-emergency-editing-using-app-service-editor"
 permalink: /blog/tip-emergency-editing-using-app-service-editor
 date: 2018-10-24
 categories: [cloud,development,tip]
-tags:  [cloud,development,tip]
+tags: [cloud,development,tip]
+bitly: https://jasong.us/2SaQfQ1
 ---
 
 Imagine that you've published a web app to an app service in Azure. You've tested the app and then head out to dinner with family and friends. You decide to showcase your website over dinner and see an error. Now what?

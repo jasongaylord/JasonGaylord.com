@@ -7,6 +7,7 @@ permalink: /blog/keynote-announced-for-techbash-2019
 date: 2019-09-26
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/2nwZL4R
 ---
 
 The keynote topic and presenter have been [announced](https://jasong.us/2zAOXZq) for TechBash 2019. Jeff Fritz will be back at TechBash 2019. Jeff is a Senior Program Manager in Microsoft's Developer Division working on some of the latest web technologies by leading the ASP.NET Web Forms Team.

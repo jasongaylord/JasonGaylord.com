@@ -7,6 +7,7 @@ permalink: /blog/get-involved-with-techbash-2019
 date: 2019-08-16
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/33AZGha
 ---
 
 TechBash is a platform agnostic technical conference that draws attendees from a large geographic region including New York City, Philadelphia, Boston, Washington DC, and even further. The event is entering it's fourth year and there are currently two ways you can get involved with TechBash 2019:

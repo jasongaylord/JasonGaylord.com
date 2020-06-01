@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/detecting-browser-features-and-ie-compatibility-mode"
 permalink: /blog/detecting-browser-features-and-ie-compatibility-mode
 date: 2013-06-08
 categories: [archive]
-tags:  [archive,javascript]
+tags: [archive,javascript]
+bitly: https://jasong.us/2AsCiZi
 ---
 
 First of all, before I begin, please know that in every case, you should detect browser features and not browser versions. However, there are still times that you may need to know the browser version (such as providing screenshots of various browser alerts – ie: ActiveX installation).

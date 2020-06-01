@@ -4,10 +4,10 @@ author: Jason Gaylord
 date: 2020-05-27
 categories: [cloud,devops,development,security]
 tags:  [cloud,devops,development,security]
-bitly: https://bit.ly/3dgQLWR
+bitly: https://jasong.us/3dohyAu
 ---
 
-I've been using the free SSL service with [Let's Encrypt](https://jasong.us/2pX9nUA) for several years now. It's nice to be able to offer SSL on sites without the cost. We also use Let's Encrypt to issue SSL certificates for [TechBash.com](https://jasong.us/tb). In late 2018, I blogged about using Azure functions and [add a site extension](https://bit.ly/2ZBHggD) to your account. Then in February of 2019, I blogged about a new Azure DevOps [change that caused a failure](https://bit.ly/2X1IJLt). Recently, I have been receiving a notice from Let's Encrypt that my software client was using ACMEv1:
+I've been using the free SSL service with [Let's Encrypt](https://jasong.us/2pX9nUA) for several years now. It's nice to be able to offer SSL on sites without the cost. We also use Let's Encrypt to issue SSL certificates for [TechBash.com](https://jasong.us/tb). In late 2018, I blogged about using Azure functions and [add a site extension](https://jasong.us/2MfF1rw) to your account. Then in February of 2019, I blogged about a new Azure DevOps [change that caused a failure](https://jasong.us/2SrnXiN). Recently, I have been receiving a notice from Let's Encrypt that my software client was using ACMEv1:
 
 > According to our records, the software client you're using to get Let's Encrypt TLS/SSL certificates issued or renewed at least one HTTPS certificate in the past two weeks using the ACMEv1 protocol. Here are the details of one recent ACMEv1 request from each of your account(s)...
 
@@ -16,7 +16,7 @@ I've been using the free SSL service with [Let's Encrypt](https://jasong.us/2pX9
 As I read some of the open issues for my existing extension, I noticed several having issues connecting using ACMEv2 with it. So, I started looking at alternatives and found two.
 
 {% include warning-notice.html %}
-<strong>Warning:</strong> Your custom domain DNS must be managed by an Azure DNS Zone for the following to work. If it is not, please visit <a href="https://bit.ly/3d7zrU6">https://bit.ly/3d7zrU6</a> for other options.
+<strong>Warning:</strong> Your custom domain DNS must be managed by an Azure DNS Zone for the following to work. If it is not, please visit <a href="https://jasong.us/2TWwjCE">https://jasong.us/2TWwjCE</a> for other options.
 {% include end-notice.html %}
 
 ## Option 1: Using AzureWebAppSSLManager

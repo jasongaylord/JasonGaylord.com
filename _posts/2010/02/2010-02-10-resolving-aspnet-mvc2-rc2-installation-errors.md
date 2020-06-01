@@ -5,7 +5,7 @@ date: 2010-02-10 10:49:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2010/02/10/resolving-asp-net-mvc-2-rc-2-installation-errors.aspx
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3edDOx4
+bitly: https://jasong.us/3048LQ6
 ---
 
 On a Virtual Machine, I had Visual Studio 2008 SP1 installed along with ASP.NET 3.5 SP1. I tried installing the newly released ASP.NET MVC 2 Release Candidate 2 on that machine and received the following:

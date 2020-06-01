@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/enablecrossappredirects-in-aspnet45"
 permalink: /blog/enablecrossappredirects-in-aspnet45
 date: 2012-09-13
 categories: [archive]
-tags:  [archive,dotnet]
+tags: [archive,dotnet]
+bitly: https://jasong.us/2MlUVAN
 ---
 
 I started to test out the migration of our web applications with ASP.NET 4.5. In many cases, we have a login page that redirects from one domain to another domain or sub-domain. In those instances, we're setting the enableCrossAppRedirects property in the configuration files. You can find out more about setting this by visiting MSDN at [http://msdn.microsoft.com/en-us/library/eb0zx8fc(v=VS.100).aspx](http://jasong.us/QeHksd).

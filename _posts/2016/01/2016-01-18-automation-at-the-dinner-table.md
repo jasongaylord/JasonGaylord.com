@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/automation-at-the-dinner-table"
 permalink: /blog/automation-at-the-dinner-table
 date: 2016-01-18
 categories: [archive]
-tags:  [archive,home-automation,iot]
+tags: [archive,home-automation,iot]
+bitly: https://jasong.us/36QoLGU
 ---
 
 Two parents working. All day events with the kids. A day of shopping. Sometimes, when we have those moments, we opt for eating out. Other times, we opt for eating in using something like a crock pot. Those handy devices that usually cost $20 are great in a pinch. But, have you ever found a recipe that requires only a few hours on low? Well, I did. But, I made sure that it was cooked to perfection even though I sat in my office all day. I used something coined as "home automation."

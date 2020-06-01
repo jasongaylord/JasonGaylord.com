@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/announcing-techbash-2016"
 permalink: /blog/announcing-techbash-2016
 date: 2015-11-03
 categories: [archive,techbash]
-tags:  [archive,techbash]
+tags: [archive,techbash]
+bitly: https://jasong.us/3dooRrT
 ---
 
 A couple of years ago, a few developers in the community talked about hosting a new developer conference in the Northeastern US. Over the past six months, after several discussions with the [CodeMash](http://jasong.us/1kpu6ep) team, we turned the talk into action. Yesterday, the TECHbash Foundation announced that next September 28-30, 2016, we'll be hosting the first annual [TECHbash](http://jasong.us/ikRRKi) event at the brand new [Kalahari Resorts and Conventions Center](http://jasong.us/1kpu06P) in Pocono Manor, PA. This location event is less than 2 hours from New York City and Philadelphia and around 4-5 hours from Washington DC and Boston. For the first year, we're planning on capping the registration at 400 attendees.

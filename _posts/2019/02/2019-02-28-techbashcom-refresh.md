@@ -7,6 +7,7 @@ permalink: /blog/techbashcom-refresh
 date: 2019-02-28
 categories: [techbash]
 tags:  [techbash]
+bitly: https://jasong.us/2XCUlTI
 ---
 
 If you were unaware, I'm one of the founding board members of TechBash, a developer conference found in Northeastern Pennsylvania. Over the past three months, we've started ramping up our planning for our next event at the Kalahari Resorts in Pocono Manor from November 12-15, 2019. As always, all of our information is available at [https://techbash.com](https://jasong.us/techbash). 

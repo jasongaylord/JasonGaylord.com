@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/data-annotations-in-dot-net"
 permalink: /blog/data-annotations-in-dot-net
 date: 2012-02-23
 categories: [archive]
-tags:  [archive,dotnet]
+tags: [archive,dotnet]
+bitly: https://jasong.us/3eFQBbO
 ---
 
 Starting with .NET 4 or MVC3, a developer could use a data annotation on a property to force data validation. This is extremely powerful especially for MVC developers. The same data annotations can also be used when building custom modules for Orchard CMS.

@@ -7,6 +7,7 @@ permalink: /blog/cancelled-directv-after-15-years
 date: 2019-12-31
 categories: [business,personal,shopping,technology]
 tags:  [business,personal,shopping,technology]
+bitly: https://jasong.us/358T4Gx
 ---
 
 As time has passed, I've been considering "cord cutting" and cancelling our DirecTV service. There's more and more compelling services available and we've been finding ourselves only watching locals, sports, weather, and, during Christmas, Hallmark. My last DirecTV bill was over $200 and included $46 in equipment services (DVR, protection plan, and receivers), $100 for the base plan, $27 for regional sports, and $49 for Sunday Ticket. Even if I no longer subscribe to the Sunday Ticket, I'm still at $176.91. In addition, I found out that our DirecTV service was increasing in cost. 

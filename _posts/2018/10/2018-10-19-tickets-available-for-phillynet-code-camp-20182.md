@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/tickets-available-for-phillynet-code-camp-20182"
 permalink: /blog/tickets-available-for-phillynet-code-camp-20182
 date: 2018-10-19
 categories: [events]
-tags:  [events]
+tags: [events]
+bitly: https://jasong.us/2RZnEwJ
 ---
 
 The 2018.2 Philly.NET Code Camp tickets are now on sale for both Friday and Saturday starting at just $20 for Saturday alone. If you obtain a Friday ticket, you will also receive access for the Saturday sessions. Friday is structured very similar to the workshops you would expect to see at [TechBash](http://jasong.us/techbash). These workshops are all day workshops and cover a variety of the hottest topics ranging from [Bots, AI, and Machine Learning](https://jasong.us/2EJPwCL) to [Mastering Git and GitHub with DevOps](https://jasong.us/2RZaEHH). The Friday workshops range from $76-$116. 

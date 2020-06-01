@@ -7,6 +7,7 @@ permalink: /blog/debugging-covid-19-data-using-excel
 date: 2020-04-15
 categories: [covid19,ms-office,opinion,technology]
 tags:  [covid19,ms-office,opinion,technology]
+bitly: https://jasong.us/2K5BhHV
 ---
 
 When looking for historical Pennsylvania COVID-19 data, I came across the [Covid Tracking](https://jasong.us/2wMcLZC) website. They cover all states and take historical screen shots of the data. The reason I wanted to get this data was to validate the common statement of "Positive Case Numbers are Decreasing." The reason I wanted this was because I believe that there is a direct correlation between the positive case numbers and the total number of tests. So, to calculate this out, I went to Microsoft Excel.
@@ -51,11 +52,11 @@ Below you'll find the list of other posts in the series:
 2. [Free Technical Training and Welcome Spring](https://jasong.us/2XeHw3W)
 3. [Use Docking Station from Home and Add Home Projects](https://jasong.us/3bRuoWK)
 4. [Technology Events in 2020](https://jasong.us/2wvKshS)
-5. [Google's Stadia Gaming Free for Two Months](https://jasong.us/3a9Rne9)
+5. [Google's Stadia Gaming Free for Two Months](https://jasong.us/2ySyXSR)
 6. [Debugging COVID-19 Data Using Excel](https://jasong.us/2K5BhHV)
 7. [Hiding Your Background When Working From Home](https://jasong.us/3enL8XE)
 8. [Pixel by LabCorp Releases At Home Test](https://jasong.us/2xVsplI)
 9. [Blockbuster Surviving Covid-19](https://jasong.us/2YduAvE)
 10. [DevAroundTheSun a 24-hour Fundraiser May 12](https://jasong.us/2VWxxzm)
-11. [Repairing My Lenovo Yoga Pro 2](https://bit.ly/2TtEfLv)
-12. [Hard Drive Docking Station](https://bit.ly/2TtEfLv)
+11. [Repairing My Lenovo Yoga Pro 2](https://jasong.us/370OTzb)
+12. [Hard Drive Docking Station](https://jasong.us/3clW9GH)

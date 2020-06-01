@@ -7,6 +7,7 @@ permalink: /blog/why-the-dev-community-is-important
 date: 2020-02-10
 categories: [development,opinion,personal]
 tags:  [development,opinion,personal]
+bitly: https://jasong.us/39ziW0X
 ---
 
 DeveloperMedia posted my interview with [Jeffrey Fritz](https://jasong.us/fritz) from a couple of months ago at TechBash. You can read the full post at [https://developermedia.com/developer-community/](https://jasong.us/2ULXDVL) and catch the full interview:

@@ -7,6 +7,7 @@ permalink: /blog/github-is-free-for-teams
 date: 2020-04-14
 categories: [devops,development,technology]
 tags:  [devops,development,technology]
+bitly: https://jasong.us/3a9FyF9
 ---
 
 ![](https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1@2x.png?w=2400 2400w, https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1@2x.png?w=300 300w, https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1@2x.png?w=768 768w, https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1@2x.png?w=1024 1024w, https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1@2x.png?w=1536 1536w, https://github.blog/wp-content/uploads/2020/04/GH-Blog-1200-x-630_Option1.png?)

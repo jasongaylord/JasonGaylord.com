@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/watch-paul-yuknewicz-discuss-5-azure-services-you-shoul
 permalink: /blog/watch-paul-yuknewicz-discuss-5-azure-services-you-should-know
 date: 2018-11-01
 categories: [techbash]
-tags:  [techbash]
+tags: [techbash]
+bitly: https://jasong.us/2zhlhgl
 ---
 
 At TechBash 2018, Microsoft's Paul Yuknewicz [talked about five Azure services](https://jasong.us/2P6epxf) every developer should know. Watch the talk on the TechBash YouTube video to know more.

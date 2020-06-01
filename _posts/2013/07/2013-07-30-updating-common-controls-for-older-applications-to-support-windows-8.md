@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/updating-common-controls-for-older-applications-to-supp
 permalink: /blog/updating-common-controls-for-older-applications-to-support-windows-8
 date: 2013-07-30
 categories: [archive]
-tags:  [archive,windows]
+tags: [archive,windows]
+bitly: https://jasong.us/2XPlN1d
 ---
 
 There are times that you may need to install an older Windows application especially something developed using Visual Basic 6 or earlier. In these cases, you should always ensure that the installed application is using the most current common control library available from Microsoft. If not, you may receive strange error message that logs the following in the Event Viewer (abbreviated exception):

@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/angular-2-0-officially-released"
 permalink: /blog/angular-2-0-officially-released
 date: 2016-09-15
 categories: [archive]
-tags:  [archive,angular,javascript]
+tags: [archive,angular,javascript]
+bitly: https://jasong.us/2ZWXJwg
 ---
 
 Angular 2.0 has been officially released. You can find out the full details at [http://angularjs.blogspot.com/2016/09/angular2-final.html](https://jasong.us/35NZw7A).

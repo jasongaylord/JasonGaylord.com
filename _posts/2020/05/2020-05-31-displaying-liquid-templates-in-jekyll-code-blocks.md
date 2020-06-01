@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-05-31
 categories: [jekyll]
 tags:  [jekyll]
-bitly: https://bit.ly/3gxyyWY
+bitly: https://jasong.us/36O0QIl
 ---
 
 Every now and then, I want to post a sample code block for my blog that displays a liquid template. However, if I simply paste in a liquid template, it will be rendered.

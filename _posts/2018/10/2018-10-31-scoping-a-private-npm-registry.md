@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/scoping-a-private-npm-registry"
 permalink: /blog/scoping-a-private-npm-registry
 date: 2018-10-31
 categories: [development,devops]
-tags:  [development,devops]
+tags: [development,devops]
+bitly: https://jasong.us/2zeGWFW
 ---
 
 If you're using a custom package manage, such as JFrog, Verdaccio, or Azure Artifacts, you'll notice that each includes an upstream feed allowing you to cache publicly available npmjs.org packages. However, you may prefer to use the public feed for public packages assuring that you have the latest versions. In this case, you'll want to scope your NPM repository. In a lot of cases, you'll have a username and password accompanying the custom NPM feed. So, I recommend referencing the repository in an .npmrc within the project and storing your credentials in an .npmrc file in your default user bin (in Windows, this is usually `%userprofile%`) 

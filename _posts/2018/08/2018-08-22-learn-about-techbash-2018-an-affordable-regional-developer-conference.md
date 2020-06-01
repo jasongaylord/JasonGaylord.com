@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/learn-about-techbash-2018-an-affordable-regional-develo
 permalink: /blog/learn-about-techbash-2018-an-affordable-regional-developer-conference
 date: 2018-08-22
 categories: [events,techbash]
-tags:  [events,techbash]
+tags: [events,techbash]
+bitly: https://jasong.us/3715sel
 ---
 
 First of all, I'd like to thank you in advance for taking the time to hear about TechBash 2018. I would not be writing you today if I didn't personally feel the value in a regional, web and application developer conference. TechBash 2018 will take place October 2nd-5th in Pocono Manor, PA.

@@ -7,6 +7,7 @@ permalink: /blog/publishing-static-content-to-azure-blob-storage
 date: 2019-04-11
 categories: [cloud,development]
 tags:  [cloud,development]
+bitly: https://jasong.us/2Z2Zhlo
 ---
 
 In a previous post titled [Setting up a CDN using Azure Storage](https://jasong.us/2TOn30v), I had explained how to use an Azure CDN resource on top of an Azure Storage account. However, there will be very few instances where you'd want to use the AzCopy command line utility or Microsoft Azure Storage Explorer application to push content every time a CDN change is needed. In fact, most folks would want to check in files and/or code using source control such as GitHub or Azure DevOps.

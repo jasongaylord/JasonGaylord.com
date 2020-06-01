@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-05-26
 categories: [personal]
 tags: [personal]
-bitly: https://bit.ly/2ZEYRob
+bitly: https://jasong.us/2ZVL9xa
 ---
 
 I've been slowly adding small features and tweaks to my site. Eventually I'll add this as a meta component for the SpaacedOut theme, but for now I've added the minutes to read a post to my website and pushed some of the other content (such as tags and the page edit link) to the bottom of the post. I want to get content higher in the fold.

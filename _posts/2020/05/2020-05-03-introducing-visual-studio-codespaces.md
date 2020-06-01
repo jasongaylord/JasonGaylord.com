@@ -7,6 +7,7 @@ permalink: /blog/introducing-visual-studio-codespaces
 date: 2020-05-03
 categories: [cloud,development,devops]
 tags: [cloud,development,devops]
+bitly: https://jasong.us/3aYeKYL
 ---
 
 Technically, Visual Studio Codespaces has been around for several months. Back in November 2019, Visual Studio Online was announced. However, the name "Visual Studio Online" has lost its place in the Microsoft marketing repertoire for a second time. Visual Studio Online has recently been renamed to Visual Studio Codespaces. 

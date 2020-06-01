@@ -7,6 +7,7 @@ permalink: /blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-2
 date: 2018-11-07
 categories: [development]
 tags:  [development]
+bitly: https://jasong.us/2PbDOpg
 ---
 
 Yesterday, I started heading down the path to create a Twitter ViewComponent. As I mentioned, when redesigning my website I wanted to show a list of recent tweets that I've made on the homepage. 

@@ -7,6 +7,7 @@ permalink: /blog/markdown-net-core-library
 date: 2020-04-30
 categories: [development,dotnet]
 tags:  [development,dotnet]
+bitly: https://jasong.us/2zKdA6i
 ---
 
 **UPDATE: This library now supports .NET Standard as opposed to .NET Core.**

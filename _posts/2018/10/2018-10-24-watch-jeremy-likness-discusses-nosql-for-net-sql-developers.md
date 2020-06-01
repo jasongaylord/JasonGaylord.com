@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/watch-jeremy-likness-discusses-nosql-for-net-sql-develo
 permalink: /blog/watch-jeremy-likness-discusses-nosql-for-net-sql-developers
 date: 2018-10-24
 categories: [techbash]
-tags:  [techbash]
+tags: [techbash]
+bitly: https://jasong.us/2z2Dka5
 ---
 
 At TechBash earlier this month, Jeremy Likness shared an in-depth overview of NoSQL. He talked about Azure CosmosDB and different types of NoSQL data structures. Jeremy blogged about it placing the full deck of his presentation on his site at [https://blog.jeremylikness.com/say-yes-to-nosql-for-net-sql-developers-74391f785133](https://jasong.us/2ApLdIj). 

@@ -7,6 +7,7 @@ permalink: /blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-1
 date: 2018-11-06
 categories: [development,dotnet]
 tags:  [development,dotnet]
+bitly: https://jasong.us/2Os34lz
 ---
 
 When redesigning my website, I wanted to show a list of recent tweets that I've made on the homepage. Rather than creating something that cannot be reused on other sites, I decided to take advantage of [view components in ASP.NET Core](https://jasong.us/2Pew99F). View components can be used similar to a partial in that it can render a chunk of the user interface, but it can also contain business logic.

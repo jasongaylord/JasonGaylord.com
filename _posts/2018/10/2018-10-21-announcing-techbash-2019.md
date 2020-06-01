@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/announcing-techbash-2019"
 permalink: /blog/announcing-techbash-2019
 date: 2018-10-21
 categories: [events,techbash]
-tags:  [events,techbash]
+tags: [events,techbash]
+bitly: https://jasong.us/2S7lsDp
 ---
 
 ![https://cdn.jasongaylord.com/images/techbash/2019/techbash2019devconf.png](https://cdn.jasongaylord.com/images/techbash/2019/techbash2019devconf.png)

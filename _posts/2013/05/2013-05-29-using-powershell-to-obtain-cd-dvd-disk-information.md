@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/using-powershell-to-obtain-cd-dvd-disk-information"
 permalink: /blog/using-powershell-to-obtain-cd-dvd-disk-information
 date: 2013-05-29
 categories: [archive]
-tags:  [archive,shell]
+tags: [archive,shell]
+bitly: https://jasong.us/2MfIdn8
 ---
 
 As the years go by, more and more research, information, and documents can be found online. However, several business verticals still use CDs and DVDs to access research content, backup documents, and share files. In every position that I've ever held, I have been asked by someone to locate a disk. I had an old WMI script that would grab the information, place it in a text file on a machine, and notify me via a net message that the file was ready. This was great and did the job, but I wanted to see how I can do the same using PowerShell (and WMI).

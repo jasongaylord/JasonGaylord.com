@@ -7,6 +7,7 @@ permalink: /blog/converting-unix-epoch-to-date-in-excel
 date: 2013-08-28
 categories: [archive]
 tags:  [archive,ms-office]
+bitly: https://jasong.us/2Xpimj4
 ---
 
 I ran into an interesting problem earlier today. I was using a CDR dump from our Cisco system. However, all of the datetime fields were represented as seconds. I knew right away that it used an epoch value. What I didn't know is what the originating date was. Apparently, I was correct at my first guess. I guessed that it was using the standard Unix epoch value of 1/1/1970. Many applications, such as Microsoft Excel, use 1/1/1900.

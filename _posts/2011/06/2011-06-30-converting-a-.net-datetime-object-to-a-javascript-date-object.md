@@ -3,10 +3,11 @@ title: Converting a .NET DateTime object to a JavaScript Date object
 author: Jason Gaylord
 cloudscribe_id: "71171144-0ef3-41ca-a8ca-678970854f23"
 cloudscribe_path: "/blog/converting-a-.net-datetime-object-to-a-javascript-date-object"
-permalink: /blog/converting-a-.net-datetime-object-to-a-javascript-date-object
+permalink: /blog/converting-a-dotnet-datetime-object-to-a-javascript-date-object
 date: 2011-06-30
 categories: [archive]
-tags:  [archive,dotnet,javascript]
+tags: [archive,dotnet,javascript]
+bitly: https://jasong.us/2yTrwuH
 ---
 
 When using a WCF or ASMX web service in ASP.NET, you might find the need to pass back a DateTime object via JSON. However, what you might not realize is that by passing a .NET DateTime object back to JavaScript, you'd receive an "Invalid date" script exception. The data being passed back to JavaScript may resemble the following:

@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/moving-on-from-unitedoneresources-to-guard-insurance"
 permalink: /blog/moving-on-from-unitedoneresources-to-guard-insurance
 date: 2013-11-15
 categories: [archive]
-tags:  [archive,personal]
+tags: [archive,personal]
+bitly: https://jasong.us/2XTPDBI
 ---
 
 After over 10 years of dedication to United One Resources, I've decided that it's time for my next life challenge. Later today, I'll walk out the doors of the office on Sherman St in Wilkes-Barre for the last time as a United One team member. I will never forget the past 10 years of my life and what this company has meant to me both personally and professionally. I have some fond memories and new found friends. Below are a few specific people that I felt I needed to mention:

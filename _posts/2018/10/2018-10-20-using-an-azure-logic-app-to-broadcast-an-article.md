@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/using-an-azure-logic-app-to-broadcast-an-article"
 permalink: /blog/using-an-azure-logic-app-to-broadcast-an-article
 date: 2018-10-20
 categories: [cloud,development]
-tags:  [cloud,development]
+tags: [cloud,development]
+bitly: https://jasong.us/2yKwFRq
 ---
 
 Ten years ago when I was an avid blogger, I relied quite heavily on Feedburner to consume my [RSS feed](https://jasong.us/rss) and distribute to subscribers. That worked, but social media wasn't really a thing yet and readers relied quite heavily on feed readers for news. Today, most "subscribers" follow content using social media, such as Twitter or LinkedIn, or content aggregators, such as Reddit or Medium. So, when building my new blog, I thought about how I can best communicate posts that I make to others. Traditionally, I could use something like IFTTT or Zapier. Microsoft also has a competing product called Microsoft Flow. However, I may want to add some additional logic before communicating to the world. For this, I can use the product that power Microsoft Flow called an Azure Logic App.

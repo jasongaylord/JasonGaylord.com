@@ -7,6 +7,7 @@ permalink: /blog/amazon-announces-black-friday-deals-week-2019
 date: 2019-11-18
 categories: [amazon,holiday,shopping]
 tags:  [amazon,holiday,shopping]
+bitly: https://jasong.us/2ptzwxD
 ---
 
 Amazon released their [annual press release](https://jasong.us/35eFO3k) earlier today detailing their Black Friday deals week. Sales will kick off this Friday, November 22nd, and will feature new deals every day. For example, you can save up to 40% on toys from LEGO, Barbie, Hot Wheels and more or up to 50% on Lands' End clothing. Deals will also be found on KitchenAid and adidas. The sale wraps up on Black Friday, November 29th. 

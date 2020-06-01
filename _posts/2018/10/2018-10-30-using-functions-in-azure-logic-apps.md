@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/using-functions-in-azure-logic-apps"
 permalink: /blog/using-functions-in-azure-logic-apps
 date: 2018-10-30
 categories: [cloud,tip]
-tags:  [cloud,tip]
+tags: [cloud,tip]
+bitly: https://jasong.us/2zeK8kZ
 ---
 
 In an earlier post, [I blogged about](https://jasong.us/2yKwFRq) using an Azure Logic App to distribute a link to an RSS feed item. One of the actions I had identified was to send a tweet to followers of mine.  However, late on Friday I had tweaked my Logic App to show more information. As a result, I started running into errors in my Logic App like the following:

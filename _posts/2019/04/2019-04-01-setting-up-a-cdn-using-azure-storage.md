@@ -7,6 +7,7 @@ permalink: /blog/setting-up-a-cdn-using-azure-storage
 date: 2019-04-01
 categories: [cloud,development]
 tags:  [cloud,development]
+bitly: https://jasong.us/2TOn30v
 ---
 
 Many websites today use a content delivery network (CDN) to serve static content to their users. This is because CDNs can cache and compress static content as well as providing geo-redundancy services. Microsoft Azure has CDN capabilities contained within its resource portfolio. In this article, we'll want through configuring Azure to serve up CDN content from an Azure Storage account.

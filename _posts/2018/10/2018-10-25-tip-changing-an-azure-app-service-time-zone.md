@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/tip-changing-an-azure-app-service-time-zone"
 permalink: /blog/tip-changing-an-azure-app-service-time-zone
 date: 2018-10-25
 categories: [cloud,development,tip]
-tags:  [cloud,development,tip]
+tags: [cloud,development,tip]
+bitly: https://jasong.us/2SgpaLb
 ---
 
 It's possible that you need your application to handle the datetime values being sent to your app service. One reason for this is that date and time values being passed in may not include the proper time zone designation. By default, Azure Web Apps use UTC settings. To change this value, visit your Azure App Service. In the App Service menu, scroll to Application settings. Add a new setting under Application Settings called `WEBSITE_TIME_ZONE`. 

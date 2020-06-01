@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-05-27
 categories: [events,technology]
 tags:  [events,technology]
-bitly: https://bit.ly/2X7WUP6
+bitly: https://jasong.us/2MfMhDX
 ---
 
 **UPDATE: Due to a lightning storm, the launch is delayed until Saturday, May 30th**

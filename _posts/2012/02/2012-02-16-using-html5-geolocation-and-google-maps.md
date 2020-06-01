@@ -6,33 +6,34 @@ cloudscribe_path: "/blog/using-html5-geolocation-and-google-maps"
 permalink: /blog/using-html5-geolocation-and-google-maps
 date: 2012-02-16
 categories: [archive]
-tags:  [archive,html,javascript]
+tags: [archive,html,javascript]
+bitly: https://jasong.us/3gJibGQ
 ---
 
 HTML5 will introduce many new and exciting features including the addition of geolocation. Geolocation allows a device to determine a global position of the device (latitude and longitude), it's accuracy (horizontal accuracy and vertical accuracy), altitude, and speed. The Geolocation feature in HTML 5 is already supported by most mainstream browsers. According to research performed by [Mark Pilgrim](https://jasong.us/2WGUwxl), the following browser support Geolocation:
 
 ```html
 <table border="0" cellpadding="3" cellspacing="0" width="600">
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="86">**IE**</td>
-			<td align="center" valign="top" width="85">**Firefox**</td>
-			<td align="center" valign="top" width="84">**Safari**</td>
-			<td align="center" valign="top" width="87">**Chrome**</td>
-			<td align="center" valign="top" width="84">**Opera**</td>
-			<td align="center" valign="top" width="85">**iPhone**</td>
-			<td align="center" valign="top" width="87">**Android**</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="85">9.0+</td>
-			<td align="center" valign="top" width="85">3.5+</td>
-			<td align="center" valign="top" width="84">5.0+</td>
-			<td align="center" valign="top" width="88">5.0+</td>
-			<td align="center" valign="top" width="85">10.6+</td>
-			<td align="center" valign="top" width="85">3.0+</td>
-			<td align="center" valign="top" width="88">2.0+</td>
-		</tr>
-	</tbody>
+    <tbody>
+        <tr>
+            <td align="center" valign="top" width="86">**IE**</td>
+            <td align="center" valign="top" width="85">**Firefox**</td>
+            <td align="center" valign="top" width="84">**Safari**</td>
+            <td align="center" valign="top" width="87">**Chrome**</td>
+            <td align="center" valign="top" width="84">**Opera**</td>
+            <td align="center" valign="top" width="85">**iPhone**</td>
+            <td align="center" valign="top" width="87">**Android**</td>
+        </tr>
+        <tr>
+            <td align="center" valign="top" width="85">9.0+</td>
+            <td align="center" valign="top" width="85">3.5+</td>
+            <td align="center" valign="top" width="84">5.0+</td>
+            <td align="center" valign="top" width="88">5.0+</td>
+            <td align="center" valign="top" width="85">10.6+</td>
+            <td align="center" valign="top" width="85">3.0+</td>
+            <td align="center" valign="top" width="88">2.0+</td>
+        </tr>
+    </tbody>
 </table>
 ```
 
@@ -42,7 +43,7 @@ There are a few "gotchas" to keep in mind when using Geolocation:
 
 2.  The user must opt-in to the HTML 5 geolocation call for each website they visit. In Internet Explorer, the notification bar appears like:  
 
-	[![image_4](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png)
+    [![image_4](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png "image_4")](https://cdn.jasongaylord.com/images/2012/02/16/allowlocation.png)
 
 3.  The geolocation call may timeout. This is usually caused by a poor Internet connection or that the current area is not reporting (due to a lack of information) the geolocation yet. For more information on how HTML5 Geolocation works, [click here to view the top response to the thread on  StackOverflow.com](https://jasong.us/3bf6DHr).
 

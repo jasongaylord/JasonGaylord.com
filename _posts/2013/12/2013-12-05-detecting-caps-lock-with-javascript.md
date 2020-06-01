@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/detecting-caps-lock-with-javascript"
 permalink: /blog/detecting-caps-lock-with-javascript
 date: 2013-12-05
 categories: [archive]
-tags:  [archive]
+tags: [archive]
+bitly: https://jasong.us/3gP1BWf
 ---
 
 Earlier today, I saw a user attempt to type his password in both Internet Explorer 9 and Chrome. In both browsers, he failed to successfully type it in. After 3 failed attempts, he realized it was due to his caps lock key being pressed. In some cases, a keyboard driver will inform you on screen when you press the caps lock button. If you are lucky enough to use Internet Explorer 10, you'll notice that it is built into the browser as shown below:

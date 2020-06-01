@@ -7,6 +7,7 @@ permalink: /blog/developing-with-cosmos-db-locally
 date: 2020-04-27
 categories: [cloud,development,tip]
 tags: [cloud,development,tip]
+bitly: https://jasong.us/2xe3REh
 ---
 
 ![https://cdn.jasongaylord.com/images/2020/04/27/azure-cosmosdb-logo.png](https://cdn.jasongaylord.com/images/2020/04/27/azure-cosmosdb-logo.png)

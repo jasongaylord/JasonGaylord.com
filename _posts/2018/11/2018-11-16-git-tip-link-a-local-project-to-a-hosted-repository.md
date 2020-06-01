@@ -7,6 +7,7 @@ permalink: /blog/git-tip-link-a-local-project-to-a-hosted-repository
 date: 2018-11-16
 categories: [devops,development,tip]
 tags:  [devops,development,tip]
+bitly: https://jasong.us/2zVAcx9
 ---
 
 How many times have you started a project locally on your machine, initialized it as a git repository, then after doing some work, realized that you have a repository sitting on GitHub or Azure DevOps with a readme markdown file and a `.gitignore` file? If you're like me, that probably happens more than you'd like to admit. There's an easy solution for this. 

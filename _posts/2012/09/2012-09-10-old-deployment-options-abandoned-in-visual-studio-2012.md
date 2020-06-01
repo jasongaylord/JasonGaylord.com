@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/old-deployment-options-abandoned-in-visual-studio-2012"
 permalink: /blog/old-deployment-options-abandoned-in-visual-studio-2012
 date: 2012-09-10
 categories: [archive]
-tags:  [archive,visual-studio]
+tags: [archive,visual-studio]
+bitly: https://jasong.us/2Xm9eeJ
 ---
 
 One of my colleagues found out earlier today that a project he recently upgraded to Visual Studio 2012 was broken. What caused this? The setup project that was added to his solution. Back on July 15th, 2010, a [program manager from Microsoft posted that](http://jasong.us/PiU7K4) Microsoft was abandoning the Visual Studio 2012 setup options in favor of InstallShield LE. While InstallShield does have it's purpose and many consider it to be the best (or only) real setup solution out there, the Microsoft team offers no standalone installer out of the box. This means developers must be forced to use ClickOnce, Windows Store, InstallShield LE, or another product they purchase.

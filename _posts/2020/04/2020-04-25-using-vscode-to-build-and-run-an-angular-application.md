@@ -7,9 +7,11 @@ permalink: /blog/using-vscode-to-build-and-run-an-angular-application
 date: 2020-04-25
 categories: [angular,development]
 tags:  [angular,development]
+bitly: https://jasong.us/2S1v7Nz
+image: https://cdn.jasongaylord.com/images/2020/04/25/vscode.png
 ---
 
-![Visual Studio Code](https://cdn.jasongaylord.com/images/2020/04/25/vscode.png)
+<img src="https://cdn.jasongaylord.com/images/2020/04/25/vscode.png" alt="VS Code" style="width: 400px;" />
 
 There are many editors you can choose when building and running an Angular application. As time passes, my favorite editor for nearly all development is becoming Visual Studio Code (VSCode). [VSCode](https://jasong.us/code) is a lightweight editor built by Microsoft.  It runs on nearly any platform and can support development from nearly any language. You can download the source code and build VSCode yourself by visiting [https://github.com/Microsoft/vscode/](https://jasong.us/2Kvk4rE). You can also learn more about VSCode by visiting [code.visualstudio.com](https://jasong.us/code).
 

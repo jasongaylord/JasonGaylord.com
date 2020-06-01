@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/xbox-kinect-disneyland-adventures-november-15"
 permalink: /blog/xbox-kinect-disneyland-adventures-november-15
 date: 2011-06-07
 categories: [archive]
-tags:  [archive,disney,xbox]
+tags: [archive,disney,xbox]
+bitly: https://jasong.us/2U1d5Mj
 ---
 
 Earlier today at the E3 Expo, Microsoft unveiled several new features to Xbox Live, Kinect, and announced several new games including Halo 4, Kinect Sports Season Two, and Kinect Disneyland Adventures. Kinect Disneyland Adventures is pegged to be the first Kinect game including Disney characters. I stumbled across a screenshot that appears the game will be released on November 15th this year.

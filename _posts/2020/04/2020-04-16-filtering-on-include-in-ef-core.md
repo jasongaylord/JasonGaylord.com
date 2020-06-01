@@ -7,6 +7,7 @@ permalink: /blog/filtering-on-include-in-ef-core
 date: 2020-04-16
 categories: [data,development,dotnet]
 tags:  [data,development,dotnet]
+bitly: https://jasong.us/2KcoUdu
 ---
 
 For years ([quite literally 3 years](https://jasong.us/34I5FSg)) I've been waiting for filtering to be available on includes within Entity Framework, or more specifically, EF Core. Finally, the next preview should [have this included](https://jasong.us/34NUSWL). From the pull request, the additional operations to be specified inside Include/ThenInclude are:

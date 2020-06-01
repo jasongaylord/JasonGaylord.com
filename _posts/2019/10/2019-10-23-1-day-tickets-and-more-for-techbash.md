@@ -7,6 +7,7 @@ permalink: /blog/1-day-tickets-and-more-for-techbash
 date: 2019-10-23
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/32Kfo8U
 ---
 
 By now I'm sure you have heard about TechBash. [TechBash](https://jasong.us/tb) is a conference located in the Poconos and covers a variety of topics including, but not limited to, application and web development, design, QA and test engineering methods, and soft skills. TechBash is now offering single-day tickets for those who cannot attend the 3 or 4 days. You can choose your favorite [one or two days of content](https://jasong.us/2xZvzoM) and [get tickets for only $199 per day](https://jasong.us/tbreg). Each single day registration includes breakfast, lunch, coffee, and snacks. It also includes the activities for that individual day. For example:

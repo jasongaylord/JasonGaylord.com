@@ -7,6 +7,7 @@ permalink: /blog/family-day-friday-at-techbash-2019
 date: 2019-10-29
 categories: [events,techbash]
 tags:  [events,techbash]
+bitly: https://jasong.us/36eWkBU
 ---
 
 [TechBash 2019](https://jasong.us/tb) is not only the best place in the Northeast to get the best [developer content](https://jasong.us/2xWz9Qw), we have the best content for the whole family! Check out this year's Family Friday agenda:

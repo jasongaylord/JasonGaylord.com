@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/announcing-techbash-2017"
 permalink: /blog/announcing-techbash-2017
 date: 2016-09-30
 categories: [archive,events,techbash]
-tags:  [archive,events,techbash]
+tags: [archive,events,techbash]
+bitly: https://jasong.us/2TYMyPM
 ---
 
 First of all, on behalf of all of the organizers of TechBash 2016, we'd like to thank you for attending the event. We hope you enjoyed it and look forward to seeing you next year.

@@ -7,6 +7,7 @@ permalink: /blog/relaunched-mylightdisplay
 date: 2018-11-22
 categories: [development,holiday,personal,technology]
 tags:  [development,holiday,personal,technology]
+bitly: https://jasong.us/2AdQWzN
 ---
 
 You may have been wondering what I've been up to lately. Well, besides spending nearly 70 hours working on my synchronized light display, I've been migrating mylightdisplay.com to Cloudscribe. Check it out and please provide feedback!

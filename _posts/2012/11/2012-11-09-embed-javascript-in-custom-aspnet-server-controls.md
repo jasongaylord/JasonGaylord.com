@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/embed-javascript-in-custom-aspnet-server-controls"
 permalink: /blog/embed-javascript-in-custom-aspnet-server-controls
 date: 2012-11-09
 categories: [archive]
-tags:  [archive,dotnet,javascript]
+tags: [archive,dotnet,javascript]
+bitly: https://jasong.us/2XnzdCB
 ---
 
 As ASP.NET evolves, using ASP.NET WebForms is still the most popular way to serve up ASP.NET. One of the biggest benefits of ASP.NET WebForms is the fact that we can use re-usable code in several ways including in a compiled server control. What you may not know is that server controls can be quite powerful and can allow referencing JavaScript files. But, if you're distributing your controls or do not have the means to host your JavaScript files on a content delivery network (CDN), you may want to package the files with your control.

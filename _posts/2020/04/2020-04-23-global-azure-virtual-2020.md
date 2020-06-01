@@ -7,6 +7,7 @@ permalink: /blog/global-azure-virtual-2020
 date: 2020-04-23
 categories: [cloud,events,technology]
 tags:  [cloud,events,technology]
+bitly: https://jasong.us/2VV6UcX
 ---
 
 ![https://cdn.jasongaylord.com/images/2020/04/23/globalazure.png](https://cdn.jasongaylord.com/images/2020/04/23/globalazure.png)

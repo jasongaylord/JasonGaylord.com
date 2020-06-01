@@ -6,7 +6,8 @@ cloudscribe_path: "/blog/the-nostalgia-of-toysrus"
 permalink: /blog/the-nostalgia-of-toysrus
 date: 2018-03-16
 categories: [business,opinion]
-tags:  [business,opinion]
+tags: [business,opinion]
+bitly: https://jasong.us/2ZVZnOx
 ---
 
 I still remember getting my first Nintendo. I still played my Atari, but all of my friends were playing Nintendo. I was so excited. We went to a nearby department store called Ames to get a new game the following day. Little did I realize, that would be one of the last times I stepped foot in that store. The store was bought by Hills Department Stores and later closed.
