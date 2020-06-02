@@ -1,7 +1,6 @@
 ---
 title: Integrating Azure DevOps with Slack
 author: Jason Gaylord
-permalink: /blog/azure-devops-change-may-break-application
 date: 2020-06-02
 categories: [collaboration,devops,development]
 tags:  [collaboration,devops,development]
