@@ -3,6 +3,7 @@ title: Understanding Font Rules in CSS
 author: Jason Gaylord
 cloudscribe_id: "4fcd6bec-525a-4e1b-956c-0dd8f4353d71"
 cloudscribe_path: "/blog/understanding-font-rules-in-css"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/12/24/understanding-font-rules-in-css/"
 permalink: /blog/understanding-font-rules-in-css
 date: 2013-12-24
 categories: [archive]

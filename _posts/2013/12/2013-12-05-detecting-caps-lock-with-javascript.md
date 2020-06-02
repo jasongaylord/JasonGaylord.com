@@ -3,6 +3,7 @@ title: Detecting Caps Lock with JavaScript
 author: Jason Gaylord
 cloudscribe_id: "df518cb1-f441-426e-85a3-aafc4bd4bdd2"
 cloudscribe_path: "/blog/detecting-caps-lock-with-javascript"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/12/05/detecting-caps-lock-with-javascript/"
 permalink: /blog/detecting-caps-lock-with-javascript
 date: 2013-12-05
 categories: [archive]

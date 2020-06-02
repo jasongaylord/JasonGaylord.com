@@ -3,6 +3,7 @@ title: Dropping MS SQL Tables that have a Prefix using T-SQL
 author: Jason Gaylord
 cloudscribe_id: "2d244b1e-dc2a-4e4c-83ef-98b5351466df"
 cloudscribe_path: "/blog/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/11/16/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql/"
 permalink: /blog/dropping-ms-sql-tables-that-have-a-prefix-using-t-sql
 date: 2012-11-16
 categories: [archive]

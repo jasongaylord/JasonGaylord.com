@@ -3,6 +3,7 @@ title: Get the Nth Past Date After Removing a List of Dates from MSSQL
 author: Jason Gaylord
 cloudscribe_id: "019977c5-4dee-4f12-b1a4-18ab15096679"
 cloudscribe_path: "/blog/get-the-nth-past-date-after-removing-a-list-of-dates-from-mssql"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/03/05/get-the-nth-past-date-after-removing-a-list-of-dates-from-mssql/"
 permalink: /blog/get-the-nth-past-date-after-removing-a-list-of-dates-from-mssql
 date: 2013-03-05
 categories: [archive]

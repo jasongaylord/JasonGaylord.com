@@ -3,6 +3,7 @@ title: Detecting Browser Features and Internet Explorer Compatibility Mode
 author: Jason Gaylord
 cloudscribe_id: "05fa947f-4afb-45cf-9af0-5d6b54b8827c"
 cloudscribe_path: "/blog/detecting-browser-features-and-ie-compatibility-mode"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/06/07/detecting-browser-features-and-internet-explorer-compatibility-mode/"
 permalink: /blog/detecting-browser-features-and-ie-compatibility-mode
 date: 2013-06-08
 categories: [archive]

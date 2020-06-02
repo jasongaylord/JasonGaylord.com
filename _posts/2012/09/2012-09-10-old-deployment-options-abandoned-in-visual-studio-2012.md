@@ -3,6 +3,7 @@ title: Setup and Deployment Options Abandoned in Visual Studio 2012
 author: Jason Gaylord
 cloudscribe_id: "387144ce-ef51-49c7-95f7-f355ecc3d41a"
 cloudscribe_path: "/blog/old-deployment-options-abandoned-in-visual-studio-2012"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/09/10/old-deployment-options-abandoned-in-visual-studio-2012/"
 permalink: /blog/old-deployment-options-abandoned-in-visual-studio-2012
 date: 2012-09-10
 categories: [archive]

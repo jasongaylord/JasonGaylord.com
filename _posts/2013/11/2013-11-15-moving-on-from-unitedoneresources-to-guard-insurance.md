@@ -3,6 +3,7 @@ title: Moving On… To Guard Insurance Group
 author: Jason Gaylord
 cloudscribe_id: "29c1f786-2447-4fa1-a4bf-abd6013fcddc"
 cloudscribe_path: "/blog/moving-on-from-unitedoneresources-to-guard-insurance"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/11/15/moving-on-to-guard-insurance-group/"
 permalink: /blog/moving-on-from-unitedoneresources-to-guard-insurance
 date: 2013-11-15
 categories: [archive]

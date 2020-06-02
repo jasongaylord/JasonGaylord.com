@@ -3,6 +3,7 @@ title: Customize the Color Scheme and Theme of Visual Studio 2012
 author: Jason Gaylord
 cloudscribe_id: "9834577c-b1f9-4615-a452-533f4b30b7ee"
 cloudscribe_path: "/blog/customize-the-color-scheme-and-theme-of-visual-studio-2012"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/09/07/customize-the-color-scheme-and-theme-of-visual-studio-2012/"
 permalink: /blog/customize-the-color-scheme-and-theme-of-visual-studio-2012
 date: 2012-09-08
 categories: [archive]

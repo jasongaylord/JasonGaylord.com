@@ -3,6 +3,7 @@ title: Using PowerShell to Obtain CD/DVD Disk Information
 author: Jason Gaylord
 cloudscribe_id: "31845b4a-1f3d-4a33-b01c-956f3a9d338f"
 cloudscribe_path: "/blog/using-powershell-to-obtain-cd-dvd-disk-information"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/05/29/using-powershell-to-obtain-cd-dvd-disk-information/"
 permalink: /blog/using-powershell-to-obtain-cd-dvd-disk-information
 date: 2013-05-29
 categories: [archive]

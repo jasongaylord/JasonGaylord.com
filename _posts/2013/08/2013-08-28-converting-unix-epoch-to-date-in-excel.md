@@ -3,6 +3,7 @@ title: Converting Unix Epoch to Date in Excel
 author: Jason Gaylord
 cloudscribe_id: "15799d92-45d0-42f7-b040-dc0618d7863d"
 cloudscribe_path: "/blog/converting-unix-epoch-to-date-in-excel"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/08/28/converting-unix-epoch-to-date-in-excel/"
 permalink: /blog/converting-unix-epoch-to-date-in-excel
 date: 2013-08-28
 categories: [archive]

@@ -3,6 +3,7 @@ title: T-SQL Count of Tables, Views, Stored Procedures and Functions
 author: Jason Gaylord
 cloudscribe_id: "317bb8c7-0cab-4830-b596-a3b3bec5513d"
 cloudscribe_path: "/blog/tsql-count-tables-views-sprocs-functions"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/10/"
 permalink: /blog/tsql-count-tables-views-sprocs-functions
 date: 2013-10-29
 categories: [archive]
