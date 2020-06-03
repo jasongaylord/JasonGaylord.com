@@ -12,7 +12,7 @@ bitly: https://jasong.us/2Xs829L
 
 Late last week, Zeplin had [announced a new extension](https://jasong.us/2MmLUr7) that will help prevent developers from jumping out of their IDE to check out designs. 
 
-<a href="https://cdn.jasongaylord.com/images/2020/06/03/zeplin-extension-for-visual-studio.jpg"><img src="https://cdn.jasongaylord.com/images/2020/06/03/zeplin-extension-for-visual-studio.jpg" style="width: 400px;" alt="Zeplin Extension installed inside of my Visual Studio Code instance." /></a>
+{% include open-thumbnail.html path="2020/06/03/zeplin-extension-for-visual-studio.jpg" alt="Zeplin Extension installed inside of my Visual Studio Code instance." %}
 
 From the Zeplin extension you can choose a workspace, such as your Personal workspace. From there, you'll be able to filter on project or style guides to add to the explorer. This will allow developers to quickly follow design changes and access the designs they may be working on.
 
