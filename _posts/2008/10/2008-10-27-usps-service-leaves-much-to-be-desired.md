@@ -3,6 +3,7 @@ title: USPS Service Leaves Much To Be Desired
 author: Jason Gaylord
 date: 2008-10-27 13:43:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/27/usps-service-leaves-much-to-be-desired.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/27/usps-service-leaves-much-to-be-desired/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3e5YqHb

@@ -3,6 +3,7 @@ title: Free Software, Support, and Visibility for Start-Ups
 author: Jason Gaylord
 date: 2008-11-06 11:51:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/11/06/free-software-support-and-visibility-for-start-ups.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/11/06/free-software-support-and-visibility-for-start-ups/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3ga8wc7

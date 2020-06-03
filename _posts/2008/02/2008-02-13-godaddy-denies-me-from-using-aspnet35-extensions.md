@@ -3,6 +3,7 @@ title: "GoDaddy Denies My Using ASP.NET 3.5 Extensions"
 author: Jason Gaylord
 date: 2008-02-13 09:29:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/02/13/godaddy-denies-my-using-asp-net-3-5-extensions.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/02/13/godaddy-denies-my-using-asp-net-3-5-extensions/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2yiS3RG

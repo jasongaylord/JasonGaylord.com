@@ -3,6 +3,7 @@ title: Retrieving SQL Type Image Using LINQ
 author: Jason Gaylord
 date: 2008-05-27 23:23:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/27/asp-net-mvc-preview-3-announced.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/27/retrieving-sql-type-image-using-linq/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3d3D2Tb

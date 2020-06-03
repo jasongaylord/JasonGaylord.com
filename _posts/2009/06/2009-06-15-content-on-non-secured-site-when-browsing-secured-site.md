@@ -3,6 +3,7 @@ title: Content on Non-Secured Site When Browsing Secured Web Application or Web 
 author: Jason Gaylord
 date: 2009-06-15 15:07:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/15/content-on-non-secured-site-when-browsing-secured-web-application-or-web-site.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/15/content-on-non-secured-site-when-browsing-secured-web-application-or-web-site/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bUhV4b

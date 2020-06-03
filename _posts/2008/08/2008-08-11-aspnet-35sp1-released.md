@@ -3,6 +3,7 @@ title: ASP.NET 3.5 SP1 (Formerly \"ASP.NET 3.5 Extensions\") Released
 author: Jason Gaylord
 date: 2008-08-11 13:20:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/11/asp-net-3-5-sp1-formerly-quot-asp-net-3-5-extensions-quot-released.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/11/asp-net-3-5-sp1-formerly-quot-asp-net-3-5-extensions-quot-released/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2XkFWfh

@@ -3,6 +3,7 @@ title: Purchase EasySearchASP.net at a huge discount and support ADA
 author: Jason Gaylord
 date: 2007-09-04 11:21:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/09/04/purchase-easysearchasp-net-at-a-huge-discount-and-support-ada.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/09/04/purchase-easysearchasp-net-at-a-huge-discount-and-support-ada/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bT7U77

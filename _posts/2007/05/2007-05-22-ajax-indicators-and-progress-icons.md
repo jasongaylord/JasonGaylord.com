@@ -3,6 +3,7 @@ title: AJAX Indicators and Progress Icons
 author: Jason Gaylord
 date: 2007-05-22 15:50:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/05/22/ajax-indicators-and-progress-icons.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/05/22/ajax-indicators-and-progress-icons/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/2XjfN0s

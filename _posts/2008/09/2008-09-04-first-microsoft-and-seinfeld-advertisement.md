@@ -3,6 +3,7 @@ title: The First Microsoft and Seinfeld Advertisement
 author: Jason Gaylord
 date: 2008-09-04 21:34:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/04/the-first-microsoft-and-seinfeld-advertisement.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/04/the-first-microsoft-and-seinfeld-advertisement/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Zw0wwh

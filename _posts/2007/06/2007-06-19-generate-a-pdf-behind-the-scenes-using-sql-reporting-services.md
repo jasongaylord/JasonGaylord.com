@@ -3,6 +3,7 @@ title: Generate a PDF behind the scenes using SQL Reporting Services
 author: Jason Gaylord
 date: 2007-06-19 06:27:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/06/19/generate-a-pdf-behind-the-scenes-using-sql-reporting-services.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/06/19/generate-a-pdf-behind-the-scenes-using-sql-reporting-services/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/3bO42Ew

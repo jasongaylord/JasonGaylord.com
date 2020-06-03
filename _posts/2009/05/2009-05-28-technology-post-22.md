@@ -3,6 +3,7 @@ title: The Technology Post for May 28th
 author: Jason Gaylord
 date: 2009-05-28 23:56:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/28/the-technology-post-for-may-28th.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/28/the-technology-post-for-may-28th/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2XznK1Z

@@ -3,6 +3,7 @@ title: "Lightbulb: How to add a Custom Class to ViewState"
 author: Jason Gaylord
 date: 2008-01-03 20:45:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/01/03/lightbulb-how-to-add-a-custom-class-to-viewstate.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/01/03/lightbulb-how-to-add-a-custom-class-to-viewstate/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2A01aHl

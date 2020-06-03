@@ -3,6 +3,7 @@ title: IIS7 Integrated Mode and Global.asax
 author: Jason Gaylord
 date: 2008-09-04 23:20:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/04/iis7-integrated-mode-and-global-asax.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/04/iis7-integrated-mode-and-global-asax/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3d41C60

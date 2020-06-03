@@ -3,6 +3,7 @@ title: Remix Boston
 author: Jason Gaylord
 date: 2007-09-13 08:00:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/09/13/remix-boston.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/09/13/remix-boston/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3cPlpWX

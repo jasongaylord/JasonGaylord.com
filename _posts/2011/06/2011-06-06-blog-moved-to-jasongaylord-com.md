@@ -3,6 +3,7 @@ title: Blog Moved to JasonGaylord.com
 author: Jason Gaylord
 date: 2011-06-06 11:32:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2011/06/06/blog-moved-to-jasongaylord-com.aspx
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2011/06/06/blog-moved-to-jasongaylord-com/"
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/3eIZBfZ

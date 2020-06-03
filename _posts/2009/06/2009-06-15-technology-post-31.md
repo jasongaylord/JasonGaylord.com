@@ -3,6 +3,7 @@ title: The Technology Post for June 15th, 2009
 author: Jason Gaylord
 date: 2009-06-15 17:18:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/15/the-technology-post-for-june-15th-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/15/the-technology-post-for-june-15th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LU8Lda

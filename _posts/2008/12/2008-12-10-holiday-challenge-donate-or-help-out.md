@@ -3,6 +3,7 @@ title: Holiday Challenge – Donate or Help Out
 author: Jason Gaylord
 date: 2008-12-10 14:39:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/10/holiday-challenge-donate-or-help-out.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/10/holiday-challenge-donate-or-help-out/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bS1iGb

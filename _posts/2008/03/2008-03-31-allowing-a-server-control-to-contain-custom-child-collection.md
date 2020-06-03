@@ -3,6 +3,7 @@ title: Allowing a Server Control to Contain Custom Child Collection
 author: Jason Gaylord
 date: 2008-03-31 23:21:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/31/allowing-a-server-control-to-contain-custom-child-collection.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/31/allowing-a-server-control-to-contain-custom-child-collection/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3cUdjMA

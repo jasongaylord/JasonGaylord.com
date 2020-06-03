@@ -3,6 +3,7 @@ title: CodeRush Xpress for Free!
 author: Jason Gaylord
 date: 2008-10-28 13:44:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/28/coderush-xpress-for-free.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/28/coderush-xpress-for-free/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36mLha1

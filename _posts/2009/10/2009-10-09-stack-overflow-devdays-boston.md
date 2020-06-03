@@ -3,6 +3,7 @@ title: "Review: Stack Overflow DevDays Boston"
 author: Jason Gaylord
 date: 2009-10-09 10:49:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/10/09/review-stack-overflow-devdays-boston.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/10/09/review-stack-overflow-devdays-boston/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zotQKd

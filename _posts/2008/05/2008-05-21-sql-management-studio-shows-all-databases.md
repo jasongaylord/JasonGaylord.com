@@ -3,6 +3,7 @@ title: SQL Management Studio Shows All Databases
 author: Jason Gaylord
 date: 2008-05-21 16:35:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/21/sql-management-studio-shows-all-databases.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/21/sql-management-studio-shows-all-databases/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gcTkuy

@@ -3,6 +3,7 @@ title: Visual Studio 2008 Beta 2 Released
 author: Jason Gaylord
 date: 2007-07-26 17:03:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/07/26/visual-studio-2008-beta-2-released.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/07/26/visual-studio-2008-beta-2-released/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LK5VHJ

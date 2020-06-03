@@ -3,6 +3,7 @@ title: Getting Started with the AjaxDataControls in Visual Studio 2005
 author: Jason Gaylord
 date: 2008-06-16 11:37:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/16/getting-started-with-the-ajaxdatacontrols-in-visual-studio-2005.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/16/getting-started-with-the-ajaxdatacontrols-in-visual-studio-2005/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Ts9Flp

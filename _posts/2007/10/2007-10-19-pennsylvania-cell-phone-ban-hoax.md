@@ -3,6 +3,7 @@ title: Pennsylvania Cell Phone Ban - Hoax
 author: Jason Gaylord
 date: 2007-10-19 09:05:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/19/pennsylvania-cell-phone-ban-hoax.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/19/pennsylvania-cell-phone-ban-hoax/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3e3JedH

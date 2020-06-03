@@ -3,6 +3,7 @@ title: The Technology Post for June 30th, 2009
 author: Jason Gaylord
 date: 2009-06-30 22:35:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/30/the-technology-post-for-june-30th-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/30/the-technology-post-for-june-30th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36reNeT

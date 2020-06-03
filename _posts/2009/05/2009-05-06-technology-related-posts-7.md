@@ -3,6 +3,7 @@ title: Technology Related Links for May 6th, 2009
 author: Jason Gaylord
 date: 2009-05-06 23:37:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/06/technology-related-links-for-may-6th-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/06/technology-related-links-for-may-6th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3geMjJW
@@ -87,7 +88,7 @@ Social Networking
 Technology Announcements and News
 
 - [Is Dell cooking up an Android-powered netbook?](http://www.engadget.com/2009/05/06/is-dell-cooking-up-an-android-powered-netbook/) - Engadget
-- [Kindle DX: Amazon's 9.7" Wireless Reading Device (Latest Generation)](http://www.amazon.com/Kindle-DX-Amazons-Wireless-Generation/dp/B0015TCML0/ref=sr_1_1?ie=UTF8&s=electronics&qid=1241620598&sr=8-1)
+- [Kindle DX: Amazon's 9.7" Wireless Reading Device (Latest Generation)](https://amzn.to/2U3hEpD)
 - [Web learning startup takes top spot in Microsoft's Imagine Cup](http://www.masshightech.com/stories/2009/05/04/daily22-Web-learning-startup-takes-top-spot-in-Microsofts-Imagine-Cup.html) - Mass High Tech Staff (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
 
 Miscellaneous

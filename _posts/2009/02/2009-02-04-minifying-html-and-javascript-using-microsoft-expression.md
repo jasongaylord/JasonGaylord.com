@@ -3,6 +3,7 @@ title: Minifying HTML and JavaScript Using Microsoft Expression Web
 author: Jason Gaylord
 date: 2009-02-04 15:07:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/02/04/minifying-html-and-javascript-using-microsoft-expression-web.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/02/04/minifying-html-and-javascript-using-microsoft-expression-web/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3ggIsfh

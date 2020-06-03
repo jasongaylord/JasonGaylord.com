@@ -1,8 +1,9 @@
 ---
-title: IE8 CSS Improvements
+title: Pandora to be Released for Windows Mobile
 author: Jason Gaylord
 date: 2008-09-11 09:00:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/11/pandora-to-be-released-for-windows-mobile.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/11/pandora-to-be-released-for-windows-mobile/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2XmtgVi

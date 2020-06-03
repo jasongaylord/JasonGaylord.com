@@ -3,6 +3,7 @@ title: Velocity Podcast
 author: Jason Gaylord
 date: 2008-08-21 13:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/21/velocity-podcast.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/21/velocity-podcast/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2TtywVY

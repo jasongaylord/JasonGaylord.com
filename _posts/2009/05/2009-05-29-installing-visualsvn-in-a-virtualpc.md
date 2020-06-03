@@ -3,6 +3,7 @@ title: Installing VisualSVN in a Virtual PC
 author: Jason Gaylord
 date: 2009-05-29 15:26:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/29/installing-visualsvn-in-a-virtual-pc.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/29/installing-visualsvn-in-a-virtual-pc/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gnV2cW

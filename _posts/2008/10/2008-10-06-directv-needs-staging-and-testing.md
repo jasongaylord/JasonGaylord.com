@@ -3,6 +3,7 @@ title: DirecTV Needs Staging and Testing
 author: Jason Gaylord
 date: 2008-10-06 20:52:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/06/directv-needs-staging-and-testing.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/06/directv-needs-staging-and-testing/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bOW3Hj

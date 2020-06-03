@@ -3,6 +3,7 @@ title: Microsoft MVP… Again!
 author: Jason Gaylord
 date: 2008-10-01 10:05:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/01/microsoft-mvp-again.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/01/microsoft-mvp-again/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Tp9mrO

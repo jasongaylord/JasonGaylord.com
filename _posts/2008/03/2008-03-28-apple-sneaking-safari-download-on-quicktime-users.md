@@ -3,6 +3,7 @@ title: Apple Sneaking Safari download on QuickTime Users?
 author: Jason Gaylord
 date: 2008-03-28 16:46:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/28/apple-sneaking-safari-download-on-quicktime-users.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/28/apple-sneaking-safari-download-on-quicktime-users/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zZCmiF

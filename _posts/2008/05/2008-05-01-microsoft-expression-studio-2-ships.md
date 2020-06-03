@@ -3,6 +3,7 @@ title: Microsoft Expression Studio 2 Ships
 author: Jason Gaylord
 date: 2008-05-01 17:07:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/01/microsoft-expression-studio-2-ships.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/01/microsoft-expression-studio-2-ships/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gkdWkW

@@ -3,6 +3,7 @@ title: Count in LINQ using Lambda Expressions
 author: Jason Gaylord
 date: 2008-05-01 11:52:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/01/count-in-linq-using-lambda-expressions.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/01/count-in-linq-using-lambda-expressions/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3cTWhhJ

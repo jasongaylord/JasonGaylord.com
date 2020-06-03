@@ -3,6 +3,7 @@ title: "A circular reference was detected while serializing an object of type 'F
 author: Jason Gaylord
 date: 2008-06-09 16:43:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/09/a-circular-reference-was-detected-while-serializing-an-object-of-type.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/09/a-circular-reference-was-detected-while-serializing-an-object-of-type-xxx/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36qIHjC

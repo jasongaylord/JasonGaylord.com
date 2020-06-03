@@ -3,6 +3,7 @@ title: April Fools? Yahoo Accepts Bid To Be Bought Out By Microsoft
 author: Jason Gaylord
 date: 2008-04-01 10:44:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/01/april-fools-yahoo-accepts-bid-to-be-bought-out-by-microsoft.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/01/april-fools-yahoo-accepts-bid-to-be-bought-out-by-microsoft/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2TqGqjc

@@ -3,6 +3,7 @@ title: ASP.NET MVC Preview 3 Announced
 author: Jason Gaylord
 date: 2008-05-27 16:51:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/27/asp-net-mvc-preview-3-announced.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/27/asp-net-mvc-preview-3-announced/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2XdndCu

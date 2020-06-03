@@ -3,6 +3,7 @@ title: Debugging ASP.NET MVC Routing
 author: Jason Gaylord
 date: 2008-10-03 16:57:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/03/debugging-asp-net-mvc-routing.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/03/debugging-asp-net-mvc-routing/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zkdrGD

@@ -3,6 +3,7 @@ title: Internet Explorer 8 Beta 1 - Websites that are Broken
 author: Jason Gaylord
 date: 2008-03-06 09:22:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/06/internet-explorer-8-beta-1-websites-that-are-broken.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/06/internet-explorer-8-beta-1-websites-that-are-broken/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gbYdnZ

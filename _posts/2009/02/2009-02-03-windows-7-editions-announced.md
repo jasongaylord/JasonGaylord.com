@@ -3,6 +3,7 @@ title: Windows 7 Editions Announced
 author: Jason Gaylord
 date: 2009-02-03 16:40:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/02/03/windows-7-editions-announced.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/02/03/windows-7-editions-announced/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36m2ssu

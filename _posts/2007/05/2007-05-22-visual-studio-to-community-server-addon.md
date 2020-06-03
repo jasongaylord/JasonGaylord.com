@@ -3,6 +3,7 @@ title: Visual Studio to Community Server Add-On
 author: Jason Gaylord
 date: 2007-05-22 11:42:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/05/22/quot-visual-studio-to-community-server-quot-add-on.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/05/22/quot-visual-studio-to-community-server-quot-add-on/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/2WPN709

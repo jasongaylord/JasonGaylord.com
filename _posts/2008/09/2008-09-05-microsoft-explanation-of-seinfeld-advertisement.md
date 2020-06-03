@@ -3,6 +3,7 @@ title: Microsoft's Explanation of Seinfeld Advertisement
 author: Jason Gaylord
 date: 2008-09-05 13:39:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/05/microsoft-responds-about-seinfeld-advertisement.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/05/microsoft-responds-about-seinfeld-advertisement/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LKdGO5

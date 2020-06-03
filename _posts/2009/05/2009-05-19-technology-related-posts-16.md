@@ -3,6 +3,7 @@ title: The Technology Post for May 19th
 author: Jason Gaylord
 date: 2009-05-19 16:56:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/19/the-technology-post-for-may-19th.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/19/the-technology-post-for-may-19th/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2AK8XcL

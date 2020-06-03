@@ -3,6 +3,7 @@ title: Searching Twitter Posts
 author: Jason Gaylord
 date: 2008-04-07 08:45:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/07/searching-twitter-posts.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/07/searching-twitter-posts/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LJVnZe

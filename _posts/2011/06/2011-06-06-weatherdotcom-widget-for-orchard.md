@@ -3,6 +3,7 @@ title: The WeatherDotCom Widget for Orchard CMS
 author: Jason Gaylord
 cloudscribe_id: "5d52916d-5429-4624-9c8d-aea02cffb2fc"
 cloudscribe_path: "/blog/weatherdotcom-widget-for-orchard"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2011/06/06/the-weatherdotcom-widget-for-orchard-cms/"
 permalink: /blog/weatherdotcom-widget-for-orchard
 date: 2011-06-06
 categories: [archive]

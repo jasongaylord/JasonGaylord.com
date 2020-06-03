@@ -3,6 +3,7 @@ title: Telerik Controls and Demo Application Support ASP.NET MVCe
 author: Jason Gaylord
 date: 2009-01-30 08:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/30/telerik-controls-and-demo-application-support-asp-net-mvc.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/30/telerik-controls-and-demo-application-support-asp-net-mvc/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36s3zHe

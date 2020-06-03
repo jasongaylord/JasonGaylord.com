@@ -3,6 +3,7 @@ title: Classic ASP Support in IIS 7 and IIS 7.5
 author: Jason Gaylord
 date: 2009-04-24 09:48:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/04/24/classic-asp-support-in-iis-7-and-iis-7-5.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/04/24/classic-asp-support-in-iis-7-and-iis-7-5/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ytSdpA

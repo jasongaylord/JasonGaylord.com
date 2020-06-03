@@ -3,6 +3,7 @@ title: Week In Review - Base Class Library Source, MVP, ASPInsiders
 author: Jason Gaylord
 date: 2007-10-05 08:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/05/week-in-review-base-class-library-source-mvp-aspinsiders.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/05/week-in-review-base-class-library-source-mvp-aspinsiders/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2WSmeZH

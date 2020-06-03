@@ -3,6 +3,7 @@ title: "XAML Tip: Adding a Line Break to a TextBlock"
 author: Jason Gaylord
 date: 2008-04-07 16:50:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/07/xaml-tip-adding-a-line-break-to-a-textblock.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/07/xaml-tip-adding-a-line-break-to-a-textblock/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zRQ4Ep

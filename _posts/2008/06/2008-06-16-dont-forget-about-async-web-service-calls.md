@@ -3,6 +3,7 @@ title: "AJAX Tip: Don't forget about the Async Web Service Calls!"
 author: Jason Gaylord
 date: 2008-06-16 11:15:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/16/ajax-tip-don-t-forget-about-the-async-web-service-calls.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/16/ajax-tip-don-t-forget-about-the-async-web-service-calls/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3ggTrWn

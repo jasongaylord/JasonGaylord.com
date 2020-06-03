@@ -3,6 +3,7 @@ title: Using Older AJAX Controls in Visual Studio 2008
 author: Jason Gaylord
 date: 2007-11-06 15:47:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/11/06/using-older-ajax-controls-in-visual-studio-2008.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/11/06/using-older-ajax-controls-in-visual-studio-2008/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zTOKkw

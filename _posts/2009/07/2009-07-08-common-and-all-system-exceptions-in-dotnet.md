@@ -3,6 +3,7 @@ title: Common (and all System) Exceptions in .NET
 author: Jason Gaylord
 date: 2009-07-08 12:27:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/07/08/common-and-all-system-exceptions-in-net.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/07/08/common-and-all-system-exceptions-in-net/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3e7MaWO

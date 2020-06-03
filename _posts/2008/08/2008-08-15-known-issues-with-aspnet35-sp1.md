@@ -3,6 +3,7 @@ title: Known Issues with Service Pack 1 in ASP.NET 3.5
 author: Jason Gaylord
 date: 2008-08-15 08:33:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/15/known-issues-with-service-pack-1-in-asp-net-3-5.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/15/known-issues-with-service-pack-1-in-asp-net-3-5/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3easVvV

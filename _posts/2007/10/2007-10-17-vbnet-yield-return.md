@@ -3,6 +3,7 @@ title: VB.NET's yield return
 author: Jason Gaylord
 date: 2007-10-17 11:12:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/17/vb-net-s-quot-yield-return-quot.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/17/vb-net-s-quot-yield-return-quot/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zPXTKN

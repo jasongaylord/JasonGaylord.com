@@ -3,6 +3,7 @@ title: The Technology Post for July 1st, 2009
 author: Jason Gaylord
 date: 2009-07-01 23:56:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/07/01/the-technology-post-for-july-1st-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/07/01/the-technology-post-for-july-1st-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LQ3QtR

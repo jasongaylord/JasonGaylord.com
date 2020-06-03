@@ -3,6 +3,7 @@ title: LINQ to SQL and MS Small Business Server 2008 Talks at .NET Valley
 author: Jason Gaylord
 date: 2008-06-13 13:20:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/10/performance-tip-return-only-necessary-columns-using-linq.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/13/linq-to-sql-and-ms-small-business-server-2008-talks-at-net-valley/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZlLyZD

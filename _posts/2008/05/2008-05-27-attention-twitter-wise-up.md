@@ -3,6 +3,7 @@ title: "Attention Twitter: Wise up!"
 author: Jason Gaylord
 date: 2008-05-27 16:16:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/27/attention-twitter-wise-up.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/27/attention-twitter-wise-up/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36pKNQD

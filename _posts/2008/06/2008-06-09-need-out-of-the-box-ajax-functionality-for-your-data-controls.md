@@ -3,6 +3,7 @@ title: Need \"Out of the Box\" AJAX Functionality for Your Data Controls?
 author: Jason Gaylord
 date: 2008-06-09 09:19:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/06/establishing-a-vpn-on-windows-mobile-5.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/09/need-quot-out-of-the-box-quot-ajax-functionality-for-your-data-controls/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3g94WPt

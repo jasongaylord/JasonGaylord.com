@@ -8,8 +8,6 @@ tags: [archive]
 bitly: https://bit.ly/2TxFZDH
 ---
 
-https://www.jasongaylord.com/blog/2004/06/03/sql-server-articles
-
 I received an e-mail today with a SQL Server article repository on the FTPOnline website. I figured it would be useful to someone, so here it is:  
   
 [http://www.ftponline.com/resources/spcollections/sql/](http://www.ftponline.com/resources/spcollections/sql/)

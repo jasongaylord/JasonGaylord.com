@@ -3,6 +3,7 @@ title: Using Animations with the PopupControlExtender
 author: Jason Gaylord
 date: 2007-08-10 16:18:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/08/10/using-animations-with-the-popupcontrolextender.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/08/10/using-animations-with-the-popupcontrolextender/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZneZdy

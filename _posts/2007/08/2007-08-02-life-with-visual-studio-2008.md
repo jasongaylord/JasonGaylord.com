@@ -3,6 +3,7 @@ title: Life with Visual Studio 2008
 author: Jason Gaylord
 date: 2007-08-02 12:57:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/08/02/life-with-visual-studio-2008.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/08/02/life-with-visual-studio-2008/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZneZdy

@@ -3,6 +3,7 @@ title: Use LINQ to XML to Generate Excel Documents
 author: Jason Gaylord
 date: 2008-08-11 15:01:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/11/use-linq-to-xml-to-generate-excel-documents.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/11/use-linq-to-xml-to-generate-excel-documents/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gcAK67

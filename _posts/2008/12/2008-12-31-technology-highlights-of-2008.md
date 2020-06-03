@@ -3,6 +3,7 @@ title: Technology Highlights of 2008
 author: Jason Gaylord
 date: 2008-12-31 14:38:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/31/technology-highlights-of-2008.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/31/technology-highlights-of-2008/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36vVrFL

@@ -3,6 +3,7 @@ title: New RSS Toolkit Released
 author: Jason Gaylord
 date: 2007-06-19 06:30:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/06/19/new-rss-toolkit-released.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/06/19/new-rss-toolkit-released/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/2zfDtef

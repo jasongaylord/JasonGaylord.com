@@ -3,6 +3,7 @@ title: So What Happens When Technology and Holidays Come Together???
 author: Jason Gaylord
 date: 2008-12-22 16:53:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/22/so-what-happens-when-technology-and-holidays-come-together.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/22/so-what-happens-when-technology-and-holidays-come-together/
 categories: [aspnet-weblog]
 tags: [dev,holidays,iot]
 bitly: https://bit.ly/3cRZb6P

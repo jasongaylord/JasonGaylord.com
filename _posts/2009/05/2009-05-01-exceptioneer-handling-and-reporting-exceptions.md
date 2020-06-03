@@ -3,6 +3,7 @@ title: Exceptioneer – Handling and Reporting Exceptions
 author: Jason Gaylord
 date: 2009-05-01 08:00:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/01/exceptioneer-handling-and-reporting-exceptions.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/01/exceptioneer-handling-and-reporting-exceptions/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2WWdQs6

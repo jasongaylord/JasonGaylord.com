@@ -3,6 +3,7 @@ title: "How To: Properly Reference A JavaScript File"
 author: Jason Gaylord
 date: 2008-04-11 09:30:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/11/how-to-properly-reference-a-javascript-file.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/11/how-to-properly-reference-a-javascript-file/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LMd4r1

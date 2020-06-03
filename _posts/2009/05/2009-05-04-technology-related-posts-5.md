@@ -3,6 +3,7 @@ title: "Technology Related Links for May 4 – Post #5"
 author: Jason Gaylord
 date: 2009-05-04 22:07:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/04/technology-related-links-for-may-4th-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/04/technology-related-links-for-may-4th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LPpUFd

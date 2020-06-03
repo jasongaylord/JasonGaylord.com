@@ -3,6 +3,7 @@ title: Visual Studio 2008 Tips and Tricks
 author: Jason Gaylord
 date: 2008-10-21 15:29:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/21/visual-studio-2008-tips-and-tricks.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/21/visual-studio-2008-tips-and-tricks/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2yrpMZo

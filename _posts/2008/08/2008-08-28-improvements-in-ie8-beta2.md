@@ -3,6 +3,7 @@ title: Improvements in Internet Explorer 8 Beta 2
 author: Jason Gaylord
 date: 2008-08-28 13:52:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/28/improvements-in-internet-explorer-8-beta-2.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/28/improvements-in-internet-explorer-8-beta-2/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3cQYQB3

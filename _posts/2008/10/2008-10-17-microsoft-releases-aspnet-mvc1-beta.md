@@ -3,6 +3,7 @@ title: Microsoft Releases ASP.NET MVC 1 Beta
 author: Jason Gaylord
 date: 2008-10-17 11:20:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/17/microsoft-releases-asp-net-mvc-1-beta.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/17/microsoft-releases-asp-net-mvc-1-beta/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3g4dfvM

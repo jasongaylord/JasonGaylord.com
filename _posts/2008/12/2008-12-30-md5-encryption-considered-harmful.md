@@ -3,6 +3,7 @@ title: MD5 Encryption Considered Harmful
 author: Jason Gaylord
 date: 2008-12-30 16:02:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/30/md5-encryption-considered-harmful.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/30/md5-encryption-considered-harmful/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Zq056A

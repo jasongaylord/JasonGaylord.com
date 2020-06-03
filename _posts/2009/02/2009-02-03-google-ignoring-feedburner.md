@@ -3,6 +3,7 @@ title: Google Ignoring Feedburner
 author: Jason Gaylord
 date: 2009-02-03 16:54:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/02/03/google-ignoring-feedburner.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/02/03/google-ignoring-feedburner/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LMphMy

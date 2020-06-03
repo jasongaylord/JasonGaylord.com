@@ -3,6 +3,7 @@ title: Using the LINQ Keyword \"First\"
 author: Jason Gaylord
 date: 2008-07-08 14:42:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/07/08/using-the-linq-keyword-quot-first-quot.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/07/08/using-the-linq-keyword-quot-first-quot/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2LLBkcK

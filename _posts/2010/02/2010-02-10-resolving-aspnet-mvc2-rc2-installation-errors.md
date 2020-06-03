@@ -3,6 +3,7 @@ title: Resolving ASP.NET MVC 2 RC 2 Installation Errors
 author: Jason Gaylord
 date: 2010-02-10 10:49:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2010/02/10/resolving-asp-net-mvc-2-rc-2-installation-errors.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2010/02/10/resolving-asp-net-mvc-2-rc-2-installation-errors/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://jasong.us/3048LQ6

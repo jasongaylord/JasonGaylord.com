@@ -3,6 +3,7 @@ title: IE8 CSS Improvements
 author: Jason Gaylord
 date: 2008-09-09 09:19:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/09/ie8-css-improvements.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/09/ie8-css-improvements/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2XmtgVi

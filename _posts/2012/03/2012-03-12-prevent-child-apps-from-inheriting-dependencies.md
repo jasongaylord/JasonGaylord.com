@@ -3,6 +3,7 @@ title: Preventing Web Applications from Inheriting Parent Dependencies (bin)
 author: Jason Gaylord
 cloudscribe_id: "79ead780-ae25-4140-b366-8f5817c4c61c"
 cloudscribe_path: "/blog/prevent-child-apps-from-inheriting-dependencies"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/03/12/preventing-web-applications-from-inheriting-parent-dependencies-bin/"
 permalink: /blog/prevent-child-apps-from-inheriting-dependencies
 date: 2012-03-12
 categories: [archive]

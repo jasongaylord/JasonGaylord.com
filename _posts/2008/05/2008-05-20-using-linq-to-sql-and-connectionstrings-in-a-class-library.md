@@ -3,6 +3,7 @@ title: Using LINQ to SQL and ConnectionStrings in a Class Library
 author: Jason Gaylord
 date: 2008-05-20 14:22:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/20/using-linq-to-sql-and-connectionstrings-in-a-class-library.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/20/using-linq-to-sql-and-connectionstrings-in-a-class-library/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bRIA1F

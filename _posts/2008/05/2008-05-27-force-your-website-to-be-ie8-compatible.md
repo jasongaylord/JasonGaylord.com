@@ -3,6 +3,7 @@ title: Force Your Website To Be IE8 Compatible
 author: Jason Gaylord
 date: 2008-05-27 14:46:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/27/force-your-web-site-to-be-ie7-compatible.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/27/force-your-web-site-to-be-ie7-compatible/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36nowTI

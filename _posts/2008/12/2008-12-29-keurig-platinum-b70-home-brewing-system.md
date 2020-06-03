@@ -3,6 +3,7 @@ title: "Review: Keurig Platinum B70 Home Brewing System"
 author: Jason Gaylord
 date: 2008-12-29 16:52:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/29/review-keurig-platinum-b70-home-brewing-system.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/29/review-keurig-platinum-b70-home-brewing-system/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2z9TWkk

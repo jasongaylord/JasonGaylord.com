@@ -3,6 +3,7 @@ title: Microsoft Releases the ASP.NET MVC 1.0 Release Candidate
 author: Jason Gaylord
 date: 2009-01-27 16:12:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/26/crystal-reports-merge-modules-for-visual-studio-2008.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/27/microsoft-releases-the-asp-net-mvc-1-0-release-candidate/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3gi6wib

@@ -3,6 +3,7 @@ title: API Libraries for Popular Web Applications
 author: Jason Gaylord
 date: 2008-03-27 16:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/27/api-libraries-for-popular-web-applications.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/27/api-libraries-for-popular-web-applications/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2z8tNSX

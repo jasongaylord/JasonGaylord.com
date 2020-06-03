@@ -3,6 +3,7 @@ title: The Technology Post for June 22nd, 2009
 author: Jason Gaylord
 date: 2009-06-22 19:44:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/22/the-technology-post-for-june-22nd-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/22/the-technology-post-for-june-22nd-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36nrmI8
@@ -24,7 +25,7 @@ Other Link Lists
 Alternate Languages – Java, Rails, and other Languages
 
 - [Drupal - Getting Started with Drupal](http://refcardz.dzone.com/refcardz/getting-started-drupal?oid=ban00020-0) – [DZone](http://twitter.com/DZone)
-- [General – Amazon makes available Kindle source code](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200203720 "http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=200203720") (Suggested by [Adam Sills](http://twitter.com/adamstel))
+- [General – Amazon makes available Kindle source code](https://amzn.to/2XRpQuc "https://amzn.to/2XRpQuc") (Suggested by [Adam Sills](http://twitter.com/adamstel))
 - [PHP – CodeIgniter Directory](http://www.codeigniterdirectory.com/) (Suggested by [net.tuts+](http://twitter.com/NETTUTS))
 - [PHP - Convert ASP code into PHP code](http://knol.google.com/k/rajamanickam-antonimuthu/convert-asp-code-into-php-code/14dmp09oqdm08/6) - Rajamanickam Antonimuthu (Suggested by [Umut Muhaddisoglu](http://twitter.com/umutm))
 - [PHP - How To Create Your Own Stats Program (JavaScript, AJAX, PHP)](http://www.noupe.com/php/how-to-create-your-own-stats.html) – Noupe (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))

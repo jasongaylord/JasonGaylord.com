@@ -3,6 +3,7 @@ title: Visual Studio's Birthday?
 author: Jason Gaylord
 date: 2008-03-19 16:45:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/19/visual-studio-s-birthday.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/19/visual-studio-s-birthday/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Xh2GNh

@@ -3,6 +3,7 @@ title: Sprint Dumps Customers
 author: Jason Gaylord
 date: 2007-07-09 17:07:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/07/09/sprint-dumps-customers.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/07/09/sprint-dumps-customers/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Xi1YPN

@@ -3,6 +3,7 @@ title: Web Site Performance
 author: Jason Gaylord
 date: 2008-09-29 11:02:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/29/web-site-performance.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/29/web-site-performance/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3eaIGmC

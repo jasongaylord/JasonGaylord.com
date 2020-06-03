@@ -3,6 +3,7 @@ title: JavaScript onClick Navigation Issues within Google Chrome are Solved
 author: Jason Gaylord
 cloudscribe_id: "493938d7-6de9-45e2-b1f0-aabcf693c0a8"
 cloudscribe_path: "/blog/onclick-location-href-within-google-chrome"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/03/08/javascript-onclick-navigation-issues-within-google-chrome-are-solved/"
 permalink: /blog/onclick-location-href-within-google-chrome
 date: 2012-03-08
 categories: [archive]

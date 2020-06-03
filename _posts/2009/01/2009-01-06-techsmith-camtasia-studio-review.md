@@ -3,6 +3,7 @@ title: "Review: TechSmith Camtasia Studio 6.01"
 author: Jason Gaylord
 date: 2009-01-06 14:21:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/06/review-techsmith-camtasia-studio-6-01.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/06/review-techsmith-camtasia-studio-6-01/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2AQuBw8

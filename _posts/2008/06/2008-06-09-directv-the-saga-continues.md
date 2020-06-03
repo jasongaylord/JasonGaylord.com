@@ -3,6 +3,7 @@ title: "DirecTV: The Saga Continues..."
 author: Jason Gaylord
 date: 2008-06-09 09:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/09/directv-the-saga-continues.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/09/directv-the-saga-continues/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZoKCU5

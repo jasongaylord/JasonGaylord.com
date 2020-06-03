@@ -3,6 +3,7 @@ title: Enumerating JavaScript Object Properties
 author: Jason Gaylord
 date: 2008-02-14 11:29:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/02/14/enumerating-javascript-object-properties.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/02/14/enumerating-javascript-object-properties/
 categories: [aspnet-weblog]
 tags: [archive,javascript]
 bitly: https://bit.ly/2A072An

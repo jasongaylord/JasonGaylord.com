@@ -3,6 +3,7 @@ title: How to Override Cassini's Virtual Path in Visual Studio
 author: Jason Gaylord
 date: 2008-08-19 09:01:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/19/how-to-override-cassini-s-virtual-path-in-visual-studio.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/19/how-to-override-cassini-s-virtual-path-in-visual-studio/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2zaYIxY

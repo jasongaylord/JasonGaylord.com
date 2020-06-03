@@ -3,6 +3,7 @@ title: ASP.NET Podcast – App Performance and New Co-Host
 author: Jason Gaylord
 date: 2008-11-03 13:48:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/28/coderush-xpress-for-free.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/11/03/asp-net-podcast-app-performance-and-new-co-host/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3d4mkmg

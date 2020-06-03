@@ -3,6 +3,7 @@ title: Issue with ADO.NET Sync Services and SQL Server 2000
 author: Jason Gaylord
 date: 2009-06-15 09:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/15/issue-with-ado-net-sync-services-and-sql-server-2000.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/15/issue-with-ado-net-sync-services-and-sql-server-2000/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bSlUyg

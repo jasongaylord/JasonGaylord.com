@@ -3,6 +3,7 @@ title: Yahoo SearchPad Disappoints Me
 author: Jason Gaylord
 date: 2009-02-04 13:38:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/02/04/yahoo-searchpad-disappoints-me.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/02/04/yahoo-searchpad-disappoints-me/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZtQuf4

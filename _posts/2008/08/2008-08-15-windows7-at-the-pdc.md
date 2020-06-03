@@ -3,6 +3,7 @@ title: Windows 7 at the PDC?
 author: Jason Gaylord
 date: 2008-08-15 09:11:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/15/windows-7-at-the-pdc.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/15/windows-7-at-the-pdc/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bSOUpB

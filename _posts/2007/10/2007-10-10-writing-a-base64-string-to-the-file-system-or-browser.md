@@ -3,6 +3,7 @@ title: Writing a Base64 String to the File System or Browser
 author: Jason Gaylord
 date: 2007-10-10 16:18:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/10/writing-a-base64-string-to-the-file-system-or-browser.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/10/writing-a-base64-string-to-the-file-system-or-browser/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/36hjxnd

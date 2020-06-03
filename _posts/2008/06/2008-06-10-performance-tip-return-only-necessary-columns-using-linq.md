@@ -3,6 +3,7 @@ title: "Performance Tip: Return Only Necessary Columns Using LINQ"
 author: Jason Gaylord
 date: 2008-06-10 22:30:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/10/performance-tip-return-only-necessary-columns-using-linq.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/10/performance-tip-return-only-necessary-columns-using-linq/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2yqI1y6

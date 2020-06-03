@@ -3,6 +3,7 @@ title: The Technology Post for June 24th, 2009
 author: Jason Gaylord
 date: 2009-06-24 23:46:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/24/the-technology-post-for-june-24th-2009.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/24/the-technology-post-for-june-24th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bUxatN

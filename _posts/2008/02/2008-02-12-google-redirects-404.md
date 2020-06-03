@@ -3,6 +3,7 @@ title: "Best Practice? - Google Redirects 404s"
 author: Jason Gaylord
 date: 2008-02-12 12:56:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/02/12/best-practice-google-redirects-404s.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/02/12/best-practice-google-redirects-404s/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZmGTGQ

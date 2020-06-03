@@ -3,6 +3,7 @@ title: Resolving an SmtpException stating 'Too many messages for this session'
 author: Jason Gaylord
 cloudscribe_id: "cb418641-7e6f-45a7-83ae-fed7241fc0de"
 cloudscribe_path: "/blog/resolving-smtpexception-too-many-messages-for-this-session"
+msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/02/21/resolving-an-smtpexception-stating-too-many-messages-for-this-session/"
 permalink: /blog/resolving-smtpexception-too-many-messages-for-this-session
 date: 2012-02-21
 categories: [archive]

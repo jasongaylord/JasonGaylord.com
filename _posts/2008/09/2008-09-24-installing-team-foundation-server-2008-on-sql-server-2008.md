@@ -3,6 +3,7 @@ title: Installing Team Foundation Server 2008 on SQL Server 2008
 author: Jason Gaylord
 date: 2008-09-24 15:11:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/24/installing-team-foundation-server-2008-on-sql-server-2008.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/24/installing-team-foundation-server-2008-on-sql-server-2008/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2TtG7UB

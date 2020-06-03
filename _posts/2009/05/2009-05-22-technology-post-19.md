@@ -3,6 +3,7 @@ title: The Technology Post for May 22nd
 author: Jason Gaylord
 date: 2009-05-22 16:38:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/22/the-technology-post-for-may-22nd.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/22/the-technology-post-for-may-22nd/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2ZtCl1e

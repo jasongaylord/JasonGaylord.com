@@ -3,6 +3,7 @@ title: "Lightbulb: How To Access the Item's Index in a DataList or Repeater"
 author: Jason Gaylord
 date: 2008-01-03 20:39:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/01/03/lightbulb-how-to-access-the-item-s-index-in-a-datalist-or-repeater.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/01/03/lightbulb-how-to-access-the-item-s-index-in-a-datalist-or-repeater/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2WMHIXC

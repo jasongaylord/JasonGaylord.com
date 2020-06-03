@@ -3,6 +3,7 @@ title: Initial Google Chrome Review
 author: Jason Gaylord
 date: 2008-09-02 16:00:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/02/initial-google-chrome-review.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/02/initial-google-chrome-review/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/3bSiT0O

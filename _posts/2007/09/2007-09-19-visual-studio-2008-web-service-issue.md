@@ -3,6 +3,7 @@ title: Visual Studio 2008 Web Service Issue
 author: Jason Gaylord
 date: 2007-09-19 16:25:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/09/19/visual-studio-2008-web-service-issue.aspx
+msmvps_path: https://blogs.msmvps.com/jgaylord/2007/09/19/visual-studio-2008-web-service-issue/
 categories: [aspnet-weblog]
 tags: [archive]
 bitly: https://bit.ly/2Zpyan8
