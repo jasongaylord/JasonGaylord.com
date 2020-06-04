@@ -4,6 +4,7 @@ author: Jason Gaylord
 date: 2020-06-03
 categories: [collaboration,design,development]
 tags:  [collaboration,design,development]
+post-number: 928
 image: https://cdn.jasongaylord.com/images/2020/06/03/zeplin-extension-for-visual-studio.jpg
 bitly: https://jasong.us/2Xs829L
 ---

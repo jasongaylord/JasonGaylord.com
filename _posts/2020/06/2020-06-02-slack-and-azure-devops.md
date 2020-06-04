@@ -4,6 +4,7 @@ author: Jason Gaylord
 date: 2020-06-02
 categories: [collaboration,devops,development]
 tags:  [collaboration,devops,development]
+post-number: 927
 image: https://cdn.jasongaylord.com/images/2020/06/02/alternative-to-vsts-app-in-slack.jpg
 bitly: https://jasong.us/2TWZZjl
 ---

@@ -4,6 +4,7 @@ author: Jason Gaylord
 date: 2020-06-01
 categories: [cloud,development,dotnet,serverless]
 tags:  [cloud,development,dotnet,serverless]
+post-number: 926
 image: https://cdn.jasongaylord.com/images/2020/06/01/azure-static-web-apps-in-search.jpg
 bitly: https://jasong.us/2XmCKRL
 ---
