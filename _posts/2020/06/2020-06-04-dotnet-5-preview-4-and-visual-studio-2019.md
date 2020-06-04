@@ -39,5 +39,5 @@ At the time of this post, the most current version of Visual Studio 2019 was ver
 If you do not have version 16.6 or greater, go back to _Help_ > _Check for Updates_ and install the latest version. After the install, you'll be able to [install the SDK](#installing-the-sdk).
 
 {% include warning-notice.html %}
-If you installed the SDK before upgrading Visual Studio 2019 and before you [enabled previews of .NET Core](#supporting-future-preview-builds-of-visual-studio-and-net-core), you'll have to repair your SDK install after Visual Studio has been upgraded. This will register .NET 5 with Visual Studio.
+If you installed the SDK before upgrading Visual Studio 2019 and before you <a href="#supporting-future-preview-builds-of-visual-studio-and-net-core">enabled previews of .NET Core</a>, you'll have to repair your SDK install after Visual Studio has been upgraded. This will register .NET 5 with Visual Studio.
 {% include end-notice.html %}
