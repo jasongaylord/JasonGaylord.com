@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-06-07
 categories: [hardware,microsoft]
 tags:  [hardware,microsoft]
-post-number: 931
+post-number: 932
 image: https://cdn.jasongaylord.com/images/2020/06/07/surface-book-case-separation.jpg
 bitly: https://jasong.us/2Y40uJv
 ---
