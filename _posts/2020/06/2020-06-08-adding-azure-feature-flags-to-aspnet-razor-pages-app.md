@@ -158,7 +158,7 @@ Since my feature is enabled, if I visit the page, I should now see the _About Me
 If I disable my feature and wait approximately 30 seconds (feature management caches the feature values for 30 seconds by default), I won't see the _About Me_ link:
 
 {% include open-thumbnail.html path="2020/06/08/about-me-feature-disabled.jpg" alt="The About Me feature defined in the Azure App Configuration resource is disabled." %}
-
+ 
 ## Summary
 
 In summary, we created a basic Azure App Configuration feature and used that feature within a .NET Core 5 Razor Pages application. If you're interested in seeing the finished product, be sure to grab the completed source from the following GitHub branch:
