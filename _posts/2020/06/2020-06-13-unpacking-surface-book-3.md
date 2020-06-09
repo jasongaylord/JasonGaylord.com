@@ -1,12 +1,12 @@
 ---
 title: Unpacking my new Surface Book 3
 author: Jason Gaylord
-date: 2020-06-10
+date: 2020-06-13
 categories: [hardware,microsoft]
 tags:  [hardware,microsoft]
 post-number: 935
 image: https://cdn.jasongaylord.com/images/2020/06/10/
-bitly: https://jasong.us/3h0okyq
+bitly: 
 ---
 
 
