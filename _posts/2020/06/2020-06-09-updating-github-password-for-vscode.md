@@ -6,7 +6,7 @@ categories: [devops,tip]
 tags:  [devops,tip]
 post-number: 934
 image: https://cdn.jasongaylord.com/images/2020/06/09/credential-manager-vscode-github.jpg
-bitly: https://jasong.us/3h3jeS6
+bitly: https://jasong.us/3f44Siy
 ---
 
 Over the weekend, Visual Studio Code (VS Code) was updated on my machine. After it was updated, I was prompted to log back into my GitHub account. The first thing I was prompted for was to authorize VS Code to have access to my GitHub account:
