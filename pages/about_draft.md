@@ -81,7 +81,7 @@ Before I left Parente in September 2003, I was notified that I would be a [Micro
 In November 2013, I made the choice to leave for Berkshire Hathaway GUARD Insurance. I've been with Berkshire Hathaway ever since and now lead the technology team for [biBERK.com](https://jasong.us/biberk), a direct market commercial insurance company.
 
 #### Books I Authored
-[![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylord-20&language=en_US)](https://amzn.to/2LmaDvl)
+[![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylor01-20&language=en_US)](https://www.amazon.com/Professional-ASP-NET-4-5-C-VB-ebook/dp/B00CX6S7UO/ref=as_li_ss_tl?dchild=1&keywords=ASP.NET+Professional+4.5+C&tag=&linkCode=ll1&tag=jasongaylor01-20&linkId=b3d20d95644dd016965e83d5a0861ce5&language=en_US)
 
 #### Websites I Maintain
 - [techbash.com](https://jasong.us/tb)

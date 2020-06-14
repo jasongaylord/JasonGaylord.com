@@ -16,7 +16,7 @@ In today's post, I'd like to talk about using a docking station to work from hom
 2.  [Add Home Projects](#add-home-projects)
 
 ## Using Docking Stations
-Do you work at the office with dual monitors or use an external mouse and keyboard? You can mimic your home work environment by purchasing a docking station to work remote. Most are very straight forward to setup. You can find common brands such as Dell, HP, Targus, Kensington and others online by visiting [https://amzn.to/3aPdiJ1](https://amzn.to/3aPdiJ1 "https://amzn.to/3aPdiJ1").
+Do you work at the office with dual monitors or use an external mouse and keyboard? You can mimic your home work environment by purchasing a docking station to work remote. Most are very straight forward to setup. You can find common brands such as Dell, HP, Targus, Kensington and others online by [clicking here](https://www.amazon.com/s/ref=as_li_ss_tl?k=Docking+Station&ref=nb_sb_noss_2&linkCode=ll2&tag=jasongaylor01-20&linkId=38ed00b0c761a5b4928b1115bd44ea8e&language=en_US).
 
 {% include warning-notice.html %}
 <strong>Stop:</strong> Be sure to check with your company's IT department to ensure that using a docking station does not violate their security policies.
