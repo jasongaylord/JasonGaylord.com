@@ -23,4 +23,4 @@ I connected both monitors to the dock using [USB-C cables from Cable Matters](ht
 
 Regardless, I'm happy with my psuedo setup at home and hope over the next couple of months to continue to transform my home office into a dual purpose work and home office.
 
-{% include link-thumbnail.html path="2020/06/14/home-setup-surface-book-dock-viewsonic.jpg" alt="Work From Home Setup with 2x 27 inch ViewSonic VP2771 and a Surface Book 3" %}
+{% include open-thumbnail.html path="2020/06/14/home-setup-surface-book-dock-viewsonic.jpg" alt="Work From Home Setup with 2x 27 inch ViewSonic VP2771 and a Surface Book 3" %}
