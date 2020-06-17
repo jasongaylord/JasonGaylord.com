@@ -65,6 +65,12 @@ a.github-button {
     }
 }
 
+hr {
+    border: 0;
+    border-top: 1px solid #888;
+    border-bottom: 1px solid #fff;
+}
+
 .github-avatar {
     border-radius: 100px;
     float: right;
@@ -140,6 +146,13 @@ div.post-header {
         &:hover {
             color: $color-post-meta;
         }
+    }
+}
+
+.tag_page {
+    .date {
+        padding-left: 1rem;
+        font-size: .8rem;
     }
 }
 
