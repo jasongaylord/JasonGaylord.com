@@ -24,8 +24,10 @@ include_nav: true
 <h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
 {% for post in posts %}
   {% if post.tags contains t %}
+  <div class="post-entry">
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </div>
   {% endif %}
 {% endfor %}
 </div>
