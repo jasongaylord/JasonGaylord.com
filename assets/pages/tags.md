@@ -29,14 +29,16 @@ include_nav: false
   })
 </script>
 
-{% assign tags = site.tags %}
+{% assign tags = site.tags | sort %}
 
+<div class="meta">
 <ul class="tags">
 {% for tag in tags %}
   {% assign t = tag | first %}
   <li><a href="#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></li>
 {% endfor %}
 </ul>
+</div>
 
 ---
 
@@ -44,7 +46,7 @@ include_nav: false
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 <div class="tag_page">
-<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h4>
+<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
