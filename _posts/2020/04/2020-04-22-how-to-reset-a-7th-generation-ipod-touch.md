@@ -12,7 +12,7 @@ bitly: https://jasong.us/2VR6ZOB
 
 <img src="https://cdn.jasongaylord.com/images/2020/04/22/iPodTouch.jpg" alt="iPod Touch 7th Generation" style="width: 400px;">
 
-One of the nice parts about having an iPod Touch as opposed to an iPhone is the fact that it's smaller than most of the newer iPhone's, does not have the calling capabilities, but has most of the newest hardware. Many people are unaware that Apple released a 7th Generation iPod Touch in 2019. You can get one here: [https://amzn.to/2xTQAkH](https://amzn.to/2xTQAkH "https://amzn.to/2xTQAkH")
+One of the nice parts about having an iPod Touch as opposed to an iPhone is the fact that it's smaller than most of the newer iPhone's, does not have the calling capabilities, but has most of the newest hardware. Many people are unaware that Apple released a 7th Generation iPod Touch in 2019. You can get [one here](https://www.amazon.com/Apple-iPod-touch-32GB-Latest/dp/B07SFRJ8Y7/ref=as_li_ss_tl?dchild=1&keywords=iPod+Touch&qid=1587588839&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMVFaOUVWSlVHS1ZLJmVuY3J5cHRlZElkPUExMDM1NTQ0QzFFQlBVWExYM1BFJmVuY3J5cHRlZEFkSWQ9QTA2ODgzOTkyNERaNzJYNlFGS0tHJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=ll1&tag=jasongaylor01-20&linkId=71732dff93220ad79f49838aa4e6a662&language=en_US).
 
 I find this perfect for kids under the age of 12 who would like to play games or use Facebook Kids Messenger without the concern of text messages and such. However, giving one of these devices to a child under the age of 12, especially an active one, brings its own concerns. At a $200 price point, it's still a concern that they may drop the device. That's what has inspired me to write this post.
 

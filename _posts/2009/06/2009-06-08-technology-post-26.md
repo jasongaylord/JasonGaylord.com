@@ -34,7 +34,7 @@ ASP.NET and ASP.NET MVC
 
 Books
 
-- [New - Programming for Unified Communications with Microsoft® Office Communications Server 2007 R2](https://amzn.to/2XOmCre) – Amazon (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
+- [New - Programming for Unified Communications with Microsoft® Office Communications Server 2007 R2](https://www.amazon.com/Programming-Unified-Communications-Microsoft%C2%AE-Pro-Developer/dp/0735626235/ref=as_li_ss_tl?ie=UTF8&s=books&qid=1241846079&sr=1-1&linkCode=ll1&tag=jasongaylor01-20&linkId=efd572aa947cd50fe098f6b603f6cfb0&language=en_US) – Amazon (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
 - [Preview - Sneak Peek at ASP.NET MVC 1.0 Website Programming: Problem - Design – Solution](http://www.coderjournal.com/2009/06/sneak-peek-at-aspnet-mvc-10-website-programming-problem-design-solution/) – [Nick Berardi](http://twitter.com/nberardi)
 - [Research - Scan Your Books And Search Them On Google](http://www.techcrunch.com/2009/06/07/scan-your-books-and-search-them-on-google/) – TechCrunch (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 - [Suggested - 15 Books You Must Have If You Are Doing ASP.NET Web Development](http://www.dotnetcurry.com/(X(1)S(sjrt4sfxoohq4q55kqvuov55))/ShowArticle.aspx?ID=329&AspxAutoDetectCookieSupport=1) – Dot Net Curry (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))

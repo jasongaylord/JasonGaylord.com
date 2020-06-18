@@ -11,7 +11,7 @@ tags: [archive,book,dotnet,personal]
 bitly: https://jasong.us/2Xm8E0x
 ---
 
-On May 3rd, [Wrox Press](http://jasong.us/16Tpd4h) released [Professional ASP.NET 4.5 in C# and VB](https://amzn.to/2AenHR1). I co-authored this book with two Microsoft employees [Pranav Rastogi](http://jasong.us/16Tw4ut) and [Scott Hanselman](http://jasong.us/16TxXXY) as well as two Microsoft MVPs [Christian Wenz](http://jasong.us/16TwAsg) and [Todd Miranda](http://jasong.us/16TxYLz). The book is packed with the most current information about ASP.NET 4.5. It is also the only book I am aware of that explains One ASP.NET. The foreword for this book is written by [Scott Hunter](http://jasong.us/16Tx9lR) of the ASP.NET team. 
+On May 3rd, [Wrox Press](http://jasong.us/16Tpd4h) released [Professional ASP.NET 4.5 in C# and VB](https://www.amazon.com/gp/product/1118311825/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=jasongaylor01-20&linkId=00db86a3f00a9fee4b8f410c3526d02a&language=en_US). I co-authored this book with two Microsoft employees [Pranav Rastogi](http://jasong.us/16Tw4ut) and [Scott Hanselman](http://jasong.us/16TxXXY) as well as two Microsoft MVPs [Christian Wenz](http://jasong.us/16TwAsg) and [Todd Miranda](http://jasong.us/16TxYLz). The book is packed with the most current information about ASP.NET 4.5. It is also the only book I am aware of that explains One ASP.NET. The foreword for this book is written by [Scott Hunter](http://jasong.us/16Tx9lR) of the ASP.NET team. 
 
 There are ten parts, 35 chapters, 7 appendixes, and nearly 1500 pages in this book. Here's the table of contents for the book:
 
@@ -68,4 +68,4 @@ There are ten parts, 35 chapters, 7 appendixes, and nearly 1500 pages in this bo
   - Appendix F: ASP.NET Online Resources 
   - Appendix G: Visual Studio Extensibility with NuGet 
 
-You can pick up a copy at Amazon by visiting [http://jasong.us/amzn-aspnet45](https://amzn.to/2AenHR1). If you do pick up a copy, be sure to post a review of the book on your own blog, on Amazon, or via the [forums on Wrox.com](http://jasong.us/16Tpd4h)
+You can pick up a copy at Amazon by visiting [http://jasong.us/amzn-aspnet45](https://www.amazon.com/gp/product/1118311825/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=jasongaylor01-20&linkId=00db86a3f00a9fee4b8f410c3526d02a&language=en_US). If you do pick up a copy, be sure to post a review of the book on your own blog, on Amazon, or via the [forums on Wrox.com](http://jasong.us/16Tpd4h)

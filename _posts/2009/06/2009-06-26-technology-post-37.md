@@ -95,7 +95,7 @@ Web Design, Layout, and Graphic Design
 
 Miscellaneous Technology Announcements, News, and Deals
 
-- [Pre-Order Windows 7 Upgrade from Amazon.com for 50% off or more](https://amzn.to/2XSWrjc)
+- [Pre-Order Windows 7 Upgrade from Amazon.com for 50% off or more](https://www.amazon.com/b/ref=as_li_ss_tl?&node=1286119011&linkCode=ll2&tag=jasongaylor01-20&linkId=d98dba36864061a2bb67b48941f144b0&language=en_US)
 
 **Job Opportunities** (Sorted by State)
 

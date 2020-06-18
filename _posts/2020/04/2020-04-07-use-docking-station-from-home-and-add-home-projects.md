@@ -23,7 +23,7 @@ Do you work at the office with dual monitors or use an external mouse and keyboa
 {% include end-notice.html %}
 
 ## Add Home Projects
-Outside of work, many individuals are struggling to find things to do. Many have expressed that they are bored from walking the same routes around the neighborhood or feel that they've watched the entire catalog on Netflix. You can bypass the time by doing small projects. Since I've been working remote, on rainy days, I've taken on small jobs such as painting and replacing my [smoke detectors](https://amzn.to/2x8Vl9t). 
+Outside of work, many individuals are struggling to find things to do. Many have expressed that they are bored from walking the same routes around the neighborhood or feel that they've watched the entire catalog on Netflix. You can bypass the time by doing small projects. Since I've been working remote, on rainy days, I've taken on small jobs such as painting and replacing my [smoke detectors](https://www.amazon.com/s/ref=as_li_ss_tl?k=smoke+detector&crid=LIWG1OFAN7&sprefix=smoke+dete,aps,180&ref=nb_sb_ss_i_1_10&linkCode=ll2&tag=jasongaylor01-20&linkId=7ff5705fdfdaff5095dad6db2bb74c79&language=en_US). 
 
 ![https://cdn.jasongaylord.com/images/2020/04/07/paint.jpg](https://cdn.jasongaylord.com/images/2020/04/07/paint.jpg)
 

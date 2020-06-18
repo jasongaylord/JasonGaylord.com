@@ -22,9 +22,9 @@ So, let's assume that you're worried that Windows and Windows Server will cost w
 
 One of the major sponsors of the Mono Project is a company called [Xamarin](http://jasong.us/SjM39E). The company's founder, Miguel de Icaza, was the primary force behind the Mono Project before Novell had shut it down. Miguel's company Xamarin has continued development on the Mono Project and two other interesting projects: [monotouch](http://jasong.us/SjM9hI) and [mono for Android](http://jasong.us/SjMeSs). The monotouch product allows developers to write C# applications for iOS while the mono for Android product allows the same for Android devices. If you're interested in learning more about either, check out the following books written by Wally McClure:
 
-[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=047063782X&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylordc-20)](https://amzn.to/3dyixhG)
+[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=047063782X&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylor01-20)](https://www.amazon.com/gp/product/047063782X/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=jasongaylor01-20&linkId=b06535aa9848a357b825672f27834f03&language=en_US)
 
-[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=1118026438&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylordc-20)](https://amzn.to/3gLmMbB)
+[![](http://ws.assoc-amazon.com/widgets/q?_encoding=UTF8&ASIN=1118026438&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylor01-20)](https://www.amazon.com/gp/product/1118026438/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=jasongaylor01-20&linkId=e151b5362fa4675ad98a69724d9efd98&language=en_US)
 
 ## Other Free Microsoft Resources
 If I were to research and list all of the free resources that Microsoft has for startups, I may never stop typing. So, below is an incomplete list of resources. If you are aware of others, feel free to leave them as a comment and I'll try to keep this list as complete as possible.

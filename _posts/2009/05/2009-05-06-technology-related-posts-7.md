@@ -88,7 +88,7 @@ Social Networking
 Technology Announcements and News
 
 - [Is Dell cooking up an Android-powered netbook?](http://www.engadget.com/2009/05/06/is-dell-cooking-up-an-android-powered-netbook/) - Engadget
-- [Kindle DX: Amazon's 9.7" Wireless Reading Device (Latest Generation)](https://amzn.to/2U3hEpD)
+- [Kindle DX: Amazon's 9.7" Wireless Reading Device (Latest Generation)](https://www.amazon.com/Kindle-DX-Amazons-Wireless-Generation/dp/B0015TCML0/ref=as_li_ss_tl?ie=UTF8&s=electronics&qid=1241620598&sr=8-1&linkCode=ll1&tag=jasongaylor01-20&linkId=3ea2e1d8999db8762455c5c7e81fad05&language=en_US)
 - [Web learning startup takes top spot in Microsoft's Imagine Cup](http://www.masshightech.com/stories/2009/05/04/daily22-Web-learning-startup-takes-top-spot-in-Microsofts-Imagine-Cup.html) - Mass High Tech Staff (Suggested by [Microsoft Press](http://twitter.com/MicrosoftPress))
 
 Miscellaneous
