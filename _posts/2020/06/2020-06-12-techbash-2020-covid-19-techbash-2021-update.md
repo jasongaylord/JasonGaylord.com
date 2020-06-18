@@ -2,8 +2,8 @@
 title: TechBash 2020, TechBash 2021, and COVID-19
 author: Jason Gaylord
 date: 2020-06-12
-categories: [development]
-tags:  [development]
+categories: [covid19,events,techbash]
+tags:  [covid19,events,techbash]
 post-number: 937
 image: https://cdn.jasongaylord.com/images/2020/06/12/techbash2021.png
 bitly: https://jasong.us/37lAkGe
