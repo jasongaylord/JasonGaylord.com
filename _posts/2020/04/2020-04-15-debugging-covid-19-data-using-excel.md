@@ -60,3 +60,4 @@ Below you'll find the list of other posts in the series:
 10. [DevAroundTheSun a 24-hour Fundraiser May 12](https://jasong.us/2VWxxzm)
 11. [Repairing My Lenovo Yoga Pro 2](https://jasong.us/370OTzb)
 12. [Hard Drive Docking Station](https://jasong.us/3clW9GH)
+13. [TechBash 2020, TechBash 2021, and COVID-19](https://jasong.us/37lAkGe)
