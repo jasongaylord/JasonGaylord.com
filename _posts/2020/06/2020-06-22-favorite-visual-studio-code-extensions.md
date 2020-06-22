@@ -6,7 +6,7 @@ categories: [development,microsoft,visual-studio]
 tags:  [development,microsoft,visual-studio]
 post-number: 947
 image: https://cdn.jasongaylord.com/images/2020/06/22/Visual-Studio-Code-Marketplace.png
-bitly: https://jasong.us/2Nvf3kF
+bitly: https://jasong.us/2V6B7WH
 ---
 
 Ever since Visual Studio Code was released, it has quickly gained popularity. It's a lightweight code editor that is very extensible and has great performance. Because of the extensibility, you'll find developers of all flavors, not just traditional Microsoft developers, using it as their editor of choice.
