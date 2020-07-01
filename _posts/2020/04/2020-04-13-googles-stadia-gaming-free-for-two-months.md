@@ -34,3 +34,4 @@ Below you'll find the list of other posts in the series:
 11. [Repairing My Lenovo Yoga Pro 2](https://jasong.us/370OTzb)
 12. [Hard Drive Docking Station](https://jasong.us/3clW9GH)
 13. [TechBash 2020, TechBash 2021, and COVID-19](https://jasong.us/37lAkGe)
+14. [2020 Year in Review Thus Far](https://jasong.us/3ghednP)
