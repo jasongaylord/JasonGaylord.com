@@ -1,7 +1,7 @@
 ---
 title: Walmart to add Drive-In Movies Starting August
 author: Jason Gaylord
-date: 2020-07-04
+date: 2020-07-05
 categories: [business,technology]
 tags:  [business,technology]
 post-number: 961
