@@ -1,7 +1,7 @@
 ---
-title: Snow Storm in Northeastern Pennsylvania 3
+title: "MSDN Magazine: Manage Web Users with Custom Profile Providers in ASP.NET 2.0"
 author: Jason Gaylord
-date: 2007-02-16 12:36:00
+date: 2007-03-01
 msdn-link: http://msdn.microsoft.com/msdnmag/issues/07/03/ASPNET2/default.aspx
 categories: [msdn]
 tags: [archive,article,dev,msdn,personal]
