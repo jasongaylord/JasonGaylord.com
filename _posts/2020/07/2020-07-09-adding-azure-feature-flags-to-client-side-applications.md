@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-07-09
 categories: [angular,cloud,development]
 tags:  [angular,cloud,development]
-post-number: 965
+post-number: 966
 image: https://cdn.jasongaylord.com/images/2020/07/09/browser-result.jpg
 bitly: https://jasong.us/2O0SK6B
 ---
