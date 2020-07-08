@@ -9,6 +9,10 @@ image: https://cdn.jasongaylord.com/images/2020/06/08/add-feature-showaboutme.jp
 bitly: https://jasong.us/38bjkD0
 ---
 
+{% include info-notice.html %}
+<strong>UPDATE:</strong> This issue has been resolved. Visit <a href="https://jasong.us/38EOoLZ"></a> for more details.
+{% include end-notice.html %}
+
 Earlier this month, I [posted about a pending fix in the client side Azure App Configuration library](https://jasong.us/3ev93nQ). In the post, I mentioned a `crypto` exception. The exception would occur during the `signRequest` function in the `@azure/app-configuration` 1.0.1 package. An example message is below:
 
 ```shell
