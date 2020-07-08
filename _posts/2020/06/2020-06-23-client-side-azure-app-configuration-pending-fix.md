@@ -10,7 +10,7 @@ bitly: https://jasong.us/3ev93nQ
 ---
 
 {% include info-notice.html %}
-<strong>UPDATE:</strong> This issue has been resolved. Visit <a href="https://jasong.us/38EOoLZ"></a> for more details.
+<strong>UPDATE:</strong> This issue has been resolved. Visit <a href="https://jasong.us/38EOoLZ">https://jasong.us/38EOoLZ</a> for more details.
 {% include end-notice.html %}
 
 In an earlier post titled [Adding Azure Feature Flags to Your ASP.NET Razor Pages Application](https://jasong.us/2AL2pdP), I demonstrated how to use the Azure App Configuration resource type to create feature flag capabilities for a .NET Core server side application. For an upcoming installment, I was hoping to demonstrate that same capability using client side in an Angular application. When using the `@azure/app-configuration` 1.0.1 package, I noticed that the package was using the `crypto` package for signing the authentication request. In fact, I was receiving the following error:
