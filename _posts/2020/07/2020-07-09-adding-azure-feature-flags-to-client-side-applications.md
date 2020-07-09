@@ -96,7 +96,7 @@ Now that we've made those subtle changes, we'll build our application and then s
 ## Summary
 During this tutorial, we walked through setting up our application to connect to the Azure App Configuration resource. We then updated our minimal Angular application to make the connection and to check for a specific value of one of our features. Finally, we executed to make sure that the feature was displaying the value we anticipated.
 
-While this is a very basic sample, it's not that difficult to build upon.
+This is a very basic sample, but it's not that difficult to build upon by adding more features. Also, while we choose Angular for this demo, any client-side framework can integrate just fine.
 
 If you're interested in seeing the finished product, be sure to grab the completed source from the following GitHub branch:
 
