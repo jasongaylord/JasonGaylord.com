@@ -164,3 +164,7 @@ If I disable my feature and wait approximately 30 seconds (feature management ca
 In summary, we created a basic Azure App Configuration feature and used that feature within a .NET Core 5 Razor Pages application. If you're interested in seeing the finished product, be sure to grab the completed source from the following GitHub branch:
 
 {% include github-clone.html bitly="jasong.us/2XzjeS0" repo="jasongaylord/MyFirstAzureFeatureFlag" branch="EnablingFeatureFlagging" %}
+
+{% include info-notice.html %}
+If you are interested in client side use of the Azure App Configuration resource and Feature Flags, be sure to check out my post at <a href="https://jasong.us/2O0SK6B">jasong.us/2O0SK6B</a>.
+{% include end-notice.html %}
