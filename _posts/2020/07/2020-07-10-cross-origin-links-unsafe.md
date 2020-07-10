@@ -18,4 +18,4 @@ This may also show up in a [Google Lighthouse](https://jasong.us/3fgO608) audit.
 
 {% include open-thumbnail.html path="2020/07/10/google-lighthouse-best-practices-score.jpg" alt="Configuration Explorer in the Azure App Configuration resource" %}
 
-I have some links I'll have to update.
+I have some links I'll have to update. 
