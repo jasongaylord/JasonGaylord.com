@@ -6,7 +6,7 @@ categories: [web]
 tags:  [web]
 post-number: 969
 image: https://cdn.jasongaylord.com/images/2020/07/12/webawards.jpg
-bitly: https://jasong.us/3gJcLe6
+bitly: https://jasong.us/2Cso0ZH
 ---
 
 For the past 17 years, I've [been a judge](https://jasong.us/2W5wxbT) for the [Web Marketing Association's Web Awards](http://jasong.us/150xF0F). Each year, I notice small, incremental trends in the way companies approach design. 
