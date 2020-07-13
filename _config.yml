@@ -29,7 +29,7 @@ content:
 
 # contact
 contact: 
-  avatar-image: /assets/images/jason.png
+  avatar-image: https://cdn.jasongaylord.com/images/site/jason.png
 #  email: email@gmail.com # Uncomment if you want feedback via email (it will expose your email)
 #  url: https://domain.com/contact.html # Uncomment if you want to provide a contact form
 
