@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-07-17
 categories: [developer,devops,dotnet]
 tags:  [developer,devops,dotnet]
-post-number: 974
+post-number: 975
 image: https://cdn.jasongaylord.com/images/2020/07/17/octokit-dotnet_2.png
 bitly: https://jasong.us/32pTbzB
 ---
