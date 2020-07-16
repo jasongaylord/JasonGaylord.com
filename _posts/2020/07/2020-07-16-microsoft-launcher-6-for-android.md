@@ -22,5 +22,3 @@ Included in the new launcher are:
 - **Improved performance:** Microsoft Launcher now loads faster, uses less memory, is more battery efficient, and offers fluent animations.
 
 {% include link-thumbnail.html path="2020/07/16/microsoft-launcher-6.jpg" alt="Microsoft Launcher 6 for Android" url="https://jasong.us/2WjtPzy" %}{% include link-thumbnail.html path="2020/07/16/microsoft-launcher-6-dark-theme.jpg" alt="Microsoft Launcher 6 for Android" url="https://jasong.us/2WjtPzy" %}
-
-https://www.jasongaylord.com/blog/2020/07/16/microsoft-launcher-6-for-android
