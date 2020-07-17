@@ -41,13 +41,17 @@ The Amazon console will now take a few seconds to generate your template and add
 
 {% include open-thumbnail.html path="2020/07/21/alexa-console-toast-notifications.jpg" alt="Alexa Developer Console Toast Notifications" %}
 
-## Customizing Intents and Utterances
+## Understanding Invocation, Intents, Utterances, and Slots
+Alexa skills use terms that you may not be familiar with. To better explain each, please see their definition below along with the appropriate example of each:
 
-******************************************************************************************************************************************************************************************************************
-******************************************************************************************************************************************************************************************************************
-TODO
-******************************************************************************************************************************************************************************************************************
-******************************************************************************************************************************************************************************************************************
+- **Invocation** - This is a phrase that kicks off the skill such as "_Alexa, ask GitHub if I have any pull requests_". Since we're using a custom skill, this is needed.
+- **Intents** - An intent is what the user, who is interacting with your skill, is intending to accomplish. This allows your skill to have different "paths" to follow. For our case, we'll use a single intent we'll name **GitHubPullRequest**.
+- **Utterances** - These are phrases that users will use when making the request to your skill such as "_how many pull requests do I have?_" or "_do I have any PRs?_". As time passes, you may need to add more utterances to direct your user accordingly.
+- **Slots** - Slots are variables that specifically direct the skill down a certain path and usually help to direct which data set to use. When using built-in skills, there are predefined slots you can use. However, as a developer, you may choose to have a slot for **GitHub** and one for **Azure DevOps** as the implementation may be two separate functions and data sets.
+
+These are typically combined in a manner where if you ask "_Alexa, open DevOps_", Alexa knows that _DevOps_ is the **Invocation**. If this is followed with "_PullRequest count for GitHub_", _PullRequest_ is the **intent**, _count for_ is the **utterance**, and _GitHub_ is the **slot**.
+
+You may need to reference this glossary of terms as you proceed with this post. 
 
 ## Creating the ASP.NET Core API
 To get started on the .NET API, we'll kick things off by creating a brand new .NET Core API. We'll do this by creating a project from the command line like so:
