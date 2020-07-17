@@ -23,4 +23,4 @@ dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
 Then, update the `ConfigureServices` method by adding `AddNewtonsoftJson()` to `AddControllers()` like so:
 
-{% include open-thumbnail.html path="2020/07/17/update-configure-services-add-newtonsoft-json.png" alt="AddNewtonsoftJson to AddControllers" %}
+{% include open-thumbnail.html path="2020/07/17/update-configure-services-add-newtonsoft-json.jpg" alt="AddNewtonsoftJson to AddControllers" %}
