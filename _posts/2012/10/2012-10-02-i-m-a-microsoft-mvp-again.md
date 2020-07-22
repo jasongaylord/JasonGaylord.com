@@ -1,5 +1,5 @@
 ---
-title: "I\'m a Microsoft MVP… Again"
+title: "Im a Microsoft MVP… Again"
 author: Jason Gaylord
 msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/10/02/i-m-a-microsoft-mvp-again/"
 date: 2012-10-02
