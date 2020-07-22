@@ -182,7 +182,7 @@ You can now click on the **Test** menu option in the Alexa Developer Console. Be
 {% include open-thumbnail.html path="2020/07/21/alexa-skill-success.jpg" alt="Valid Responses From Your Custom Alexa Skill" %}
 
 {% include info-notice.html %}
-<strong>Tip:</strong> If you run into 500 issues with your service, I recommend using Postman to connect to your service. 
+<strong>Tip:</strong> If you run into 500 issues with your service, I recommend using Postman to connect and debug your service. You can use the JSON in the Amazon Alexa Developer Console as the body of the request being sent to your application.
 {% include end-notice.html %}
 
 ## Summary
