@@ -5,8 +5,8 @@ cloudscribe_id: "d97fa4ef-b9fb-4336-b814-68369d65e9b3"
 cloudscribe_path: "/blog/css-tip-use-the-correct-viewport-size"
 permalink: /blog/css-tip-use-the-correct-viewport-size
 date: 2020-05-05
-categories: [development,style,tip,web]
-tags:  [development,style,tip,web]
+categories: [css,development,html,tip,web]
+tags:  [css,development,html,tip,web]
 bitly: https://jasong.us/3foiczm
 ---
 
