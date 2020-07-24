@@ -2,8 +2,8 @@
 title: Announcing SpaacedOut Gem Jekyll Theme v1.1.1
 author: Jason Gaylord
 date: 2020-07-11
-categories: [development,jekyll,style,web]
-tags:  [development,jekyll,style,web]
+categories: [css,development,jekyll,web]
+tags:  [css,development,jekyll,web]
 post-number: 968
 image: https://cdn.jasongaylord.com/images/2020/05/12/SpaacedOut-Theme.jpg
 bitly: https://jasong.us/3ehYK5i

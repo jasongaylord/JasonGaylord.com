@@ -5,8 +5,8 @@ cloudscribe_id: "3a18e70a-6ec5-4c7e-95a4-6b0b0870be58"
 cloudscribe_path: "/blog/announcing-the-spaacedout-jekyll-theme"
 permalink: /blog/announcing-the-spaacedout-jekyll-theme
 date: 2020-05-12
-categories: [development,jekyll,style,web]
-tags:  [development,jekyll,style,web]
+categories: [css,development,jekyll,web]
+tags:  [css,development,jekyll,web]
 bitly: https://jasong.us/3fBMNtn
 ---
 
