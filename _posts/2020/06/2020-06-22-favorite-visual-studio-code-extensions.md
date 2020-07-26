@@ -14,6 +14,7 @@ Ever since Visual Studio Code was released, it has quickly gained popularity. It
 Currently, I have the following plug-ins installed:
 
 * Angular Snippets
+* [Angular Language Service](https://jasong.us/2ZU8tLl)
 * Azure Extensions:
   * Azure Account
   * Azure App Service
