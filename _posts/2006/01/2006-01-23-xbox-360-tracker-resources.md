@@ -5,7 +5,7 @@ date: 2006-01-23 09:27:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/01/23/XBox-360-Tracker-Resources.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2XoEFUu
+bitly: https://jasong.us/305fR6F
 ---
 
 I saw a post come around about some cool XBox 360 Tracker resources. Check these out:
