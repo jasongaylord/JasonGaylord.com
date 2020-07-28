@@ -18,7 +18,7 @@ Included in the new launcher are:
 - **Landscape mode:** Microsoft Launcher supports vertical and horizontal orientations to enhance your viewing preference.
 - **Customizable icons:** Give your phone a consistent look and feel with custom icon packs and adaptive icons.
 - **Beautiful wallpapers:** Enjoy a fresh new wallpaper from Bing every day or choose your own photos.
-- **Dark theme:** Reduce eye strain when using your phone at night or in low light environments. This feature is compatible with Android’s default dark mode settings.
+- **Dark theme:** Reduce eye strain when using your phone at night or in low light environments. This feature is compatible with Android's default dark mode settings.
 - **Improved performance:** Microsoft Launcher now loads faster, uses less memory, is more battery efficient, and offers fluent animations.
 
 {% include link-thumbnail.html path="2020/07/16/microsoft-launcher-6.jpg" alt="Microsoft Launcher 6 for Android" url="https://jasong.us/2WjtPzy" %}{% include link-thumbnail.html path="2020/07/16/microsoft-launcher-6-dark-theme.jpg" alt="Microsoft Launcher 6 for Android" url="https://jasong.us/2WjtPzy" %}
