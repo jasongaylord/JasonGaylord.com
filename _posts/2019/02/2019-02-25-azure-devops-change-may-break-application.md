@@ -1,5 +1,5 @@
 ---
-title: Azure DevOps "Run as Package" Change May Break Application
+title: "Azure DevOps \"Run as Package\" Change May Break Application"
 author: Jason Gaylord
 cloudscribe_id: "a5044911-0c9d-4b2e-8fc9-8492e6c642fc"
 cloudscribe_path: "/blog/azure-devops-change-may-break-application"
