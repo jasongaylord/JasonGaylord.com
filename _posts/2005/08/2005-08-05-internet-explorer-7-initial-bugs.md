@@ -5,7 +5,7 @@ date: 2005-08-05 10:41:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/08/05/Internet-Explorer-7-Beta-1-Initial-Bugs.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2LQd1e3
+bitly: https://jasong.us/2Dg0gbk
 ---
 
 I've been using IE 7 now for over a week and noticed a few bugs.  

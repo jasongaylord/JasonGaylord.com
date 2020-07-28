@@ -5,7 +5,7 @@ date: 2005-04-19 06:21:00
 sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/04/19/12178.aspx
 categories: [sqljunkies-blog]
 tags: [archive]
-bitly: https://bit.ly/36yFXkl
+bitly: https://jasong.us/2X6OtmT
 ---
 
 The [.NET Valley](http://www.dotnetvalley.com/) User Group will participate with other User Groups in the Greater PA region in attending the Greater PA MSDN Code Camp in Philadelphia this Saturday and Sunday (April 23 and 24). We look forward to meeting the various attendees of this event. If you have not signed up as of yet, I believe there are still some spots available. Be sure to visit the [.NET Valley website](http://www.dotnetvalley.com/Events/258.aspx) for more information.  

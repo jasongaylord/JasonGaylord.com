@@ -5,7 +5,7 @@ date: 2005-03-30 13:11:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/03/30/Windows-XP-Shortcuts.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3bTHMcr
+bitly: https://jasong.us/3101QGy
 ---
 
 Looking for a Windows XP shortcut? Check out this list from Microsoft...
