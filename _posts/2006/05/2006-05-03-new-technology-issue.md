@@ -1,5 +1,5 @@
 ---
-title: New Technology "Issue"
+title: New Technology Issue
 author: Jason Gaylord
 date: 2006-05-03 08:54:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/05/03/444936.aspx

@@ -1,5 +1,5 @@
 ---
-title: Interesting Post by Julie Lerman about "Fake AJAX"
+title: "Interesting Post by Julie Lerman about \"Fake AJAX\""
 author: Jason Gaylord
 date: 2006-05-30 11:27:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/05/30/Adding-Meta-Tags-and-Stylesheets-to-ASP.NET-2.0-Pages-Programatically.aspx

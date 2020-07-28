@@ -5,7 +5,7 @@ date: 2006-02-06 09:36:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/02.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3cWckM5
+bitly: https://jasong.us/308A9MC
 ---
 
 An error occurs in SBA when the No. Field has data longer than 20 characters...
