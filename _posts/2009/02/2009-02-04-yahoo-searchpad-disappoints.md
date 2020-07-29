@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/02/04/yahoo-sea
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/02/04/yahoo-searchpad-disappoints-me/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ZtQuf4
+bitly: https://jasong.us/3gapUgh
 ---
 
 I was reading a [Robert Scoble post](http://scobleizer.com/2009/02/04/why-yahoos-announcement-today-wont-get-as-much-hype-as-googles/) about why [Google Latitude](http://www.google.com/latitude) product is receiving more attention than [Yahoo SearchPad](http://tools.search.yahoo.com/SearchPad/Video.html). I totally agree with him. After reading his post about his interview and watching the video, I've devised a list of items that's wrong with SearchPad:

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/07/08/common-an
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/07/08/common-and-all-system-exceptions-in-net/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3e7MaWO
+bitly: https://jasong.us/39AkjO0
 ---
 
 I couldn't find a list of exceptions for .NET anywhere on the web, although, I didn't look hard. Below is a list of the exceptions that are in the System namespace. The exceptions in bold are, what I would consider, the most common.

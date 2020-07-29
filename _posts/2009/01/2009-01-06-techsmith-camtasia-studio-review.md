@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/06/review-te
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/06/review-techsmith-camtasia-studio-6-01/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2AQuBw8
+bitly: https://jasong.us/39DbTFp
 ---
 
 Ok. So for years now I've been using [TechSmith](http://www.techsmith.com/)'s [Camtasia Studio](http://www.techsmith.com/camtasia.asp). I've always thought their software was great to dictate and record the screen. Now they've gone completely silly. Oh, and I mean in a good way. About two weeks ago I asked their Evangelist Activities Coordinator, Kristina, about their support for editing MP4 files. It was quite simple. I just picked up a new [Flip MinoHD camcorder](http://www.theflip.com/) and wanted to edit the clips I recorded in Camtasia by inserting screencasts. At the time, she told me I couldn't do it. So, I converted my video using Adobe Premiere Pro. I got this bloated piece of junk out and into Camtasia. It ended up working for what I needed, but I was very disappointed.

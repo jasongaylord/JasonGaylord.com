@@ -113,7 +113,7 @@ Podcasts and Videos
 Silverlight, WPF, and RIA
 
 -   [Expression – SketchFlow: Rapid prototyping that works](http://team.silverlight.net/announcements/sketchflow-rapid-prototyping-that-works/) – [Silverlight News](http://twitter.com/teamsilverlight)
--   [RIA – Implementing Rich Interaction Application Design Presentation](http://bit.ly/1d2TH) – [Brian Henderson](http://twitter.com/brian_henderson)
+-   [RIA – Implementing Rich Interaction Application Design Presentation](https://jasong.us/3jRwSsT) – [Brian Henderson](http://twitter.com/brian_henderson)
 -   [Silverlight – Using WCF + Silverlight 2 + PRISM : Gotchas](http://krishnabhargav.blogspot.com/2009/05/using-wcf-silverlight-2-prism-gotchas.html) (Suggested by [Silverlight News](http://twitter.com/teamsilverlight))
 
 Social Networking and Community Platforms

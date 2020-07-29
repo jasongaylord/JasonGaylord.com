@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/08/27/dyk-you-c
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/08/27/dyk-you-can-remove-the-asp-net-mvc-version-from-the-response-header/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ZsxsWo
+bitly: https://jasong.us/3gfP3q0
 ---
 
 Did you know that you can remove `X-AspNetMvc-Version` from the response header on your ASP.NET MVC web application?

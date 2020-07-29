@@ -1,12 +1,12 @@
 ---
 title: The Technology Post for May 29th
 author: Jason Gaylord
-date: 2009-05-19 16:57:00
+date: 2009-05-29 16:57:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/29/the-technology-post-for-may-29th.aspx
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/29/the-technology-post-for-may-29th/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3gkiPKT
+bitly: https://jasong.us/3hT1wR3
 ---
 
 <small>Edition: #23</small>

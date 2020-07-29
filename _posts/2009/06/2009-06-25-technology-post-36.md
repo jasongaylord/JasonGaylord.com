@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/25/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/25/the-technology-post-for-june-25th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2XjJXkq
+bitly: https://jasong.us/3gmHzRW
 ---
 
 <small>Edition: #36</small>
@@ -94,7 +94,7 @@ Visual Studio and Other IDEs
 Web Design, Layout, and Graphic Design
 
 - [Graphic Design – Color Scheme Designer](http://colorschemedesigner.com/) (Suggested by [Smashing Magazine](http://twitter.com/smashingmag))
-- [Web Design - 27 Must-Have Starter Kits For Web Designers](http://bit.ly/TSY6e) (Suggested by [Dana Coffey](http://twitter.com/crazeegeekchick))
+- [Web Design - 27 Must-Have Starter Kits For Web Designers](https://jasong.us/3f8f5KA) (Suggested by [Dana Coffey](http://twitter.com/crazeegeekchick))
 - [Web Design - Improving website performance with Page Speed](http://code.google.com/speed/articles/identifying-page-speed-problems.html) (Suggested by [Elijah Manor](http://twitter.com/elijahmanor))
 
 Miscellaneous Technology Announcements, News, and Deals

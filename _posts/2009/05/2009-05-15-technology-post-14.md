@@ -83,8 +83,8 @@ Technology Announcements and News
 
 Technology Deals
 
--   20% off refurb Dell 1125 Multifunction Laser printer at [http://bit.ly/kWOgs](http://bit.ly/kWOgs) when u enter code at checkout: 41Q8?QQ82N8NV8 ([Dell Outlet](http://twitter.com/DellOutlet))
--   20% off any refurb Dell UltraSharp 1909W 19" Widescreen Flat Panel Monitor at [http://bit.ly/eZJ7q](http://bit.ly/eZJ7q) – enter code R6DHG6FVCQJW41 at checkout ([Dell Outlet](http://twitter.com/DellOutlet))
+-   20% off refurb Dell 1125 Multifunction Laser printer at [https://jasong.us/30XojEr](https://jasong.us/30XojEr) when u enter code at checkout: 41Q8?QQ82N8NV8 ([Dell Outlet](http://twitter.com/DellOutlet))
+-   20% off any refurb Dell UltraSharp 1909W 19" Widescreen Flat Panel Monitor at [https://jasong.us/2P5IXMT](https://jasong.us/2P5IXMT) – enter code R6DHG6FVCQJW41 at checkout ([Dell Outlet](http://twitter.com/DellOutlet))
 
 Visual Studio and Other IDEs
 

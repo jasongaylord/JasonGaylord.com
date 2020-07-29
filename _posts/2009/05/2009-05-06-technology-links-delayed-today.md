@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/06/technolog
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/06/technology-links-delayed-today/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bWoyTq
+bitly: https://jasong.us/30VGtX7
 ---
 
 The Technology links will be released later on. Keep posted.

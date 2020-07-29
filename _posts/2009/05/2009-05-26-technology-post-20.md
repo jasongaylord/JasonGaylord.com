@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/26/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/26/the-technology-post-for-may-26th/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bPiSL2
+bitly: https://jasong.us/3gcQkOr
 ---
 
 <small>Edition: #20</small>
@@ -102,7 +102,7 @@ Social Networking and Community Platforms
 
 Technology Deals
 
-- 20% off any Dell Outlet Latitude™ Laptop or Tablet PC. Enter code PHTK5R655CZZWX at checkout at [http://bit.ly/BGOzL](http://bit.ly/BGOzL) - exp 6/1/09 (Suggested by [Dell Outlet](http://twitter.com/DellOutlet))
+- 20% off any Dell Outlet Latitude™ Laptop or Tablet PC. Enter code PHTK5R655CZZWX at checkout at [https://jasong.us/2CPGtjt](https://jasong.us/2CPGtjt) - exp 6/1/09 (Suggested by [Dell Outlet](http://twitter.com/DellOutlet))
 
 Visual Studio and Other IDEs
 

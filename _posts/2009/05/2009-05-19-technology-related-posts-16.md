@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/19/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/19/the-technology-post-for-may-19th/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2AK8XcL
+bitly: https://jasong.us/3fcmLv6
 ---
 
 <small>Edition: #16</small>
@@ -104,7 +104,7 @@ Social Networking
 
 Technology Deals
 
-- Refurb S2009W 20" monitor only $99 after coupon at [http://bit.ly/10ogtk](http://bit.ly/10ogtk). Enter code at checkout: DQT6XTJ?V18X04 - exp 5/22. (Suggested by [Dell Outlet](http://twitter.com/DellOutlet))
+- Refurb S2009W 20" monitor only $99 after coupon at [https://jasong.us/2X77rde](https://jasong.us/2X77rde). Enter code at checkout: DQT6XTJ?V18X04 - exp 5/22. (Suggested by [Dell Outlet](http://twitter.com/DellOutlet))
 
 Visual Studio and Other IDEs
 

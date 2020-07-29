@@ -1,12 +1,12 @@
 ---
-title: Windows 7 and Windows Installer Error \"Another installation is in progress\"
+title: "Windows 7 and Windows Installer Error \"Another installation is in progress\""
 author: Jason Gaylord
 date: 2009-06-30 22:11:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/30/windows-7-and-windows-installer-error-another-installation-is-in-progress.aspx
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/30/windows-7-and-windows-installer-error-another-installation-is-in-progress/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ZpfkwB
+bitly: https://jasong.us/2X6lShJ
 ---
 
 All morning long I've been battling my Windows 7 system. I finally found out that the error code which reads:

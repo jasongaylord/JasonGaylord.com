@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/07/02/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/07/02/the-technology-post-for-july-2nd-2009/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bYVY3L
+bitly: https://jasong.us/31195ho
 ---
 
 <small>Edition: #41</small>

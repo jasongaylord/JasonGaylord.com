@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/08/technolog
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/08/technology-related-links-for-may-8th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2XlWfZp
+bitly: https://jasong.us/3fe59Pw
 ---
 
 <small>Edition: #9</small>
