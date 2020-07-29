@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/04/the-first
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/04/the-first-microsoft-and-seinfeld-advertisement/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2Zw0wwh
+bitly: https://jasong.us/3jOkKJ7
 ---
 
 Mary Jo Foley posted a summary of the first Microsoft advertisement that played during tonight's NFL game. Her full blog posting can be found at [http://blogs.zdnet.com/microsoft/?p=1569#comments](http://blogs.zdnet.com/microsoft/?p=1569#comments "http://blogs.zdnet.com/microsoft/?p=1569#comments"). For those of you that want to see the video, here it is:

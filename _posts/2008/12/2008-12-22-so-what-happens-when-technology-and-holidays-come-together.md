@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/22/so-what-h
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/22/so-what-happens-when-technology-and-holidays-come-together/
 categories: [aspnet-weblog]
 tags: [dev,holidays,iot]
-bitly: https://bit.ly/3cRZb6P
+bitly: https://jasong.us/3g6h6rQ
 ---
 
 This is one of my favorite times of the year. It's a busy time of the year, but it's fun. If you're not into the holidays, chances are you're too busy and you need a vacation. Even the busiest individuals can enjoy the holidays. Since I was little, I was always fascinated with Christmas lights and decorations. (1980's photograph will be inserted at a later date)

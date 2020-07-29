@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/14/silverlig
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/14/silverlight-2-is-here/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/36lXmMT
+bitly: https://jasong.us/3gbIIvO
 ---
 
 [Scott Guthrie](http://weblogs.asp.net/scottgu/) announced yesterday that Silverlight 2 has been released. Rather than reposting everything he stated, you can read his original [post here](http://weblogs.asp.net/scottgu/archive/2008/10/14/silverlight-2-released.aspx). Here are a few links to note:

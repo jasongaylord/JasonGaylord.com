@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/31/technolog
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/31/technology-highlights-of-2008/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/36vVrFL
+bitly: https://jasong.us/3hOfmUB
 ---
 
 What fitting way to end 2008 than a list of my own version of technology-related highlights of 2008.

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/28/apple-sne
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/28/apple-sneaking-safari-download-on-quicktime-users/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2zZCmiF
+bitly: https://jasong.us/3jSQFIj
 ---
 
 I have QuickTime installed on my PC. I _**just**_ noticed that Apple is now trying to get users to download Safari using their Apple Software Update software. It's checked by default but as you can see from the photo below, I decided not to install it. It's interesting that they're trying to force it down to user's. 

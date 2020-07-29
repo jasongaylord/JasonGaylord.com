@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/29/review-ke
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/29/review-keurig-platinum-b70-home-brewing-system/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2z9TWkk
+bitly: https://jasong.us/3gcf5dR
 ---
 
 While we're still around the holidays, I figured I'd continue my break from actual dev content and review one of the gifts I received this holiday season. My wife picked up a [Keurig B70 (Platinum)](http://www.keurig.com/b70.asp?mscsid=8MQ8TT4BDFX48MAB72AJK2LWWJ7G3NU3); a single cup coffee/tea brewing system made by [Keurig](http://www.keurig.com/), a subsidiary of [Green Mountain Coffee](http://www.greenmountaincoffee.com/). I wasn't sure what to expect being that I'm a huge [Starbucks](http://starbucks.com/) fan. However, I was quite surprised. Here's my quick wish list for Keurig:

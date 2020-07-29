@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/02/13/want-an-e
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/02/13/want-an-enjoyable-programming-position/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3g5uGMt
+bitly: https://jasong.us/3hLLgRB
 ---
 
 United One Resources, a Wilkes-Barre based corporation, is looking for a Senior Application Developer or Application Architect to help fill a newly created position on the team. The position is reserved for a .NET developer looking to use the latest technologies. United One offers a competitive salary, benefits, and an enjoyable working environment.

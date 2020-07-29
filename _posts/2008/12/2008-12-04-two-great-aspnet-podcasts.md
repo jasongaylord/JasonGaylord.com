@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/04/2-great-a
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/04/2-great-asp-net-podcasts/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3gfztv8
+bitly: https://jasong.us/337uok3
 ---
 
 I've been quite busy working on a side project in which I'll post more details very soon. However, I came across the two latest ASP.NET Podcasts in which I thought I'd share:

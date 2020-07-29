@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/05/microsoft
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/05/microsoft-responds-about-seinfeld-advertisement/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2LKdGO5
+bitly: https://jasong.us/3jQtLS6
 ---
 
 After many technology professionals and marketing organizations questioned the first in a series of advertisements involving Bill Gates, Jerry Seinfeld, and Microsoft, an explanation was delivered. Earlier today, Microsoft published a response to several questions regarding the first advertisement; first by sending an [internal message to employees](hhttp://www.techcrunch.com/2008/09/04/microsoft-ads-first-phase-to-engage-consumers-spark-conversation/) of Microsoft, then by posting a public explanation at [http://www.microsoft.com/presspass/windows/featureStories.aspx?story=660dee9e-9606-4e77-843e-ed81d83c0bfe](hhttp://www.microsoft.com/presspass/windows/featureStories.aspx?story=660dee9e-9606-4e77-843e-ed81d83c0bfe "http://www.microsoft.com/presspass/windows/featureStories.aspx?story=660dee9e-9606-4e77-843e-ed81d83c0bfe").

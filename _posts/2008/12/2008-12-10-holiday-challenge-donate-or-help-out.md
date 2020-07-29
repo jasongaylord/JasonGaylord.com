@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/10/holiday-c
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/10/holiday-challenge-donate-or-help-out/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bS1iGb
+bitly: https://jasong.us/3hNO00M
 ---
 
 User groups, blogs, and community forums exist because of the community. Our User Group, [.NET Valley](http://dotnetvalley.com/), alone has received thousands of dollars worth of software, books, food, and more over the years to attract members and thank them for coming to our events. It's time for us to collectively do our part. Many of my colleagues including [Scott Watermasysk](http://simpable.com/life/bhcc-apple/) and [Steve Andrews](http://www.platinumbay.com/) have already issued similar requests and the response has been great so far.

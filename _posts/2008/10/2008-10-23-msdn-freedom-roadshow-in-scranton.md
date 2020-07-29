@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/23/msdn-free
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/23/msdn-freedom-roadshow-in-scranton-pa-on-november-14th-2008/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2Tqvnqb
+bitly: https://jasong.us/30Vq05i
 ---
 
 Microsoft and .NET Valley would like to invite you to come to the MSDN Freedom Roadshow in Scranton, Pennsylvania on November 14th, 2008. The event will be held at Scranton University in Room 405 of the DeNaples Student Center and will begin at 9am. A schedule of events can be found below.

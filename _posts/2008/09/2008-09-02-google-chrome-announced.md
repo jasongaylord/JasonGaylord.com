@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/02/google-ch
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/02/google-chrome-released-live-blog-script/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3cS5bwf
+bitly: https://jasong.us/2CR14UB
 ---
 
 Google Chrome has been announced and will be released at 3pm EST on September 2nd. More details to follow. All times below will be in EST.

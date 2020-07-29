@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/11/17/summary-o
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/11/17/summary-of-the-msdn-freedom-roadshow/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/36irfgW
+bitly: https://jasong.us/336fIC0
 ---
 
 For those not at the MSDN Freedom Roadshow in Scranton, PA today, you are missed a good show. Here's what happened:

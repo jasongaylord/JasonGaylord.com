@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/27/attention
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/27/attention-twitter-wise-up/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/36pKNQD
+bitly: https://jasong.us/3hNEDy8
 ---
 
 I read through the [Twitter blog](http://blog.twitter.com/) from time to time just to see how things are going. Apparently, things aren't going good. Pagination and IM updates have been temporarily disabled and something has caused my twitter utilities (twhirl and OutTwit) to cease function. I keep getting an error that shows "Rate limit exceeded. Clients may not make more than 30 requests per hour." Can you imagine if Twitter was an eCommerce shop and stopped a viewer after 30 page views? They'd slowly lose business. Does the Twitter team get that?
