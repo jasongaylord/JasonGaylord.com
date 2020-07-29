@@ -13,6 +13,7 @@ $color-lightgrey: #E2E2E2;
 $color-blue: #0a59b0;
 $color-navy: #01243B;
 $color-orange: #cc6666;
+$color-redorange: #c54444;
 
 $color-link: $color-blue;
 
@@ -259,5 +260,12 @@ div.post-header {
     .date {
         padding-left: 1rem;
         font-size: .8rem;
+    }
+}
+
+// Code Overrides
+p code {
+    &.highlighter-rouge {
+        color: $color-redorange!important;
     }
 }
