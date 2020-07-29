@@ -1,1 +1,1 @@
-{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}" aria-label="{{ post.title | escape }}" title="{{ post.title | replace: "\"", "" }}">{{ post.title }}</a>
+{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}" aria-label="{{ post.alt-title | post.title }}" title="{{ post.title | replace: "\"", "" }}">{{ post.title }}</a>
