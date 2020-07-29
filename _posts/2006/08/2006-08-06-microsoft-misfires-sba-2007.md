@@ -5,7 +5,7 @@ date: 2006-08-06 15:48:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/08/08/20388.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2A3jRKe
+bitly: https://jasong.us/39OuJd7
 ---
 
 We have been working with SBA 2006 since its beta last year. Our company has 7 licenses where our 5 accountants connect a central SQL Server 2000 database that is shared. Knowing this isn't the way SBA 2006 is supposed to work, we have been able to successfully accomplish this task. That's where Microsoft made their first mistake. SBA's big appeal to us was the fact that data wasn't stored in a proprietary format. However, not being able to install it on a database server made it frustrating.

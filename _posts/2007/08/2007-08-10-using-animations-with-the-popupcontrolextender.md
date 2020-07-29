@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/08/10/using-ani
 msmvps_path: https://blogs.msmvps.com/jgaylord/2007/08/10/using-animations-with-the-popupcontrolextender/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ZneZdy
+bitly: https://jasong.us/2P48whg
 ---
 
 I was looking for a solution to provide a "fly-in" form when a user would click on a particular button. I found it with the PopupControlExtender. The documentation for Animations with controls is poor so with some testing, I finally got a solution working for me. I added a button and a panel on my page. I set the panel below the button and set the style to:

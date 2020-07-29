@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/05/week-in-r
 msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/05/week-in-review-base-class-library-source-mvp-aspinsiders/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2WSmeZH
+bitly: https://jasong.us/2Db9A0h
 ---
 
 On Wednesday, [Scott Guthrie announced](http://weblogs.asp.net/scottgu/archive/2007/10/03/releasing-the-source-code-for-the-net-framework-libraries.aspx) that beginning with version 3.5 of the .NET Framework (and VS2008), the base class libraries will be browsable and can be used for debugging purposes.

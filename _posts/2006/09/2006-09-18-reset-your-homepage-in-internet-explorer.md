@@ -5,7 +5,7 @@ date: 2006-09-18 16:21:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/09/18/Reset-Your-Homepage-in-Internet-Explorer.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3ebDO0g
+bitly: https://jasong.us/3jNg2vg
 ---
 
 Below is a basic Registry script to reset your Internet Explorer homepage. In this example, the homepage is being reset to jasongaylord.com: 

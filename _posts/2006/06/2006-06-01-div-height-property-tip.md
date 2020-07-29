@@ -1,5 +1,5 @@
 ---
-title: Div "Height" Property Tip
+title: "Div \"Height\" Property Tip"
 author: Jason Gaylord
 date: 2006-06-01 16:12:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2006/06/01/Div-_2200_Height_2200_-Property-Tip.aspx

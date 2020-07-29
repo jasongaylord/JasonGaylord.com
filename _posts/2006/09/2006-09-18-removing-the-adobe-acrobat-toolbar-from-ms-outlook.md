@@ -5,7 +5,7 @@ date: 2006-09-18 16:16:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/09/18/Removing-the-Adobe-Acrobat-toolbar-from-MS-Outlook.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3giWmxM
+bitly: https://jasong.us/3gdEuDR
 ---
 
 Below is the full registry key for Outlook 2003's PDF add-in:

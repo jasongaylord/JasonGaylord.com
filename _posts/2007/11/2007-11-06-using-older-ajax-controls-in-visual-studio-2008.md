@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/11/06/using-old
 msmvps_path: https://blogs.msmvps.com/jgaylord/2007/11/06/using-older-ajax-controls-in-visual-studio-2008/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2zTOKkw
+bitly: https://jasong.us/39ASh4O
 ---
 
 I've been testing the DotNetSlackers' AJAX Data Controls for a little bit and they're definitely cool. I ran into an issue, however, when trying to build an app with one of the controls in Visual Studio 2008 (.NET Framework 3.5). The assembly was compiled against version 1 of the AJAX Library. I continually received an error message stating `The control with ID 'TestGrid' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.` However, it did have a `ScriptManager` before the `TestGrid` control. I bounced it off the Microsoft ASP.NET team and, like always, they provided me with an answer. Mike Harder said that if the assembly was compiled against the earlier version, I needed to redirect the binding at runtime using this:
