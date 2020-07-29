@@ -1,2 +1,1 @@
-{% capture quoteless_title %}{{ post.title | remove: "\"" }}{% endcapture %}
-{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}" aria-label="{{ post.quoteless_title }}" title="{{ post.quoteless_title }}">{{ post.title }}</a>
+{{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}" aria-label="{{ post.title | smartify }}" title="{{ post.title | smartify }}">{{ post.title }}</a>
