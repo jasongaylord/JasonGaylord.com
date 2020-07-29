@@ -17,4 +17,4 @@ Last week, GitHub had posted about the process to rename the default branch at [
 
 For now, I think I'm waiting for the tools to be available. However, I may update one or two projects manually just to get a better feel for the changes.
 
-{% include link-thumbnail.html path="/2020/07/27/github-rename-default-branch.jpg" alt="GitHub Renaming Default Branch" url="https://jasong.us/2WP7NoI" %}
+{% include link-thumbnail.html path="2020/07/27/github-rename-default-branch.jpg" alt="GitHub Renaming Default Branch" url="https://jasong.us/2WP7NoI" %}
