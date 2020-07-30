@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/16/register-
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/16/register-today-for-techbash-2008/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bV7FZf
+bitly: https://jasong.us/336O7QU
 ---
 
 [![TECHbash 2008 | May 10th at Luzerne County Community College](http://techbash.com/Site_Images/marketing/announcement01.jpg)](http://techbash.com/registration/)  

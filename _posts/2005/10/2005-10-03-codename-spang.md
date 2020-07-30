@@ -1,5 +1,5 @@
 ---
-title: Code-Name "Spang"
+title: "Code-Name \"Spang\""
 author: Jason Gaylord
 date: 2005-10-03 13:43:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/10/03/426447.aspx

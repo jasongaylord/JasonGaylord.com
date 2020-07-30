@@ -1,11 +1,11 @@
 ---
-title: Office to Include \"Save As PDF\" Option
+title: "Office to Include \"Save As PDF\" Option"
 author: Jason Gaylord
-date: 2005-10-05 12:29:00
+date: 2005-10-19 12:29:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/10/19/Office-12-Save-As-PDF-Announced.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3ef8LR9
+bitly: https://jasong.us/3jOkTwh
 ---
 
 All Microsoft Office "12" applications will have the ability to save documents as PDFs. You can find out more specific details about this feature by visiting [Cyndy Wessling's blog](http://blogs.msdn.com/cyndy_wessling/default.aspx). Cyndy is the Program Manager on the Office team and her team is the one working on this feature.  

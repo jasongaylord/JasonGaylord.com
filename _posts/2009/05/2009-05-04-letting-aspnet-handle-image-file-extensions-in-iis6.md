@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/04/letting-a
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/04/letting-asp-net-handle-image-file-extensions-in-iis-6/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2WUepmc
+bitly: https://jasong.us/39Fv15C
 ---
 
 One of the best features of [ASP.NET](http://asp.net/) (either webforms or MVC) is it's extensibility. One way you can extend ASP.NET is by using HttpHandlers or HttpModules. IIS 6 and IIS 7+ evaluate HttpHandlers and HttpModules slightly different. [Dave Donaldson](http://arcware.net/), an employee at Telligent, posted about the [differences on his blog back in April of 2008](http://arcware.net/use-a-single-web-config-for-iis6-and-iis7/).

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Releases Beta of Expression "4"
+title: "Microsoft Releases Beta of Expression \"4\""
 author: Jason Gaylord
 date: 2005-06-15 08:45:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/06/15/412812.aspx

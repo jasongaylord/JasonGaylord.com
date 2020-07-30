@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/29/installin
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/29/installing-visualsvn-in-a-virtual-pc/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3gnV2cW
+bitly: https://jasong.us/3fcneNS
 ---
 
 I'm moving all of my development environment over to a few different VPCs so that way it's easier to archive my environment when a new one is released. So, I setup a new VPC with Vista SP2 and installed Visual Studio 2008 (with SP1). I wanted to install a Subversion client, more specifically Visual SVN, which usually requires a base Subversion library. In my case, I needed to install Tortoise SVN. When I tried to install it, I received a dialog box in the [Microsoft](http://microsoft.com/) Installer that read:

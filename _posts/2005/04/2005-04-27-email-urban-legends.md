@@ -5,7 +5,7 @@ date: 2005-04-28
 antisource-link: http://www.antisource.com/article.php/20050427091051762
 categories: [antisource-blog]
 tags: [archive]
-bitly: https://bit.ly/3cWSIY2
+bitly: https://jasong.us/3glytoV
 ---
 
 This morning while listening to the radio I heard a story about a woman receiving an email. The email she received talked about a girl being approached in a parking lot by 2 guys looking to sell perfume. As the story goes, she received some scratch and sniff samples from these men and ended up passing out. While she was out, she was robbed.  

@@ -5,7 +5,7 @@ date: 2007-08-07 16:40:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2007/08/08/Resolved_3A00_-_2200_Please-rerun-your-monitor-calibration-software_2E002200_-in-Photoshop.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3cRKy3c
+bitly: https://jasong.us/33c7etb
 ---
 
 A few days ago I reformatted my Dell D820 and installed Windows Vista Ultimate. I also added Photoshop CS3 Extended to my laptop. Usually my laptop is docked and my current monitors are Dell 1907. When I opened Photoshop for the first time on the new configuration, I received an error message stating:

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/03/31/allowing-
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/03/31/allowing-a-server-control-to-contain-custom-child-collection/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3cUdjMA
+bitly: https://jasong.us/332dOCp
 ---
 
 I've probably done this at least a dozen times, but when you don't do something everyday, you tend to forget. I created a custom control that I wanted to place into a control collection. So, I created the child control as a custom server control. Then I created another server control that contained a property called Items as a `Generic.List(Of T)` where T was my custom child control. I kept running my app and couldn't figure out why I couldn't create my child controls in the Parent. I forgot that I had to import the namespace `System.ComponentModel` and add the `PersistenceMode` property to the property. So, my code looked like this:

@@ -5,7 +5,7 @@ date: 2005-04-11 13:14:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/04/11/Windows-Events-2005.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2ynxnYK
+bitly: https://jasong.us/307GfwX
 ---
 
 The .NET Valley website has a listing of Windows and other technical events...

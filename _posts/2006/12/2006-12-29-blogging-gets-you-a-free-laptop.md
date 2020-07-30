@@ -5,7 +5,7 @@ date: 2006-12-29 14:32:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/12/27/Error-Adding-Users-in-SharePoint-2003-_2D00_-Resolved.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3g8nBuC
+bitly: https://jasong.us/3hEZSCm
 ---
 
 I've been reading up on recent blog posts by [Mitch Denny](http://notgartner.wordpress.com/2006/12/27/acer-ferrari-1000-the-unboxing/) lately regarding a laptop he had received from Microsoft. Earlier today, I received my daily email from eWeek containing an [opinion post](http://www.eweek.com/article2/0,1895,2077596,00.asp?kc=EWWKNEMNL122906EOAD) regarding the \*free\* laptops. I followed through all of the links provided and read up on the stories behind the laptops. It seems as though they are tied to a game called the Vanishing Point. Many developers and IT pros have commented about Microsoft's latest gimmick.

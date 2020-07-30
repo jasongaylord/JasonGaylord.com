@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/01/microsoft
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/01/microsoft-expression-studio-2-ships/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3gkdWkW
+bitly: https://jasong.us/3fb2Sov
 ---
 
 This afternoon, Microsoft announced that it was releasing Expression Studio 2 and the containing products. The suite includes Web 2, Blend 2, Design 2, Media 2, and Encoder 2. Expression is Microsoft's competition for the Adobe Creative Suite. The biggest highlights in the new version include Expression Web's ability to design PHP pages and increased support and tools for designing WPF and Silverlight applications.

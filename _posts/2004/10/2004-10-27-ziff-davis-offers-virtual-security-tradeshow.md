@@ -5,7 +5,7 @@ date: 2004-10-27
 antisource-link: http://www.antisource.com/article.php/20041027083233431
 categories: [antisource-blog]
 tags: [archive]
-bitly: https://bit.ly/36pvzLi
+bitly: https://jasong.us/2P4rjcp
 ---
 
 Ziff Davis has scheduled a virtual security trade show for November 30th through December 1st. There will be online keynote presentations including:

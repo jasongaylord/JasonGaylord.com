@@ -5,7 +5,7 @@ date: 2005-07-22 13:52:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/07/22/Windows-Vista-Announcement.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3ebMxzw
+bitly: https://jasong.us/3jOGmoL
 ---
 
 Windows Vista was announced this morning...

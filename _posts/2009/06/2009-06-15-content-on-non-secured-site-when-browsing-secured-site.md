@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/15/content-o
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/15/content-on-non-secured-site-when-browsing-secured-web-application-or-web-site/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bUhV4b
+bitly: https://jasong.us/2DlyA4T
 ---
 
 Nothing frustrates me more as when I try to login on a secured site and images, CSS, javascript files, and other content files are not secured. For instance, I went to retrieve/reset my password on last.fm and found this:

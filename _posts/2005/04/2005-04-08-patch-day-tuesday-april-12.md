@@ -5,7 +5,7 @@ date: 2005-04-08 14:49:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/04/08/Microsoft-Security-Bulletin-2005-04-12.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2TxrBuW
+bitly: https://jasong.us/2CVV2St
 ---
 
 According to [TechNet](http://www.microsoft.com/technet/security/bulletin/advance.mspx), Microsoft will hold a "patch day" on April 12th. The patches will include:  

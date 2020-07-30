@@ -5,7 +5,7 @@ date: 2009-06-11 23:12:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/11/the-technology-post-for-june-11th-2009.aspx
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3cYcCCe
+bitly: https://jasong.us/2P3p4WZ
 ---
 
 <small>Edition: #29</small>
@@ -79,7 +79,7 @@ Miscellaneous Technology Announcements and News
 
 **Job Opportunities** (Sorted by State)
 
-- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [http://bit.ly/ZpJgB](http://bit.ly/ZpJgB) – Added 6/10/2009
+- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [https://jasong.us/3fd0Unr](https://jasong.us/3fd0Unr) – Added 6/10/2009
 - Pennsylvania - VB6/VB.Net Developer. Contact James Colley at 888.768.3946. – Added 6/11/2009
 
 **Call For Speakers** (Sorted by Date)

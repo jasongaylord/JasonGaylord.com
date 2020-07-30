@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/27/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/27/the-technology-post-for-may-27th/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3ga2ubz
+bitly: https://jasong.us/39Dfl2O
 ---
 
 <small>Edition: #21</small>

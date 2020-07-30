@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/29/web-site-
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/29/web-site-performance/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3eaIGmC
+bitly: https://jasong.us/30andWI
 ---
 
 I came across a post on [StackOverflow.com regarding web site performance](http://stackoverflow.com/questions/134574/how-to-make-html-rendering-fast). Quite often you can take a look at your application and find 10 different ways to make it more efficient. Depending on your environment, you may have many different ways to increase performance. For instance, in a shared hosting environment, you'll likely be limited as to what you can do on the server, but can tweak your application appropriately.

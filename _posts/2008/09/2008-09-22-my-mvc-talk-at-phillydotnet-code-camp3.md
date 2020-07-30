@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/22/my-mvc-ta
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/22/my-mvc-talk-at-philly-net-code-camp-3/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2WShwLp
+bitly: https://jasong.us/2BFuQeh
 ---
 
 I'll be presenting at the third code camp of 2008 for the Philly.NET code camp. Apparently, several other Microsoft MVPs and ASPInsiders will as well. It should be a great time. Be sure to register on phillydotnet.org.

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/10/06/directv-n
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/10/06/directv-needs-staging-and-testing/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bOW3Hj
+bitly: https://jasong.us/39ECuCa
 ---
 
 As a software developer, you know that best practices recommend testing and even staging environments. Evidently, DirecTV lacks that or is really missing something. [Sometime today, they released a software update](http://www.dbstalk.com/showthread.php?t=141719) that sent nearly all of their HD receivers into some sort of lock-down. Their solution: hold down the reset button for 15 seconds, then hit the power button, then wait up to 15 minutes. Not quite. It simply doesn't work. The best part is, they aren't deploying this on 20 different browsers or several different OS's on a variety of hardware. Rather, they are deploying this to 3 types of HD boxes – all that have been released in the past 24 months. Unless I'm missing something, that seems like a no-brainer for a multi-million dollar, publicly traded company.

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/05/21/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/05/21/the-technology-post-for-may-21st/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2TsvAsK
+bitly: https://jasong.us/3jTgf07
 ---
 
 <small>Edition: #18</small>
@@ -109,7 +109,7 @@ Social Networking
 
 Technology Deals
 
--   VSLive Vegas (June) early Brid discount (-$200) ends tomorrow May 22. Nice Venetian room rate too: $119  [http://bit.ly/5eMQW](http://bit.ly/5eMQW) (Suggested by [Wrox](http://twitter.com/wrox))
+-   VSLive Vegas (June) early Brid discount (-$200) ends tomorrow May 22. Nice Venetian room rate too: $119 [https://jasong.us/3f8Jlov](https://jasong.us/3f8Jlov) (Suggested by [Wrox](http://twitter.com/wrox))
 
 Visual Studio and Other IDEs
 

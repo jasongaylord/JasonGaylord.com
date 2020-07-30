@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/07/getting-s
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/07/getting-started-with-web-slices-for-internet-explorer-8/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ysnsBq
+bitly: https://jasong.us/3fba7wy
 ---
 
 ## What is a Web Slice?**

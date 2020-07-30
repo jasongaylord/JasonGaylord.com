@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/01/count-in-
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/01/count-in-linq-using-lambda-expressions/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3cTWhhJ
+bitly: https://jasong.us/39GP18i
 ---
 
 I had a table that contained a couple of columns defined in SQL 2005 as `tinyint`. In SQL, I'd generally write something like:

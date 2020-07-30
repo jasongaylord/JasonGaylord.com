@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/05/20/using-lin
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/05/20/using-linq-to-sql-and-connectionstrings-in-a-class-library/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bRIA1F
+bitly: https://jasong.us/3gbDnVk
 ---
 
 I was looking to separate my LINQ to SQL data layer from the rest of my application. So, I decided to move the files to a class library. This way, when my application builds, all of my LINQ files are found in MyApp.DL or something similar. However, I wanted the class library to use the SQL connection that I have set in my web.config. Because the class library does not have a reference to `System.Configuration`, I had to add that first. I then created a partial class for my Context object. Inside, I created a new constructor with a boolean parameter called `UseWebConfigConnectionString`. My web.config would contain a generic connection string name called `LinqSqlConnectionString`. This allows me to make changes to the LINQ files, save them, and not affect this method. So, here's what I ended up with:

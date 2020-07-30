@@ -5,7 +5,7 @@ date: 2009-06-10 16:58:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/10/the-technology-post-for-june-10th-2009.aspx
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ASO930
+bitly: https://jasong.us/334Iz9B
 ---
 
 <small>Edition: #28</small>
@@ -83,7 +83,7 @@ Visual Studio and Other IDEs
 
 **Job Opportunities** (Sorted by State)
 
-- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [http://bit.ly/ZpJgB](http://bit.ly/ZpJgB) – Added 6/10/2009
+- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [https://jasong.us/3fd0Unr](https://jasong.us/3fd0Unr) – Added 6/10/2009
 
 **Call For Speakers** (Sorted by Date)
 

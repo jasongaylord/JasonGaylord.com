@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/02/initial-g
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/02/initial-google-chrome-review/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bSiT0O
+bitly: https://jasong.us/335dFxW
 ---
 
 I listened to the announcement of Google Chrome this afternoon and also flipped through the comic book that Google released yesterday. My initial reaction was that Chrome is going to be just another browser that I'd need to support.

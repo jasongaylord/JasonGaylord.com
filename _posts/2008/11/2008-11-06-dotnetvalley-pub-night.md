@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/11/06/net-valle
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/11/06/net-valley-pub-night-on-november-13th/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2TseMSM
+bitly: https://jasong.us/39B3uSW
 ---
 
 Join the MSDN Team (Lindsay Rutter, Dani Diaz, and David Solivan) and the rest of [.NET Valley](http://dotnetvalley.com/events/eventdetails.aspx?eventid=67) for the "Best Wings" in the area. On November 13th, we'll be meeting at the new Quaker Steak & Lube found in Dickson City. The evening will begin at 6pm. .NET Valley will be sponsoring some Wings and beverages.

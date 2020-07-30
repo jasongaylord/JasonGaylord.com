@@ -1,5 +1,5 @@
 ---
-title: Visual Studio 2005 (Code-Named "Whidbey") Beta 2
+title: "Visual Studio 2005 (Code-Named \"Whidbey\") Beta 2"
 author: Jason Gaylord
 date: 2005-03-04 08:33:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2005/03/04/385047.aspx

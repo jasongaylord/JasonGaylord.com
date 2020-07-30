@@ -5,7 +5,7 @@ date: 2006-06-20 15:07:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2006/06/19/Top-10-Flops-In-Bill-Gates-Career.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/36oenWF
+bitly: https://jasong.us/3gbX6En
 ---
 
 Well, I tried installing the SharePoint 2007 beta 2 and my services won't start. The very first error I received was:

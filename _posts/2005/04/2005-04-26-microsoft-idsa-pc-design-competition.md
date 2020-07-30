@@ -5,7 +5,7 @@ date: 2005-04-26 11:33:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/04/26/Microsoft-PC-Design-Competition.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/3bUeCKl
+bitly: https://jasong.us/39A3uCN
 ---
 
 Microsoft is looking for a new PC design...

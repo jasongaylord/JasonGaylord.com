@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/26/crystal-r
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/26/crystal-reports-merge-modules-for-visual-studio-2008/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2yrRk0K
+bitly: https://jasong.us/3hLmBwA
 ---
 
 Since [SAP purchased Business Objects for $6.7 billion in 2007](http://www.internetnews.com/bus-news/article.php/3703886), Crystal Reports deployment for Microsoft Visual Studio has become more difficult to deploy. Instead of choosing a built-in merge module, you now much visit the [SAP site and download the necessary files](http://service.sap.com/sap/bc/bsp/spn/bobj_download/main.htm) for your environment.

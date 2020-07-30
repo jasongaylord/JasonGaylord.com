@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/06/06/establish
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/06/06/establishing-a-vpn-on-windows-mobile-5/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2ZmSJAI
+bitly: https://jasong.us/30Wca2l
 ---
 
 Many have found it difficult to establish a VPN connection on Windows Mobile 5. There are quite a few blog posts out there with instructions, but none are really that complete. Before you can establish a connection from your mobile device, you need to establish a VPN server. For my purposes, I've setup Routing and Remoting Access on a Windows Server 2003 box ([Windows Server 2008 procedure](http://www.howtonetworking.com/Windows/2008vpn1.htm)). This is pretty simple to do and there weren't any settings I needed to modify. Then, on the user account in my domain, I had to right-click and go to properties. There is a section under the Account tab called Account Properties.

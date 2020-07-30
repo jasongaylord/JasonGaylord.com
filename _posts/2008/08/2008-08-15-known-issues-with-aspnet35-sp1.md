@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/15/known-iss
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/15/known-issues-with-service-pack-1-in-asp-net-3-5/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3easVvV
+bitly: https://jasong.us/3f74Vdb
 ---
 
 Scott Galloway from the Microsoft DevDiv team has posted a couple of known issues with Service Pack 1 in ASP.NET 3.5 on the ASP.NET forums at [http://forums.asp.net/t/1305800.aspx](http://forums.asp.net/t/1305800.aspx "http://forums.asp.net/t/1305800.aspx"). The issues he currently has on the post are:

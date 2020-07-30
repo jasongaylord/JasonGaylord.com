@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/09/05/technolog
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/09/05/technology-in-political-views/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2zZW9P2
+bitly: https://jasong.us/2DgsO4C
 ---
 
 I usually don't like mentioning anything political in my blog. However, this I found interesting. BetaNews has written several entries regarding the democratic and republic president and vice-president candidates. Here they are in order of publish date:

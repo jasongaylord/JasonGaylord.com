@@ -5,7 +5,7 @@ date: 2005-03-14 10:46:00
 windowsadvice-link: http://windowsadvice.com/blogs/jason_n_gaylord/archive/2005/03/14/Migrating-Windows-Server-And-Exchange-To-Another-Server.aspx
 categories: [windowsadvice-blog]
 tags: [archive]
-bitly: https://bit.ly/2XiPV4U
+bitly: https://jasong.us/3f8NF7p
 ---
 
 Isn't it fun when it comes time to upgrading server hardware, especially when you need to upgrade your first installed domain controller and exchange server to a new server? Even though its not a guaranteed flawless procedure, Microsoft has done a great job improving the migration in Server 2003. In most scenarios, you'll want to keep the same server name. So, you'll need an intermediate server to assist with the process.  

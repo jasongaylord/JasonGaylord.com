@@ -5,7 +5,7 @@ date: 2009-06-08 17:17:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/08/the-technology-post-for-june-8th.aspx
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3cV9t5P
+bitly: https://jasong.us/3hNLHLj
 ---
 
 <small>Edition: #26</small>

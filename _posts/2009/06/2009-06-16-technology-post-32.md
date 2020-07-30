@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/16/the-techn
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/16/the-technology-post-for-june-16th-2009/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bVclyu
+bitly: https://jasong.us/2P2KRxQ
 ---
 
 <small>Edition: #32</small>
@@ -70,7 +70,7 @@ Podcasts and Videos
 
 Technology Deals
 
-- 20% off any Outlet Inspiron 530 desktop priced $500+ (before tax & fees). Enter code VRQQMC22G6$DFN at checkout [http://bit.ly/CbdNJ](http://bit.ly/CbdNJ) Exp 6/17 (Posted by [Dell Outlet](http://twitter.com/DellOutlet))
+- 20% off any Outlet Inspiron 530 desktop priced $500+ (before tax & fees). Enter code VRQQMC22G6$DFN at checkout [https://jasong.us/3jOJIYV](https://jasong.us/3jOJIYV) Exp 6/17 (Posted by [Dell Outlet](http://twitter.com/DellOutlet))
 
 Visual Studio and Other IDEs
 
@@ -78,7 +78,7 @@ Visual Studio and Other IDEs
 
 **Job Opportunities** (Sorted by State)
 
-- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [http://bit.ly/ZpJgB](http://bit.ly/ZpJgB) – Added 6/10/2009
+- District of Columbia - AIS is looking for 2 cleared SharePoint/.NET Developers to work in DC. Go to [https://jasong.us/3fd0Unr](https://jasong.us/3fd0Unr) – Added 6/10/2009
 - Pennsylvania - VB6/VB.Net Developer. Contact James Colley at 888.768.3946. – Added 6/11/2009
 
 **Call For Speakers** (Sorted by Date)

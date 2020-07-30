@@ -5,7 +5,7 @@ date: 2004-10-25
 antisource-link: http://www.antisource.com/article.php/20041025131335912
 categories: [antisource-blog]
 tags: [archive]
-bitly: https://bit.ly/36nL1Ym
+bitly: https://jasong.us/2Dc8Tnp
 ---
 
 We are now only one week away from Election Day in the US. In most states, government officials are prepping the voting booths and checking the security of the voting facilities. Voters are narrowing down their choices. Florida is preparing for an electronic vote.  

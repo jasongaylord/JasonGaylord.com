@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/06/15/issue-wit
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/06/15/issue-with-ado-net-sync-services-and-sql-server-2000/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3bSlUyg
+bitly: https://jasong.us/2EzjMk5
 ---
 
 Last Friday I had a battle and won. I was working in VS 2010 on an internal project that was being targeted for .NET 3.5. Everything was going good until I decided to be fancy. The application pulled down several tables that contain mostly static stuff such as states, counties, municipalities, old orders, products, etc. In total, it's around 1GB of data. I decided to modify the datasets to support offline access. I thought that would improve performance as the data would be available locally and not on the SQL server. Little did I realize, the application that accessed the data was setup to read the column definitions from the database to display in the application and omitted columns on the client side.

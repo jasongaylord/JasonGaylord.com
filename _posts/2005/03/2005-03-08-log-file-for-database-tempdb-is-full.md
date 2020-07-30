@@ -5,7 +5,7 @@ date: 2005-03-08 08:03:00
 sqljunkies-link: http://sqljunkies.com/WebLog/j_gaylord/archive/2005/03/08/8680.aspx
 categories: [sqljunkies-blog]
 tags: [archive]
-bitly: https://bit.ly/2LSIImY
+bitly: https://jasong.us/39HtHzl
 ---
 
 Today I received an error message within one of our applications stating that `The log file for database 'tempdb' is full. Back up the transaction log for the database to free up some log space.` I posted to the ASPAdvice.com lists and received more information than I bargained for. Mike Campbell and Wally McClure provided some very valuable information regarding this issue. Here is Mike's post below:  

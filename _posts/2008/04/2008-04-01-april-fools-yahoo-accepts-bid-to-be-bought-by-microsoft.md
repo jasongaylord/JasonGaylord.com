@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/04/01/april-foo
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/04/01/april-fools-yahoo-accepts-bid-to-be-bought-out-by-microsoft/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2TqGqjc
+bitly: https://jasong.us/337fuu7
 ---
 
 I just noticed that my RSS feed reader had a new posting from InfoWorld about Yahoo accepting a bid to be bought out by Microsoft. The URL contains the words "april" and "fools" and it would make sense as I believe they have pulled a stunt like this before. However, to someone who may forget the day of the year, this may seem like a believable story. Here it is:

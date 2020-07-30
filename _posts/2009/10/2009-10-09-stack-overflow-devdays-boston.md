@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/10/09/review-st
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/10/09/review-stack-overflow-devdays-boston/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2zotQKd
+bitly: https://jasong.us/309XjlO
 ---
 
 So after having a full day of recovery (11 hours in the car within a 36 hour period), I'm back to the grind. I wanted to provide a quick review of what I saw and what I thought of the conference.

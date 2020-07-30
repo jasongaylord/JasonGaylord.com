@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2009/01/19/team-foun
 msmvps_path: https://blogs.msmvps.com/jgaylord/2009/01/19/team-foundation-and-64-bit-machines/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/2XhnzIl
+bitly: https://jasong.us/3hNCHG6
 ---
 
 Just to be clear from the start, Team Foundation Server is _not_ supported on x64 machines.

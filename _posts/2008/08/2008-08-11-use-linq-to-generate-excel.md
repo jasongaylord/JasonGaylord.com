@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/08/11/use-linq-
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/08/11/use-linq-to-xml-to-generate-excel-documents/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/3gcAK67
+bitly: https://jasong.us/3jSYbD1
 ---
 
 I was looking for a quick and easy solution to export data from SQL into an Excel format from within my ASP.NET application. I came across a great video posted by Beth Massi on the asp.net website (Video #7 at the bottom at [http://www.asp.net/learn/linq-videos/](http://www.asp.net/learn/linq-videos/ "http://www.asp.net/learn/linq-videos/")). Beth steps through creating the LINQ to XML and how you can populate your Excel document. When I used this in an ASP.NET application, I added the XML declaration to the Response.Write so that Excel could understand the document. In ASP.NET, the XMLDocument type has a tendency to drop the XML declaration when writing out the document using .ToString.

@@ -6,7 +6,7 @@ aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2007/10/10/writing-a
 msmvps_path: https://blogs.msmvps.com/jgaylord/2007/10/10/writing-a-base64-string-to-the-file-system-or-browser/
 categories: [aspnet-weblog]
 tags: [archive]
-bitly: https://bit.ly/36hjxnd
+bitly: https://jasong.us/2BDRxPR
 ---
 
 Quite often, vendors pass images or PDFs to customers using the binary contents of the file. To make it more secure, they convert the binary contents to a Base64 string. [A full explanation about Base64 encoding can be found at Wikipedia here](http://en.wikipedia.org/wiki/Base64). Anyway, when you receive the string, you cannot simply write it to a file or to the browser. First, you must convert the data into a `Byte` array. The sample code below demonstrates this:
