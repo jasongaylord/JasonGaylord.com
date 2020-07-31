@@ -9,8 +9,6 @@ image: https://cdn.jasongaylord.com/images/2020/08/06/jekyll-liquid-section.jpg
 bitly: https://jasong.us/3hSQUl2
 ---
 
-https://www.jasongaylord.com/blog/2020/08/06/liquid-templating-filters
-
 My current site uses Jekyll, as [I've indicated before](https://jasong.us/3dN88ht). Jekyll uses the [Liquid template language](https://jasong.us/2D7WK35) which is common within Jekyll, Salesforce desk, Zendesk, and many other platforms. While Jekyll uses Liquid, it does not use the most current version and does not support all of the appropriate templating filters. Therefore, you should check out the Liquid section of the Jekyll site which can be found at [jekyllrb.com/docs/liquid/](https://jasong.us/3jUuEsZ).
 
 {% include link-thumbnail.html path="2020/08/06/jekyll-liquid-section.jpg" alt="Jekyll Liquid Documentation" url="https://jasong.us/3jUuEsZ" %}
