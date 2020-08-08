@@ -9,8 +9,6 @@ image: https://cdn.jasongaylord.com/images/2020/08/08/axe-chrome-plugin.jpg
 bitly: https://jasong.us/33e2FhW
 ---
 
-https://www.jasongaylord.com/blog/2020/08/08/axe-accessibility-testing-browser-plugin
-
 [axe is a standard](https://jasong.us/39I5Bo2) in accessibility testing that is trusted by Google, Microsoft, and several others. axe is available as a Chrome extension, Microsoft Edge (Chromium edition), and an Android application. They also have a web testing API, Android testing API, and Windows testing API. 
 
 {% include link-thumbnail.html path="2020/08/08/axe-chrome-plugin.jpg" alt="" url="https://jasong.us/2Xht0aZ" %}
