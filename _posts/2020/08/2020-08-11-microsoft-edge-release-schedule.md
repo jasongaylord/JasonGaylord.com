@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/08/11/microsoft-edge-release-sch
 bitly: https://jasong.us/2XNw5zJ
 ---
 
-Since Microsoft switched Microsoft Edge to use Chromium, they are releasing nearly every 6 weeks and have aligned both Beta and Stable major releases with the related Chromium release. So, version 85 will be released the week of August 27, 2020. They have the release schedule through version 89 (week of 3/4/2021) published at [https://docs.microsoft.com/en-us/DeployEdge/microsoft-edge-release-schedule](https://jasong.us/31FsBR0). 
+Since Microsoft switched Microsoft Edge to use Chromium, they are releasing nearly every 6 weeks and have aligned both Beta and Stable major releases with the related Chromium release. So, version 85 will be released the week of August 27, 2020. They have the release schedule through version 89 (week of 3/4/2021) published at [docs.microsoft.com/en-us/DeployEdge/microsoft-edge-release-schedule](https://jasong.us/31FsBR0). 
 
 {% include link-thumbnail.html path="2020/08/11/microsoft-edge-release-schedule.jpg" alt="Microsoft Edge Release Schedule" url="https://jasong.us/31FsBR0" %}
 
