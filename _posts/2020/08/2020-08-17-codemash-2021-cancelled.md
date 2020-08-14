@@ -1,17 +1,21 @@
 ---
-title: DevAroundTheSun a 24-hour Fundraiser May 12
+title: CodeMash 2021 is Cancelled
 author: Jason Gaylord
-cloudscribe_id: "bc57821e-6ffe-4130-ba3b-17cb1c4801a6"
-cloudscribe_path: "/blog/devaroundthesun-a-24-hour-fundraiser-may-12"
-permalink: /blog/devaroundthesun-a-24-hour-fundraiser-may-12
-date: 2020-05-02
+date: 2020-08-17
 categories: [covid19,events]
 tags:  [covid19,events]
+post-number: 1007
+image: https://cdn.jasongaylord.com/images/2020/08/17/codemash-cancelled-2021.jpg
+bitly: https://jasong.us/2Y22l2u
 ---
 
-Beginning on May 12th, 2020 at 12:00 UTC, speakers from around the globe will be presenting topics for a 24 hour period. During this time, there will be an international fundraiser for Direct Relief and helping those affected most by COVID-19. The content will be featuring cross-platform topics spanning many technologies. Learn from renowned speakers all over the world. Find out more by visiting [https://devaroundthesun.org/](https://jasong.us/2Sntiuy).
+Unfortunately, there is yet another developer and technology conference that has been cancelled as a result of COVID-19. CodeMash, which has existed since 2007, has never been cancelled [until now](https://jasong.us/3arUBf1). CodeMash 2021 would have taken place at the Kalahari Resort & Convention Center in Sandusky, Ohio January 12-15, 2021. Instead, the Kalahari conference rooms will be empty.
 
-[![](https://cdn.jasongaylord.com/images/2020/05/02/devaroundthesun.jpg)](https://jasong.us/2Sntiuy)
+{% include link-thumbnail.html path="2020/08/17/codemash-cancelled-2021.jpg" alt="CodeMash 2021 Cancelled" url="https://jasong.us/3arUBf1" %}
+
+I've known Brian, Jason, and several others on the CodeMash team and have had much respect for their commitment to the community over the years. Knowing how committed they are to serving the technical community, this decision was not easy for them to make, but was the only decision they could make given the current events surrounding this pandemic.
+
+Earlier this year, we announced that we had to [cancel TechBash 2020](https://jasong.us/37lAkGe) as a result of COVID-19. TechBash is a conference that is similar in nature to CodeMash.
 
 ## Other Posts Related to COVID-19
 Below you'll find the list of other posts in the series:
