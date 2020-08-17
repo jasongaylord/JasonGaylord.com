@@ -36,3 +36,4 @@ Below you'll find the list of other posts in the series:
 13. [TechBash 2020, TechBash 2021, and COVID-19](https://jasong.us/37lAkGe)
 14. [2020 Year in Review Thus Far](https://jasong.us/3ghednP)
 15. [COVID-19 and Work From Home Update](https://jasong.us/32YszWI)
+16. [CodeMash 2021 is Cancelled](https://jasong.us/2Y22l2u)
