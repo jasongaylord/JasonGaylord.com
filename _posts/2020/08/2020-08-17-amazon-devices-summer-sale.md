@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-08-17
 categories: [amazon,hardware,shopping]
 tags:  [amazon,hardware,shopping]
-post-number: 1009
+post-number: 1008
 image: https://cdn.jasongaylord.com/images/2020/08/17/amazon-device-deals.jpg
 bitly: https://jasong.us/3g5wzrp
 ---
