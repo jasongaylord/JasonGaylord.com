@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2020-08-18
 categories: [design,dev,events]
 tags:  [design,dev,events]
-post-number: 1008
+post-number: 1009
 image: https://cdn.jasongaylord.com/images/2020/08/18/adobe-max-2020.jpg
 bitly: https://jasong.us/3kTtoa0
 ---
