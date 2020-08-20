@@ -2,8 +2,8 @@
 title: TypeScript 4.0 Announced
 author: Jason Gaylord
 date: 2020-08-21
-categories: [dev,]
-tags:  [dev,technology,training]
+categories: [dev,javascript]
+tags:  [dev,javascript]
 post-number: 1012
 image: https://cdn.jasongaylord.com/images/2020/08/21/typescript-4.jpg
 bitly: https://jasong.us/3l3d86h
