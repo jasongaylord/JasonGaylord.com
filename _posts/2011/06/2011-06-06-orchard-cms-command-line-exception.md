@@ -4,7 +4,7 @@ author: Jason Gaylord
 msmvps_path: "https://blogs.msmvps.com/jgaylord/2011/06/06/orchard-cms-command-line-exception/"
 date: 2011-06-06
 categories: [archive]
-tags: [archive]
+tags: [archive,cms]
 bitly: https://jasong.us/3cnBh1X
 ---
 

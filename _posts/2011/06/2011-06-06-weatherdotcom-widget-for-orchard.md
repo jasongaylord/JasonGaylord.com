@@ -7,7 +7,7 @@ msmvps_path: "https://blogs.msmvps.com/jgaylord/2011/06/06/the-weatherdotcom-wid
 permalink: /blog/weatherdotcom-widget-for-orchard
 date: 2011-06-06
 categories: [archive]
-tags: [archive,orchard,weather]
+tags: [archive,cms,weather]
 bitly: https://jasong.us/2XMNXtO
 ---
 
