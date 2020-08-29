@@ -2,8 +2,8 @@
 title: "Tip: Use FindTime to Schedule Across Companies or with Others"
 author: Jason Gaylord
 date: 2020-07-25
-categories: [microsoft,ms-office,productivity,tip]
-tags: [microsoft,ms-office,productivity,tip]
+categories: [microsoft,msoffice,productivity,tip]
+tags: [microsoft,msoffice,productivity,tip]
 post-number: 984
 image: https://cdn.jasongaylord.com/images/2020/07/25/findtime.jpg
 bitly: https://jasong.us/2CxuvLe

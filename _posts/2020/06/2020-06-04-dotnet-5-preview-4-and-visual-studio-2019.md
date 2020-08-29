@@ -2,8 +2,8 @@
 title: Installing .NET Core 5 Preview 4 and the Latest Visual Studio 2019 Previews
 author: Jason Gaylord
 date: 2020-06-04
-categories: [development,dotnet,visual-studio]
-tags:  [development,dotnet,visual-studio]
+categories: [dev,dotnet,visual-studio]
+tags:  [dev,dotnet,visual-studio]
 post-number: 929
 image: https://cdn.jasongaylord.com/images/2020/06/04/dotnet-5-sdk-installer-windows.png
 bitly: https://jasong.us/2AzR0ha

@@ -2,8 +2,8 @@
 title: Updating Your GitHub Password for Visual Studio Code on Windows
 author: Jason Gaylord
 date: 2020-06-09
-categories: [devops,tip]
-tags:  [devops,tip]
+categories: [devops,github,tip]
+tags:  [devops,github,tip]
 post-number: 934
 image: https://cdn.jasongaylord.com/images/2020/06/09/credential-manager-vscode-github.jpg
 bitly: https://jasong.us/3f44Siy

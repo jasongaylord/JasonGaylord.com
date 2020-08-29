@@ -2,8 +2,8 @@
 title: Publishing a Jekyll Site to Azure Static Web Apps
 author: Jason Gaylord
 date: 2020-06-10
-categories: [cloud,development,devops,jekyll]
-tags:  [cloud,development,devops,jekyll]
+categories: [azure,cloud,dev,devops,jekyll]
+tags:  [azure,cloud,dev,devops,jekyll]
 post-number: 935
 image: https://cdn.jasongaylord.com/images/2020/06/10/tutorial-publish-jekyll-azure-static-app.png
 bitly: https://jasong.us/2AaK5LC

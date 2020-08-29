@@ -5,8 +5,8 @@ cloudscribe_id: "2121ad24-b93c-44fe-83de-1853435d6ed9"
 cloudscribe_path: "/blog/setting-up-your-angular-environment"
 permalink: /blog/setting-up-your-angular-environment
 date: 2020-04-24
-categories: [angular,development,javascript]
-tags:  [angular,development,javascript]
+categories: [angular,dev,javascript]
+tags:  [angular,dev,javascript]
 bitly: https://jasong.us/351w65D
 ---
 

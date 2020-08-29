@@ -2,8 +2,8 @@
 title: Azure Hybrid Virtual Event On Demand
 author: Jason Gaylord
 date: 2020-08-23
-categories: [cloud,dev,events,technology]
-tags:  [cloud,dev,events,technology]
+categories: [azure,cloud,dev,events,technology]
+tags:  [azure,cloud,dev,events,technology]
 post-number: 1014
 image: https://cdn.jasongaylord.com/images/2020/08/23/azure-hybrid-virtual-event.jpg
 bitly: https://jasong.us/3g9Uhmo

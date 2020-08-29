@@ -2,8 +2,8 @@
 title: How to Create and Delete Branches in Visual Studio Code
 author: Jason Gaylord
 date: 2020-07-08
-categories: [development,devops,visual-studio]
-tags:  [development,devops,visual-studio]
+categories: [dev,devops,visual-studio]
+tags:  [dev,devops,visual-studio]
 post-number: 964
 image: https://cdn.jasongaylord.com/images/2020/07/08/vscode-keyboard-shortcut-delete-branch.jpg
 bitly: https://jasong.us/2NWJhgq

@@ -2,8 +2,8 @@
 title: Adding Newtonsoft JSON back to .NET Core 3.1 and Later
 author: Jason Gaylord
 date: 2020-07-17
-categories: [developer,dotnet,microsoft]
-tags:  [developer,dotnet,microsoft]
+categories: [dev,dotnet,microsoft]
+tags:  [dev,dotnet,microsoft]
 post-number: 975
 image: https://cdn.jasongaylord.com/images/2020/07/17/update-configure-services-add-newtonsoft-json.jpg
 bitly: https://jasong.us/2ZBGyiY

@@ -5,8 +5,8 @@ cloudscribe_id: "4f37761b-de21-4a53-8cae-b526c110cc3f"
 cloudscribe_path: "/blog/using-spy-to-obtain-winform-control-treeview"
 permalink: /blog/using-spy-to-obtain-winform-control-treeview
 date: 2018-11-24
-categories: [development,windows]
-tags:  [development,windows]
+categories: [dev,windows]
+tags:  [dev,windows]
 bitly: https://jasong.us/2AelZv6
 ---
 

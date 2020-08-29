@@ -5,8 +5,8 @@ cloudscribe_id: "13e12dd4-5b4a-4f35-b988-e46ebe57f77e"
 cloudscribe_path: "/blog/why-the-dev-community-is-important"
 permalink: /blog/why-the-dev-community-is-important
 date: 2020-02-10
-categories: [development,opinion,personal]
-tags:  [development,opinion,personal]
+categories: [dev,opinion,personal]
+tags:  [dev,opinion,personal]
 bitly: https://jasong.us/39ziW0X
 ---
 

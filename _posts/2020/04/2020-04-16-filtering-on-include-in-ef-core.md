@@ -5,8 +5,8 @@ cloudscribe_id: "dd4d0a8b-148b-43f1-95f0-a56b036a90b2"
 cloudscribe_path: "/blog/filtering-on-include-in-ef-core"
 permalink: /blog/filtering-on-include-in-ef-core
 date: 2020-04-16
-categories: [data,development,dotnet]
-tags:  [data,development,dotnet]
+categories: [data,dev,dotnet]
+tags:  [data,dev,dotnet]
 bitly: https://jasong.us/2KcoUdu
 ---
 

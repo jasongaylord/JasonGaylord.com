@@ -5,8 +5,8 @@ cloudscribe_id: "0c7e8bcd-c07d-4c81-8201-5ab67d33f58f"
 cloudscribe_path: "/blog/github-pages-dependencies-and-versions"
 permalink: /blog/github-pages-dependencies-and-versions
 date: 2020-05-09
-categories: [development,jekyll]
-tags:  [development,jekyll]
+categories: [dev,github,jekyll]
+tags:  [dev,github,jekyll]
 bitly: https://jasong.us/3bk9UoR
 ---
 

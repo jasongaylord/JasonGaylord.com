@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2007-03-01
 msdn-link: http://msdn.microsoft.com/msdnmag/issues/07/03/ASPNET2/default.aspx
 categories: [msdn]
-tags: [archive,article,dev,msdn,personal]
+tags: [archive,author]
 bitly: https://jasong.us/2Tkyrny
 ---
 

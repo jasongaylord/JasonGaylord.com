@@ -5,8 +5,8 @@ cloudscribe_id: "781987fe-fedb-4fe8-839e-a332e918b420"
 cloudscribe_path: "/blog/securing-your-website-for-free"
 permalink: /blog/securing-your-website-for-free
 date: 2018-10-18
-categories: [development,security]
-tags:  [development,security]
+categories: [dev,security]
+tags:  [dev,security]
 bitly: https://jasong.us/2MfF1rw
 ---
 

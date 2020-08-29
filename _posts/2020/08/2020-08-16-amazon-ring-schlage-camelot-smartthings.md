@@ -2,8 +2,8 @@
 title: Integrating Schlage Connect Lock with Ring
 author: Jason Gaylord
 date: 2020-08-16
-categories: [amazon,hardware]
-tags: [amazon,hardware]
+categories: [amazon,hardware,home-automation]
+tags: [amazon,hardware,home-automation]
 post-number: 1006
 image: https://cdn.jasongaylord.com/images/2020/08/16/schlage-connect-be469.jpg
 bitly: https://jasong.us/3gX8kNr

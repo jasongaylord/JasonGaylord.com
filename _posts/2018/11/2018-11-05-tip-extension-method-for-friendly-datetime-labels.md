@@ -5,8 +5,8 @@ cloudscribe_id: "247a53ad-b5bc-445f-a4a4-748270a289a1"
 cloudscribe_path: "/blog/tip-extension-method-for-friendly-datetime-labels"
 permalink: /blog/tip-extension-method-for-friendly-datetime-labels
 date: 2018-11-05
-categories: [development,tip]
-tags:  [development,tip]
+categories: [dev,tip]
+tags:  [dev,tip]
 bitly: https://jasong.us/2F2KFfS
 ---
 

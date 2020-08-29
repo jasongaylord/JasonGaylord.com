@@ -5,8 +5,8 @@ cloudscribe_id: "4ff4e6fc-9f8e-44a6-a7b1-4b2d3f0d291b"
 cloudscribe_path: "/blog/tip-emergency-editing-using-app-service-editor"
 permalink: /blog/tip-emergency-editing-using-app-service-editor
 date: 2018-10-24
-categories: [cloud,development,tip]
-tags: [cloud,development,tip]
+categories: [azure,cloud,dev,tip]
+tags: [azure,cloud,dev,tip]
 bitly: https://jasong.us/2SaQfQ1
 ---
 

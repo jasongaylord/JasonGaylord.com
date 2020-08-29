@@ -2,8 +2,8 @@
 title: Calling all Developers - We're Hiring!
 author: Jason Gaylord
 date: 2020-07-06
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [business,job-opportunities,ml]
+tags:  [business,job-opportunities,ml]
 post-number: 962
 image: https://cdn.jasongaylord.com/images/2020/07/06/biberk-it-job-listings.jpg
 bitly: https://jasong.us/38AFoqX

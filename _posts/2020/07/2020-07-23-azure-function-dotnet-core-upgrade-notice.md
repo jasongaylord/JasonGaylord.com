@@ -2,8 +2,8 @@
 title: Azure Functions Upgrade to v3 by October 31 2020
 author: Jason Gaylord
 date: 2020-07-23
-categories: [cloud,developer,dotnet,microsoft]
-tags:  [cloud,developer,dotnet,microsoft]
+categories: [azure,cloud,dev,dotnet,microsoft]
+tags:  [azure,cloud,dev,dotnet,microsoft]
 post-number: 982
 image: https://cdn.jasongaylord.com/images/2020/07/23/azure-function-upgrade-v3.jpg
 bitly: https://jasong.us/2ClUuVG

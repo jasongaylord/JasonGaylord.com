@@ -2,8 +2,8 @@
 title: Microsoft Teams Enhancements Announced
 author: Jason Gaylord
 date: 2020-08-07
-categories: [business,microsoft,msoffice]
-tags: [business,microsoft,msoffice]
+categories: [collaboration,microsoft,msoffice]
+tags: [collaboration,microsoft,msoffice]
 post-number: 997
 image: https://cdn.jasongaylord.com/images/2020/08/07/ms-inspire.jpg
 bitly: https://jasong.us/338XX50

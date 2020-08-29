@@ -5,8 +5,8 @@ cloudscribe_id: "18d1f74b-e9cf-47f5-b3f8-c8c047fb8762"
 cloudscribe_path: "/blog/azure-anywhere-using-azure-arc-and-kubernetes"
 permalink: /blog/azure-anywhere-using-azure-arc-and-kubernetes
 date: 2019-11-04
-categories: [cloud,microsoft]
-tags:  [cloud,microsoft]
+categories: [azure,cloud,microsoft]
+tags:  [azure,cloud,microsoft]
 bitly: https://jasong.us/2JOCsvA
 ---
 

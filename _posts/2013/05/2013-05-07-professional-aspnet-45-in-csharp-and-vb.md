@@ -7,7 +7,7 @@ msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/05/07/professional-asp-net-
 permalink: /blog/professional-aspnet-45-in-csharp-and-vb
 date: 2013-05-07
 categories: [archive]
-tags: [archive,book,dotnet,personal]
+tags: [archive,author]
 bitly: https://jasong.us/2Xm8E0x
 ---
 

@@ -2,8 +2,8 @@
 title: Ask Me Anything with Charles Lamanna Today!
 author: Jason Gaylord
 date: 2020-08-25
-categories: [business,cloud,dev,events,microsoft]
-tags:  [business,cloud,dev,events,microsoft]
+categories: [cloud,dev,events,microsoft]
+tags:  [cloud,dev,events,microsoft]
 post-number: 1017
 image: https://cdn.jasongaylord.com/images/2020/08/25/ama-charles-lamanna.jpg
 bitly: https://jasong.us/31ooSZg

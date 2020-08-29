@@ -2,8 +2,8 @@
 title: Microsoft Outlook View in Browser Needs Updating 
 author: Jason Gaylord
 date: 2020-08-01
-categories: [browser,microsoft,ms-office]
-tags:  [browser,microsoft,ms-office]
+categories: [browser,microsoft,msoffice]
+tags:  [browser,microsoft,msoffice]
 post-number: 991
 image: https://cdn.jasongaylord.com/images/2020/08/01/outlook-view-in-browser.jpg
 bitly: https://jasong.us/3gfJ7NO

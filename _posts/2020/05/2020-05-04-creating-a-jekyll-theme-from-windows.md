@@ -5,8 +5,8 @@ cloudscribe_id: "d5b26d93-3f81-49e2-820d-dda23f310ab1"
 cloudscribe_path: "/blog/creating-a-jekyll-theme-from-windows"
 permalink: /blog/creating-a-jekyll-theme-from-windows
 date: 2020-05-04
-categories: [development,jekyll]
-tags:  [development,jekyll]
+categories: [dev,jekyll]
+tags:  [dev,jekyll]
 bitly: https://jasong.us/35luIer
 ---
 

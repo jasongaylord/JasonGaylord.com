@@ -2,8 +2,8 @@
 title: Creating and Merging Pull Requests in GitHub
 author: Jason Gaylord
 date: 2020-07-07
-categories: [development,devops]
-tags:  [development,devops]
+categories: [dev,devops,github]
+tags:  [dev,devops,github]
 post-number: 963
 image: https://cdn.jasongaylord.com/images/2020/07/07/github-ci-cd-pull-request-integration.jpg
 bitly: https://jasong.us/3f61JiG

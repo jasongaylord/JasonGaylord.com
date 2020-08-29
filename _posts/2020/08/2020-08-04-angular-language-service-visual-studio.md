@@ -2,8 +2,8 @@
 title: Install the Angular Language Service extension for Visual Studio
 author: Jason Gaylord
 date: 2020-08-04
-categories: [angular,development,javascript,visual-studio,web]
-tags: [angular,development,javascript,visual-studio,web]
+categories: [angular,dev,javascript,visual-studio,web]
+tags: [angular,dev,javascript,visual-studio,web]
 post-number: 994
 image: https://cdn.jasongaylord.com/images/2020/08/04/angular-language-service-visual-studio.jpg
 bitly: https://jasong.us/2XdZpPO

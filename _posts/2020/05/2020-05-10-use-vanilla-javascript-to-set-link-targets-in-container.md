@@ -5,8 +5,8 @@ cloudscribe_id: "d6b176a2-a64f-4d96-b925-fc2829c19400"
 cloudscribe_path: "/blog/use-vanilla-javascript-to-set-link-targets-in-container"
 permalink: /blog/use-vanilla-javascript-to-set-link-targets-in-container
 date: 2020-05-10
-categories: [development,javascript,tip]
-tags:  [development,javascript,tip]
+categories: [dev,javascript,tip]
+tags:  [dev,javascript,tip]
 bitly: https://jasong.us/2YRhd4O
 ---
 

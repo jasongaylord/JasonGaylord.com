@@ -5,8 +5,8 @@ cloudscribe_id: "4269bb21-10ed-4cfe-9f23-64fb19463a5e"
 cloudscribe_path: "/blog/git-tip-link-a-local-project-to-a-hosted-repository"
 permalink: /blog/git-tip-link-a-local-project-to-a-hosted-repository
 date: 2018-11-16
-categories: [devops,development,tip]
-tags:  [devops,development,tip]
+categories: [devops,dev,tip]
+tags:  [devops,dev,tip]
 bitly: https://jasong.us/2zVAcx9
 ---
 

@@ -5,7 +5,7 @@ date: 2008-12-22 16:53:00
 aspnet-weblog-link: http://weblogs.asp.net/jgaylord/archive/2008/12/22/so-what-happens-when-technology-and-holidays-come-together.aspx
 msmvps_path: https://blogs.msmvps.com/jgaylord/2008/12/22/so-what-happens-when-technology-and-holidays-come-together/
 categories: [aspnet-weblog]
-tags: [dev,holidays,iot]
+tags: [dev,holiday,iot]
 bitly: https://jasong.us/3g6h6rQ
 ---
 

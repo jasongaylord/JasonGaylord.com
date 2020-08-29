@@ -2,8 +2,8 @@
 title: Resolving 500.31 ANCM on Azure App Service when Deploying form Visual Studio Code
 author: Jason Gaylord
 date: 2020-07-20
-categories: [cloud,developer,dotnet,microsoft,visual-studio]
-tags:  [cloud,developer,dotnet,microsoft,visual-studio]
+categories: [azure,cloud,dev,dotnet,microsoft,visual-studio]
+tags:  [azure,cloud,dev,dotnet,microsoft,visual-studio]
 post-number: 978
 image: https://cdn.jasongaylord.com/images/2020/07/20/appservice-deploy-subpath.jpg
 bitly: https://jasong.us/2Zy9sRi

@@ -5,8 +5,8 @@ cloudscribe_id: "82b9acb8-dbe1-412d-84a6-77b1e605c666"
 cloudscribe_path: "/blog/introducing-visual-studio-codespaces"
 permalink: /blog/introducing-visual-studio-codespaces
 date: 2020-05-03
-categories: [cloud,development,devops]
-tags: [cloud,development,devops]
+categories: [azure,cloud,dev,devops,visual-studio]
+tags: [azure,cloud,dev,devops,visual-studio]
 bitly: https://jasong.us/3aYeKYL
 ---
 

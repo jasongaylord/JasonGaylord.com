@@ -5,8 +5,8 @@ cloudscribe_id: "21745d3b-9f98-47b2-8eba-7243c6674188"
 cloudscribe_path: "/blog/relaunched-mylightdisplay"
 permalink: /blog/relaunched-mylightdisplay
 date: 2018-11-22
-categories: [development,holiday,personal,technology]
-tags:  [development,holiday,personal,technology]
+categories: [dev,holiday,personal,technology]
+tags:  [dev,holiday,personal,technology]
 bitly: https://jasong.us/2AdQWzN
 ---
 

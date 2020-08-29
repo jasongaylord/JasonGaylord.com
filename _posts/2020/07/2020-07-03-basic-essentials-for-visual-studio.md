@@ -2,8 +2,8 @@
 title: Basic Essentials Extension Pack for Visual Studio
 author: Jason Gaylord
 date: 2020-07-03
-categories: [development,visual-studio]
-tags:  [development,visual-studio]
+categories: [dev,visual-studio]
+tags:  [dev,visual-studio]
 post-number: 959
 image: https://cdn.jasongaylord.com/images/2020/07/03/basic-essentials.png
 bitly: https://jasong.us/38nI6Af

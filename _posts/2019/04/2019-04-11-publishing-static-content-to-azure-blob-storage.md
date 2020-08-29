@@ -5,8 +5,8 @@ cloudscribe_id: "2c5eeaf5-2e5b-41a9-a079-2a7b6de5bbd1"
 cloudscribe_path: "/blog/publishing-static-content-to-azure-blob-storage"
 permalink: /blog/publishing-static-content-to-azure-blob-storage
 date: 2019-04-11
-categories: [cloud,development]
-tags:  [cloud,development]
+categories: [azure,cloud,dev]
+tags:  [azure,cloud,dev]
 bitly: https://jasong.us/2Z2Zhlo
 ---
 

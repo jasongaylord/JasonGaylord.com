@@ -2,8 +2,8 @@
 title: Scheduling GitHub Pages Posts for Future Dates - Part 2
 author: Jason Gaylord
 date: 2020-05-18 08:00:00 -4
-categories: [devops,development,jekyll,tip]
-tags:  [devops,development,jekyll,tip]
+categories: [devops,dev,github,jekyll,tip]
+tags:  [devops,dev,github,jekyll,tip]
 bitly: https://jasong.us/3cBlugH
 ---
 

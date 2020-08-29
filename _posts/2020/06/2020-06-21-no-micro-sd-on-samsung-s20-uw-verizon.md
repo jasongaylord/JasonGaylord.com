@@ -2,8 +2,8 @@
 title: Verizon's Samsung Galaxy S20 UW has no Micro SD Card
 author: Jason Gaylord
 date: 2020-06-21
-categories: [hardware,mobile]
-tags:  [hardware,mobile]
+categories: [hardware,mobile,samsung]
+tags:  [hardware,mobile,samsung]
 post-number: 946
 image: https://cdn.jasongaylord.com/images/2020/06/21/Samsung-Galaxy-S20.jpg
 bitly: https://jasong.us/2Cnb0V5

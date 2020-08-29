@@ -5,8 +5,8 @@ cloudscribe_id: "57d3e428-6dbd-4f64-8302-eb586bd5f7cc"
 cloudscribe_path: "/blog/developing-with-cosmos-db-locally"
 permalink: /blog/developing-with-cosmos-db-locally
 date: 2020-04-27
-categories: [cloud,development,tip]
-tags: [cloud,development,tip]
+categories: [azure,cloud,dev,tip]
+tags: [azure,cloud,dev,tip]
 bitly: https://jasong.us/2xe3REh
 ---
 

@@ -2,8 +2,8 @@
 title: Microsoft Edge Release Schedule Published
 author: Jason Gaylord
 date: 2020-08-11
-categories: [browser,business,dev,google,microsoft,windows]
-tags: [browser,business,dev,google,microsoft,windows]
+categories: [browser,dev,google,microsoft,windows]
+tags: [browser,dev,google,microsoft,windows]
 post-number: 1001
 image: https://cdn.jasongaylord.com/images/2020/08/11/microsoft-edge-release-schedule.jpg
 bitly: https://jasong.us/2XNw5zJ

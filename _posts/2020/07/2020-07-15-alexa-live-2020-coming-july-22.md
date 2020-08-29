@@ -2,8 +2,8 @@
 title: Alexa Live 2020 Coming July 22nd
 author: Jason Gaylord
 date: 2020-07-15
-categories: [amazon,developer,events]
-tags:  [amazon,developer,events]
+categories: [amazon,dev,events]
+tags:  [amazon,dev,events]
 post-number: 972
 image: https://cdn.jasongaylord.com/images/2020/07/15/alexa-live.jpg
 bitly: https://jasong.us/3h1o9lw

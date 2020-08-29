@@ -4,6 +4,7 @@ on:
     types:
       - opened
       - edited
+      - synchronize
   schedule:
     - cron: 0 8 * * *
 jobs:
