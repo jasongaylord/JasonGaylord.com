@@ -2,8 +2,8 @@
 title: Azure App Configuration Library 1.1.0 Officially Released
 author: Jason Gaylord
 date: 2020-07-08
-categories: [cloud,development,microsoft]
-tags:  [cloud,development,microsoft]
+categories: [azure,cloud,dev,microsoft]
+tags:  [azure,cloud,dev,microsoft]
 post-number: 965
 image: https://cdn.jasongaylord.com/images/2020/06/08/add-feature-showaboutme.jpg
 bitly: https://jasong.us/38EOoLZ

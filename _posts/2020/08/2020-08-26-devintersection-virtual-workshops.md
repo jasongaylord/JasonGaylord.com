@@ -2,8 +2,8 @@
 title: DevIntersection Virtual Workshop Event
 author: Jason Gaylord
 date: 2020-08-26
-categories: [ai,cloud,dev,dotnet,events,microsoft]
-tags:  [ai,cloud,dev,dotnet,events,microsoft]
+categories: [ai,azure,cloud,dev,dotnet,events,microsoft]
+tags:  [ai,azure,cloud,dev,dotnet,events,microsoft]
 post-number: 1018
 image: https://cdn.jasongaylord.com/images/2020/08/26/devintersection.jpg
 bitly: https://jasong.us/31pTjOF

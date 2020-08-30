@@ -5,8 +5,8 @@ cloudscribe_id: "e7293efd-9cf0-4f9f-9f24-cc99ed6194ae"
 cloudscribe_path: "/blog/setting-up-a-cdn-using-azure-storage"
 permalink: /blog/setting-up-a-cdn-using-azure-storage
 date: 2019-04-01
-categories: [cloud,development]
-tags:  [cloud,development]
+categories: [azure,cloud,dev]
+tags:  [azure,cloud,dev]
 bitly: https://jasong.us/2TOn30v
 ---
 

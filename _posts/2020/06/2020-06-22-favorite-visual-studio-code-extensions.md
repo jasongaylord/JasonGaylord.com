@@ -2,8 +2,8 @@
 title: Favorite Visual Studio Code Extensions
 author: Jason Gaylord
 date: 2020-06-22
-categories: [development,microsoft,visual-studio]
-tags:  [development,microsoft,visual-studio]
+categories: [dev,microsoft,visual-studio]
+tags:  [dev,microsoft,visual-studio]
 post-number: 947
 image: https://cdn.jasongaylord.com/images/2020/06/22/Visual-Studio-Code-Marketplace.png
 bitly: https://jasong.us/2V6B7WH

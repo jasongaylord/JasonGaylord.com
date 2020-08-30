@@ -2,8 +2,8 @@
 title: Adding Azure Feature Flags to Your ASP.NET Razor Pages Application
 author: Jason Gaylord
 date: 2020-06-08
-categories: [cloud,development,dotnet]
-tags:  [cloud,development,dotnet]
+categories: [azure,cloud,dev,dotnet]
+tags:  [azure,cloud,dev,dotnet]
 post-number: 933
 image: https://cdn.jasongaylord.com/images/2020/06/08/add-feature-showaboutme.jpg
 bitly: https://jasong.us/2AL2pdP

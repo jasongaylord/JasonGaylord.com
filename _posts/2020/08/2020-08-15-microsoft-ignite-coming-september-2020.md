@@ -2,8 +2,8 @@
 title: Microsoft Ignite Coming in September
 author: Jason Gaylord
 date: 2020-08-15
-categories: [cloud,dev,events,microsoft]
-tags: [cloud,dev,events,microsoft]
+categories: [azure,cloud,dev,events,microsoft]
+tags: [azure,cloud,dev,events,microsoft]
 post-number: 1005
 image: https://cdn.jasongaylord.com/images/2020/08/15/microsoft-ignite-2020.png
 bitly: https://jasong.us/3gZlOIo

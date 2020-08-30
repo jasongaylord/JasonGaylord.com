@@ -2,8 +2,8 @@
 title: Creating an Amazon Alexa Skill using .NET Core and Microsoft Azure
 author: Jason Gaylord
 date: 2020-07-21
-categories: [amazon,cloud,developer,devops,dotnet,microsoft]
-tags:  [amazon,cloud,developer,devops,dotnet,microsoft]
+categories: [amazon,azure,cloud,dev,devops,dotnet,microsoft]
+tags:  [amazon,azure,cloud,dev,devops,dotnet,microsoft]
 post-number: 979
 image: https://cdn.jasongaylord.com/images/2020/07/21/alexa-skill-success.jpg
 bitly: https://jasong.us/2CDXSv0

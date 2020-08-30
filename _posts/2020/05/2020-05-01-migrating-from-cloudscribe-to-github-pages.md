@@ -5,8 +5,8 @@ cloudscribe_id: "938caece-2dda-48ee-bd77-3e5f8a4c3a21"
 cloudscribe_path: "/blog/migrating-from-cloudscribe-to-github-pages"
 permalink: /blog/migrating-from-cloudscribe-to-github-pages
 date: 2020-05-01
-categories: [development,jekyll]
-tags:  [development,jekyll]
+categories: [dev,github,jekyll]
+tags:  [dev,github,jekyll]
 bitly: https://jasong.us/2WuGRK3
 ---
 

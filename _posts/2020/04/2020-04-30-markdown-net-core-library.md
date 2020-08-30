@@ -5,8 +5,8 @@ cloudscribe_id: "b300d216-e9ac-4a8f-80fd-0bdebcab778a"
 cloudscribe_path: "/blog/markdown-net-core-library"
 permalink: /blog/markdown-net-core-library
 date: 2020-04-30
-categories: [development,dotnet]
-tags:  [development,dotnet]
+categories: [dev,dotnet]
+tags:  [dev,dotnet]
 bitly: https://jasong.us/2zKdA6i
 ---
 

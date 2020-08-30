@@ -2,8 +2,8 @@
 title: "Developer and QA Open Positions - I'm Hiring!"
 author: Jason Gaylord
 date: 2020-06-05
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [business,job-opportunities,ml]
+tags:  [business,job-opportunities,ml]
 post-number: 930
 image: https://cdn.jasongaylord.com/images/2020/05/15/biberk-careers-page.jpg
 bitly: https://jasong.us/2Xy687F

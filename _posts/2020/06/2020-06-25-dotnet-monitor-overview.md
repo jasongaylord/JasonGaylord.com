@@ -2,8 +2,8 @@
 title: "Microsoft Experiment: dotnet-monitor"
 author: Jason Gaylord
 date: 2020-06-25
-categories: [development,dotnet,microsoft]
-tags:  [development,dotnet,microsoft]
+categories: [dev,dotnet,microsoft]
+tags:  [dev,dotnet,microsoft]
 post-number: 950
 image: https://cdn.jasongaylord.com/images/2020/06/25/dotnet-monitor-install-and-running.png
 bitly: https://jasong.us/31htdOb

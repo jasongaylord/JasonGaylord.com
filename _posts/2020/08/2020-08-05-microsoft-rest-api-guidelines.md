@@ -2,8 +2,8 @@
 title: Microsoft REST API Guidelines
 author: Jason Gaylord
 date: 2020-08-05
-categories: [api,architecture,development,microsoft]
-tags: [api,architecture,development,microsoft]
+categories: [api,architecture,dev,microsoft]
+tags: [api,architecture,dev,microsoft]
 post-number: 995
 image: https://cdn.jasongaylord.com/images/2020/08/05/microsoft-rest-api-guidelines.jpg
 bitly: https://jasong.us/2P94F2K

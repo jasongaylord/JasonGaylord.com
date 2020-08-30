@@ -7,7 +7,7 @@ msmvps_path: "https://blogs.msmvps.com/jgaylord/2013/08/28/converting-unix-epoch
 permalink: /blog/converting-unix-epoch-to-date-in-excel
 date: 2013-08-28
 categories: [archive]
-tags:  [archive,ms-office]
+tags:  [archive,msoffice]
 bitly: https://jasong.us/2Xpimj4
 ---
 

@@ -5,8 +5,8 @@ cloudscribe_id: "75347a6e-ce01-4da2-bcd7-94dd0520ccd2"
 cloudscribe_path: "/blog/automatically-push-versioned-nuget-packages-using-vsts-build-process"
 permalink: /blog/automatically-push-versioned-nuget-packages-using-vsts-build-process
 date: 2018-01-25
-categories: [devops,development]
-tags: [devops,development]
+categories: [devops,dev]
+tags: [devops,dev]
 bitly: https://jasong.us/2PteeLu
 ---
 

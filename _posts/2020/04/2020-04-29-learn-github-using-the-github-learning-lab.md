@@ -5,8 +5,8 @@ cloudscribe_id: "9c6c2f69-83ef-40a6-a45c-17535b0242eb"
 cloudscribe_path: "/blog/learn-github-using-the-github-learning-lab"
 permalink: /blog/learn-github-using-the-github-learning-lab
 date: 2020-04-29
-categories: [devops,development,training]
-tags:  [devops,development,training]
+categories: [devops,dev,github,training]
+tags:  [devops,dev,github,training]
 bitly: https://jasong.us/3bM7qk4
 ---
 

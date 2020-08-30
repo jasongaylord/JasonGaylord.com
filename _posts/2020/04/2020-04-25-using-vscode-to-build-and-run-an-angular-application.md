@@ -5,8 +5,8 @@ cloudscribe_id: "75b13282-ead5-4865-9ea6-1f325d3473ea"
 cloudscribe_path: "/blog/using-vscode-to-build-and-run-an-angular-application"
 permalink: /blog/using-vscode-to-build-and-run-an-angular-application
 date: 2020-04-25
-categories: [angular,development]
-tags:  [angular,development]
+categories: [angular,dev]
+tags:  [angular,dev]
 bitly: https://jasong.us/2S1v7Nz
 image: https://cdn.jasongaylord.com/images/2020/04/25/vscode.png
 ---

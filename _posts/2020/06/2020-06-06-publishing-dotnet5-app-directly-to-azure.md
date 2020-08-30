@@ -2,8 +2,8 @@
 title: Publishing a .NET Core 5 Directly to Azure from Visual Studio 2019
 author: Jason Gaylord
 date: 2020-06-06
-categories: [cloud,development,dotnet,visual-studio]
-tags:  [cloud,development,dotnet,visual-studio]
+categories: [azure,cloud,dev,dotnet,visual-studio]
+tags:  [azure,cloud,dev,dotnet,visual-studio]
 post-number: 931
 image: https://cdn.jasongaylord.com/images/2020/06/06/change-deployment-mode-to-self-contained.jpg
 bitly: https://jasong.us/30dqpkH

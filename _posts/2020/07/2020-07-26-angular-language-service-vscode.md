@@ -2,8 +2,8 @@
 title: Install the Angular Language Service extension for VS Code
 author: Jason Gaylord
 date: 2020-07-26
-categories: [angular,development,javascript,web]
-tags: [angular,development,javascript,web]
+categories: [angular,dev,javascript,web]
+tags: [angular,dev,javascript,web]
 post-number: 985
 image: https://cdn.jasongaylord.com/images/2020/07/26/angular-language-service.jpg
 bitly: https://jasong.us/2ZU8tLl

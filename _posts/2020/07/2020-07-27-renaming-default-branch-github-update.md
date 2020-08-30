@@ -2,8 +2,8 @@
 title: GitHub Renaming Default Branch
 author: Jason Gaylord
 date: 2020-07-27
-categories: [development,devops,microsoft]
-tags: [development,devops,microsoft]
+categories: [dev,devops,github,microsoft]
+tags: [dev,devops,github,microsoft]
 post-number: 986
 image: https://cdn.jasongaylord.com/images/2020/07/27/github-rename-default-branch.jpg
 bitly: https://jasong.us/2CZ12cL

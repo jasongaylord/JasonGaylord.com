@@ -5,8 +5,8 @@ cloudscribe_id: "3f579e6d-c139-45bf-8e95-bc58d7daed6f"
 cloudscribe_path: "/blog/github-is-free-for-teams"
 permalink: /blog/github-is-free-for-teams
 date: 2020-04-14
-categories: [devops,development,technology]
-tags:  [devops,development,technology]
+categories: [devops,dev,github,technology]
+tags:  [devops,dev,github,technology]
 bitly: https://jasong.us/3a9FyF9
 ---
 

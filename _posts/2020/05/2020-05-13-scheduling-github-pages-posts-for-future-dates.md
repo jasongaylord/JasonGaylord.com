@@ -5,8 +5,8 @@ cloudscribe_id: "4242a159-08c1-4354-a635-c3b9354f9206"
 cloudscribe_path: "/blog/scheduling-github-pages-posts-for-future-dates"
 permalink: /blog/scheduling-github-pages-posts-for-future-dates
 date: 2020-05-13
-categories: [devops,development,jekyll,tip]
-tags:  [devops,development,jekyll,tip]
+categories: [devops,dev,github,jekyll,tip]
+tags:  [devops,dev,github,jekyll,tip]
 bitly: https://jasong.us/2Aqnx9h
 ---
 

@@ -2,8 +2,8 @@
 title: "Git Productivity Enhancements in new Visual Studio Preview"
 author: Jason Gaylord
 date: 2020-06-26
-categories: [development,devops,microsoft,visual-studio]
-tags:  [development,devops,microsoft,visual-studio]
+categories: [dev,devops,microsoft,visual-studio]
+tags:  [dev,devops,microsoft,visual-studio]
 post-number: 951
 image: https://docs.microsoft.com/en-us/visualstudio/releases/2019/media/16.7/gitfocusedexperience-16.7p3.gif
 bitly: https://jasong.us/2YvhgCS

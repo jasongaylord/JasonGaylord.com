@@ -5,8 +5,8 @@ cloudscribe_id: "5d499756-d7ee-4fb5-852b-0397da235566"
 cloudscribe_path: "/blog/global-azure-virtual-2020"
 permalink: /blog/global-azure-virtual-2020
 date: 2020-04-23
-categories: [cloud,events,technology]
-tags:  [cloud,events,technology]
+categories: [azure,cloud,events,technology]
+tags:  [azure,cloud,events,technology]
 bitly: https://jasong.us/2VV6UcX
 ---
 

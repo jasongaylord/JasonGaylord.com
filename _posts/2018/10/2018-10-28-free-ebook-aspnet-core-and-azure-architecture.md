@@ -5,8 +5,8 @@ cloudscribe_id: "677fd8dd-f2d6-4ade-90ff-47d116af6686"
 cloudscribe_path: "/blog/free-ebook-aspnet-core-and-azure-architecture"
 permalink: /blog/free-ebook-aspnet-core-and-azure-architecture
 date: 2018-10-28
-categories: [development,tip]
-tags:  [development,tip]
+categories: [dev,tip]
+tags:  [dev,tip]
 bitly: https://jasong.us/2qahUDC
 ---
 

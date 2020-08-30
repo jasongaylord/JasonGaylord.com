@@ -2,8 +2,8 @@
 title: Cross-Origin Destinations are Unsafe
 author: Jason Gaylord
 date: 2020-07-10
-categories: [development,google,web]
-tags:  [development,google,web]
+categories: [dev,google,web]
+tags:  [dev,google,web]
 post-number: 967
 image: https://cdn.jasongaylord.com/images/2020/07/10/google-lighthouse-best-practices-score.jpg
 bitly: https://jasong.us/3iPVh1J

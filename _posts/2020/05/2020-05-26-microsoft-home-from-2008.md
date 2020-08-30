@@ -2,8 +2,8 @@
 title: Reviewing the Futuristic Microsoft Home from 2008
 author: Jason Gaylord
 date: 2020-05-26
-categories: [hardware,technology]
-tags: [hardware,technology]
+categories: [hardware,home-automation,technology]
+tags: [hardware,home-automation,technology]
 bitly: https://jasong.us/2MjLOQZ
 ---
 

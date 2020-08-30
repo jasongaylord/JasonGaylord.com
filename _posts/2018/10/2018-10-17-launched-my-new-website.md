@@ -5,8 +5,8 @@ cloudscribe_id: "f161bc56-c4b3-4e14-8a98-ef903dd8b709"
 cloudscribe_path: "/blog/launched-my-new-website"
 permalink: /blog/launched-my-new-website
 date: 2018-10-17
-categories: [development,personal]
-tags: [development,personal]
+categories: [dev,personal]
+tags: [dev,personal]
 bitly: https://jasong.us/3ckZGFm
 ---
 

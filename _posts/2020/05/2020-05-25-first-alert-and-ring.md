@@ -2,8 +2,8 @@
 title: Adding a First Alert Smoke/Z-Wave Alarm to Ring
 author: Jason Gaylord
 date: 2020-05-25
-categories: [hardware,shopping,technology]
-tags: [hardware,shopping,technology]
+categories: [hardware,home-automation,shopping,technology]
+tags: [hardware,home-automation,shopping,technology]
 bitly: https://jasong.us/2TXPpsk
 ---
 

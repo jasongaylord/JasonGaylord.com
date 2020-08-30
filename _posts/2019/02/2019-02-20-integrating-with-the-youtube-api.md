@@ -5,8 +5,8 @@ cloudscribe_id: "56e6e8dc-1807-4aff-b1aa-cad9a2becc90"
 cloudscribe_path: "/blog/integrating-with-the-youtube-api"
 permalink: /blog/integrating-with-the-youtube-api
 date: 2019-02-20
-categories: [development,dotnet,google]
-tags:  [development,dotnet,google]
+categories: [dev,dotnet,google]
+tags:  [dev,dotnet,google]
 bitly: https://jasong.us/2SfJyL8
 ---
 

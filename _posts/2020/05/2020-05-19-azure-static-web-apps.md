@@ -2,8 +2,8 @@
 title: Announcing Azure Static Web Apps
 author: Jason Gaylord
 date: 2020-05-19 13:30:00 -4
-categories: [cloud,dev,devops]
-tags:  [cloud,dev,devops]
+categories: [azure,cloud,dev,devops]
+tags:  [azure,cloud,dev,devops]
 bitly: https://jasong.us/3bORZ9Y
 ---
 

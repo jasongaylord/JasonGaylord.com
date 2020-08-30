@@ -2,8 +2,8 @@
 title: Bing Webmaster Tools Revamped
 author: Jason Gaylord
 date: 2020-08-20
-categories: [browser,business,dev,google,microsoft,web]
-tags:  [browser,business,dev,google,microsoft,web]
+categories: [browser,dev,google,microsoft,web]
+tags:  [browser,dev,google,microsoft,web]
 post-number: 1011
 image: https://cdn.jasongaylord.com/images/2020/08/20/bing-webmaster-tools-import.jpg
 bitly: https://jasong.us/3iPGfYK

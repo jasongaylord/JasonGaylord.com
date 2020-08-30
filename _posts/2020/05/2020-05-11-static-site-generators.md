@@ -5,8 +5,8 @@ cloudscribe_id: "7a8ac914-9ec1-4c2b-a16d-4f975814d164"
 cloudscribe_path: "/blog/static-site-generators"
 permalink: /blog/static-site-generators
 date: 2020-05-11
-categories: [development,jekyll,technology,web]
-tags:  [development,jekyll,technology,web]
+categories: [dev,jekyll,technology,web]
+tags:  [dev,jekyll,technology,web]
 bitly: https://jasong.us/35Rseo1
 ---
 

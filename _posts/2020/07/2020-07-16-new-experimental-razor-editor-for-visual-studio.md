@@ -2,8 +2,8 @@
 title: New Experimental Razor Editor for Visual Studio
 author: Jason Gaylord
 date: 2020-07-16
-categories: [development,dotnet,microsoft,visual-studio]
-tags:  [development,dotnet,microsoft,visual-studio]
+categories: [dev,dotnet,microsoft,visual-studio]
+tags:  [dev,dotnet,microsoft,visual-studio]
 post-number: 974
 image: https://cdn.jasongaylord.com/images/2020/07/16/enable-experimental-razor.png
 bitly: https://jasong.us/3j3HG6O

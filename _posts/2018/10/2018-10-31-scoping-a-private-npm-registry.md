@@ -5,8 +5,8 @@ cloudscribe_id: "fbecda99-60d8-4822-ad30-a1d0dfbb5a37"
 cloudscribe_path: "/blog/scoping-a-private-npm-registry"
 permalink: /blog/scoping-a-private-npm-registry
 date: 2018-10-31
-categories: [development,devops]
-tags: [development,devops]
+categories: [dev,devops]
+tags: [dev,devops]
 bitly: https://jasong.us/2zeGWFW
 ---
 

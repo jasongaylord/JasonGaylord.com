@@ -2,8 +2,8 @@
 title: Amazon Alexa Skills Challenge with Conversations
 author: Jason Gaylord
 date: 2020-07-30
-categories: [ai,amazon,developer]
-tags:  [ai,amazon,developer]
+categories: [ai,amazon,dev]
+tags:  [ai,amazon,dev]
 post-number: 989
 image: https://cdn.jasongaylord.com/images/2020/07/30/alexa-skills-challenge.png
 bitly: https://jasong.us/30QutWK

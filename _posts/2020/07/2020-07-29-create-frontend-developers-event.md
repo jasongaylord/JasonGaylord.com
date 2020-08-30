@@ -2,8 +2,8 @@
 title: Microsoft Create Front End Event Takes Place Today; Static Web App Workshop
 author: Jason Gaylord
 date: 2020-07-29
-categories: [cloud,developer,events,microsoft]
-tags:  [cloud,developer,events,microsoft]
+categories: [azure,cloud,dev,events,microsoft]
+tags:  [azure,cloud,dev,events,microsoft]
 post-number: 988
 image: https://cdn.jasongaylord.com/images/2020/07/29/ms-createfrontend.jpg
 bitly: https://jasong.us/3f7QBkz

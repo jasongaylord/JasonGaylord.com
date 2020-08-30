@@ -2,8 +2,8 @@
 title: Zeplin Extension for Visual Studio Code
 author: Jason Gaylord
 date: 2020-06-03
-categories: [collaboration,design,development]
-tags:  [collaboration,design,development]
+categories: [collaboration,design,dev]
+tags:  [collaboration,design,dev]
 post-number: 928
 image: https://cdn.jasongaylord.com/images/2020/06/03/zeplin-extension-for-visual-studio.jpg
 bitly: https://jasong.us/2Xs829L

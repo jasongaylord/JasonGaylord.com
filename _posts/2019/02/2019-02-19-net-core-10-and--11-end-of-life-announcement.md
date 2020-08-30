@@ -5,8 +5,8 @@ cloudscribe_id: "961cbced-30af-45a5-9bd0-fa23210917ee"
 cloudscribe_path: "/blog/net-core-10-and--11-end-of-life-announcement"
 permalink: /blog/net-core-10-and--11-end-of-life-announcement
 date: 2019-02-19
-categories: [development,dotnet]
-tags: [development,dotnet]
+categories: [dev,dotnet]
+tags: [dev,dotnet]
 bitly: https://jasong.us/2SdCZZm
 ---
 

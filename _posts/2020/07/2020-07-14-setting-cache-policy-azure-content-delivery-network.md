@@ -2,8 +2,8 @@
 title: Improve Google Lighthouse Score by Setting Efficient Cache Policy in Azure CDN
 author: Jason Gaylord
 date: 2020-07-14
-categories: [cloud,google,microsoft,web]
-tags:  [cloud,google,microsoft,web]
+categories: [azure,cloud,google,microsoft,web]
+tags:  [azure,cloud,google,microsoft,web]
 post-number: 971
 image: https://cdn.jasongaylord.com/images/2020/07/14/azure-cdn-endpoint-add-actions.jpg
 bitly: https://jasong.us/2ZmTdpY

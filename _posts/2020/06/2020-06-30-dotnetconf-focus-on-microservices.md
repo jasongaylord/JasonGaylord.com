@@ -2,8 +2,8 @@
 title: ".NET Conf: Focus on Microservices, coming July 30th"
 author: Jason Gaylord
 date: 2020-06-30
-categories: [cloud,development,dotnet,events]
-tags:  [cloud,development,dotnet,events]
+categories: [azure,cloud,dev,dotnet,events]
+tags:  [azure,cloud,dev,dotnet,events]
 post-number: 955
 image: https://cdn.jasongaylord.com/images/2020/06/30/dotnetconf-focus-on-microservices.png
 bitly: https://jasong.us/2VwtBVs

@@ -2,8 +2,8 @@
 title: Creating an Azure Function from the Command Line
 author: Jason Gaylord
 date: 2020-05-28
-categories: [cloud,development,dotnet,serverless]
-tags:  [cloud,development,dotnet,serverless]
+categories: [azure,cloud,dev,dotnet,serverless]
+tags:  [azure,cloud,dev,dotnet,serverless]
 image: https://cdn.jasongaylord.com/images/2020/05/28/azure-function-command-line.jpg
 bitly: https://jasong.us/3eCA0Fv
 ---

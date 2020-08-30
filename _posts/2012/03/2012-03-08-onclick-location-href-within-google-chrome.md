@@ -7,7 +7,7 @@ msmvps_path: "https://blogs.msmvps.com/jgaylord/2012/03/08/javascript-onclick-na
 permalink: /blog/onclick-location-href-within-google-chrome
 date: 2012-03-08
 categories: [archive]
-tags: [archive,javascript]
+tags: [browser,javascript]
 bitly: https://jasong.us/2AwC577
 ---
 

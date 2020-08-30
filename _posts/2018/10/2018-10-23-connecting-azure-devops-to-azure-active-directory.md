@@ -5,8 +5,8 @@ cloudscribe_id: "e36d2aa3-c68c-4c45-b9cf-98053800d9b8"
 cloudscribe_path: "/blog/connecting-azure-devops-to-azure-active-directory"
 permalink: /blog/connecting-azure-devops-to-azure-active-directory
 date: 2018-10-23
-categories: [cloud,devops]
-tags: [cloud,devops]
+categories: [azure,cloud,devops]
+tags: [azure,cloud,devops]
 bitly: https://jasong.us/2yYhnss
 ---
 

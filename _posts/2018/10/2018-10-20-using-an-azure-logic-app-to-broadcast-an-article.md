@@ -5,8 +5,8 @@ cloudscribe_id: "c95dc0b3-eb8f-478a-bcbd-5e80d20f305c"
 cloudscribe_path: "/blog/using-an-azure-logic-app-to-broadcast-an-article"
 permalink: /blog/using-an-azure-logic-app-to-broadcast-an-article
 date: 2018-10-20
-categories: [cloud,development]
-tags: [cloud,development]
+categories: [azure,cloud,dev]
+tags: [azure,cloud,dev]
 bitly: https://jasong.us/2yKwFRq
 ---
 

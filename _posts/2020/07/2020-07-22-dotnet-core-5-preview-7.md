@@ -2,8 +2,8 @@
 title: .NET Core, ASP.NET Core, and Entity Framework Core 5 Preview 7 Released
 author: Jason Gaylord
 date: 2020-07-22
-categories: [development,dotnet,visual-studio]
-tags:  [development,dotnet,visual-studio]
+categories: [dev,dotnet,visual-studio]
+tags:  [dev,dotnet,visual-studio]
 post-number: 981
 image: https://cdn.jasongaylord.com/images/2020/07/22/swimlane-cross-platform.png
 bitly: https://jasong.us/3fMkTKK

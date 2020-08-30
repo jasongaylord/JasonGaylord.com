@@ -2,8 +2,8 @@
 title: Using Octokit.NET to Integrate Your .NET Core Applications with GitHub
 author: Jason Gaylord
 date: 2020-07-19
-categories: [developer,devops,dotnet]
-tags:  [developer,devops,dotnet]
+categories: [dev,devops,github,dotnet]
+tags:  [dev,devops,github,dotnet]
 post-number: 977
 image: https://cdn.jasongaylord.com/images/2020/07/19/octokit-dotnet_2.png
 bitly: https://jasong.us/3exuRyl

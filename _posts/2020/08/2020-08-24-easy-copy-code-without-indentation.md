@@ -2,8 +2,8 @@
 title: Easily Copy Code Without Indentation in Visual Studio
 author: Jason Gaylord
 date: 2020-08-24
-categories: [dev,visualstudio]
-tags:  [dev,visualstudio]
+categories: [dev,visual-studio]
+tags:  [dev,visual-studio]
 post-number: 1015
 image: https://cdn.jasongaylord.com/images/2020/08/24/152344-copy-vs.gif
 bitly: https://jasong.us/3ghTVKz

@@ -2,8 +2,8 @@
 title: Pylance, the Feature Rich Python in Visual Studio Code
 author: Jason Gaylord
 date: 2020-07-02
-categories: [development,visual-studio]
-tags:  [development,visual-studio]
+categories: [dev,visual-studio]
+tags:  [dev,visual-studio]
 post-number: 958
 image: https://cdn.jasongaylord.com/images/2020/07/02/pylance.png
 bitly: https://jasong.us/2NLme8h

@@ -5,8 +5,8 @@ cloudscribe_id: "bf27f04c-7533-4134-9582-9a58f13209f1"
 cloudscribe_path: "/blog/debugging-covid-19-data-using-excel"
 permalink: /blog/debugging-covid-19-data-using-excel
 date: 2020-04-15
-categories: [covid19,ms-office,opinion,technology]
-tags:  [covid19,ms-office,opinion,technology]
+categories: [covid19,msoffice,opinion,technology]
+tags:  [covid19,msoffice,opinion,technology]
 bitly: https://jasong.us/2K5BhHV
 ---
 
