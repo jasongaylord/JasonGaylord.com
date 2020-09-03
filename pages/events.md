@@ -1,6 +1,6 @@
 ---
 title: "Upcoming Technical Events"
-nav_title: "Upcoming Tech Events"
+nav_title: "Events"
 description: "A listing of upcoming web application developer, DevOps, and other technical events."
 include_nav: true
 tags: [events]
