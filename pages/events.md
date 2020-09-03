@@ -13,7 +13,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 9/9: [MLOps From Scratch](https://jasong.us/32xmoXN)
 - 9/9-10: [Remote Engineering DevOps Summit](https://jasong.us/2EMgcD8)
 - 9/22-24: [Microsoft Ignite Digital Event](https://jasong.us/3gZlOIo)
-- 9/29: [AWS Summit Online]()
+- 9/29: [AWS Summit Online](https://jasong.us/3gVfIb6)
 
 #### October 2020
 - 10/20: [Adobe MAX 2020 Digital Event](https://jasong.us/3kTtoa0)
