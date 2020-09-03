@@ -1,5 +1,5 @@
 ---
-title: gRPC Best Practices
+title: gRPC Best Practices for .NET
 author: Jason Gaylord
 date: 2020-09-08
 categories: [api,architecture,dev,dotnet,microsoft]
