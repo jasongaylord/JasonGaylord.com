@@ -20,4 +20,8 @@ During [Alexa Live 2020](https://jasong.us/3h1o9lw), Amazon announced a new Alex
 
 Good luck if you choose to participate. I'm interested in seeing what you build. Let me know on my website at [https://jasong.us/30QutWK](https://jasong.us/30QutWK).
 
+{% include info-notice.html %}
+<strong>Tip:</strong> Are you looking to get started using .NET? Check out <a href="https://jasong.us/2CDXSv0">my post at jasong.us/2CDXSv0</a>.
+{% include end-notice.html %}
+
 {% include link-thumbnail.html path="2020/07/30/alexa-skills-challenge.png" alt="Alexa Skills Challenge: Alexa Conversations" url="https://jasong.us/30UbDhr" %}
