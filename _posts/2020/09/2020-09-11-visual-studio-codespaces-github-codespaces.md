@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/09/11/codespaces-icon.png
 bitly: https://jasong.us/3m97oZd
 ---
 
-Back in November 2019, Microsoft announced Visual Studio Online. In May, this was renamed to [Microsoft Codespaces](https://jasong.us/3aYeKYL). Visual Studio Codespaces allows fully-managed on-demand development environments in Azure. They are still available and other than a [blog post last Friday](https://jasong.us/3bN3vo3), you may not be aware they are going away. The current offering will be officially retired in February 2021. What its being replaced with is [GitHub Codespaces](https://jasong.us/35pmaoT). 
+Back in November 2019, Microsoft announced Visual Studio Online. In May, this was renamed to [Visual Studio Codespaces](https://jasong.us/3aYeKYL). Visual Studio Codespaces allows fully-managed on-demand development environments in Azure. They are still available and other than a [blog post last Friday](https://jasong.us/3bN3vo3), you may not be aware they are going away. The current offering will be officially retired in February 2021. What its being replaced with is [GitHub Codespaces](https://jasong.us/35pmaoT). 
 
 So, what's the problem?
 
