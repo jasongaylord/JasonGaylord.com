@@ -19,7 +19,7 @@ It's not the [first time](https://jasong.us/3dpAu1B) I've reflected back to 9/11
 
 {% include open-thumbnail.html path="2020/09/11/160618.jpg" alt="Lady Liberty from the One World Trade Center Observation Deck" %}
 
-{% include open-thumbnail.html path="2020/09/11/153442.jpg" alt="World Trade Center Memorial %}
+{% include open-thumbnail.html path="2020/09/11/153442.jpg" alt="World Trade Center Memorial" %}
 
 After these tragic events, I never felt more proud to be part of this country and unified to fight terrorism. Terrorism takes many forms and as of late, we've been experiencing cowardly acts of domestic terrorism. While we cannot rewrite the historic event of 9/11, we can properly write the history from this day forward. Regardless of where we've come from or where we've been, we all belong. For those of us living in these United States, we're all Americans. Proud Americans. In One America.
 
