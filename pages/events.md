@@ -10,6 +10,7 @@ permalink: /upcoming-tech-events/
 As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
 
 #### September 2020
+- 9/15: [Apple Event](https://jasong.us/3bUAhUi)
 - 9/22-24: [Microsoft Ignite Digital Event](https://jasong.us/3gZlOIo)
 - 9/29: [AWS Summit Online](https://jasong.us/3gVfIb6)
 
@@ -21,5 +22,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 10/19-22: [TechBash 2021](https://jasong.us/37lAkGe)
 
 #### Recent On Demand Content
+- [Remote Engineering DevOps Summit](https://jasong.us/3bTNI6P)
 - [Azure Hybrid Virtual Event On Demand](https://jasong.us/3g9Uhmo)
 - [Static Web App Workshop](https://jasong.us/3f7QBkz)
