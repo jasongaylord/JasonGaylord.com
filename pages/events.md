@@ -11,6 +11,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### September 2020
 - 9/15: [Apple Event](https://jasong.us/3bUAhUi)
+- 9/16: [PlayStation 5 Showcase](https://jasong.us/3keOcHJ)
 - 9/22-24: [Microsoft Ignite Digital Event](https://jasong.us/3gZlOIo)
 - 9/29: [AWS Summit Online](https://jasong.us/3gVfIb6)
 
