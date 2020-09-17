@@ -153,4 +153,6 @@ The deprecated property only notifies that an API is going to be deprecated thro
 {% include end-notice.html %}
 
 ## Conclusion
-In this post we reviewed how to create API versioning a few different ways, We covered how to using routing, HTTP headers, and query strings to choose a version. We also covered how to announce an upcoming API will be deprecated.
+In this post we reviewed how to create API versioning a few different ways, We covered how to using routing, HTTP headers, and query strings to choose a version. We also covered how to announce an upcoming API will be deprecated. You can also clone my project and look to see how I structured the code mentioned above:
+
+{% include github-clone.html bitly="jasong.us/2ZOq8DH" repo="jasongaylord/apiversioningdemo" branch="final" %}
