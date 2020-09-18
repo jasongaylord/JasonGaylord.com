@@ -6,7 +6,7 @@ categories: [api,architecture,dev,dotnet]
 tags:  [api,architecture,dev,dotnet]
 post-number: 1043
 image: https://cdn.jasongaylord.com/images/2020/09/18/postman-api-supported-versions.jpg
-bitly: https://jasong.us/3hDX3Ba
+bitly: https://jasong.us/3mwJBTd
 ---
 
 In recent years, the REST architecture style has been used heavily with web services. Providers of REST web services may need to allow for multiple versions as they may have customers who cannot support a new version or may be testing a new feature. There are plenty of folks that feel passionate about whether or not versioning should take place using REST. Since 2016, there have been many enhancements to a GitHub project called [`aspnet-api-versioning`](https://jasong.us/2E5sHcS). In this post, I'll cover some of the latest enhancements and how to use the package for .NET Core.
