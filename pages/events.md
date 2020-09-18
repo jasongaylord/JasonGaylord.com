@@ -19,6 +19,9 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 10/26-27: [DevIntersection Virtual Workshop Event](https://jasong.us/31pTjOF)
 - 10/29: Live Coders Conf 3
 
+#### November 2020
+- 11/12: [All Day DevOps](https://jasong.us/2HaQKsd)
+
 #### October 2021
 - 10/19-22: [TechBash 2021](https://jasong.us/37lAkGe)
 
