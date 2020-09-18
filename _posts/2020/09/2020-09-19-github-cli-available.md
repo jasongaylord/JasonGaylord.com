@@ -27,6 +27,14 @@ As well as many others. At any type you can use `gh help` to get more informatio
 gh issue list -R jasongaylord/jasongaylord.com
 ```
 
+I was curious how easy it was to create a pull request and use the schedule GitHub action as I documented at [jasong.us/334qCIo](https://jasong.us/334qCIo). To use the `gh pr` command, you must navigate to the physical folder of your repository. Then, you can use the command similar to this:
+
+```shell
+gh pr create -B BASE_BRANCH_NAME -H BRANCH_NAME -t "Title of PR" -b "/schedule 2020-09-19"
+```
+
+Be sure to replace the `BASE_BRANCH_NAME` with your default branch name, `BRANCH_NAME` with your feature branch name, and the title and body values as you plan. You can use other switches to assign the PR to a team mate if you'd like. Upon success, you'll receive a message similar to **Creating pull request for 20200919 into master in jasongaylord/JasonGaylord.com**.
+
 Try it for yourself!
 
 {% include link-thumbnail.html path="2020/09/19/github-cli-issue-list.jpg" alt="Download the GitHub CLI" url="https://jasong.us/3cdCkD4" %}
