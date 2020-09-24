@@ -269,3 +269,8 @@ p code {
         color: $color-redorange!important;
     }
 }
+
+.gist-file {
+    max-height: 600px;
+    overflow-y: auto;
+}
