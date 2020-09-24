@@ -2,8 +2,8 @@
 title: Windows Insider Includes Meet Now
 author: Jason Gaylord
 date: 2020-09-28
-categories: [hardware,security,tip]
-tags:  [hardware,security,tip]
+categories: [collaboration,microsoft,windows]
+tags:  [collaboration,microsoft,windows]
 post-number: 1053
 image: https://cdn.jasongaylord.com/images/2020/09/28/meet-now-win10.jpg
 bitly: https://jasong.us/3mOTmwe
