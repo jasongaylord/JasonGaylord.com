@@ -10,8 +10,6 @@ permalink: /upcoming-tech-events/
 As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
 
 #### September 2020
-- 9/22-24: [Microsoft Ignite Digital Event](https://jasong.us/3gZlOIo)
-- 9/23: [Apple Event](https://jasong.us/3bUAhUi)
 - 9/29: [Samsung Unpacked Event](https://jasong.us/3kdl57I)
 
 #### October 2020
