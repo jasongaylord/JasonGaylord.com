@@ -1,12 +1,12 @@
 ---
 title: I'm Hiring a Business Analyst with P&C Insurance Experience
 author: Jason Gaylord
-date: 2020-09-31
+date: 2020-10-01
 categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
 post-number: 1056
-image: https://cdn.jasongaylord.com/images/2020/09/31/biberk-it-careers.jpg
-bitly: https://jasong.us/33gPlJ5
+image: https://cdn.jasongaylord.com/images/2020/10/01/biberk-it-careers.jpg
+bitly: https://jasong.us/3n2e8IJ
 ---
 
 We're continuing to add more available roles. Previously, I mentioned that we're hiring [full stack developers](https://jasong.us/3caFFmi) as well as [.NET developers](https://jasong.us/3m4UVFS). In addition to these roles, I'm now also looking for a [business analyst](https://jasong.us/34dGU0A) that has commercial Property and Casualty experience.
