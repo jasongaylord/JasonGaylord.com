@@ -9,9 +9,6 @@ permalink: /upcoming-tech-events/
 
 As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
 
-#### September 2020
-- 9/30: [Google Launch Night](https://jasong.us/2S5VXUk)
-
 #### October 2020
 - 10/13-14: [Amazon Prime Day](https://www.amazon.com/primeday/ref=as_li_ss_tl?pf_rd_r=7J3Z2BH48AN4J63019PZ&pf_rd_p=8d8ba285-d712-4d2f-b671-dd7badc6efff&linkCode=ll2&tag=jasongaylor01-20&linkId=c234894900d60c727ea4ad95e180afd3&language=en_US)
 - 10/20: [Adobe MAX 2020 Digital Event](https://jasong.us/3kTtoa0)
