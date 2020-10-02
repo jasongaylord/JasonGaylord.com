@@ -126,3 +126,8 @@ Now, we can run our function from within Visual Studio Code. To do this, hit the
 ```json
 [{"isAvailable":false,"url":"https://www.walmart.com/ip/Xbox-Series-X/443574645"},{"isAvailable":true,"url":"https://www.walmart.com/ip/Microsoft-Xbox-One-S-1TB-All-Digital-Edition-Console-Disc-free-Gaming-White-NJP-00024/560014078"}]
 ```
+
+## Conclusion
+In this post we created a new Azure Function, built the function using VS Code, and connected to Walmart.com to obtain product information. If you're interested in reviewing the finished product, be sure to check out the repository below:
+
+{% include github-browse.html bitly="jasong.us/3cRJdKo" repo="jasongaylord/ScreenScraper" branch="main" %}
