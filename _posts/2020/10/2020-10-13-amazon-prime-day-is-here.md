@@ -41,4 +41,25 @@ Amazon Prime Day is here. Here are some highlights from the special day, which a
 - [Toshiba 43" 4k Fire TV](https://www.amazon.com/Toshiba-TF-43A810U21-43-inch-4K-UHD/dp/B0875GMMXD/ref=as_li_ss_tl?smid=ANSF0RE9FUP82&linkCode=ll1&tag=jasongaylor01-20&linkId=2c5f0447e57c5888d000388f2542ec82&language=en_US) - ~~$329.99~~ $209.99
 - [Toshiba 50" 4k Fire TV](https://www.amazon.com/All-New-Toshiba-50LF621U21-50-inch-Vision/dp/B086VR2KY8/ref=as_li_ss_tl?smid=ANSF0RE9FUP82&linkCode=ll1&tag=jasongaylor01-20&linkId=638559f3bbfc81bb210ffc89870b1bfe&language=en_US) - ~~$379.99~~ $259.99
 
+## Other Technology Devices
+- [Apple AirPods with Charging Case](https://www.amazon.com/Apple-AirPods-Charging-Latest-Model/dp/B07PXGQC1Q/ref=as_li_ss_tl?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=460c94ce2275e73c99f7e1c1236a7b0f&language=en_US) - ~~$159.00~~ $114.99
+- [August Smart Lock Pro and Echo Dot 3rd Generation](https://www.amazon.com/deal/f7614bbe/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=145725deb7a7633f843e5132c7de6a5d&language=en_US) - Starting at ~~$248.21~~ $154.99
+- [Fitbit Aria Body Weight and BMI Scales](https://www.amazon.com/deal/4d588dad/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=1697eb85b34443eb62035fdfb3e91753&language=en_US) - ~~$49.95~~ $34.95
+- [Fitbit GPS Watches](https://www.amazon.com/deal/4d588dad/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=1697eb85b34443eb62035fdfb3e91753&language=en_US) - Starting at ~~$159.95~~ $69.95
+- [Fossil, Michael Kors, Kate Spade and other Android Smart Watches](https://www.amazon.com/deal/c9b68e4f/ref=as_li_ss_tl?&searchAlias=fashion&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=96d7cc4b6abf2c230932deb087ade569&language=en_US) - Starting at ~~$295.00~~ $189.00
+- [Garmin GPS Watches](https://www.amazon.com/deal/48f7e3ba/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=978064512314fb036e6cd18f28edfef0&language=en_US) - Starting at ~~$199.99~~ $99.99
+- [Google Pixel 4 and 4XL](https://www.amazon.com/deal/8a6c63a7/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=f48569072bff673ad174cd1ea5a5f0a5&language=en_US) - ~~$799.00~~ $449.00
+
+## Household Devices
+- [iRobot Roomba Products](https://www.amazon.com/deal/c72bf6f4/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=e0acae4e80342e2255b19237ebb70084&language=en_US) - Starting at ~~$319.99~~ $199.99
+- [MyQ Smart Garage Door Opener](https://www.amazon.com/Smart-Garage-Opener-Chamberlain-MYQ-G0301/dp/B075H7Z5L8/ref=as_li_ss_tl?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=ef29c5432f4b17f315fcf6dd43fc1d05&language=en_US) - ~~$39.98~~ $16.98
+- [Shark Vacuums](https://www.amazon.com/deal/18dafe00/ref=as_li_ss_tl?showVariations=true&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=bdc0a045e92787d33aa6160215796420&language=en_US) - Starting at~~$229.99~~ $127.99
+- [T-Fal Cookware](https://www.amazon.com/apb/page/ref=as_li_ss_tl?handlerName=OctopusDealLandingStream&deals=3404010a&marketplaceId=ATVPDKIKX0DER34474c64&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=960e500a4fb36719654dc95460cc35b4&language=en_US) - Starting at ~~$55.93~~ $28.85
+
+## Household Supplies
+- [Face masks](https://www.amazon.com/deal/c4c07431/ref=as_li_ss_tl?&searchAlias=fashion&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=d5a236dd1fbc62221bf233750cb3ca06&language=en_US) - Starting at ~~$9.35~~ $6.31
+
+## Apparel and Fashion
+- [Oakley Sunglasses and Apparel](https://www.amazon.com/deal/a8319954/ref=as_li_ss_tl?&searchAlias=fashion&smid=ATVPDKIKX0DER&linkCode=ll2&tag=jasongaylor01-20&linkId=d2457e68aefc62a9b53947e4004ae8c4&language=en_US) - Starting at ~~$30.00~~ $15.38
+
 {% include link-thumbnail.html path="2020/10/13/amazon-prime-day-logo.jpg" alt="Amazon Prime Day" url="https://jasong.us/312rOdz" %}
