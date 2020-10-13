@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/10/13/amazon-prime-day-logo.jpg
 bitly: https://jasong.us/3lEz6fn
 ---
 
-Amazon Prime Day is here. Here are some highlights from the special day, which is found at [amazon.com/events/primeday](https://jasong.us/312rOdz):
+Amazon Prime Day is here. Here are some highlights from the special day, which are found at [amazon.com/events/primeday](https://jasong.us/312rOdz):
 
 ## Amazon Echo Devices
 - [Echo Dot 3rd Generation](https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R/ref=as_li_ss_tl?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=1950b48286a830a45a6a777078034c9d&language=en_US) - ~~$49.99~~ $18.99
