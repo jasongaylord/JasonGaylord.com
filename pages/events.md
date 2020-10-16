@@ -15,6 +15,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 10/29: Live Coders Conf 3
 
 #### November 2020
+- 11/10-12: [.NET Conf 2020 + .NET 5 Launch](https://jasong.us/34YdZxG)
 - 11/12: [All Day DevOps](https://jasong.us/2HaQKsd)
 
 #### October 2021
