@@ -13,4 +13,6 @@ Microsoft has announced that during .NET Conf, which will take place November 10
 
 Learn from some of the top speakers in the industry including Maria Nagagga, Scott Hanselman, Maddy Leger, Leslie Richardson, Carl Franklin, Kathleen Dollard, Mads Torgersen, and more! Visit [dotnetconf.net](https://jasong.us/3lTnkhb) for more details.
 
+Also, if you are planning on upgrading to .NET 5, be sure to follow the migration path outlined here: [jasong.us/2H7h9Hk](https://jasong.us/2H7h9Hk)
+
 {% include link-thumbnail.html path="2020/10/19/dotnet-conf-dotnet5-launch.jpg" alt=".NET Conf" url="https://jasong.us/3lTnkhb" %}
