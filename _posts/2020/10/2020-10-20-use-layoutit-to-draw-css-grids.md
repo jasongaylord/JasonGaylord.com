@@ -6,7 +6,7 @@ categories: [css,design,dev,web]
 tags:  [css,design,dev,web]
 post-number: 1077
 image: https://cdn.jasongaylord.com/images/2020/10/20/layoutit.jpg
-bitly: https://jasong.us/37o8b3E
+bitly: https://jasong.us/3kjGdcI
 ---
 
 [Layoutit!](https://jasong.us/2IMM8t9) is an interactive CSS grid generator that allows you to create grids visually then move the CSS and HTML you've created to CodePen quickly and easily. 
