@@ -10,7 +10,6 @@ permalink: /upcoming-tech-events/
 As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
 
 #### October 2020
-- 10/20: [Adobe MAX 2020 Digital Event](https://jasong.us/3kTtoa0)
 - 10/26-27: [DevIntersection Virtual Workshop Event](https://jasong.us/31pTjOF)
 - 10/29: Live Coders Conf 3
 
