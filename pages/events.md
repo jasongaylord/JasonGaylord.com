@@ -11,7 +11,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### October 2020
 - 10/26-27: [DevIntersection Virtual Workshop Event](https://jasong.us/31pTjOF)
-- 10/29: Live Coders Conf 3
+- 10/29: [Live Coders Conf 3](https://jasong.us/3dOjF1w)
 
 #### November 2020
 - 11/10-12: [.NET Conf 2020 + .NET 5 Launch](https://jasong.us/34YdZxG)
