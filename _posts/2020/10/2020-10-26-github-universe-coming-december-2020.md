@@ -2,8 +2,8 @@
 title: GitHub Universe coming in December 2020
 author: Jason Gaylord
 date: 2020-10-26
-categories: [dev,devops,events]
-tags:  [dev,devops,events]
+categories: [dev,devops,events,github]
+tags:  [dev,devops,events,github]
 post-number: 1083
 image: https://cdn.jasongaylord.com/images/2020/10/26/github-universe.jpg
 bitly: https://jasong.us/3jqec26
