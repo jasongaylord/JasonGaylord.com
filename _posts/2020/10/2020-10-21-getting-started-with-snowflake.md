@@ -12,9 +12,9 @@ bitly: https://jasong.us/31q1EkS
 [Snowflake](https://jasong.us/3kiZ4ol) is a "data warehouse as a service" platform that has been around publicly since October 2014. Just last month the company went public with its IPO on NYSE and was the highest valued software IPO ever. The service allows organizations to query all of it's data at once and assists with getting a data warehouse setup quickly. Think of it as being the new cool kid on the block within the big data space. 
 
 In this article we'll:
-- [Setup Your Snowflake Account](#Setup-Your-Snowflake-Account)
-- [Query Snowflake Sample Data](#Query-Snowflake-Sample-Data)
-- [Bring Your Own Data](#Bring-Your-Own-Data)
+- [Setup Your Snowflake Account](#setup-your-snowflake-account)
+- [Query Snowflake Sample Data](#query-snowflake-sample-data)
+- [Bring Your Own Data](#bring-your-own-data)
 
 ## Setup Your Snowflake Account
 When setting up Snowflake, you'll choose the edition of Snowflake you'd like to target as well as the cloud provider you'd like to host Snowflake with:
