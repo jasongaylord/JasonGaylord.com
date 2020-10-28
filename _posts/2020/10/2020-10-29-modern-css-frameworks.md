@@ -86,4 +86,4 @@ The same applies to JavaScript. There are over 3000 theme variables, 50 UI compo
 Like the others, [Bulma](https://jasong.us/3jA8kmL) is a free, open source CSS framework. Bulma bases everything in the framework off on `flexbox`. It is one of the simplest grid systems you'll find. Also, like many of the others, it's quick and simple to customize as it also uses SASS. There are no JavaScript frameworks that are required. To learn more about bulma, visit [bulma.io](https://jasong.us/3jA8kmL).
 
 ## Bonus: Milligram
-Back in July, I [posted about Milligram](https://jasong.us/32RQzL5), a minimalist CSS framework. Milligram is still heavier than Pure, but a very good framework for the minimalist developer. Be sure to check out my post at [jasong.us/32RQzL5](https://jasong.us/32RQzL5)
+Back in July, I [posted about Milligram](https://jasong.us/32RQzL5), a minimalist CSS framework. Milligram is even lighter than Pure at just 2KB and is a very good framework for the minimalist developer. Be sure to check out my post at [jasong.us/32RQzL5](https://jasong.us/32RQzL5)
