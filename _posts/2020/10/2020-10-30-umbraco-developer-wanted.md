@@ -5,7 +5,7 @@ date: 2020-10-30
 categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
 post-number: 1088
-image: https://cdn.jasongaylord.com/images/2020/10/30/
+image: https://cdn.jasongaylord.com/images/2020/10/30/biberk-it-careers.jpg
 bitly: https://jasong.us/37St3A4
 ---
 
