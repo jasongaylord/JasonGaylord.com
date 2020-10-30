@@ -16,3 +16,5 @@ This is the second time GitHub has released a list of games like this. Last year
 For this year's games, click the GitHub Mummy Cat below:
 
 {% include link-thumbnail.html path="2020/10/31/mummytocat.gif" alt="13 ghoulish games to play, hack and slash this weekend" url="https://jasong.us/37UuWfN" %}
+
+<strong>From our family to yours, please be safe and healthy this Halloween!</strong>
