@@ -9,19 +9,22 @@ permalink: /upcoming-tech-events/
 
 As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
 
-#### October 2020
-- 10/29: [Live Coders Conf 3](https://jasong.us/3dOjF1w)
+## 2020
 
-#### November 2020
+#### November
 - 11/10-12: [.NET Conf 2020 + .NET 5 Launch](https://jasong.us/34YdZxG)
 - 11/12: [All Day DevOps](https://jasong.us/2HaQKsd)
 - 11/17: [Data Cloud Summit 2020 Presented by Snowflake](https://jasong.us/3dJrJ3A)
-- 11/17-19: [Postman Galaxy 2020](https://jasong.us/35ynB2F)
 
-#### December 2020
+#### December
 - 12/8-10: [GitHub Universe](https://jasong.us/3kou1Yt)
 
-#### October 2021
+## 2021 
+
+#### February
+- 2/2-4: [Postman Galaxy](https://jasong.us/35ynB2F)
+
+#### October
 - 10/19-22: [TechBash 2021](https://jasong.us/37lAkGe)
 
 #### Recent On Demand Content

@@ -2,8 +2,8 @@
 title: Dapr v0.8.0 Released
 author: Jason Gaylord
 date: 2020-06-11
-categories: [development]
-tags:  [development]
+categories: [dev]
+tags:  [dev]
 post-number: 936
 image: https://cdn.jasongaylord.com/images/2020/06/11/dapr-v0.8.0.jpg
 bitly: https://jasong.us/30vsit2

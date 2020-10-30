@@ -5,8 +5,8 @@ cloudscribe_id: "97689e0c-737e-4e9b-8232-218aa4933630"
 cloudscribe_path: "/blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-2"
 permalink: /blog/creating-a-twitter-viewcomponent-in-aspnet-core-–-part-2
 date: 2018-11-07
-categories: [development]
-tags:  [development]
+categories: [dev,dotnet]
+tags:  [dev,dotnet]
 bitly: https://jasong.us/2PbDOpg
 ---
 
