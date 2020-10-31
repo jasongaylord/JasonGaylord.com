@@ -23,7 +23,7 @@ For now, I'd recommend starting with a brand new repository. I created one that 
 {% include github-generate.html bitly="jasong.us/3oHblpk" repo="jasongaylord/hostman" %}
 
 {% include warning-notice.html %}
-At the time of this post, you may need to first give access to your specific repository. However, the app may fail to load it properly, especially if it's truly a static app. So, go back to Create the resource as a generic repository and submit your URL. In my case, it's https://github.com/jasongaylord/hostman. 
+At the time of this post, you may need to first give access to your specific repository. However, the app may fail to load it properly, especially if it's truly a static app. So, go back to Create the resource as a generic repository and submit your URL. In my case, it's https://github.com/jasongaylord/hostman. Also note that if you are using a public repository, your site will not auto-deploy on update. That is the correct behavior. However, it will auto-deploy from a private repository.
 {% include end-notice.html %}
 
 When you attempt to choose a project, choose the appropriate project from the list:
@@ -34,8 +34,8 @@ In my case, I then set the framework as a _Static website_ and choose _Deploy_ l
 
 {% include open-thumbnail.html path="2020/11/02/hostman-website-configuration.jpg" alt="Hostman project configuration" %}
 
-{% include warning-notice.html %}
-However, at this time, I cannot create the app without an error occuring. It appears that the wizard struggles with a lack of framework and installs Vue.js anyway.
+{% include info-notice.html %}
+During my testing of Hostman, I had several minor issues. Each time their support team jumped on the issue and resolved within an hour or two.
 {% include end-notice.html %}
 
 I'm interested to hear if you are trying out this new service and what you're using it for. Let me know using the comments below.
