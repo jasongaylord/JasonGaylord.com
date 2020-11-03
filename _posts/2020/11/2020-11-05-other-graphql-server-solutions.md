@@ -2,8 +2,8 @@
 title: Other GraphQL Server Solutions Besides Hot Chocolate
 author: Jason Gaylord
 date: 2020-11-05
-categories: [api,architecture,data,dev,dotnet]
-tags:  [api,architecture,data,dev,dotnet]
+categories: [api,architecture,cms,data,dev,dotnet]
+tags:  [api,architecture,cms,data,dev,dotnet]
 post-number: 1094
 image: https://cdn.jasongaylord.com/images/2020/11/05/graphcms-demo.jpg
 bitly: https://jasong.us/3kYujFu
