@@ -203,4 +203,4 @@ Once Banana Cake Pop is downloaded, open it up and navigate to your GraphQL endp
 {% include open-thumbnail.html path="2020/11/03/hot-chocolate-graphql-banana-cake-pop.jpg" alt="Testing our GraphQL Endpoint in Banana Cake Pop" %}
 
 ## Summary
-Today we learned how to get started with GraphQL by creating an empty ASP.NET application, installing SQLite, GraphQL, and Entity Framework Core, and testing our application using Banana Cake Pop. Tomorrow we'll add data and test out our application some more.
+Today we learned how to get started with GraphQL by creating an empty ASP.NET application, installing SQLite, GraphQL, and Entity Framework Core, and testing our application using Banana Cake Pop. Ready to continue? [Visit Part 2](https://jasong.us/3oRfFlT) to discover how to add data using GraphQL and Mutations. 
