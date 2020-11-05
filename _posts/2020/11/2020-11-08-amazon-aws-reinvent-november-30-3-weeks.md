@@ -2,8 +2,8 @@
 title: "AWS re:Invent Coming Nov 30 as 3 Week Event"
 author: Jason Gaylord
 date: 2020-11-08
-categories: [amazon,events]
-tags:  [amazon,events]
+categories: [amazon,cloud,events]
+tags:  [amazon,cloud,events]
 post-number: 1097
 image: https://cdn.jasongaylord.com/images/2020/11/08/aws-reinvent-register-now.jpg
 bitly: https://jasong.us/2TWIHSX
