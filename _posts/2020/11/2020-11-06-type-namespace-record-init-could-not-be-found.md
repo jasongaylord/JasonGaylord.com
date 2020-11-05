@@ -19,4 +19,12 @@ error CS0246: The type or namespace name 'record' could not be found (are you mi
 
 {% include open-thumbnail.html path="2020/11/06/type-namespace-record-not-found-error.jpg" alt="The type or namespace name 'record' could not be found (are you missing a using directive or assembly reference?" %}
 
+I also notice the following exception when debugging in VS Code:
+
+```shell
+Predefined type 'System.Runtime.CompilerServices.IsExternalInit' is not defined or imported
+```
+
+{% include open-thumbnail.html path="2020/11/06/isexternalinit-not-defined-or-imported.jpg" alt="Predefined type 'System.Runtime.CompilerServices.IsExternalInit' is not defined or imported" %}
+
 This lead me to search for this error online. During an earlier build of .NET 5.0, both the `record` type as well as [`init` setters](https://jasong.us/34VgRwy) were accidentally unavailable as the `IsExternalInit` class was set as `static` instead of `sealed`. This is [explained in issue 37763](https://jasong.us/3oWN6mZ). Luckily, by removing the old .NET 5.0 SDK and [installing the new version](https://jasong.us/2zXE2ty) solved this issue. 
