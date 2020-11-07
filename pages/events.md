@@ -12,6 +12,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2020
 
 #### November
+- 11/10: [Apple One More Thing](https://jasong.us/2TWIHSX)
 - 11/10-12: [.NET Conf 2020 + .NET 5 Launch](https://jasong.us/34YdZxG)
 - 11/12: [All Day DevOps](https://jasong.us/2HaQKsd)
 - 11/17: [Data Cloud Summit 2020 Presented by Snowflake](https://jasong.us/3dJrJ3A)
