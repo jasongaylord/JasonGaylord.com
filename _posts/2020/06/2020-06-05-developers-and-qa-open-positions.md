@@ -37,3 +37,5 @@ I'm hiring! I'm currently looking to fill a variety of roles as our organization
 While we started on this journey 4 years ago under the stable, Berkshire Hathaway organization, we have not lost our touch with agility or the startup culture.
 
 ![](https://cdn.jasongaylord.com/images/2020/05/15/biberk-careers-page.jpg)
+
+{% include job-opportunities.html %}
