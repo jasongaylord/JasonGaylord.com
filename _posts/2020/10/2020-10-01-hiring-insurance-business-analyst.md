@@ -28,3 +28,5 @@ Here's a quick look at the qualifications:
 If this sounds like something of interest then let's chat. Visit [jasong.us/34dGU0A](https://jasong.us/34dGU0A) and apply so we can talk!
 
 {% include link-thumbnail.html path="2020/10/01/biberk-it-careers.jpg" alt="biBERK IT Job Openings" url="https://jasong.us/3mvKr2y" %}
+
+{% include job-opportunities.html intro="In addition to the business analyst opening, I have several other openings. " %}
