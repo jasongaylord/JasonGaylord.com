@@ -17,6 +17,6 @@ In addition to the new MacBook Air, a new Mac Mini, which sports the M1 processo
 
 Last, but not least, Apple announced a refreshed MacBook Pro 13" with up to 20 hours of battery life. This device starts at $1299 for the 256GB version. If you need more storage, the 512GB model is $1499, $300 cheaper than it's Intel i5 cousin.
 
-The Apple event seems to have overthrown any buzz surrounding the Xbox launch day. In addition to the Apple event, Microsoft seems to be struggling to fulfill pre-orders and get supply to retailers. Some who have pre-ordered from either Amazon or Best Buy received an email stating that their order has been delayed and that pre-orders should be filled by December 31st. In fact, several resellers are now trying to make a mint by selling the [Xbox Series X](https://amzn.to/36mHU3w) on Amazon as a "collectible" for $1200 or more.
+The Apple event seems to have overthrown any buzz surrounding the Xbox launch day. In addition to the Apple event, Microsoft seems to be struggling to fulfill pre-orders and get supply to retailers. Some who have pre-ordered from either Amazon or Best Buy received an email stating that their order has been delayed and that pre-orders should be filled by December 31st. Several resellers are now trying to make a mint by selling the [Xbox Series X](https://amzn.to/36mHU3w) on Amazon as a "collectible" for $1200 or more. It appears that many celebrities have received their devices.
 
 {% include link-thumbnail.html path="2020/11/11/xbox-launch-day.png" alt="Xbox Launch Day" url="https://amzn.to/36mHU3w" %}
