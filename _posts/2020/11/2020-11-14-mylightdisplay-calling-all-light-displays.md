@@ -6,7 +6,7 @@ categories: [holiday,personal,technology]
 tags:  [holiday,personal,technology]
 post-number: 1103
 image: https://cdn.jasongaylord.com/images/2020/11/14/calling-all-light-displays.png
-bitly: https://jasong.us/2UknP8a
+bitly: https://jasong.us/2UyYibv
 ---
 
 {% include link-thumbnail.html path="2020/11/14/calling-all-light-displays.png" alt="Calling All Light Displays" url="https://jasong.us/38zQbDW" %}
