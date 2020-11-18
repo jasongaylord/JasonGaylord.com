@@ -12,9 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2020
 
 #### November
-- 11/17: [Data Cloud Summit 2020 Presented by Snowflake](https://jasong.us/3dJrJ3A)
-- 11/18: [Open Azure Day, a Linux digital event](https://jasong.us/3kyy9Em)
-- 11/18: [Mathematical Planning with .NET Workshop](https://jasong.us/3putlDy)
 - 11/30-12/18: [AWS re:Invent](https://jasong.us/2TWIHSX)
 
 #### December
