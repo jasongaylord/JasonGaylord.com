@@ -5,11 +5,11 @@ date: 2020-11-23
 categories: [amazon,holiday,shopping]
 tags:  [amazon,holiday,shopping]
 post-number: 1110
-image: https://cdn.jasongaylord.com/images/2020/11/21/
+image: https://cdn.jasongaylord.com/images/2020/11/23/thepighero-400px.png
 bitly: https://jasong.us/3nKdwXG
 ---
 
-Amazon started their Black Friday week deals today starting at just **$9.99**. Be sure to follow the shopping deal bot I've created on Twitter at [@thepighero](https://jasong.us/3pOnWHT) as the bot posts deals from all over.
+Amazon started their Black Friday week deals today starting at just **$9.99**. Be sure to follow the shopping deal bot I've created on Twitter at [@thepighero](https://jasong.us/3pOnWHT). The deal bot finds the best deals from Amazon.com, eBay.com, and others.
 
 Here is what Amazon has on sale this week:
 
@@ -123,3 +123,7 @@ Here is what Amazon has on sale this week:
 - [Sony Noise Cancelling Headphones](https://www.amazon.com/Sony-WH-1000XM4-Canceling-Headphones-phone-call/dp/B0863TXGM3/ref=as_li_ss_tl?smid=ATVPDKIKX0DER&linkCode=ll1&tag=thepighero-20&linkId=17516ef379e036bda3281f890c525ff0&language=en_US) - **$278.00**
 - [Xbox Gears 5](https://www.amazon.com/s/ref=as_li_ss_tl?hidden-keywords=B013GZ67Y8+%7C+B07DJRPZWY+%7C+B00ZPT59YS+%7C+B07DJZHQPX+%7C+B08DD5559K+%7C+B083XW6CJN+%7C+B081472NC7+%7C+B07JVF7M28+%7C+B07DJY4FRP+%7C+B00DB9JV5W+%7C+B00ZMBMO06&smid=ATVPDKIKX0DER&ref=gbps_tit___b05bc17b&linkCode=ll2&tag=thepighero-20&linkId=fe527dce4de2aa1385afcbd61897b7c4&language=en_US) - **$9.99**
 - [Xbox Minecraft Dungeons Hero Edition](https://www.amazon.com/s/ref=as_li_ss_tl?hidden-keywords=B013GZ67Y8+%7C+B07DJRPZWY+%7C+B00ZPT59YS+%7C+B07DJZHQPX+%7C+B08DD5559K+%7C+B083XW6CJN+%7C+B081472NC7+%7C+B07JVF7M28+%7C+B07DJY4FRP+%7C+B00DB9JV5W+%7C+B00ZMBMO06&smid=ATVPDKIKX0DER&ref=gbps_tit___b05bc17b&linkCode=ll2&tag=thepighero-20&linkId=fe527dce4de2aa1385afcbd61897b7c4&language=en_US) - **$14.99**
+
+Remember, be sure to follow the shopping deal bot I've created on Twitter at [@thepighero](https://jasong.us/3pOnWHT).
+
+{% include link-thumbnail.html path="2020/11/23/thepighero-400px.png" alt="Follow @thepighero on Twitter" url="https://jasong.us/3pOnWHT" %}
