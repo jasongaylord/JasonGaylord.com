@@ -11,10 +11,8 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2020
 
-#### November
-- 11/30-12/18: [AWS re:Invent](https://jasong.us/2TWIHSX)
-
 #### December
+- 11/30-12/18: [AWS re:Invent](https://jasong.us/2TWIHSX)
 - 12/3: [Microsoft Virtual Government Summit](https://jasong.us/35G0OTU)
 - 12/4: [The Modern IT Infrastructure Summit](https://jasong.us/2UDkdyB)
 - 12/8-10: [GitHub Universe](https://jasong.us/3kou1Yt)
@@ -26,8 +24,3 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### October
 - 10/19-22: [TechBash 2021](https://jasong.us/37lAkGe)
-
-#### Recent On Demand Content
-- [Remote Engineering DevOps Summit](https://jasong.us/3bTNI6P)
-- [Azure Hybrid Virtual Event On Demand](https://jasong.us/3g9Uhmo)
-- [Static Web App Workshop](https://jasong.us/3f7QBkz)
