@@ -6,7 +6,7 @@ categories: [dev,devops,github]
 tags:  [dev,devops,github]
 post-number: 1118
 image: https://cdn.jasongaylord.com/images/2020/12/09/github-dark-theme.jpg
-bitly: https://jasong.us/2VVI0dC
+bitly: https://jasong.us/2K6AdXF
 ---
 
 Yesterday during GitHub Universe, one of the features that the GitHub team announced was a new dark theme for GitHub.com. 
