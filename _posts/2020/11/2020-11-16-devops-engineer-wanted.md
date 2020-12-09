@@ -11,8 +11,8 @@ bitly: https://jasong.us/2K84vJJ
 
 I'm hiring a DevOps Engineer for our growing team. This position is for biBERK, a direct insurance company. I'm looking for someone who can demonstrate sound experience with Azure and Azure DevOps. We're looking for someone interested in managing our CI/CD pipelines and the environments being setup by the pipelines. This position may also involve consultative work for other Berkshire Hathaway subsidiaries. 
 
-{% include link-thumbnail.html path="2020/11/16/devops-engineer-opening.jpg" alt=".NET Developer Opening" url="https://jasong.us/3531sdT" %}
+{% include link-thumbnail.html path="2020/11/16/devops-engineer-opening.jpg" alt="Azure DevOps Engineer Wanted" url="https://jasong.us/33ZTAst" %}
 
-You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2734/job](https://jasong.us/2U7cfNK).
+You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2734/job](https://jasong.us/33ZTAst).
 
 {% include job-opportunities.html intro="In addition to our DevOps Engineer opening, I have several other openings. " %}
