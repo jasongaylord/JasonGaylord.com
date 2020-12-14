@@ -13,7 +13,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### December
 - 11/30-12/18: [AWS re:Invent](https://jasong.us/2TWIHSX)
-- 12/8-10: [GitHub Universe](https://jasong.us/3kou1Yt)
 
 ## 2021 
 
