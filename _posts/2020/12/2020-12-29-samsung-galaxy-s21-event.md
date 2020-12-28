@@ -13,7 +13,7 @@ The Samsung Galaxy S21 announcement and release are both expected in January 202
 
 {% include open-thumbnail.html path="2020/12/29/samsung-virtual-waiting-room.jpg" alt="Samsung Virtual Waiting Room Credit" %}
 
-However, the phones may be announced earlier that week with CES 2021 kicking off on January 11th and wrapping up on January 14th. While Samsung is not slated for a keynote, there is a Verizon keynote on January 11th that may make mention to devices supporting the 5G network.
+However, the Samsung Galaxy S21 phones may be announced earlier that week. [CES 2021 will kick off](https://jasong.us/33ybHFK) on January 11th and wrap up on January 14th. While Samsung is currently not slated for a keynote, there is a Verizon keynote on January 11th that may make mention to devices supporting the 5G network including the new S21 lineup.
 
 You can join the virtual waiting room now and reserve the next galaxy smartphone by visiting [samsung.com/us/smartphones/the-next-galaxy/reserve/](http://jasong.us/3hpwNMr)
 
