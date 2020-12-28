@@ -11,9 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2020
 
-#### December
-- 11/30-12/18: [AWS re:Invent](https://jasong.us/2TWIHSX)
-
 ## 2021 
 
 #### January
