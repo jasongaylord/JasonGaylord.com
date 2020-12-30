@@ -35,6 +35,8 @@ I've also ventured into the eero Labs and found that if I enable band steering, 
 
 {% include open-thumbnail.html path="2020/12/30/eero-discover-band-steering.jpg" alt="Band steering in the eero Pro app" %}
 
+In the device list, I cannot find a way to remove a device once it connects to my WiFi. I can see offline devices and block a device, but I can't find a way to remove it from appearing. I already have devices that are no longer on my network and will never come back to my network.
+
 Overall, I've thought hard about this and on a scale of 1.0 to 10.0 where 10.0 is the highest, here are my scores:
 
 **Value**
