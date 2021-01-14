@@ -2,8 +2,8 @@
 title: Consumer Electronic Show 2021 (CES 2021) Registration Opens Today
 author: Jason Gaylord
 date: 2020-12-03
-categories: [events,tech]
-tags:  [events,tech]
+categories: [events,technology]
+tags:  [events,technology]
 post-number: 1117
 image: https://cdn.jasongaylord.com/images/2020/12/03/ces-2021.jpg
 bitly: https://jasong.us/33ybHFK
