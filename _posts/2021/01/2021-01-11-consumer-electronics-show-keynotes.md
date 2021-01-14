@@ -6,7 +6,7 @@ categories: [events,technology]
 tags:  [events,technology]
 post-number: 1125
 image: https://cdn.jasongaylord.com/images/2020/12/03/ces-2021.jpg
-bitly: https://jasong.us/35nxYHa
+bitly: https://jasong.us/3bgwRNo
 ---
 
 The Consumer Electronic Show 2021, also knows as CES 2021, kicks off today with many major announcements. Here is the schedule that has been posted so far. All times shown are in Eastern Standard Time:
