@@ -2,8 +2,8 @@
 title: Consumer Electronic Show 2021 (CES 2021) Press Schedule
 author: Jason Gaylord
 date: 2021-01-11
-categories: [events,tech]
-tags:  [events,tech]
+categories: [events,technology]
+tags:  [events,technology]
 post-number: 1125
 image: https://cdn.jasongaylord.com/images/2020/12/03/ces-2021.jpg
 bitly: https://jasong.us/35nxYHa
