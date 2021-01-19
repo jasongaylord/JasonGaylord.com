@@ -11,10 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### January
-- 1/11-14: [CES 2021](https://jasong.us/33ybHFK)
-- 1/14 [Samsung Galaxy S21 Announcement](https://jasong.us/3mVlgFE)
-
 #### February
 - 2/2-4: [Postman Galaxy](https://jasong.us/35ynB2F)
 
