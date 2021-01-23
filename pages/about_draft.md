@@ -19,7 +19,7 @@ Windows Advice Posts: 9 posts
 1 post in 07/06
 2 posts in 08/06
 
-825 posts as of end 5/2020 (not including missing posts)
+825 posts as of end 5/2020 (not including missing posts) 
 -->
 
 <!-- First ASP.NET Forum Post 
