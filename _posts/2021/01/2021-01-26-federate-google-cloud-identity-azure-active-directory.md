@@ -22,4 +22,4 @@ Microsoft also has an article to walk through these steps, which can be found at
 
 If all was successful, you'll see your users are added to Google and you'll see a successful sync in Azure AD like the one below:
 
-{% include link-thumbnail.html path="2021/01/26/sync-success.png" alt="A successful sync of two users to Google Cloud Identity" %}
+{% include open-thumbnail.html path="2021/01/26/sync-success.png" alt="A successful sync of two users to Google Cloud Identity" %}
