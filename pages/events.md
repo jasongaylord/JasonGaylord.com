@@ -11,9 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### January
-- 1/25: [IBM CIO Leadership Summit - Digital Event](http://jasong.us/3oe9ZRD)
-
 #### February
 - 2/2-4: [Postman Galaxy - Digital Event](https://jasong.us/35ynB2F)
 - 2/22-24: [Esri Federal GIS Conference - Digital Event](http://jasong.us/2LU4pGD)
