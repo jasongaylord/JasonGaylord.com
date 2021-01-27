@@ -2,8 +2,8 @@
 title: Amazon eero Pro 6 Mesh Network Review
 author: Jason Gaylord
 date: 2020-12-30
-categories: [amazon,hardware,home-automation,technology]
-tags:  [amazon,hardware,home-automation,technology]
+categories: [amazon,hardware,home-automation,review,technology]
+tags:  [amazon,hardware,home-automation,review,technology]
 post-number: 1121
 image: https://cdn.jasongaylord.com/images/2020/12/30/eero-pro-6.jpg
 bitly: https://jasong.us/37Wy7mS
@@ -54,3 +54,5 @@ Overall, I've thought hard about this and on a scale of 1.0 to 10.0 where 10.0 i
 ### Yes
 
 If you're interested in the eero Pro 6 line, [you can find it on Amazon](https://www.amazon.com/Amazon-eero-pro-6-3-pack/dp/B085VNCZHZ/ref=as_li_ss_tl?crid=BL6JW46RYZN2&dchild=1&keywords=eero+pro+6&qid=1609185458&sprefix=Eero+Pro,aps,441&sr=8-2&linkCode=ll1&tag=jasongaylor01-20&linkId=fba3c9621c1be1c6377472196ab3eae8&language=en_US) or other retailers.
+
+{% include snippets/product-reviews.html %}
