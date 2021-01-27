@@ -2,8 +2,8 @@
 title: "Review: Microsoft Your Phone App v1.20051.93"
 author: Jason Gaylord
 date: 2020-06-16
-categories: [hardware,microsoft]
-tags:  [hardware,microsoft]
+categories: [hardware,microsoft,review]
+tags:  [hardware,microsoft,review]
 post-number: 941
 image: https://cdn.jasongaylord.com/2020/06/16/microsoft-your-phone.png
 bitly: https://jasong.us/2C1SAJd

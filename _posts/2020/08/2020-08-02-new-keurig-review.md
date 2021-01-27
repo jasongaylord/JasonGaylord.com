@@ -2,8 +2,8 @@
 title: "Keurig Review: Out with the old, In with the new"
 author: Jason Gaylord
 date: 2020-08-02
-categories: [home-automation,shopping,technology]
-tags:  [home-automation,shopping,technology]
+categories: [home-automation,review,shopping,technology]
+tags:  [home-automation,review,shopping,technology]
 post-number: 992
 image: https://cdn.jasongaylord.com/images/2020/08/02/keurig-elite.jpg
 bitly: https://jasong.us/2DpDNIX

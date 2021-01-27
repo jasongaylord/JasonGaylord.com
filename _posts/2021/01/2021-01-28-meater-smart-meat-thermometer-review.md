@@ -2,8 +2,8 @@
 title: Meater Smart Meat Thermometer Review
 author: Jason Gaylord
 date: 2021-01-28
-categories: [hardware,home-automation,review,technology]
-tags:  [hardware,home-automation,review,technology]
+categories: [hardware,home-automation,review,shopping,technology]
+tags:  [hardware,home-automation,review,shopping,technology]
 post-number: 1131
 image: https://cdn.jasongaylord.com/images/2021/01/28/meater-block.jpg
 bitly: https://jasong.us/2Msxd9p

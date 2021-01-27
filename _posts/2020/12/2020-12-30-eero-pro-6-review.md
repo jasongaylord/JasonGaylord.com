@@ -2,8 +2,8 @@
 title: Amazon eero Pro 6 Mesh Network Review
 author: Jason Gaylord
 date: 2020-12-30
-categories: [amazon,hardware,home-automation,review,technology]
-tags:  [amazon,hardware,home-automation,review,technology]
+categories: [amazon,hardware,home-automation,review,shopping,technology]
+tags:  [amazon,hardware,home-automation,review,shopping,technology]
 post-number: 1121
 image: https://cdn.jasongaylord.com/images/2020/12/30/eero-pro-6.jpg
 bitly: https://jasong.us/37Wy7mS
