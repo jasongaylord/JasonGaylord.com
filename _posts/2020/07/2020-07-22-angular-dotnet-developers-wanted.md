@@ -33,4 +33,4 @@ To apply, click the image below:
 
 {% include link-thumbnail.html path="2020/07/22/biberk-it-job-listings.jpg" alt="biBERK is Hiring Angular developers and .NET developers" url="https://jasong.us/3fGi7GL" %}
 
-{% include job-opportunities.html intro="In addition to our .NET developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our .NET developer opening, I have several other openings. " %}

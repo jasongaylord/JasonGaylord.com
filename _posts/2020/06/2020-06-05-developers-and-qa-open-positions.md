@@ -40,4 +40,4 @@ To apply, click the image below:
 
 ![](https://cdn.jasongaylord.com/images/2020/05/15/biberk-careers-page.jpg)
 
-{% include job-opportunities.html %}
+{% include snippets/job-opportunities.html %}

@@ -37,7 +37,7 @@ I have yet another opening on my team. This opening is for an Umbraco Developer.
 
 If this position is of interest, let's chat. Visit [jasong.us/3mM0IQr](https://jasong.us/3mM0IQr) and apply so we can talk!
 
-{% include job-opportunities.html intro="In addition to our Umbraco developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Umbraco developer opening, I have several other openings. " %}
 
 For a complete listing of all biBERK IT openings, click the image below:
 

@@ -36,4 +36,4 @@ While we started on this journey 4 years ago under the stable, Berkshire Hathawa
 
 ![](https://cdn.jasongaylord.com/images/2020%2F05%2F15%2Fbiberk-careers-page.jpg)
 
-{% include job-opportunities.html intro="" %}
+{% include snippets/job-opportunities.html intro="" %}

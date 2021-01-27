@@ -15,4 +15,4 @@ I'm hiring an Full Stack Developer with Angular experience for our growing team.
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2810/job](https://jasong.us/38dF7vx).
 
-{% include job-opportunities.html intro="In addition to our Full Stack Developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Full Stack Developer opening, I have several other openings. " %}

@@ -21,4 +21,4 @@ While the title posted may be misleading, if any of the above are related to you
 
 {% include link-thumbnail.html path="2020/09/10/biberk-dotnet-developer.jpg" alt="Developer Openings for biBERK" url="https://jasong.us/3m4UVFS" %}
 
-{% include job-opportunities.html intro="" %}
+{% include snippets/job-opportunities.html intro="" %}

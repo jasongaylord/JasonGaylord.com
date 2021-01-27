@@ -15,4 +15,4 @@ I'm hiring a Business Analyst who has experience with Commercial Property and Ca
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2809/job](https://jasong.us/3nf4CRi).
 
-{% include job-opportunities.html intro="In addition to our Business Analyst opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Business Analyst opening, I have several other openings. " %}
