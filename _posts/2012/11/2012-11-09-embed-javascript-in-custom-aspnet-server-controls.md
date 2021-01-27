@@ -141,4 +141,4 @@ So, if you'd like to skip right to the demo without building it yourself, feel f
 
 Enjoy!
 
-[![Download](https://cdn.jasongaylord.com/images/_archive/Download.png)](https://jasong.us/3ougY9a)
+[![Download](https://cdn.jasongaylord.com/images/_archive/Download.png)](https://jasong.us/3ppyVH9)
