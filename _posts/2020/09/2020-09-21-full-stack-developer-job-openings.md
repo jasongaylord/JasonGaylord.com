@@ -32,4 +32,4 @@ Does this sound like a role that you'd be interested in? Let's chat. Visit [jaso
 
 {% include link-thumbnail.html path="2020/09/21/biberk-full-stack-developer-job-opening.jpg" alt="biBERK IT Job Openings" url="https://jasong.us/3mvKr2y" %}
 
-{% include job-opportunities.html intro="" %}
+{% include snippets/job-opportunities.html intro="" %}

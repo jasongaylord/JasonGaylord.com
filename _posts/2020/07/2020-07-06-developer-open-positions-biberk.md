@@ -35,4 +35,4 @@ To apply, click the image below:
 
 {% include link-thumbnail.html path="2020/07/06/biberk-it-job-listings.jpg" alt="biBERK is Hiring Application and Web Developers" url="https://jasong.us/3bwvs1M" %}
 
-{% include job-opportunities.html %}
+{% include snippets/job-opportunities.html %}

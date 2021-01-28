@@ -15,4 +15,4 @@ I'm hiring a DevOps Engineer for our growing team. This position is for biBERK, 
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2790/job](https://jasong.us/33ZTAst).
 
-{% include job-opportunities.html intro="In addition to our DevOps Engineer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our DevOps Engineer opening, I have several other openings. " %}

@@ -42,7 +42,7 @@ I have an additional opening on my team. This opening is for a DevOps Engineer. 
 
 If this sounds like something of interest then let's chat. Visit [jasong.us/2STSbhf](https://jasong.us/2STSbhf) and apply so we can talk!
 
-{% include job-opportunities.html intro="In addition to our DevOps engineer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our DevOps engineer opening, I have several other openings. " %}
 
 For a complete listing of all biBERK IT openings, click the image below:
 

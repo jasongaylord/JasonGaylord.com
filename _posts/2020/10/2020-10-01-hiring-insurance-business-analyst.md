@@ -29,4 +29,4 @@ If this sounds like something of interest then let's chat. Visit [jasong.us/34dG
 
 {% include link-thumbnail.html path="2020/10/01/biberk-it-careers.jpg" alt="biBERK IT Job Openings" url="https://jasong.us/3mvKr2y" %}
 
-{% include job-opportunities.html intro="In addition to the business analyst opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to the business analyst opening, I have several other openings. " %}

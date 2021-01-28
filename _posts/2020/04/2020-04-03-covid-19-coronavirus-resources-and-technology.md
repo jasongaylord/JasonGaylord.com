@@ -78,23 +78,4 @@ Here are a few helpful tips to stay safe during this time. Several of these tips
 10. **Wipe Down Surfaces Often** - Be sure to wipe down light switches, door knobs, counters, and other surfaces often. If you don't have Lysol or Clorox wipes, you can mix 4 teaspoons of Clorox with 1 quart of water. Be careful which solutions you use on electronics. You should not spray directly on electronics nor should you use a cloth that is saturated as you'll not only destroy the bacteria, but you'll also destroy the electronics.
 11. **Cover Coughs with your Elbow** - Do not cover your coughs with your hand, but rather your elbow. This will help to prevent moisture droplets to land on your hand and have you inadvertently touching objects.
 
-## Other Posts Related to COVID-19
-Below you'll find the list of other posts in the series:
-
-1. [COVID-19, Resources, and Technology](https://jasong.us/2wgSBqo)
-2. [Free Technical Training and Welcome Spring](https://jasong.us/2XeHw3W)
-3. [Use Docking Station from Home and Add Home Projects](https://jasong.us/3bRuoWK)
-4. [Technology Events in 2020](https://jasong.us/2wvKshS)
-5. [Google's Stadia Gaming Free for Two Months](https://jasong.us/2ySyXSR)
-6. [Debugging COVID-19 Data Using Excel](https://jasong.us/2K5BhHV)
-7. [Hiding Your Background When Working From Home](https://jasong.us/3enL8XE)
-8. [Pixel by LabCorp Releases At Home Test](https://jasong.us/2xVsplI)
-9. [Blockbuster Surviving Covid-19](https://jasong.us/2YduAvE)
-10. [DevAroundTheSun a 24-hour Fundraiser May 12](https://jasong.us/2VWxxzm)
-11. [Repairing My Lenovo Yoga Pro 2](https://jasong.us/370OTzb)
-12. [Hard Drive Docking Station](https://jasong.us/3clW9GH)
-13. [TechBash 2020, TechBash 2021, and COVID-19](https://jasong.us/37lAkGe)
-14. [2020 Year in Review Thus Far](https://jasong.us/3ghednP)
-15. [COVID-19 and Work From Home Update](https://jasong.us/32YszWI)
-16. [CodeMash 2021 is Cancelled](https://jasong.us/2Y22l2u)
-17. [Comcast Xfinity Data Cap Enforcement](https://jasong.us/36h7TtT)
+{% include snippets/covid19.html %}

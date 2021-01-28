@@ -2,8 +2,8 @@
 title: "Review: Slipstick Rollerblade Casters"
 author: Jason Gaylord
 date: 2020-06-15
-categories: [amazon,hardware]
-tags:  [amazon,hardware]
+categories: [amazon,hardware,review]
+tags:  [amazon,hardware,review]
 post-number: 940
 image: https://cdn.jasongaylord.com/images/2020/06/15/slipstick-rollerblade-casters.png
 bitly: https://jasong.us/2zBMFtI

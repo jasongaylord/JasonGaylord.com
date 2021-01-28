@@ -15,4 +15,4 @@ I'm hiring an Full Stack Developer for our growing team. This position is for bi
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2780/job](https://jasong.us/3mlTIcT).
 
-{% include job-opportunities.html intro="In addition to our Full Stack Developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Full Stack Developer opening, I have several other openings. " %}

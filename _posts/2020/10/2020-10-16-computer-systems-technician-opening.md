@@ -28,7 +28,7 @@ Following yesterday's lead, I have yet another additional opening on my team. Th
 
 If this sounds like something of interest then let's chat. Visit [jasong.us/2H96Um0](https://jasong.us/2H96Um0) and apply so we can talk!
 
-{% include job-opportunities.html intro="In addition to our Computer Systems Technician opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Computer Systems Technician opening, I have several other openings. " %}
 
 For a complete listing of all biBERK IT openings, click the image below:
 

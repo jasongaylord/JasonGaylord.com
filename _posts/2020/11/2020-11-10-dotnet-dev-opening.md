@@ -15,4 +15,4 @@ I'm hiring a .NET developer for our growing team. This position is for biBERK, a
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2760/job](https://jasong.us/3531sdT).
 
-{% include job-opportunities.html intro="In addition to our .NET developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our .NET developer opening, I have several other openings. " %}

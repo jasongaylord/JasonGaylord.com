@@ -2,8 +2,8 @@
 title: "Review: Ekrist Portable Charger Power Bank"
 author: Jason Gaylord
 date: 2020-06-30
-categories: [amazon,hardware]
-tags:  [amazon,hardware]
+categories: [amazon,hardware,review]
+tags:  [amazon,hardware,review]
 post-number: 956
 image: https://cdn.jasongaylord.com/images/2020/06/30/ekrist-portable-charger-bank.jpg
 bitly: https://jasong.us/2BojUS5

@@ -15,4 +15,4 @@ I'm hiring an Umbraco Developer for our growing team. This position is for biBER
 
 You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/2756/job](https://jasong.us/3mM0IQr).
 
-{% include job-opportunities.html intro="In addition to our Umbraco Developer opening, I have several other openings. " %}
+{% include snippets/job-opportunities.html intro="In addition to our Umbraco Developer opening, I have several other openings. " %}
