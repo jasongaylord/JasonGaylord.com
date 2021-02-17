@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-02-22
 categories: [business,covid19,data,opinion,technology]
 tags: [business,covid19,data,opinion,technology]
-post-number: 1136
+post-number: 1137
 image: https://cdn.jasongaylord.com/images/2021/01/27/xfinity-data-cap-notice.jpg
 bitly: https://jasong.us/3dllDrU
 ---
