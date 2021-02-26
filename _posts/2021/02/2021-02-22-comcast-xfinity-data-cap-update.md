@@ -6,7 +6,7 @@ categories: [business,covid19,data,opinion,technology]
 tags: [business,covid19,data,opinion,technology]
 post-number: 1137
 image: https://cdn.jasongaylord.com/images/2021/01/27/xfinity-data-cap-notice.jpg
-bitly: https://jasong.us/3dllDrU
+bitly: https://jasong.us/3dLY4Zv
 ---
 
 Last month, [I blogged](https://jasong.us/36h7TtT) about Comcast imposing fees if you use more than the 1.2TB data threshold within a given month.
