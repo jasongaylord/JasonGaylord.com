@@ -11,10 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### February
-- 2/23-25: [Mobile World Congress - Shanghai, China](http://jasong.us/35WRgnd)
-- 2/25: [.NET Conf: Focus on Windows](http://jasong.us/3c6zZMh)
-
 #### March
 - 3/2-3: [Gatsby Conf - Digital Event](http://jasong.us/39UNFbL)
 - 3/2-4: [Microsoft Ignite - Digital Event](https://jasong.us/39WSpMR)
