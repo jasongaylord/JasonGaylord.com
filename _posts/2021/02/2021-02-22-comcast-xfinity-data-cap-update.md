@@ -27,3 +27,5 @@ Here is the statement from Comcast:
 > To the extent any of our customers – including our term contract customers – have questions about the data plan, we are committed to working with them to address and answer those questions.  We can help customers understand their household historical and current data usage – and, as noted, the overwhelming majority of our customers will be unaffected by the plan; we can walk through tools available to track usage; and we can explain the options we offer customers to address their specific circumstances and usage needs. This includes working to repackage  — or, if relevant, excuse ETFs – for our term contract customers."
 
 I'll post again if there are further updates from Comcast and the Attorney General's office.
+
+{% include snippets/covid19.html %}
