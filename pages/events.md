@@ -12,8 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### March
-- 3/2-3: [Gatsby Conf - Digital Event](http://jasong.us/39UNFbL)
-- 3/2-4: [Microsoft Ignite - Digital Event](https://jasong.us/39WSpMR)
 - 3/9-10: [Gartner CIO Leadership Forum - Digital Event](http://jasong.us/395jvlF)
 - 3/16-18: [SAP Concur Fusion - Digital Event](http://jasong.us/2XZQl0G)
 - 3/16-20: [SXSW Online - Digital Event](http://jasong.us/2Mgb8uj)
