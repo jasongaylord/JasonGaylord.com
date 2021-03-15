@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### March
-- 3/9-10: [Gartner CIO Leadership Forum - Digital Event](http://jasong.us/395jvlF)
 - 3/16-18: [SAP Concur Fusion - Digital Event](http://jasong.us/2XZQl0G)
 - 3/16-20: [SXSW Online - Digital Event](http://jasong.us/2Mgb8uj)
 - 3/24-25: [Domopalooza - Digital Event](http://jasong.us/3paaOvR)
