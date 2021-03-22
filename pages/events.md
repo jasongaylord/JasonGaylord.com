@@ -12,8 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### March
-- 3/16-18: [SAP Concur Fusion - Digital Event](http://jasong.us/2XZQl0G)
-- 3/16-20: [SXSW Online - Digital Event](http://jasong.us/2Mgb8uj)
 - 3/24-25: [Domopalooza - Digital Event](http://jasong.us/3paaOvR)
 - 3/29-4/1: [Microsoft MVP Summit - Digital Event](http://jasong.us/3a7PiSn)
 - 3/30-31: [Cisco Live! - Digital Event](http://jasong.us/2NpR8pU)
