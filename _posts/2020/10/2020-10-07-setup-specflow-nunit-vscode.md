@@ -61,7 +61,6 @@ namespace SpecFlowDemo.Steps
         {
             num1 = number1;
             num2 = number2;
-            _scenarioContext.Pending();
         }
 
         [Then("the result should be (.*)")]
