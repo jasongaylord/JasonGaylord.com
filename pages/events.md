@@ -11,12 +11,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### March
-- 3/29-4/1: [Microsoft MVP Summit - Digital Event](http://jasong.us/3a7PiSn)
-- 3/30-4/1: [ODSC East 2021 - Digital Event](https://jasong.us/3qTlJL5)
-
 #### April
-- 4/1-2: [TechCrunch Early Stage 2021 - Digital Event](http://jasong.us/2XZlq4T)
 - 4/6-8: [Esri Developer Summit - Digital Event](http://jasong.us/2LWLjjb)
 - 4/6-8: [oktane21 - Digital Event](http://jasong.us/2KGW6h2)
 - 4/27-28: [Adobe Summit - Digital Event](http://jasong.us/394ykoi)
