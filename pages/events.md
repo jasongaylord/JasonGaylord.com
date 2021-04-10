@@ -12,8 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### April
-- 4/6-8: [Esri Developer Summit - Digital Event](http://jasong.us/2LWLjjb)
-- 4/6-8: [oktane21 - Digital Event](http://jasong.us/2KGW6h2)
 - 4/27-28: [Adobe Summit - Digital Event](http://jasong.us/394ykoi)
 - 4/27-28: [Red Hat Summit Part 1 - Digital Event](http://jasong.us/3o6mMWb)
 
