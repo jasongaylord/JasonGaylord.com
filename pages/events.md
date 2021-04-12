@@ -18,24 +18,25 @@ As I find out about events, I'll post about them here. If you have an event you'
 #### May
 - 5/11-12: [IBM Think - Digital Event](http://jasong.us/393NPgd)
 - 5/17-20: [RSAConference 2021 - Digital Event](http://jasong.us/3sFOQmJ)
+- 5/18/20: [Google I/O - Digital Event](https://jasong.us/3wNTu3T)
 - 5/18-20: [SAS Global Forum - Digital Event](http://jasong.us/2Nmurml)
 
 #### June
-- 6/6-10: [OFC 2021 - San Diego, CA](http://jasong.us/362mtp4)
-- 6/7-10: [Snowflake Summit 2021 - Las Vegas, NV](https://jasong.us/3p6GHWa)
+- 6/6-11: [OFC 2021 - Digital Event](http://jasong.us/362mtp4)
+- 6/8-9: [Snowflake Summit 2021 - Digital Event](https://jasong.us/3p6GHWa)
+- 6/12-15: [Electronic Entertainment Expo 2021 (E3 2021) - Digital Event](http://jasong.us/3o5PXIO)
 - 6/15-16: [Red Hat Summit Part 2 - Digital Event](http://jasong.us/3o6mMWb)
-- 6/15-17: [Electronic Entertainment Expo 2021 (E3 2021) - Los Angeles, CA](http://jasong.us/3o5PXIO)
 - 6/28-7/1: [Mobile World Congress - Barcelona, Spain](http://jasong.us/3o4irTd)
 
 #### July
-- 7/19-23: [Game Developers Conference - San Francisco, CA](http://jasong.us/3qDWoEE)
+- 7/19-23: [Game Developers Conference - Digital Event](http://jasong.us/3qDWoEE)
 - 7/26-29: [That Conference - Wisconsin Dells, WI](http://jasong.us/3c1S3Hg)
 - 7/31-8/5: [Black Hat USA 2021 - Las Vegas, NV](http://jasong.us/3sVxEd4)
 
 #### August
 - 8/5-8/9: [DEF CON 29 - Las Vegas, NV](http://jasong.us/3p18HKN)
 - 8/17-19: [CIO100 Virtual Symposium & Awards - Digital Event](http://jasong.us/2MgBpZO)
-- 8/20: [JavaScript and Friends](http://jasong.us/36hVPZp)
+- 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
 
 #### September
 - 9/21-23: [TechCrunch Disrupt 2021 - Digital Event](http://jasong.us/3oafbFL)
