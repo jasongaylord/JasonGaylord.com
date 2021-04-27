@@ -2,8 +2,8 @@
 title: 25th Annual International WebAward Competition Call for Entry is Open
 author: Jason Gaylord
 date: 2021-04-29
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [design,events,web]
+tags:  [design,events,web]
 post-number: 1146
 image: https://cdn.jasongaylord.com/images/2021/04/29/webawards.jpg
 bitly: https://jasong.us/3xvrZwA
