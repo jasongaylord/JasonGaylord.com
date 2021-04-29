@@ -11,15 +11,12 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### April
-- 4/27-28: [Adobe Summit - Digital Event](http://jasong.us/394ykoi)
-- 4/27-28: [Red Hat Summit Part 1 - Digital Event](http://jasong.us/3o6mMWb)
-
 #### May
 - 5/11-12: [IBM Think - Digital Event](http://jasong.us/393NPgd)
 - 5/17-20: [RSAConference 2021 - Digital Event](http://jasong.us/3sFOQmJ)
 - 5/18/20: [Google I/O - Digital Event](https://jasong.us/3wNTu3T)
 - 5/18-20: [SAS Global Forum - Digital Event](http://jasong.us/2Nmurml)
+- 5/25-27 [Microsoft Build - Digital Event](https://jasong.us/3tZdPBI)
 - 5/27: [Dockercon 2021 - Digital Event](https://jasong.us/3gluBHc)
 - 5/27: [Google Cloud: Financial Services Summit](https://jasong.us/2QIYCGe)
 
