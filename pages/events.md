@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### May
-- 5/11-12: [IBM Think - Digital Event](http://jasong.us/393NPgd)
 - 5/17-20: [RSAConference 2021 - Digital Event](http://jasong.us/3sFOQmJ)
 - 5/18/20: [Google I/O - Digital Event](https://jasong.us/3wNTu3T)
 - 5/18-20: [SAS Global Forum - Digital Event](http://jasong.us/2Nmurml)
