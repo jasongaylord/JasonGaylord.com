@@ -12,9 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### May
-- 5/17-20: [RSAConference 2021 - Digital Event](http://jasong.us/3sFOQmJ)
-- 5/18/20: [Google I/O - Digital Event](https://jasong.us/3wNTu3T)
-- 5/18-20: [SAS Global Forum - Digital Event](http://jasong.us/2Nmurml)
 - 5/25-27 [Microsoft Build - Digital Event](https://jasong.us/3tZdPBI)
 - 5/27: [Dockercon 2021 - Digital Event](https://jasong.us/3gluBHc)
 - 5/27: [Google Cloud: Financial Services Summit](https://jasong.us/2QIYCGe)
