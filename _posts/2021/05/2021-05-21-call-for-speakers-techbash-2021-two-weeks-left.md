@@ -1,7 +1,7 @@
 ---
 title: Two Weeks Left! Submit Your Sessions Today!!
 author: Jason Gaylord
-date: 2021-05-20
+date: 2021-05-21
 categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1148
