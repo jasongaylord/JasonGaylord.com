@@ -5,7 +5,7 @@ date: 2021-05-24
 categories: [dev,devops,github,tip]
 tags: [dev,devops,github,tip]
 post-number: 1149
-image: https://cdn.jasongaylord.com/images/2021/05/22/git-lfs-error.jpg
+image: https://cdn.jasongaylord.com/images/2021/05/24/git-lfs-error.jpg
 bitly: https://jasong.us/344NTZR
 ---
 
@@ -15,6 +15,6 @@ Once you've downloaded and installed Git LFS, it's quite easy to get started. Fi
 
 The above is assuming you've thought about using Git LFS before attempting to commit changes. But, what if you forgot to track files in a repository? Or even forgot to install Git LFS on a new machine? If you do, you still may receive an error like the one below:
 
-{% include open-thumbnail.html path="2021/05/22/git-lfs-error.jpg" alt="Git LFS Error" %}
+{% include open-thumbnail.html path="2021/05/24/git-lfs-error.jpg" alt="Git LFS Error" %}
 
 This is because the commit history is already written. So, if you install or enable after the fact, you'll need to do one more thing. [https://jasong.us/3yyASWL](Since version 2.2.0), you can use the `git lfs migrate` command to update the large object pointers to Git LFS. Using the example above, I can change all PhotoShop files by running `git lfs migrate import --include="*.psd"`.
