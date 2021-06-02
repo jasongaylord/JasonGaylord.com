@@ -11,11 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### May
-- 5/25-27 [Microsoft Build - Digital Event](https://jasong.us/3tZdPBI)
-- 5/27: [Dockercon 2021 - Digital Event](https://jasong.us/3gluBHc)
-- 5/27: [Google Cloud: Financial Services Summit](https://jasong.us/2QIYCGe)
-
 #### June
 - 6/6-11: [OFC 2021 - Digital Event](http://jasong.us/362mtp4)
 - 6/8-9: [Snowflake Summit 2021 - Digital Event](https://jasong.us/3p6GHWa)
