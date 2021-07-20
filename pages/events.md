@@ -11,15 +11,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### June
-- 6/6-11: [OFC 2021 - Digital Event](http://jasong.us/362mtp4)
-- 6/8-9: [Snowflake Summit 2021 - Digital Event](https://jasong.us/3p6GHWa)
-- 6/12-15: [Electronic Entertainment Expo 2021 (E3 2021) - Digital Event](http://jasong.us/3o5PXIO)
-- 6/15-16: [Red Hat Summit Part 2 - Digital Event](http://jasong.us/3o6mMWb)
-- 6/28-7/1: [Mobile World Congress - Barcelona, Spain](http://jasong.us/3o4irTd)
-
 #### July
-- 7/19-23: [Game Developers Conference - Digital Event](http://jasong.us/3qDWoEE)
 - 7/26-29: [That Conference - Wisconsin Dells, WI](http://jasong.us/3c1S3Hg)
 - 7/31-8/5: [Black Hat USA 2021 - Las Vegas, NV](http://jasong.us/3sVxEd4)
 
