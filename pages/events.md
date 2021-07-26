@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### July
-- 7/26-29: [That Conference - Wisconsin Dells, WI](http://jasong.us/3c1S3Hg)
 - 7/31-8/5: [Black Hat USA 2021 - Las Vegas, NV](http://jasong.us/3sVxEd4)
 
 #### August
