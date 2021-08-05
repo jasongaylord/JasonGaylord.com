@@ -13,6 +13,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### August
 - 8/5-8/9: [DEF CON 29 - Las Vegas, NV](http://jasong.us/3p18HKN)
+- 8/11: [Samsung Galaxy Unpacked - Digital Event](https://jasong.us/3hpwNMr)
 - 8/17-19: [CIO100 Virtual Symposium & Awards - Digital Event](http://jasong.us/2MgBpZO)
 - 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
 
