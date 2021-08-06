@@ -24,6 +24,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### October
 - 10/5: [IDC CIO Summit - Digital Event](https://jasong.us/2Y1eQL5)
+- 10/12-14: [Google Cloud Next](https://jasong.us/3imABQt)
 - 10/19-22: [TechBash 2021 - Mount Pocono, PA](https://jasong.us/37lAkGe)
 
 #### November
