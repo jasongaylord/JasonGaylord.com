@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### August
-- 8/5-8/9: [DEF CON 29 - Las Vegas, NV](http://jasong.us/3p18HKN)
 - 8/11: [Samsung Galaxy Unpacked - Digital Event](https://jasong.us/3hpwNMr)
 - 8/17-19: [CIO100 Virtual Symposium & Awards - Digital Event](http://jasong.us/2MgBpZO)
 - 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
@@ -24,6 +23,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### October
 - 10/5: [IDC CIO Summit - Digital Event](https://jasong.us/2Y1eQL5)
+- 10/12-14: [Google Cloud Next](https://jasong.us/3imABQt)
 - 10/19-22: [TechBash 2021 - Mount Pocono, PA](https://jasong.us/37lAkGe)
 
 #### November
