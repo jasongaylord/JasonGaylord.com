@@ -1,5 +1,5 @@
 ---
-title: 'Something Went Wrong' When Adding O365 Account to Outlook 2019
+title: "'Something Went Wrong' When Adding O365 Account to Outlook 2019"
 author: Jason Gaylord
 date: 2021-08-09
 categories: [cloud,microsoft,msoffice]
