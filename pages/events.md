@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### August
-- 8/11: [Samsung Galaxy Unpacked - Digital Event](https://jasong.us/3hpwNMr)
 - 8/17-19: [CIO100 Virtual Symposium & Awards - Digital Event](http://jasong.us/2MgBpZO)
 - 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
 
@@ -30,3 +29,8 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 11/1-4: [Web Summit - Lisbon](http://jasong.us/393Panf)
 - 11/2-4: [IoT World 2021 - Santa Clara, CA](http://jasong.us/3qEPsa9)
 - 11/9-11: [AWE 2021 - Santa Clara, CA](http://jasong.us/2Mg3Y9m)
+
+## 2022
+
+#### January
+- 1/5-8: [CES 2022 - Las Vegas, NV](https://jasong.us/3jHOeJG)
