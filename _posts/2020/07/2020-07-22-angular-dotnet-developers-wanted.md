@@ -2,8 +2,8 @@
 title: Angular, .NET Developers Wanted!
 author: Jason Gaylord
 date: 2020-07-22
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 980
 image: https://cdn.jasongaylord.com/images/2020/07/22/biberk-it-job-listings.jpg
 bitly: https://jasong.us/2OywyRr

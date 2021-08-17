@@ -2,8 +2,8 @@
 title: I'm Hiring at biBERK
 author: Jason Gaylord
 date: 2020-05-15
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 bitly: https://jasong.us/2yVahcj
 ---
 

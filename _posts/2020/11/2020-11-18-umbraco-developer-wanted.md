@@ -2,8 +2,8 @@
 title: Umbraco Developer Wanted
 author: Jason Gaylord
 date: 2020-11-18
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1107
 image: https://cdn.jasongaylord.com/images/2020/11/18/umbraco-developer.jpg
 bitly: https://jasong.us/2KjefAX

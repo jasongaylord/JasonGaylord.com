@@ -2,8 +2,8 @@
 title: Developer Openings for biBERK
 author: Jason Gaylord
 date: 2020-09-10
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1033
 image: https://cdn.jasongaylord.com/images/2020/09/10/biberk-dotnet-developer.jpg
 bitly: https://jasong.us/33cOBnh

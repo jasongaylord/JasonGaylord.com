@@ -2,8 +2,8 @@
 title: Full Stack + Angular Developer Wanted
 author: Jason Gaylord
 date: 2021-01-08
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1124
 image: https://cdn.jasongaylord.com/images/2021/01/08/fullstack-developer.jpg
 bitly: https://jasong.us/3okLFhA

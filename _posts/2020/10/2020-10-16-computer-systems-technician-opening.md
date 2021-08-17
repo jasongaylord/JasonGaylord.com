@@ -2,8 +2,8 @@
 title: Computer Systems Technician Opening at biBERK
 author: Jason Gaylord
 date: 2020-10-16
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1073
 image: https://cdn.jasongaylord.com/images/2020/10/01/biberk-it-careers.jpg
 bitly: https://jasong.us/3j5Oobu

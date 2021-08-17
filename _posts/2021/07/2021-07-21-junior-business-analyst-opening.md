@@ -2,8 +2,8 @@
 title: Junior Business Analyst Wanted
 author: Jason Gaylord
 date: 2021-07-21
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1151
 image: https://cdn.jasongaylord.com/images/2021/07/21/junior-business-analyst.jpg
 bitly: https://jasong.us/2W41Bf1
