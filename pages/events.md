@@ -11,9 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### August
-- 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
-
 #### September
 - 9/16: [Docker Community All Hands - Digital](https://jasong.us/3yaXTOC)
 - 9/21-23: [TechCrunch Disrupt 2021 - Digital Event](http://jasong.us/3oafbFL)
