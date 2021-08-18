@@ -2,8 +2,8 @@
 title: I'm Hiring a Business Analyst with P&C Insurance Experience
 author: Jason Gaylord
 date: 2020-10-01
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1056
 image: https://cdn.jasongaylord.com/images/2020/10/01/biberk-it-careers.jpg
 bitly: https://jasong.us/3n2e8IJ

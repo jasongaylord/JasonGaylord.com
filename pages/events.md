@@ -29,6 +29,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 11/1-4: [Web Summit - Lisbon](http://jasong.us/393Panf)
 - 11/2-4: [IoT World 2021 - Santa Clara, CA](http://jasong.us/3qEPsa9)
 - 11/9-11: [AWE 2021 - Santa Clara, CA](http://jasong.us/2Mg3Y9m)
+- 11/10-12: [Freshworks Refresh 2021 - Las Vegas, NV + Digital](https://jasong.us/2Uojh4n)
 
 ## 2022
 

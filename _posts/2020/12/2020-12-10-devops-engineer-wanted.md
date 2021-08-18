@@ -2,8 +2,8 @@
 title: Azure DevOps Engineer Wanted
 author: Jason Gaylord
 date: 2020-12-10
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1119
 image: https://cdn.jasongaylord.com/images/2020/11/16/devops-engineer-opening.jpg
 bitly: https://jasong.us/372pp68

@@ -2,8 +2,8 @@
 title: .NET Developer Opening
 author: Jason Gaylord
 date: 2020-11-10
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1099
 image: https://cdn.jasongaylord.com/images/2020/11/10/dotnet-dev-opening.jpg
 bitly: https://jasong.us/3ncGbVj

@@ -2,8 +2,8 @@
 title: DevOps Engineer Wanted
 author: Jason Gaylord
 date: 2020-11-16
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1105
 image: https://cdn.jasongaylord.com/images/2020/11/16/devops-engineer-opening.jpg
 bitly: https://jasong.us/2K84vJJ

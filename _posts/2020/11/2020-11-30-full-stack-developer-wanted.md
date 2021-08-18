@@ -2,8 +2,8 @@
 title: Full Stack Developer Wanted
 author: Jason Gaylord
 date: 2020-11-30
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1114
 image: https://cdn.jasongaylord.com/images/2020/11/19/fullstack-developer.jpg
 bitly: https://jasong.us/36k9GyK
