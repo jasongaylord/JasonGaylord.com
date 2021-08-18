@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### August
-- 8/17-19: [CIO100 Virtual Symposium & Awards - Digital Event](http://jasong.us/2MgBpZO)
 - 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
 
 #### September
