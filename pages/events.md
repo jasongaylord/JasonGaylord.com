@@ -12,17 +12,20 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### August
-- 8/20: [JavaScript and Friends - Columbus, OH](http://jasong.us/36hVPZp)
+- 8/25: [Snowflake and Microsoft Power BI - Digital Seminar](https://jasong.us/2W1ldkm)
+- 8/26: [Alexa Tech Talks - Digital Seminar](https://jasong.us/3k19KsS)
 
 #### September
-- 9/16: [Docker Community All Hands - Digital](https://jasong.us/3yaXTOC)
+- 9/16: [Docker Community All Hands - Digital Seminar](https://jasong.us/3yaXTOC)
 - 9/21-23: [TechCrunch Disrupt 2021 - Digital Event](http://jasong.us/3oafbFL)
 - 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
+- 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Digital Seminar](https://jasong.us/3mcXacP)
 
 #### October
 - 10/5: [IDC CIO Summit - Digital Event](https://jasong.us/2Y1eQL5)
 - 10/12-14: [Google Cloud Next](https://jasong.us/3imABQt)
 - 10/19-22: [TechBash 2021 - Mount Pocono, PA](https://jasong.us/37lAkGe)
+- 10/26-28: [Adobe MAX 2021 - Digital Event](https://jasong.us/344yeLv)
 
 #### November
 - 11/1-4: [Web Summit - Lisbon](http://jasong.us/393Panf)
