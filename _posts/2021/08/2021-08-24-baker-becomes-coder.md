@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-08-24
 categories: [events,opinion,techbash]
 tags: [events,opinion,techbash]
-post-number: 1163
+post-number: 1162
 image: https://cdn.jasongaylord.com/images/2021/08/24/techbash-computer-cupcakes.jpg
 bitly: https://jasong.us/3B75HC8
 ---
