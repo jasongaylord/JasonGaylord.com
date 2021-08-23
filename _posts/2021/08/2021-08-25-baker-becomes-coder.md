@@ -1,7 +1,7 @@
 ---
 title: Once a Baker, Now a Web Developer
 author: Jason Gaylord
-date: 2021-08-19
+date: 2021-08-25
 categories: [events,opinion,techbash]
 tags: [events,opinion,techbash]
 post-number: 1163
