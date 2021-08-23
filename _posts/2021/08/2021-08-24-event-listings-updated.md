@@ -1,7 +1,7 @@
 ---
 title: Tech Event Listings Updated
 author: Jason Gaylord
-date: 2021-08-20
+date: 2021-08-24
 categories: [events]
 tags: [events]
 post-number: 1162
