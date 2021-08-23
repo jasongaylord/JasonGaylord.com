@@ -274,3 +274,12 @@ p code {
     max-height: 600px;
     overflow-y: auto;
 }
+
+// Blockquote overrides
+blockquote {
+    border-left: 3px solid $color-blue;
+    padding: 0.5em 10px;
+  }
+blockquote p {
+    display: inline-block;
+}
