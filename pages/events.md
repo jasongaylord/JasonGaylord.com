@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### August
-- 8/25: [Snowflake and Microsoft Power BI - Digital Seminar](https://jasong.us/2W1ldkm)
 - 8/26: [Alexa Tech Talks - Digital Seminar](https://jasong.us/3k19KsS)
 
 #### September
