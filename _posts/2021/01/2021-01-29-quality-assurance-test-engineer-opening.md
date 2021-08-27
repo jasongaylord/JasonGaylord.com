@@ -2,8 +2,8 @@
 title: Quality Assurance Test Engineer Opening
 author: Jason Gaylord
 date: 2021-01-29
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1132
 image: https://cdn.jasongaylord.com/images/2021/01/29/quality-assurance-opening.jpg
 bitly: https://jasong.us/3iTYHkn
