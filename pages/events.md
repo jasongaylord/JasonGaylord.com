@@ -16,6 +16,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 9/21-23: [TechCrunch Disrupt 2021 - Digital Event](http://jasong.us/3oafbFL)
 - 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
 - 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Digital Seminar](https://jasong.us/3mcXacP)
+- 9/28-30: [DevOps World by CloudBees - Digital Event](https://jasong.us/3BuT1Fm)
 
 #### October
 - 10/4-5: [Snowflake Build 2021 - Digital Event](https://jasong.us/2XXM69b)
