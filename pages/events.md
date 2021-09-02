@@ -17,6 +17,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
 - 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Digital Seminar](https://jasong.us/3mcXacP)
 - 9/28-30: [DevOps World by CloudBees - Digital Event](https://jasong.us/3BuT1Fm)
+- 9/29: [Microsoft US Hybrid Work Summit](https://jasong.us/3BvxtbN)
 
 #### October
 - 10/4-5: [Snowflake Build 2021 - Digital Event](https://jasong.us/2XXM69b)
