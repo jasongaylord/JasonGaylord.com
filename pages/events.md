@@ -26,6 +26,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 10/12-14: [Google Cloud Next - Digital Event](https://jasong.us/3imABQt)
 - 10/12-11/2: [Pluralsight Live 2021 - Digital Event](https://jasong.us/2GyvzQZ)
 - 10/26-28: [Adobe MAX 2021 - Digital Event](https://jasong.us/344yeLv)
+- 10/27-28: [GitHub Universe - Digital Event](https://jasong.us/2Yu4oPG)
 
 #### November
 - 11/1-4: [Web Summit - Lisbon](http://jasong.us/393Panf)
@@ -37,3 +38,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### January
 - 1/5-8: [CES 2022 - Las Vegas, NV](https://jasong.us/3jHOeJG)
+
+#### November
+- 11/8-11: [TechBash 2022 - Pocono, PA](https://jasong.us/tb)
