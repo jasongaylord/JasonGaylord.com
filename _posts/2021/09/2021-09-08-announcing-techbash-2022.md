@@ -5,7 +5,7 @@ date: 2021-09-08
 categories: [covid19,events,techbash]
 tags: [covid19,events,techbash]
 post-number: 1170
-image: https://cdn.jasongaylord.com/images/2021/09/08/
+image: https://cdn.jasongaylord.com/images/2021/09/08/techbash2022.jpg
 bitly: https://jasong.us/3l1nYKS
 ---
 

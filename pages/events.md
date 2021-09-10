@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### September
-- 9/9: [Accelerate Feature Engineering for Machine Learning Models with Snowflake and AWS - Digital Seminar](https://jasong.us/2WRVx9B)
 - 9/16: [Docker Community All Hands - Digital Seminar](https://jasong.us/3yaXTOC)
 - 9/21-23: [TechCrunch Disrupt 2021 - Digital Event](http://jasong.us/3oafbFL)
 - 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
