@@ -5,7 +5,7 @@ date: 2020-09-11
 categories: [opinion]
 tags:  [opinion]
 post-number: 1035
-image: https://cdn.jasongaylord.com/images/2020/09/11/20171020_153451.jpg
+image: https://cdn.jasongaylord.com/images/2020/09/11/153451.jpg
 bitly: https://jasong.us/3mcTPI7
 ---
 
