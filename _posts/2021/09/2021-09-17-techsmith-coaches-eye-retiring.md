@@ -19,4 +19,4 @@ If you use another app that offers this functionality, I'd be interested in hear
 
 {% include open-thumbnail.html path="2021/09/17/coachs-eye-sample.png" alt="Sample Coach's Eye Screenshot" %}
 
-There are a few alternatives that have been recommended, but there are very few that work on both iOS and Android devices. The best alternative I have found is an app called [Onform](https://jasong.us/3Errbfu), however I've never used it. I may try this upcoming weekend.
+There are a few alternatives that have been recommended, but there are very few that work on both iOS and Android devices. The best alternative I have found is an app called [Onform](https://jasong.us/3Errbfu), however I've never used it and it lacks a coaches app for Android.
