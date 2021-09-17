@@ -12,7 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### September
-- 9/16: [Docker Community All Hands - Virtual Seminar](https://jasong.us/3yaXTOC)
 - 9/21-23: [TechCrunch Disrupt 2021 - Virtual Event](http://jasong.us/3oafbFL)
 - 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
 - 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Virtual Seminar](https://jasong.us/3mcXacP)
