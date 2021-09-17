@@ -2,7 +2,7 @@
 title: "Newsletter Sign-up"
 nav_title: "Newsletter"
 description: "What's the Word? A Newsletter by Jason N. Gaylord"
-include_nav: true
+include_nav: false
 url: http://newsletter.jasongaylord.com/
 url_target: _blank
 tags: []
