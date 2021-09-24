@@ -12,8 +12,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### September
-- 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
-- 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Virtual Seminar](https://jasong.us/3mcXacP)
 - 9/28-30: [DevOps World by CloudBees - Virtual Event](https://jasong.us/3BuT1Fm)
 - 9/29: [Microsoft US Hybrid Work Summit - Virtual Seminar](https://jasong.us/3BvxtbN)
 
