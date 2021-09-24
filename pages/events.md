@@ -28,6 +28,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 11/9-11: [AWE 2021 - Santa Clara, CA](http://jasong.us/2Mg3Y9m)
 - 11/10-12: [Freshworks Refresh 2021 - Las Vegas, NV + Virtual](https://jasong.us/2Uojh4n)
 - 11/16-17: [Slack Frontiers 2021 - Virtual Event](https://jasong.us/2XcAdMK)
+- 11/30: [UnoConf 2021 - Virtual Event](https://jasong.us/2XNIxST)
 
 ## 2022
 
