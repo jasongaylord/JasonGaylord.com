@@ -3,7 +3,7 @@ title: "Review: Newsletter Service Revue by Twitter"
 author: Jason Gaylord
 date: 2021-09-28
 categories: [collaboration,productivity,technology]
-tags:  collaboration,productivity,technology]
+tags:  [collaboration,productivity,technology]
 post-number: 1180
 image: https://cdn.jasongaylord.com/images/2021/09/28/
 bitly: https://jasong.us/2WmQo9W
