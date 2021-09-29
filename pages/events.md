@@ -7,7 +7,7 @@ tags: [events]
 permalink: /upcoming-tech-events/
 ---
 
-As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v) or on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin).
+As I find out about events, I'll post about them here. If you have an event you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v), message on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin), or submit a pull request of this page by visiting [GitHub](https://jasong.us/39JIVEO).
 
 ## 2021 
 
