@@ -12,18 +12,15 @@ As I find out about events, I'll post about them here. If you have an event you'
 ## 2021 
 
 #### September
-- 9/27-29: [Enterprise Connect - Orlando, FL](https://jasong.us/360iTMf)
-- 9/28: [Microsoft Azure: Maximize the Value of Your Data in the Cloud - Virtual Seminar](https://jasong.us/3mcXacP)
 - 9/29-30: [Azure Serverless Conf September 2021 - Virtual Event](https://jasong.us/3zOIZOi)
 - 9/28-30: [DevOps World by CloudBees - Virtual Event](https://jasong.us/3BuT1Fm)
-- 9/29: [Microsoft US Hybrid Work Summit - Virtual Seminar](https://jasong.us/3BvxtbN)
 
 #### October
 - 10/4-5: [Snowflake Build 2021 - Virtual Event](https://jasong.us/2XXM69b)
 - 10/5: [IDC CIO Summit - Virtual Event](https://jasong.us/2Y1eQL5)
 - 10/5: [Level Up: TechSmith - Virtual Seminar](https://jasong.us/2XefJmo)
 - 10/11: [TBM Conference 2021 - Virtual Event](https://jasong.us/3lRoqM0)
-- 10/12-14: [Google Cloud Next - Virtual Event](https://jasong.us/3imABQt)
+- 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
 - 10/26-28: [Adobe MAX 2021 - Virtual Event](https://jasong.us/344yeLv)
 - 10/27-28: [GitHub Universe - Virtual Event](https://jasong.us/2Yu4oPG)
@@ -35,6 +32,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 - 11/9-11: [AWE 2021 - Santa Clara, CA](http://jasong.us/2Mg3Y9m)
 - 11/10-12: [Freshworks Refresh 2021 - Las Vegas, NV + Virtual](https://jasong.us/2Uojh4n)
 - 11/16-17: [Slack Frontiers 2021 - Virtual Event](https://jasong.us/2XcAdMK)
+- 11/30: [UnoConf 2021 - Virtual Event](https://jasong.us/2XNIxST)
 
 ## 2022
 
