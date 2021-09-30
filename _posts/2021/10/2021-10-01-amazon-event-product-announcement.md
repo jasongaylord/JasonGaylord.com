@@ -23,3 +23,13 @@ Here is the list of announcements from this week:
 The Amazon [Echo Show 15](https://www.amazon.com/dp/B08MQLDFF6?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=ab75c7a3-4bd8-4d42-af82-0fbddd8573ee&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=xy26K&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=9a1615f5e5c23fea84ceeac914526950&language=en_US&ref_=as_li_ss_tl) is probably my most favorite announcement this week. Like the other Echo Show devices, the Echo Show 15 is a 15" interactive display. However, this device can stand like a picture or mount flat to a wall. This device is currently not available, but is listed at $249.99.
 
 {% include link-thumbnail.html path="2021/10/01/echo-show-15.jpg" alt="Amazon Echo Show 15" url="https://www.amazon.com/dp/B08MQLDFF6?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=ab75c7a3-4bd8-4d42-af82-0fbddd8573ee&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=xy26K&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=9a1615f5e5c23fea84ceeac914526950&language=en_US&ref_=as_li_ss_tl" %}
+
+
+### Halo View ###
+Amazon went back to the drawing board and produced a new smartwatch called the [Halo View](https://www.amazon.com/dp/B08NCGKHKF?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=9a25fcbf-f862-44e3-9ecd-53a75e1fd121&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=suojA&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=5b83dc2109cb1b8a413c9a9900eebcdc&language=en_US&ref_=as_li_ss_tl). This version now has a digital screen and includes more enhancements than the original Halo. While this device is not yet available, you can sign-up for notifications to purchase this device for just $79.99.
+
+{% include link-thumbnail.html path="2021/10/01/halo-view.jpg" alt="Amazon Halo View" url="https://www.amazon.com/dp/B08NCGKHKF?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=9a25fcbf-f862-44e3-9ecd-53a75e1fd121&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=suojA&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=5b83dc2109cb1b8a413c9a9900eebcdc&language=en_US&ref_=as_li_ss_tl" %}
+
+
+### Amazon Smart Thermostat ###
+Amazon has finally entered the [smart thermostat](https://www.amazon.com/dp/B08J4C8871?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=e45fd8e3-0b65-472b-a8bb-0a78a206117e&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=MdnzU&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=367afa44e68ed3b291fc8d16e39d6326&language=en_US&ref_=as_li_ss_tl) business with a Honeywell Home powered device. 
