@@ -22,6 +22,7 @@ Here is the list of announcements from this week:
 * [Amazon Smart Thermostat](#amazon-smart-thermostat)
 * [Blink Video Doorbell](#blink-video-doorbell)
 * [Ring Alarm Pro](#ring-alarm-pro)
+* [Ring Always Home Cam Drone](#ring-always-home-cam-drone)
 
 ### Amazon Astro ###
 [Amazon Astro](https://www.amazon.com/dp/B078NSDFSB?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=d27034fe-8279-4f2d-bb7d-ebb64b0b38ae&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=0gPxx&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=4ca5385466a18e2f423cf167926131c4&language=en_US&ref_=as_li_ss_tl) is Amazon's new smart robot for home monitoring and security. While Amazon introduced the new robot, this new device seems to only scratch the surface with what a smart robot can do. Amazon has ambitious plans for this device to include arms to be able to bring things to you and can even pair with another new announcement, Amazon Together, to help elderly. This product has no release date, but is currently listed for a Day 1 Edition price of $999.99. 
@@ -33,7 +34,6 @@ Here is the list of announcements from this week:
 The [Amazon Echo Show 5 Mickey Mouse Stand](https://www.amazon.com/Amazon-Disney-Mickey-Mouse-inspired-Compatible/dp/B0951VKQ72?dchild=1&keywords=Mickey+Mouse+Echo+Show+5&qid=1633028740&sr=8-1&linkCode=ll1&tag=jasongaylor01-20&linkId=ebff6bb419ee000db3627f8da986f4d5&language=en_US&ref_=as_li_ss_tl) is a cute new Disney stand for the Amazon Echo series. Otter Box is releasing this new stand on October 28, 2021 at a price of just $24.99. Pre-order is available now.
 
 {% include link-thumbnail.html path="2021/10/01/amazon-echo-mickeystand.jpg" alt="Amazon Echo Mickey Mouse Stand" url="https://www.amazon.com/Amazon-Disney-Mickey-Mouse-inspired-Compatible/dp/B0951VKQ72?dchild=1&keywords=Mickey+Mouse+Echo+Show+5&qid=1633028740&sr=8-1&linkCode=ll1&tag=jasongaylor01-20&linkId=ebff6bb419ee000db3627f8da986f4d5&language=en_US&ref_=as_li_ss_tl" %}
-
 
 
 ### Amazon Echo Show 15 ###
@@ -82,3 +82,9 @@ Releasing on October 21, 2021, this is one of the most inexpensive high-definiti
 The [Ring Alarm Pro](https://www.amazon.com/gp/product/B08HSTJPM5?&linkCode=ll1&tag=jasongaylor01-20&linkId=dc9967501b104e07db6b2173f98a6286&language=en_US&ref_=as_li_ss_tl) 8-piece whole-home security system contains a built-in eero Wi-Fi 6 router. This is one of the most interesting announcements and would give a reason to keep your security system up to date. This item is available now for pre-order and will be released on November 3, 2021. A 14-piece kit at a price of $379.99 is also available. I have asked a question online that still lacks an answer from Ring. [The question](https://www.amazon.com/ask/answer/Mx1H2S7MQFQGG0V/ref=ask_aa_al_sa_hza) is how the Ring Alarm Pro can be used if you already own a [eero 6](https://www.amazon.com/s?k=eero+6&linkCode=ll2&tag=jasongaylor01-20&linkId=77b8961e658fa838ceb4789a7bf904eb&language=en_US&ref_=as_li_ss_tl) router or a [eero pro 6](https://www.amazon.com/s?k=eero+pro+6&crid=32SANR1YRO3AU&sprefix=eero+pro%2Caps%2C205&linkCode=ll2&tag=jasongaylor01-20&linkId=022c0b735d8f768c2dab6f87903e45c1&language=en_US&ref_=as_li_ss_tl) router.
 
 {% include link-thumbnail.html path="2021/10/01/ring-alarm-pro.jpg" alt="Blink Video Doorbell" url="https://www.amazon.com/gp/product/B08HSTJPM5?&linkCode=ll1&tag=jasongaylor01-20&linkId=dc9967501b104e07db6b2173f98a6286&language=en_US&ref_=as_li_ss_tl" %}
+
+
+### Ring Always Home Cam Drone ###
+Announced previously, Amazon finally has invites available for the [Ring Always Home Cam Drone](https://www.amazon.com/Ring-Always-Home-Cam/dp/B08YH144XD?dchild=1&keywords=ring+cam+drone&qid=1633054391&sr=8-2&linkCode=ll1&tag=jasongaylor01-20&linkId=0b17dc762c17f2c13341abd02a100c09&language=en_US&ref_=as_li_ss_tl). At just $249.99, the drone cam will have in-flight video and have custom flight paths as it flies throughout your house whenever triggered. When the device is docked, it will not record.
+
+{% include link-thumbnail.html path="2021/10/01/ring-always-home-cam-drone.jpg" alt="Ring Always Home Cam Drone" url="https://www.amazon.com/Ring-Always-Home-Cam/dp/B08YH144XD?dchild=1&keywords=ring+cam+drone&qid=1633054391&sr=8-2&linkCode=ll1&tag=jasongaylor01-20&linkId=0b17dc762c17f2c13341abd02a100c09&language=en_US&ref_=as_li_ss_tl" %}
