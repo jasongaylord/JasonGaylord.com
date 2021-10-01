@@ -32,7 +32,7 @@ Here is the list of announcements from this week:
 ### Amazon Echo Show 5 Mickey Mouse Stand ###
 The [Amazon Echo Show 5 Mickey Mouse Stand](https://www.amazon.com/Amazon-Disney-Mickey-Mouse-inspired-Compatible/dp/B0951VKQ72?dchild=1&keywords=Mickey+Mouse+Echo+Show+5&qid=1633028740&sr=8-1&linkCode=ll1&tag=jasongaylor01-20&linkId=ebff6bb419ee000db3627f8da986f4d5&language=en_US&ref_=as_li_ss_tl) is a cute new Disney stand for the Amazon Echo series. Otter Box is releasing this new stand on October 28, 2021 at a price of just $24.99. Pre-order is available now.
 
-{% include link-thumbnail.html path="2021/10/01/echo-show-15.jpg" alt="Amazon Echo Show 15" url="https://www.amazon.com/dp/B08MQLDFF6?pf_rd_r=C0YPT9HRS67ZBPG9KBYB&pf_rd_p=ab75c7a3-4bd8-4d42-af82-0fbddd8573ee&pd_rd_r=f567b20e-c419-4085-b135-126cab77b706&pd_rd_w=xy26K&pd_rd_wg=8tW1U&linkCode=ll1&tag=jasongaylor01-20&linkId=9a1615f5e5c23fea84ceeac914526950&language=en_US&ref_=as_li_ss_tl" %}
+{% include link-thumbnail.html path="2021/10/01/amazon-echo-mickeystand.jpg" alt="Amazon Echo Mickey Mouse Stand" url="https://www.amazon.com/Amazon-Disney-Mickey-Mouse-inspired-Compatible/dp/B0951VKQ72?dchild=1&keywords=Mickey+Mouse+Echo+Show+5&qid=1633028740&sr=8-1&linkCode=ll1&tag=jasongaylor01-20&linkId=ebff6bb419ee000db3627f8da986f4d5&language=en_US&ref_=as_li_ss_tl" %}
 
 
 
