@@ -11,10 +11,6 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 ## 2021 
 
-#### September
-- 9/29-30: [Azure Serverless Conf September 2021 - Virtual Event](https://jasong.us/3zOIZOi)
-- 9/28-30: [DevOps World by CloudBees - Virtual Event](https://jasong.us/3BuT1Fm)
-
 #### October
 - 10/4-5: [Snowflake Build 2021 - Virtual Event](https://jasong.us/2XXM69b)
 - 10/5: [IDC CIO Summit - Virtual Event](https://jasong.us/2Y1eQL5)
