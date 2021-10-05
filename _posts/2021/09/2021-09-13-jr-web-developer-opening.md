@@ -2,8 +2,8 @@
 title: Junior Web Developer Opening
 author: Jason Gaylord
 date: 2021-09-13
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1173
 image: https://cdn.jasongaylord.com/images/2021/09/13/junior-web-developer.png
 bitly: https://jasong.us/3l763m5
