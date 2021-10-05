@@ -22,6 +22,6 @@ Here are the events for October.
 - 10/26-28: [Adobe MAX 2021](https://jasong.us/344yeLv)
 - 10/27-28: [GitHub Universe](https://jasong.us/2Yu4oPG)
 
-To view more events, visit my events page at [jasong.us/31WbA6p](https://jasong.us/31WbA6p).
+To view more events, visit my events page at [jasong.us/events](https://jasong.us/events).
 
 {% include link-thumbnail.html path="2021/09/30/github-universe.jpg" alt="GitHub Universe Registration" url="https://jasong.us/2Yu4oPG" %}
