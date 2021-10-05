@@ -13,6 +13,7 @@ As I find out about events, I'll post about them here. If you have an event you'
 
 #### October
 - 10/11: [TBM Conference 2021 - Virtual Event](https://jasong.us/3lRoqM0)
+- 10/12: [Databricks Convergence of Data and AI - Virtual Seminar](https://jasong.us/3AcvEPY)
 - 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
 - 10/26-28: [Adobe MAX 2021 - Virtual Event](https://jasong.us/344yeLv)
