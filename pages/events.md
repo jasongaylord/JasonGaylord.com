@@ -16,7 +16,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### October
 - 10/6-7: [Jamstack Conf - Virtual Event](https://jasong.us/3laf92p)
 - 10/11: [TBM Conference 2021 - Virtual Event](https://jasong.us/3lRoqM0)
-- 10/11-13: [Machine Learning Summit - Virtual Event](https://jasong.us/3BcPn3b)  {% include snippets/twitter-account.html url="https://jasong.us/3mtstym" account="@MLSummit_DE" %}
 - 10/12: [Databricks Convergence of Data and AI - Virtual Seminar](https://jasong.us/3AcvEPY)
 - 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
 - 10/12-15: [ElixirConf - Austin, TX and Virtual Event](https://jasong.us/2WIxHNX)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@ElixirConf" %}
@@ -68,6 +67,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 12/6-10: [GopherCon - Virtual Event](https://jasong.us/3a7tQNx)
 - 12/7: [WeAreDevelopers Live - Python Day - Virtual Event](https://jasong.us/3oBtE1l)  {% include snippets/twitter-account.html url="https://jasong.us/3oF1OBH" account="@WeAreDevs" %}
 - 12/7-8: [Developer Week Global Enterprise - Virtual Event](https://jasong.us/3AdQwqb)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
+- 12/8-10: [Machine Learning Summit - Virtual Event](https://jasong.us/3BcPn3b)  {% include snippets/twitter-account.html url="https://jasong.us/3mtstym" account="@MLSummit_DE" %}
 - 12/13-14: [droidcon San Francisco - Virtual Event](https://jasong.us/3AgFfVQ)
 - 12/13-16: [ArchConf 2021 - Clearwater, FL](https://jasong.us/3AcYrUs)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
 - 12/15: [WeAreDevelopers Live - Game Development Day - Virtual Event](https://jasong.us/3iyMFOl)  {% include snippets/twitter-account.html url="https://jasong.us/3oF1OBH" account="@WeAreDevs" %}
