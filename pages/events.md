@@ -24,6 +24,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 10/13: [Garmin Developer Virtual Conference - Virtual Event](https://jasong.us/3mqbLjF)
 - 10/13-14: [Big Data and AI Toronto - Virtual Event](https://jasong.us/3A7zB8A)  {% include snippets/twitter-account.html url="https://jasong.us/3laUjA4" account="@BigDataAITO" %}
 - 10/13-14: [Devopsdays Buffalo 2021 - Buffalo, NY + Virtual Event](https://jasong.us/3mt81h8)  {% include snippets/twitter-account.html url="https://jasong.us/3FgNpRT" account="@DevOpsDaysBUF" %}
+- 10/19-20: [DaprCon - Virtual Event](https://jasong.us/3oEcKiI)
 - 10/19-20: [Cisco DevNet Create - Virtual Event](https://jasong.us/3lcdTfu)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}
 - 10/20-22: [Women in Tech Fall 2021 Virtual Summit - Virtual Event](https://jasong.us/2WG6Lyi)  {% include snippets/twitter-account.html url="https://jasong.us/3Aoyamt" account="@WomenTechSummit" %}
 - 10/26: [NextJS Conf - Virtual Event](https://jasong.us/3le76lw)
