@@ -15,4 +15,4 @@ To register for the event, visit the event page at [events.google.com/io](https:
 
 {% include link-thumbnail.html path="2021/04/13/google-io-back-online.jpg" alt="Google I/O Registration" url="https://jasong.us/3wNTu3T" %}
 
-In addition, I've updated many events on [my Events page](https://jasong.us/31WbA6p). Some events through the end of June have switched from in-person to digital events. However, it sounds as if more events are planning on sticking with in-person events starting in July.
+In addition, I've updated many events on [my Events page](https://jasong.us/events). Some events through the end of June have switched from in-person to digital events. However, it sounds as if more events are planning on sticking with in-person events starting in July.
