@@ -21,7 +21,11 @@ In preparation for the holiday season, Amazon is offering holiday deals now. Bel
 * [Television and Streaming](#television-and-streaming)
 
 ### Cell Phones
-* [Motorolo One 5G Ace - Unlocked - 128GB](https://www.amazon.com/Motorola-battery-Unlocked-Camera-Silver/dp/B08NWD7K8H?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=18b671f7332aecd444e343081a969afe&language=en_US&ref_=as_li_ss_tl) -- Save $70 -- Just $329.99
+* [Moto G Stylus - Unlocked - 128GB](https://www.amazon.com/Stylus-Battery-Unlocked-Motorola-Camera/dp/B08NWCT6SK?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=654fb58063c7e8bea961f9283dca51d9&language=en_US&ref_=as_li_ss_tl) -- Save $50 -- JUST $249.99
+* [Moto G7 Plus - Unlocked - 64GB](https://www.amazon.com/Moto-Unlocked-Motorola-Camera-Black/dp/B08GL2HKLT?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=539d18f96a224baa365f709f2697622c&language=en_US&ref_=as_li_ss_tl) -- Save $100 -- JUST $149.99
+* [Motorola edge - Unlocked - 256GB](https://www.amazon.com/Motorola-Unlocked-256GB-Camera-Solor/dp/B08B9SGGRS?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=8f7545d7a40a40dd6acf0c3de7638ab8&language=en_US&ref_=as_li_ss_tl) -- Save $200 -- JUST $499.99
+* [Motorola One 5G Ace - Unlocked - 128GB](https://www.amazon.com/Motorola-battery-Unlocked-Camera-Silver/dp/B08NWD7K8H?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=18b671f7332aecd444e343081a969afe&language=en_US&ref_=as_li_ss_tl) -- Save $70 -- JUST $329.99
+* [Motorola Razr 5G - Unlocked - 256GB](https://www.amazon.com/Motorola-Unlocked-Camera-Liquid-Mercury/dp/B08KJJ56FV?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=b40462475a880c47d7631d92cbb46efa&language=en_US&ref_=as_li_ss_tl) -- Save $400 -- JUST $999.99
 
 ### Headphones and Earbuds
 * [Apple AirPods Pro](https://www.amazon.com/Apple-MWP22AM-A-AirPods-Pro/dp/B07ZPC9QD4?&linkCode=ll1&tag=jasongaylor01-20&linkId=471ff11d7768fa583f52e9543677701a&language=en_US&ref_=as_li_ss_tl) -- Save $70 -- JUST $179
