@@ -5,7 +5,7 @@ date: 2021-10-09
 categories: [amazon,holiday,shopping]
 tags:  [amazon,holiday,shopping]
 post-number: 1187
-image: https://cdn.jasongaylord.com/images/2021/10/09/
+image: https://cdn.jasongaylord.com/images/2021/10/09/insignia-70-firetv.jpg
 bitly: https://jasong.us/3oHn75t
 ---
 
@@ -34,6 +34,7 @@ In preparation for the holiday season, Amazon is offering holiday deals now. Bel
 ### Computer Accessories
 * [Anycubic Photon Resin 3D Printer](https://www.amazon.com/ANYCUBIC-Photon-Mono-Photocuring-Monochrome/dp/B08R8SLSV7?&linkCode=ll1&tag=jasongaylor01-20&linkId=4221573a9cf915b64309e8c5a5c40405&language=en_US&ref_=as_li_ss_tl) -- Save $140 -- JUST $559.99
 * [Anker USB C to Lightning Cable - 6 ft](https://www.amazon.com/Anker-Powerline-Lightning-Connector-Certified/dp/B07H256MBK?&linkCode=ll1&tag=jasongaylor01-20&linkId=59bbed0e3a388a467b267c268c3b3fe6&language=en_US&ref_=as_li_ss_tl) -- Save $2.27 -- JUST $12.72
+* [EVGA 850 W Power Supply](https://www.amazon.com/EVGA-Supernova-Modular-Warranty-220-G5-0850-X1/dp/B07WDLTGC1?&linkCode=ll1&tag=jasongaylor01-20&linkId=1d1d8408d757bfe30b4a120a1e35f5ad&language=en_US&ref_=as_li_ss_tl) -- Save $45.49 -- JUST $124.50
 * [Gaomon 11.6" Drawing Display](https://www.amazon.com/GAOMON-Support-Pressure-Sensitive-Shortcut/dp/B07YFG742J?&linkCode=ll1&tag=jasongaylor01-20&linkId=48362bc443e37cd5761583dd9a2fad87&language=en_US&ref_=as_li_ss_tl) - Save $30 -- JUST $169.99
 * [Hanycony Surge Protector with USB](https://www.amazon.com/Surge-Protector-Power-Strip-Extension/dp/B092J8LPWR?&linkCode=ll1&tag=jasongaylor01-20&linkId=2d6900fb8c0516491634c1cfaf46bf7c&language=en_US&ref_=as_li_ss_tl) -- Save $9 -- JUST $16.99
 * [Polono Label Printer](https://www.amazon.com/Polono-Thermal-Label-Printer-Commercial/dp/B08RBG6QYX?&linkCode=ll1&tag=jasongaylor01-20&linkId=04c834c3af0312b4ff60f7fed41b96ae&language=en_US&ref_=as_li_ss_tl) -- Save $87 -- JUST $110.99
@@ -90,8 +91,8 @@ In preparation for the holiday season, Amazon is offering holiday deals now. Bel
 ### Network
 * [Amazon Eero 6 Mesh Wi-Fi 6 Extender](https://www.amazon.com/Eero-6-Extender/dp/B085VQVPJK?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=ab2666c929d7e02137247e72607528a2&language=en_US&ref_=as_li_ss_tl) -- Save $27 -- JUST $62
 * [Amazon Eero 6 Mesh Wi-Fi 6 Router](https://www.amazon.com/Eero-6-Router/dp/B085VM9ZDD?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=0286cdc98a5120e579c17817df24c20a&language=en_US&ref_=as_li_ss_tl) -- Save $39 -- JUST $90
-* [Amazon Eero 6 Mesh Wi-Fi 6 Router + Extender](https://www.amazon.com/Staging-Product-Not-Retail-Sale/dp/B085WS7H6K?smid=ATVPDKIKX0DER&linkCode=ll1&tag=thepighero-20&linkId=73fcfb57f00c80d655ac49b4d32b385b&language=en_US&ref_=as_li_ss_tl) -- Save $60 -- JUST $139
-* [Amazon Eero 6 Mesh Wi-Fi 6 Router - 3 pack](https://www.amazon.com/Amazon-eero-dual-band-system-routers/dp/B097VJS3Y3?smid=ATVPDKIKX0DER&linkCode=ll1&tag=thepighero-20&linkId=2583cb11c644ac70737b84db0d71258e&language=en_US&ref_=as_li_ss_tl) -- Save $149 -- JUST $244
+* [Amazon Eero 6 Mesh Wi-Fi 6 Router + Extender](https://www.amazon.com/Staging-Product-Not-Retail-Sale/dp/B085WS7H6K?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=73fcfb57f00c80d655ac49b4d32b385b&language=en_US&ref_=as_li_ss_tl) -- Save $60 -- JUST $139
+* [Amazon Eero 6 Mesh Wi-Fi 6 Router - 3 pack](https://www.amazon.com/Amazon-eero-dual-band-system-routers/dp/B097VJS3Y3?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=2583cb11c644ac70737b84db0d71258e&language=en_US&ref_=as_li_ss_tl) -- Save $149 -- JUST $244
 * [Amazon Eero Pro 6 Mesh Wi-Fi System](https://www.amazon.com/Eero-Pro-6-Router/dp/B085VNCZHL?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=6feb11583f30861717178a9b746aba2e&language=en_US&ref_=as_li_ss_tl) -- Save $46 -- JUST $183
 * [Amazon Eero Pro 6 Mesh Wi-Fi System - 2 pack](https://www.amazon.com/Staging-Product-Not-Retail-Sale/dp/B0866V73R6?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=e1882cf22956b4ef7fabb30594899249&language=en_US&ref_=as_li_ss_tl) -- Save $80 -- JUST $319
 * [Amazon Eero Pro 6 Mesh Wi-Fi System - 3 pack](https://www.amazon.com/Amazon-eero-pro-6-3-pack/dp/B085VNCZHZ?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=9caebfb508142d02583406cc31fd8840&language=en_US&ref_=as_li_ss_tl) -- Save $120 -- JUST $479
@@ -116,9 +117,15 @@ In preparation for the holiday season, Amazon is offering holiday deals now. Bel
 * [eufy by Anker BoostIQ RoboVac](https://www.amazon.com/eufy-Connected-Super-Thin-Self-Charging-Medium-Pile/dp/B07RGDFZ5Q?&linkCode=ll1&tag=jasongaylor01-20&linkId=a464e1db4a1eb6ae6b168f0ea5ed7b90&language=en_US&ref_=as_li_ss_tl) -- Save $104 -- JUST $175.99
 * [eufy Security Smart Lock with WiFi Bridge](https://www.amazon.com/eufy-Bluetooth-Electronic-Weatherproof-Protection/dp/B08HYTDCJG?&linkCode=ll1&tag=jasongaylor01-20&linkId=dc35e00b27da8ccaf8804d13d7ee7369&language=en_US&ref_=as_li_ss_tl) -- Save $20 -- JUST $139.99
 * [Funcare Digital Photo Frame 13.3"](https://www.amazon.com/Digital-Funcare-Picture-Touchscreen-Mountable/dp/B094HQXLYZ?&linkCode=ll1&tag=jasongaylor01-20&linkId=c5307ac3865ffcf0700d12f361b151d1&language=en_US&ref_=as_li_ss_tl) -- Save $50 -- JUST $129.99
+* [ILIFE Shinebot W450, Mopping Robot](https://www.amazon.com/ILIFE-Shinebot-Scrubbing-Washing-Connected/dp/B08QCMPB4L?&linkCode=ll1&tag=jasongaylor01-20&linkId=c6a047af3ae7500defc0dcb637abbd2a&language=en_US&ref_=as_li_ss_tl) -- Save $62.60 -- JUST $297.39
+
 * [Kasa Smart Light Switch - 3 Pack](https://www.amazon.com/TP-LINK-HS200P3-Installation-Single-Pole-Assistant/dp/B07HGW8N7R?&linkCode=ll1&tag=jasongaylor01-20&linkId=afb6e4f4616c359b770cd9718e293e9c&language=en_US&ref_=as_li_ss_tl) -- Save $10.10 -- JUST $34.89
 * [Keepsmile LED Strip Lights - 50ft](https://www.amazon.com/Keepsmile-Changing-Control-Bedroom-Decoration/dp/B09GFVLSFF?&linkCode=ll1&tag=jasongaylor01-20&linkId=69def8e076b70bf70a21600be750dd73&language=en_US&ref_=as_li_ss_tl) -- Save 15% -- JUST $14.44
+* [Samsung Galaxy SmartTag](https://www.amazon.com/Samsung-SmartTag-Bluetooth-Tracker-Locator/dp/B08NRS3YP8?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=88d20d9dba8e7a746307d40b11bb2fb1&language=en_US&ref_=as_li_ss_tl) -- Save $5 -- JUST $24.99
+* [Samsung Galaxy SmartTag+](https://www.amazon.com/Samsung-SmartTag-Bluetooth-Accessory-Attachment/dp/B08NRNSVRK?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=8b95ad364312eda1a0dfb28eb36d6667&language=en_US&ref_=as_li_ss_tl) -- Save $10 -- JUST $29.99
 * [Singtrix Karaoke Machine](https://www.amazon.com/Singtrix-Bundle-Premium-Karaoke-System/dp/B00JBJ2HNO?&linkCode=ll1&tag=jasongaylor01-20&linkId=3e6b939ed0f36617b8f66a14eb5d1231&language=en_US&ref_=as_li_ss_tl) -- Save $40 -- JUST $359.99
+* [Thamtu G11 Robot Vacuum Cleaner](https://www.amazon.com/Thamtu-G11-Generation-Navigation-Medium-Pile/dp/B09122SS1F?&linkCode=ll1&tag=jasongaylor01-20&linkId=693e93d8d3e26c7ed52f5ea99776d666&language=en_US&ref_=as_li_ss_tl) -- Save $160 -- JUST $99.99
+* [VeGue Wireless Karaoke Machine](https://www.amazon.com/Wireless-Portable-Bluetooth-Activity-Performance/dp/B07V5LJH2B?&linkCode=ll1&tag=jasongaylor01-20&linkId=7a5fcd418a5b48197f33d0837ccc1539&language=en_US&ref_=as_li_ss_tl) -- Save $30 -- JUST $169.99
 * [Wopet Automatic Cat Feeder](https://www.amazon.com/WOPET-Automatic-Dispenser-Distribution-Recorder/dp/B089GG57QL?&linkCode=ll1&tag=jasongaylor01-20&linkId=25b76ae6553c3710ab646d590f27a905&language=en_US&ref_=as_li_ss_tl) -- Save $22.84 -- JUST $67.15
 
 ### Smart Watches
@@ -150,11 +157,13 @@ In preparation for the holiday season, Amazon is offering holiday deals now. Bel
 * [Amazon Kindle Paperwhite - 8GB](https://www.amazon.com/Kindle-Paperwhite-Waterproof-Storage-Special/dp/B07PS737QQ?&linkCode=ll1&tag=jasongaylor01-20&linkId=e7fb2cdfd92ea01c1cd3951b23edc870&language=en_US&ref_=as_li_ss_tl) -- Save $55 -- JUST $74.99
 * [Amazon Kindle Paperwhite - 32GB](https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B07745PV5G?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=19dd11b3d41f96f3a0667ec1bced5196&language=en_US&ref_=as_li_ss_tl) -- Save $70 -- JUST $89.99
 * [Amazon Kindle Paperwhite - 32GB + Wi-Fi + LTE](https://www.amazon.com/All-new-Kindle-Paperwhite-Waterproof-Storage/dp/B075RNKT6G?smid=ATVPDKIKX0DER&linkCode=ll1&tag=jasongaylor01-20&linkId=98ca0099bd793d027958f073d90c586d&language=en_US&ref_=as_li_ss_tl) -- Save $90 -- JUST $159.99
+* [Huion Drawing Tablet 15.6"](https://www.amazon.com/Drawing-Monitor-Full-Laminated-Battery-Free-Adjustable/dp/B07RXZC12J?&linkCode=ll1&tag=jasongaylor01-20&linkId=e2b78495fb926e00146effb801682400&language=en_US&ref_=as_li_ss_tl) -- Save $80 -- JUST $319.99
 
 ### Television and Streaming
 * [Amazon Fire TV Stick 3rd Gen](https://www.amazon.com/fire-tv-stick-with-3rd-gen-alexa-voice-remote/dp/B08C1W5N87?&linkCode=ll1&tag=jasongaylor01-20&linkId=0efdeed033b76eed13e3328adfc5c62d&language=en_US&ref_=as_li_ss_tl) -- Save $14 -- JUST $25.99
 * [Amazon Fire TV Stick 4K](https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21?&linkCode=ll1&tag=jasongaylor01-20&linkId=2003d3e8a85aee63ec63d1506b146a3e&language=en_US&ref_=as_li_ss_tl) -- Save $16 -- JUST $33.99
 * [Insignia Smart HD 720p - 24"](https://www.amazon.com/All-New-Insignia-NS-24DF310NA21-24-inch-Smart/dp/B0874YZVWK?&linkCode=ll1&tag=jasongaylor01-20&linkId=3e723826fc80318970c10f3ddeee574a&language=en_US&ref_=as_li_ss_tl) -- Save $50 -- JUST $119.99
 * [Insignia Smart 4K UHD Fire TV - 50"](https://www.amazon.com/All-New-Insignia-NS-50DF710NA21-50-inch-Smart/dp/B086VRR9K9?&linkCode=ll1&tag=jasongaylor01-20&linkId=b154d72e7577f956981e2c9a067d57d6&language=en_US&ref_=as_li_ss_tl) -- Save $100 -- JUST $349.99
+* [Projector Screen with Stand 100"](https://www.amazon.com/Portable-Projector-Screen-Stand-inch/dp/B07PZKGFNH?&linkCode=ll1&tag=jasongaylor01-20&linkId=d3c3cfa0fce59207ce5034bfb93b7e2e&language=en_US&ref_=as_li_ss_tl) -- Save $11.85 -- JUST $67.14
 * [Sony A80J Bravia XR OLED - 77"](https://www.amazon.com/dp/B08TL48K9M?&linkCode=ll1&tag=jasongaylor01-20&linkId=60806cb74c5cd084482da6c6b4369a4d&language=en_US&ref_=as_li_ss_tl) -- Save $501.99 -- JUST $2998
 * [Sony X80J Smart Google TV - 75"](https://www.amazon.com/Sony-X80J-Inch-Compatibility-KD75X80J/dp/B08QXJH5C8?&linkCode=ll1&tag=jasongaylor01-20&linkId=5ebf194ba86a35a80883e73ee21c2454&language=en_US&ref_=as_li_ss_tl) -- Save $301.99 -- JUST $1098
