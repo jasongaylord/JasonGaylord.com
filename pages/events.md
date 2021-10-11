@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### October
-- 10/6-7: [Jamstack Conf - Virtual Event](https://jasong.us/3laf92p)
 - 10/11: [TBM Conference 2021 - Virtual Event](https://jasong.us/3lRoqM0)
 - 10/12: [Databricks Convergence of Data and AI - Virtual Seminar](https://jasong.us/3AcvEPY)
 - 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
