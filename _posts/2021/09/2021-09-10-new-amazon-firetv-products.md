@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-10
 categories: [amazon,shopping,technology]
 tags: [amazon,shopping,technology]
-post-number: 1171
+post-number: 1172
 image: https://cdn.jasongaylord.com/images/2021/09/10/firetv-omni-series.jpg
 bitly: https://jasong.us/3tuacEn
 ---

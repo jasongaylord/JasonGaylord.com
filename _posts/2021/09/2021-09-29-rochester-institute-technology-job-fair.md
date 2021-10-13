@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-29
 categories: [business,events,job-opportunities]
 tags: [business,events,job-opportunities] 
-post-number: 1181
+post-number: 1182
 image: https://cdn.jasongaylord.com/images/2021/09/29/rit-career-fair.jpg
 bitly: https://jasong.us/3zI7SuY
 ---

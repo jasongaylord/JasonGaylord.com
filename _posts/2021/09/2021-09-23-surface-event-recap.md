@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-23
 categories: [hardware,microsoft,mobile,opinion]
 tags:  [hardware,microsoft,mobile,opinion]
-post-number: 1177
+post-number: 1178
 image: https://cdn.jasongaylord.com/images/2021/09/23/SurfaceLaptopStudio.png
 bitly: https://jasong.us/2XEnZfE
 ---

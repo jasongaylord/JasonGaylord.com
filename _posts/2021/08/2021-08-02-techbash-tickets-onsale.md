@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-08-02
 categories: [events,techbash]
 tags: [events,techbash]
-post-number: 1153
+post-number: 1154
 image: https://cdn.jasongaylord.com/images/2021/08/02/techbash.jpg
 bitly: https://jasong.us/3rMcAW4
 ---

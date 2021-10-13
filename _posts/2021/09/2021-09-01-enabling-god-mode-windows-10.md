@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-01
 categories: [microsoft,tip,windows]
 tags: [microsoft,tip,windows]
-post-number: 1167
+post-number: 1168
 image: https://cdn.jasongaylord.com/images/2021/09/01/windows10-god-mode.jpg
 bitly: https://jasong.us/3Bv7bX2
 ---

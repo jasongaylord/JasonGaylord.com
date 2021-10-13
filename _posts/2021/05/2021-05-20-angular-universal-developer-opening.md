@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-05-20
 categories: [archive]
 tags:  [archive]
-post-number: 1147
+post-number: 1148
 image: https://cdn.jasongaylord.com/images/2021/05/20/angular-full-stack-developer.jpg
 bitly: https://jasong.us/3f1EtVp
 ---

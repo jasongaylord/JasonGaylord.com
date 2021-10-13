@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-03
 categories: [archive]
 tags:  [archive]
-post-number: 1169
+post-number: 1170
 image: https://cdn.jasongaylord.com/images/2021/09/03/azure-devops-engineer.jpg
 bitly: https://jasong.us/3jFZyXM
 ---

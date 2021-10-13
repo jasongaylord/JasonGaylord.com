@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-13
 categories: [archive]
 tags:  [archive]
-post-number: 1173
+post-number: 1174
 image: https://cdn.jasongaylord.com/images/2021/09/13/junior-web-developer.png
 bitly: https://jasong.us/3l763m5
 ---

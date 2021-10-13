@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-22
 categories: [hardware,microsoft,mobile]
 tags:  [hardware,microsoft,mobile]
-post-number: 1176
+post-number: 1177
 image: https://cdn.jasongaylord.com/images/2021/09/22/Microsoft-Surface-Pro-8.png
 bitly: https://jasong.us/2XEQEBu
 ---

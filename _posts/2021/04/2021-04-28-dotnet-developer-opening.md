@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-04-28
 categories: [archive]
 tags:  [archive]
-post-number: 1145
+post-number: 1146
 image: https://cdn.jasongaylord.com/images/2021/04/28/dotnet-dev-opening.jpg
 bitly: https://jasong.us/3eCZbcU
 ---

@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-01
 categories: [amazon,shopping,technology]
 tags: [amazon,shopping,technology]
-post-number: 1183
+post-number: 1184
 image: https://cdn.jasongaylord.com/images/2021/10/01/amazon-astro.jpg
 bitly: https://jasong.us/3ujbfHA
 ---

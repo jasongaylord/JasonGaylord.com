@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-07-21
 categories: [archive]
 tags:  [archive]
-post-number: 1151
+post-number: 1152
 image: https://cdn.jasongaylord.com/images/2021/07/21/junior-business-analyst.jpg
 bitly: https://jasong.us/2W41Bf1
 ---

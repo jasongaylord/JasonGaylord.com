@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-14
 categories: [amazon,hardware,review,shopping,technology]
 tags:  [amazon,hardware,review,shopping,technology]
-post-number: 1189
+post-number: 1191
 image: https://cdn.jasongaylord.com/images/2021/10/14/
 bitly: https://jasong.us/3oYnIzP
 ---

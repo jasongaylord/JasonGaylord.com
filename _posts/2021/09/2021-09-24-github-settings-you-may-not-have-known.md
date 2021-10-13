@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-24
 categories: [dev,devops,github]
 tags:  [dev,devops,github]
-post-number: 1178
+post-number: 1179
 image: https://cdn.jasongaylord.com/images/2021/09/24/github-discussions.png
 bitly: https://jasong.us/3u8QbDO
 ---
