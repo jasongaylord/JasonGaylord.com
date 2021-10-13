@@ -17,16 +17,18 @@ I currently use a [Surface Book 3 laptop](https://www.amazon.com/NEW-Microsoft-S
 
 I came across a highly rated [15.6" Full HD USB-C external monitor from Lepow](https://www.amazon.com/gp/product/B07V1SQ966?ie=UTF8&psc=1&linkCode=ll1&tag=jasongaylor01-20&linkId=6d2de4ca8670910cd2dfdb283ae63861&language=en_US&ref_=as_li_ss_tl). At the time of this posting, this monitor was available for $189.99. This monitor can be powered by a single USB-C connection as long as the USB-C port has enough power. Plugging it directly into the USB-C port on my Surface Book did the trick. Depending on where you want to place the monitor, you may want a different length USB-C cable than what's provided. In addition to the USB-C to USB-C cable that's included, there is a USB to USB-C cable for the included power adapter. There is also a mini HDMI cable included. One of the other nice to haves is the included screen protector that allows the display to be protected. A cover case with a leather covering also provides protection and allows the monitor to be propped accordingly. I was surprised at the weight of the monitor. It's a bit heavier than expected at 1.76 lbs, but that's probably due to the durability of the encasement. 
 
+I've used it a bit over the past week with my Surface Book 3. I've recently upgraded to Windows 11 Pro on my Surface Book so I was interested in that as well. Overall the picture was very clear and the brightness was fairly good considering the price of this display. While I've had issues with other monitors extending properly, this one simply worked. For an external monitor, the color was very good. However, it does not quite compare to a full monitor which is why I'd take some points off my scoring. 
+
 Overall, on a scale of 1.0 to 10.0 where 10.0 is the highest, here are my scores:
 
 > **Value**
 > ### 10.0
 > 
 > **Features**
-> ### 8.5
+> ### 9.0
 > 
 > **Overall**
-> ### 9.3
+> ### 9.5
 > 
 > **Recommend to a friend?**
 > ### Yes
