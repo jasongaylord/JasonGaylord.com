@@ -5,7 +5,7 @@ date: 2021-10-18
 categories: [dev,dotnet,visual-studio]
 tags:  [dev,dotnet,visual-studio]
 post-number: 1193
-image: https://cdn.jasongaylord.com/images/2021/10/18/
+image: https://cdn.jasongaylord.com/images/2021/10/18/dotnet-version-dropdown.jpg
 bitly: https://jasong.us/2YOM1W8
 ---
 
