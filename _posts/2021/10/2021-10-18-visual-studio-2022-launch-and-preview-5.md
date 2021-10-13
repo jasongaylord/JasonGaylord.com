@@ -19,3 +19,9 @@ The Visual Studio team has also spent quite a bit of time focused on updating ic
 .NET 6 and .NET MAUI are fully supported within Visual Studio 2022. You can also use pre-built GitHub workflows and actions to build your applications using CI/CD. 
 
 Again, check out all of the upgrades by visiting the team's blog post at [jasong.us/3vaTESH](https://jasong.us/3vaTESH).
+
+### Installation
+One of the biggest enhancements I had noticed is the speed in which Visual Studio 2022 installs. When I went through the install, I choose the ASP.NET and web development and Azure development workloads. The install went from 872 MB to almost 10 GB. However, the install took less than 20 minutes. The last time I had installed Visual Studio 2019, the install took a couple of hours. 
+
+{% include open-thumbnail.html path="2021/10/18/visual-studio-2022-install.jpg" alt="Installation Screen for Visual Studio Enterprise 2022" %}
+
