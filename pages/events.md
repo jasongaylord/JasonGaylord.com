@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### October
-- 10/12: [Databricks Convergence of Data and AI - Virtual Seminar](https://jasong.us/3AcvEPY)
 - 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
 - 10/12-15: [ElixirConf - Austin, TX and Virtual Event](https://jasong.us/2WIxHNX)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@ElixirConf" %}
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
