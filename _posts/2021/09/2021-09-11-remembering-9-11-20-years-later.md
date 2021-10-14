@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-11
 categories: [opinion]
 tags:  [opinion]
-post-number: 1172
+post-number: 1173
 image: https://cdn.jasongaylord.com/images/2020/09/11/153442.jpg
 bitly: https://jasong.us/3l7Jvlb
 ---

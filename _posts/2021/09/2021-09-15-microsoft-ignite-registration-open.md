@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-15
 categories: [events,microsoft]
 tags:  [events,microsoft]
-post-number: 1174
+post-number: 1175
 image: https://cdn.jasongaylord.com/images/2021/09/15/msignite.png
 bitly: https://jasong.us/3nzq6fG
 ---

@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-08-17
 categories: [events,techbash]
 tags: [events,techbash]
-post-number: 1159
+post-number: 1160
 image: https://cdn.jasongaylord.com/images/2021/08/17/claire-novotny.jpg
 bitly: https://jasong.us/3yUdXoy
 ---

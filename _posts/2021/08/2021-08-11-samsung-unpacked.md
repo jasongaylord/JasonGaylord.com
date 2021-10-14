@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-08-11
 categories: [events,mobile,samsung,technology]
 tags:  [events,mobile,samsung,technology]
-post-number: 1156
+post-number: 1157
 image: https://cdn.jasongaylord.com/images/2021/08/11/samsung-unpacked.png
 bitly: https://jasong.us/3jFXIox
 ---

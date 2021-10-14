@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-08-18
 categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
-post-number: 1160
+post-number: 1161
 image: https://cdn.jasongaylord.com/images/2021/08/18/business-analyst.jpg
 bitly: https://jasong.us/3xWYhQ1
 ---

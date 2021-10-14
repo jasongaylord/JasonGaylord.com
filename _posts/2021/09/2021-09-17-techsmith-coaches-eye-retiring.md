@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-17
 categories: [collaboration,mobile,sports]
 tags:  [collaboration,mobile,sports]
-post-number: 1175
+post-number: 1176
 image: https://cdn.jasongaylord.com/images/2021/09/17/techsmith-coachs-eye.png
 bitly: https://jasong.us/39dyskY
 ---

@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-06
 categories: [microsoft,windows]
 tags: [microsoft,windows]
-post-number: 1184
+post-number: 1185
 image: https://cdn.jasongaylord.com/images/2021/10/06/windows11-upgrade.jpg
 bitly: https://jasong.us/3Ba0g5U
 ---

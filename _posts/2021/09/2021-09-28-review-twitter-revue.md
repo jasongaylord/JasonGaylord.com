@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-28
 categories: [collaboration,productivity,technology]
 tags:  [collaboration,productivity,technology]
-post-number: 1180
+post-number: 1181
 image: https://cdn.jasongaylord.com/images/2021/09/28/
 bitly: https://jasong.us/2WmQo9W
 ---

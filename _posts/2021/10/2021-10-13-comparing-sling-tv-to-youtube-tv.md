@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-13
 categories: [google,technology]
 tags:  [google,technology]
-post-number: 1189
+post-number: 1190
 image: https://cdn.jasongaylord.com/images/2021/10/13/sling-vs-youtube.jpg
 bitly: https://jasong.us/3mNFd39
 ---

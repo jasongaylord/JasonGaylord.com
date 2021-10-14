@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-09
 categories: [amazon,holiday,shopping]
 tags:  [amazon,holiday,shopping]
-post-number: 1187
+post-number: 1188
 image: https://cdn.jasongaylord.com/images/2021/10/09/insignia-70-firetv.jpg
 bitly: https://jasong.us/3oHn75t
 ---

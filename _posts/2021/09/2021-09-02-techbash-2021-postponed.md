@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-09-02
 categories: [covid19,events,techbash]
 tags: [covid19,events,techbash]
-post-number: 1168
+post-number: 1169
 image: https://cdn.jasongaylord.com/images/2021/09/02/techbash2021-postponed.jpg
 bitly: https://jasong.us/3zxJD37
 ---

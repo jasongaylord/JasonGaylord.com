@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2021-10-07
 categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
-post-number: 1185
+post-number: 1186
 image: https://cdn.jasongaylord.com/images/2021/10/07/dotnet-developer-job-opportunity.jpg
 bitly: https://jasong.us/3uLxndQ
 ---

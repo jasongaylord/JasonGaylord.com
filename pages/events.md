@@ -17,9 +17,9 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 10/12-14: [Google Cloud Next '21 - Virtual Event](https://jasong.us/3imABQt)
 - 10/12-15: [ElixirConf - Austin, TX and Virtual Event](https://jasong.us/2WIxHNX)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@ElixirConf" %}
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
-- 10/13: [Garmin Developer Virtual Conference - Virtual Event](https://jasong.us/3mqbLjF)
 - 10/13-14: [Big Data and AI Toronto - Virtual Event](https://jasong.us/3A7zB8A)  {% include snippets/twitter-account.html url="https://jasong.us/3laUjA4" account="@BigDataAITO" %}
 - 10/13-14: [Devopsdays Buffalo 2021 - Buffalo, NY + Virtual Event](https://jasong.us/3mt81h8)  {% include snippets/twitter-account.html url="https://jasong.us/3FgNpRT" account="@DevOpsDaysBUF" %}
+- 10/14: [JavaScript Day 2021 by JetBrains - Virtual Event](https://jasong.us/3FCs3Pb)  {% include snippets/twitter-account.html url="https://jasong.us/3va4o3S" account="@JetBrains" %}
 - 10/19-20: [DaprCon - Virtual Event](https://jasong.us/3oEcKiI)
 - 10/19-20: [Cisco DevNet Create - Virtual Event](https://jasong.us/3lcdTfu)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}
 - 10/20-22: [Women in Tech Fall 2021 Virtual Summit - Virtual Event](https://jasong.us/2WG6Lyi)  {% include snippets/twitter-account.html url="https://jasong.us/3Aoyamt" account="@WomenTechSummit" %}
