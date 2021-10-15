@@ -5,7 +5,7 @@ date: 2021-10-20
 categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
 post-number: 1195
-image: https://cdn.jasongaylord.com/images/2021/10/20/
+image: https://cdn.jasongaylord.com/images/2021/10/20/quality-assurance-analyst-wanted.jpg
 bitly: https://jasong.us/3AMyZFM
 ---
 
