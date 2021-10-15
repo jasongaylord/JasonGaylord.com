@@ -2,9 +2,9 @@
 title: "Solving 'Subscription is not registered to use namespace' in Azure"
 author: Jason Gaylord
 date: 2021-10-19
-categories: [dev,dotnet,visual-studio]
-tags:  [dev,dotnet,visual-studio]
-post-number: 1193
+categories: [azure,cloud,dev,microsoft]
+tags:  [azure,cloud,dev,microsoft]
+post-number: 1194
 image: https://cdn.jasongaylord.com/images/2021/10/19/build-and-deploy-error.jpg
 bitly: https://jasong.us/3FO2Gdh
 ---
