@@ -5,7 +5,7 @@ date: 2021-10-22
 categories: [azure,cloud,dev,microsoft]
 tags:  [azure,cloud,dev,microsoft]
 post-number: 1197
-image: https://cdn.jasongaylord.com/images/2021/10/22/
+image: https://cdn.jasongaylord.com/images/2021/10/22/az-bicep-decompile.jpg
 bitly: https://jasong.us/3mZHHM0
 ---
 
@@ -39,6 +39,8 @@ The final step is to decompile the ARM JSON to Bicep. Luckily, the bicep CLI has
 ```powershell
 az bicep decompile --file template.json
 ```
+
+{% include open-thumbnail.html path="2021/10/22/az-bicep-decompile.jpg" alt="AZ Bicep Decompile Results" %}
 
 After you execute, as long as the ARM JSON was properly formatted, you should have a new file with the same root name as the ARM JSON file, but with a `.bicep` extension. As mentioned in my [previous post about Bicep](https://jasong.us/35G3O39), one of the benefits is a simplified representation of the infrastructure as code. In my case, I was able to condense the file from 7.86 KB to 4.42 KB. 
 
