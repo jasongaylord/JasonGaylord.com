@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### October
-- 10/12-15: [ElixirConf - Austin, TX and Virtual Event](https://jasong.us/2WIxHNX)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@ElixirConf" %}
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
 - 10/19-20: [DaprCon - Virtual Event](https://jasong.us/3oEcKiI)
 - 10/19-20: [Cisco DevNet Create - Virtual Event](https://jasong.us/3lcdTfu)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}
