@@ -15,8 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### October
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
-- 10/19-20: [DaprCon - Virtual Event](https://jasong.us/3oEcKiI)
-- 10/19-20: [Cisco DevNet Create - Virtual Event](https://jasong.us/3lcdTfu)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}
 - 10/20-22: [Women in Tech Fall 2021 Virtual Summit - Virtual Event](https://jasong.us/2WG6Lyi)  {% include snippets/twitter-account.html url="https://jasong.us/3Aoyamt" account="@WomenTechSummit" %}
 - 10/26: [NextJS Conf - Virtual Event](https://jasong.us/3le76lw)
 - 10/26-27: [Dash Con by Datadog - Virtual Event](https://jasong.us/3uK3n2f)  {% include snippets/twitter-account.html url="https://jasong.us/3oAsFyD" account="@dashconio" %}
