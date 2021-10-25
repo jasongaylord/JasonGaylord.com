@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### October
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
-- 10/26: [NextJS Conf - Virtual Event](https://jasong.us/3le76lw)
 - 10/26-27: [Dash Con by Datadog - Virtual Event](https://jasong.us/3uK3n2f)  {% include snippets/twitter-account.html url="https://jasong.us/3oAsFyD" account="@dashconio" %}
 - 10/26-28: [Adobe MAX 2021 - Virtual Event](https://jasong.us/344yeLv)
 - 10/26-28: [API:World - Virtual Event](https://jasong.us/3uH81xP)  {% include snippets/twitter-account.html url="https://jasong.us/3BfKgzt" account="@APIWorld" %}
