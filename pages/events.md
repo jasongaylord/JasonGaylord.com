@@ -15,10 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### October
 - 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
-- 10/26-28: [Adobe MAX 2021 - Virtual Event](https://jasong.us/344yeLv)
-- 10/26-28: [API:World - Virtual Event](https://jasong.us/3uH81xP)  {% include snippets/twitter-account.html url="https://jasong.us/3BfKgzt" account="@APIWorld" %}
-- 10/27-28: [GitHub Universe - Virtual Event](https://jasong.us/2Yu4oPG)
-- 10/28: [Facebook Connect 2021 - Virtual Event](https://jasong.us/3lcOd25)
 - 10/28-29: [Devopsdays Nashville - Nashville, TN](https://jasong.us/3D8cNay)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
 
 #### November
