@@ -13,11 +13,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2021 
 
-#### October
-- 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
-- 10/28-29: [Devopsdays Nashville - Nashville, TN](https://jasong.us/3D8cNay)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
-
 #### November
+- 10/12-11/2: [Pluralsight Live 2021 - Virtual Event](https://jasong.us/2GyvzQZ)
 - 11/1-4: [Web Summit - Lisbon, Portugal](http://jasong.us/393Panf)  {% include snippets/twitter-account.html url="https://jasong.us/3BcJJy4" account="@WebSummit" %}
 - 11/2-4: [Microsoft Ignite - Virtual Event](https://jasong.us/2Z17US0)  {% include snippets/twitter-account.html url="https://jasong.us/3kKCOnQ" account="@MS_Ignite" %}
 - 11/2-4: [IoT World 2021 - Santa Clara, CA](http://jasong.us/3qEPsa9)
