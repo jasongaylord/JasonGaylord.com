@@ -25,7 +25,7 @@ include_nav: true
 {% for post in posts %}
   {% if post.tags contains t %}
   <div class="post-entry">
-    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" aria-label="{{ post.title }}">{{ post.title }}</a>
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title | smartify }}" aria-label="{{ post.title | smartify }}">{{ post.title | smartify }}</a>
     <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
   </div>
   {% endif %}
