@@ -292,3 +292,11 @@ blockquote {
 blockquote p {
     display: inline-block;
 }
+
+.thumbnail {
+    max-width: 400px;
+
+    @media screen and (max-width: $media-breakpoint-sm-max) {
+        max-width: 340px;
+    }
+}
