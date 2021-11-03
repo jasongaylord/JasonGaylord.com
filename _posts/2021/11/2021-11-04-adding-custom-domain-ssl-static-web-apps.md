@@ -6,7 +6,7 @@ categories: [azure,cloud,dev,dotnet,serverless]
 tags:  [azure,cloud,dev,dotnet,serverless]
 post-number: 1203
 image: https://cdn.jasongaylord.com/images/2021/11/04/azure-static-web-app-hosting-plans.jpg
-bitly: https://jasong.us/3CH6nzl
+bitly: https://jasong.us/3EH52t8
 ---
 
 Azure Static Web Apps are a great way to get started with an application. For most static web apps, the cost is FREE so it's quite appealing. In fact, adding a custom domain and SSL to your static web app is available in the free tier. Learn more about [Creating Your First Azure Static Web App](https://jasong.us/2XmCKRL) by [clicking here](https://jasong.us/2XmCKRL).

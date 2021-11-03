@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/06/01/azure-static-web-apps-in-s
 bitly: https://jasong.us/2XmCKRL
 ---
 
-Last week, I [blogged](https://jasong.us/3eCA0Fv) about creating an Azure Function from a command line. We didn't change the function at all as the post was just to show how easy it is to create and serve an Azure function locally. In this article, we're going to use that basic function, add a static file, and post both to an Azure Static Web App. Once you've published your first Azure Static Web App, you can learn how to use a [custom domain and enable it with SSL here](https://jasong.us/3CH6nzl).
+Last week, I [blogged](https://jasong.us/3eCA0Fv) about creating an Azure Function from a command line. We didn't change the function at all as the post was just to show how easy it is to create and serve an Azure function locally. In this article, we're going to use that basic function, add a static file, and post both to an Azure Static Web App. Once you've published your first Azure Static Web App, you can learn how to use a [custom domain and enable it with SSL here](https://jasong.us/3EH52t8).
 
 ## Prerequisites
 At this point, I'm assuming you've followed my previous post. We'll need to push our new app structure to GitHub so that it looks similar to the following:
