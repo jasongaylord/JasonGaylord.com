@@ -2,8 +2,8 @@
 title: Join our Team as a .NET Developer
 author: Jason Gaylord
 date: 2021-10-07
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1186
 image: https://cdn.jasongaylord.com/images/2021/10/07/dotnet-developer-job-opportunity.jpg
 bitly: https://jasong.us/3uLxndQ

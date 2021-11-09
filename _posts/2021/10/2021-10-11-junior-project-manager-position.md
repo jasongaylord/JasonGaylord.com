@@ -2,8 +2,8 @@
 title: Junior Project Manager Opening
 author: Jason Gaylord
 date: 2021-10-11
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1189
 image: https://cdn.jasongaylord.com/images/2021/10/11/junior-project-manager-opening.jpg
 bitly: https://jasong.us/3BpqHog
