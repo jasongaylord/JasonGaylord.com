@@ -14,13 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### November
-- 11/8-10: [RubyConf - Denver, CO](https://jasong.us/2WGYXwf)  {% include snippets/twitter-account.html url="https://jasong.us/3DhjLdg" account="@RubyConf" %}
-- 11/8-10: [CONNECT.TECH - Atlanta, GA](https://jasong.us/3mjOHTy)  {% include snippets/twitter-account.html url="https://jasong.us/3l8DS7s" account="@connect_js" %}
 - 11/8-12: [PASS Data Community Summit - Virtual Event](https://jasong.us/3uJLbFR)  {% include snippets/twitter-account.html url="https://jasong.us/3l9Qk6O" account="@PASSDataSummit" %}
-- 11/9-11: [.NET Conf 2021 - Virtual Event](https://jasong.us/2WleqPy)
-- 11/9-11: [AWE 2021 - Santa Clara, CA](http://jasong.us/2Mg3Y9m)  {% include snippets/twitter-account.html url="https://jasong.us/2YgZp4Q" account="@ARealityEvent" %}
-- 11/10: [WeAreDevelopers Live - DevOps Day - Virtual Event](https://jasong.us/3Be1oWe)  {% include snippets/twitter-account.html url="https://jasong.us/3oF1OBH" account="@WeAreDevs" %}
-- 11/10-11: [droidcon NYC - New York, NY](https://jasong.us/2ZTmFql)
 - 11/10-12: [Freshworks Refresh 2021 - Las Vegas, NV + Virtual Event](https://jasong.us/2Uojh4n)
 - 11/12: [angularday - Virtual Event](https://jasong.us/2WIIzvn)  {% include snippets/twitter-account.html url="https://jasong.us/3uJIrIH" account="@angularday" %}
 - 11/15-19: [Agile + DevOps East - Virtual Event](https://jasong.us/3lcFygn)
