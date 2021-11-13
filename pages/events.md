@@ -14,9 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### November
-- 11/8-12: [PASS Data Community Summit - Virtual Event](https://jasong.us/3uJLbFR)  {% include snippets/twitter-account.html url="https://jasong.us/3l9Qk6O" account="@PASSDataSummit" %}
-- 11/10-12: [Freshworks Refresh 2021 - Las Vegas, NV + Virtual Event](https://jasong.us/2Uojh4n)
-- 11/12: [angularday - Virtual Event](https://jasong.us/2WIIzvn)  {% include snippets/twitter-account.html url="https://jasong.us/3uJIrIH" account="@angularday" %}
 - 11/15-19: [Agile + DevOps East - Virtual Event](https://jasong.us/3lcFygn)
 - 11/16: [Tech Up For Women - Virtual Event](https://jasong.us/3DierXp)  {% include snippets/twitter-account.html url="https://jasong.us/3uJASBz" account="@techupforwomen" %}
 - 11/16-17: [Slack Frontiers 2021 - Virtual Event](https://jasong.us/2XcAdMK)
