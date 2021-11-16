@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### November
 - 11/15-19: [Agile + DevOps East - Virtual Event](https://jasong.us/3lcFygn)
-- 11/16: [Tech Up For Women - Virtual Event](https://jasong.us/3DierXp)  {% include snippets/twitter-account.html url="https://jasong.us/3uJASBz" account="@techupforwomen" %}
 - 11/16-17: [Slack Frontiers 2021 - Virtual Event](https://jasong.us/2XcAdMK)
 - 11/16-18: [ODSC West Reconnect - San Francisco, CA + Virtual Event](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@odsc" %}
 - 11/16-18: [AsyncAPI Conference - Virtual Event](https://jasong.us/3leiM7u)  {% include snippets/twitter-account.html url="https://jasong.us/2ZNEMhl" account="@AsyncAPISpec" %}
