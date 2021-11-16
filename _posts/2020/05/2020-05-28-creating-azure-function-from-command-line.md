@@ -47,7 +47,7 @@ func start
 
 After libraries are restored and your project builds, you'll receive a URL similar to `http://localhost:7071/api/name_get`. 
 
-![](https://cdn.jasongaylord.com/images/2020/05/28/azure-function-command-line.jpg)
+{% include open-thumbnail.html path="2020/05/28/azure-function-command-line.jpg" alt="The command line for our Azure function" %}
 
 If you execute that URL and pass a name in the query string like so:
 

@@ -96,11 +96,11 @@ Now, let's compile our server control project OurSuperCoolControlSuite.
 
 Going back to our ASP.NET Web project, let's add a new ASP.NET WebForm called default.aspx. We'll switch to design mode as this refreshes the Toolbox window. We should now see our control appear at the top of the toolbox as shown below:
 
-[![](https://cdn.jasongaylord.com/images/2012/11/09/embedded-script-demo-toolbox.png)](https://cdn.jasongaylord.com/images/2012/11/09/embedded-script-demo-toolbox)
+{% include open-thumbnail.html path="2012/11/09/embedded-script-demo-toolbox.png" alt="Embedded script demo toolbox" %}
 
 Finally, let's drag our control to the designer. We'll leave all of the default values of the control and simply run our Web application to see what we've done. When we leave the input control, we'll get our JavaScript alert like we're expecting:
 
-[![](https://cdn.jasongaylord.com/images/2012/11/09/welcome-jason-alert.png)](https://cdn.jasongaylord.com/images/2012/11/09/welcome-jason-alert.png)
+{% include open-thumbnail.html path="2012/11/09/welcome-jason-alert.png" alt="Welcome Jason Alert window" %}
 
 So, let's check out the rendered markup:
 
