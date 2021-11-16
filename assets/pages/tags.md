@@ -21,7 +21,7 @@ include_nav: true
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
 <div class="tag_page">
-<h2><a name="{{t | downcase | replace:" ","-" }}"></a><a title="{{ t | downcase }}" aria-label="{{ t | downcase }}" class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h2>
+<h3><a name="{{t | downcase | replace:" ","-" }}"></a><a title="{{ t | downcase }}" aria-label="{{ t | downcase }}" class="internal" href="/tag/#{{t | downcase | replace:" ","-" }}">{{ t | downcase }}</a></h3>
 {% for post in posts %}
   {% if post.tags contains t %}
   <div class="post-entry">
