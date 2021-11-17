@@ -10,7 +10,7 @@ include_nav: false
     {% assign currentyear = post.date | date: "%Y" %}
     {% if currentyear != year %}
       {% unless forloop.first %}{% if isopenlist == 1 %}</ul>{% assign isopenlist = 0 %}{% endif %}{% endunless %}
-      <h2 id="{{ post.date | date:"%Y" }}">{{ currentyear }}</h2>
+      <h3 id="{{ post.date | date:"%Y" }}">{{ currentyear }}</h3>
       {% assign year = currentyear %} 
     {% endif %}
     {% assign currentmonth = post.date | date: "%B" %}

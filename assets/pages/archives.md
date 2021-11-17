@@ -13,7 +13,7 @@ include_nav: true
   {% assign counteryear = counteryear | plus: 1 %}
 
   {% if thisyear != prevyear %}
-    <h2>{{ thisyear }} Posts ({{ counteryear }})</h2>
+    <h3>{{ thisyear }} Posts ({{ counteryear }})</h3>
     <ul>
       {% for post2 in site.posts %}
       {% assign tempyear = post2.date | date: "%Y" %}
