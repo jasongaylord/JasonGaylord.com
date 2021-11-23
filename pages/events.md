@@ -14,11 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### November
-- 11/15-19: [Agile + DevOps East - Virtual Event](https://jasong.us/3lcFygn)
-- 11/16-17: [Slack Frontiers 2021 - Virtual Event](https://jasong.us/2XcAdMK)
-- 11/16-18: [ODSC West Reconnect - San Francisco, CA + Virtual Event](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@odsc" %}
-- 11/16-18: [AsyncAPI Conference - Virtual Event](https://jasong.us/3leiM7u)  {% include snippets/twitter-account.html url="https://jasong.us/2ZNEMhl" account="@AsyncAPISpec" %}
-- 11/17-18: [Developer Week Austin - Virtual Event](https://jasong.us/3mr6BDR)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
 - 11/25: [betterCode() PHP - Virtual Event](https://jasong.us/3Fu3vYC)  {% include snippets/twitter-account.html url="https://jasong.us/3AaFKkb" account="@bettercodeconf" %}
 - 11/29-12/3: [AWS re:Invent - Las Vegas, NV + Virtual Event](https://jasong.us/36bVXJf)  {% include snippets/twitter-account.html url="https://jasong.us/3mwSInU" account="@AWSreInvent" %}
 - 11/30: [UnoConf 2021 - Virtual Event](https://jasong.us/2XNIxST)
