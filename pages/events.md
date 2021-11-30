@@ -13,14 +13,9 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2021 
 
-#### November
-- 11/25: [betterCode() PHP - Virtual Event](https://jasong.us/3Fu3vYC)  {% include snippets/twitter-account.html url="https://jasong.us/3AaFKkb" account="@bettercodeconf" %}
-- 11/29-12/3: [AWS re:Invent - Las Vegas, NV + Virtual Event](https://jasong.us/36bVXJf)  {% include snippets/twitter-account.html url="https://jasong.us/3mwSInU" account="@AWSreInvent" %}
-- 11/30: [UnoConf 2021 - Virtual Event](https://jasong.us/2XNIxST)
+#### December
 - 11/30-12/1: [Postgres Build - Virtual Event](https://jasong.us/3FhJqEB)
 - 11/30-12/2: [Codemotion - Virtual Event](https://jasong.us/3izH2zo)  {% include snippets/twitter-account.html url="https://jasong.us/3oAwWCg" account="@CodemotionWorld" %}
-
-#### December
 - 12/5-8: [Progressive Web Experience - Clearwater, FL + Virtual Event](https://jasong.us/3a8D7F3)
 - 12/5-10: [DevIntersection - Las Vegas, NV + Virtual Event](https://jasong.us/3izNq9H)  {% include snippets/twitter-account.html url="https://jasong.us/2YkqxQk" account="@DEVintersection" %}
 - 12/6-10: [GopherCon - Virtual Event](https://jasong.us/3a7tQNx)
