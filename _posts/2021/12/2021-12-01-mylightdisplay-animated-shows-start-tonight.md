@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2021/12/01/mylightdisplay-2021.jpg
 bitly: https://jasong.us/3o8NZL6
 ---
 
-This time of the year each year is extremely busy for our family. We're a couple months into my boys ice hockey season. We're just a week or two into basketball season for the girls. And we are just wrapping up the finishing touches on our holiday light display, creatively coined **MyLightDisplay**. Click below to visit our [MyLightDisplay.com website](https://jasong.us/mylightdisplay). You can also follow us on [Facebook](https://jasong.us/35ppHmq), [Twitter](https://jasong.us/38BKdlT), and now on [Instagram](https://jasong.us/3roH6ak).
+This time of the year each year is extremely busy for our family. We're a couple months into my boy's ice hockey season. We're just a week or two into basketball season for the girls. And we are just wrapping up the finishing touches on our holiday light display, creatively coined **MyLightDisplay**. Click below to visit our [MyLightDisplay.com website](https://jasong.us/mylightdisplay). You can also follow us on [Facebook](https://jasong.us/35ppHmq), [Twitter](https://jasong.us/38BKdlT), and now on [Instagram](https://jasong.us/3roH6ak).
 
 {% include link-thumbnail.html path="2021/12/01/MyLightDisplay.png" alt="Visit MyLightDisplay.com" url="https://jasong.us/mylightdisplay" %}
 
