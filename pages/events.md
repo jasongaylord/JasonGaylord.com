@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### December
-- 11/30-12/1: [Postgres Build - Virtual Event](https://jasong.us/3FhJqEB)
 - 11/30-12/2: [Codemotion - Virtual Event](https://jasong.us/3izH2zo)  {% include snippets/twitter-account.html url="https://jasong.us/3oAwWCg" account="@CodemotionWorld" %}
 - 12/5-8: [Progressive Web Experience - Clearwater, FL + Virtual Event](https://jasong.us/3a8D7F3)
 - 12/5-10: [DevIntersection - Las Vegas, NV + Virtual Event](https://jasong.us/3izNq9H)  {% include snippets/twitter-account.html url="https://jasong.us/2YkqxQk" account="@DEVintersection" %}
