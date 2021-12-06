@@ -60,12 +60,13 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/2-3: [GatsbyConf 2022 - Virtual Event](https://jasong.us/3dmwhxs)  {% include snippets/twitter-account.html url="https://jasong.us/3dnUaVt" account="@gatsbyjs" %}
 - 3/4: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
 - 3/4-5: [BSides Tampa IT Security Conference - Tampa, FL + Virtual Event](https://jasong.us/3pvphnu)  {% include snippets/twitter-account.html url="https://jasong.us/31vtzTO" account="@BSidesTampa" %}
-- 3/6-10: [OFC - San Diego, CA](https://jasong.us/362mtp4)
+- 3/6-10: [OFC 2022 - San Diego, CA](https://jasong.us/362mtp4)
 - 3/10: [Conf42: Chaos Engineering 2022 - Virtual Event](https://jasong.us/3Iptsdf)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
 - 3/16-17: [StrapiConf 2022 - Virtual Event](https://jasong.us/3EwtRZ5)  {% include snippets/twitter-account.html url="https://jasong.us/3lEN8jx" account="@strapijs" %} 
+- 3/20-25: [Enterprise Data World 2022 - San Diego, CA](https://jasong.us/3Dz3rnX)  {% include snippets/twitter-account.html url="https://jasong.us/3xXTZcV" account="@enterprisedata" %}
 - 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
-- 3/21-25: [GDC 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
+- 3/21-25: [Game Developers COnference 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
 - 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
 - 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
@@ -96,6 +97,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 6/14-15 [WeAreDevelopers World Congress - Berlin, Germany](https://jasong.us/3rGuICI)
 - 6/20-23: [Collision - Toronto, Canada](https://jasong.us/3Bd8ZEA)
 - 6/20-23: [IoT Week - Dublin](https://jasong.us/3ExdbjU)  {% include snippets/twitter-account.html url="https://jasong.us/3DxGT78" account="@IoT_Forum" %}
+- 6/27-29: [Monitorama 2022 - Portland, OR](https://jasong.us/3rKKa0H)
 - 6/30: [Conf42: Quantum Computing 2022 - Virtual Event](https://jasong.us/3ovIeHz)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
 #### July
