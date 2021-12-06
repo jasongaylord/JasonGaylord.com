@@ -30,22 +30,33 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### January
 - 1/5-8: [CES 2022 - Las Vegas, NV](https://jasong.us/3jHOeJG)
 - 1/11-14: [CodeMash - Sandusky, OH](https://jasong.us/2YkAZY2)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
-- 1/17-20: [NDC Security - Oslo](https://jasong.us/3laM3zZ)
+- 1/17-20: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)
+- 1/24-26: [.NET Conference 2022 - Virtual Event](https://jasong.us/3oqLqnM) 
+- 1/27: [Conf42: Python 2022 - Virtual Event](https://jasong.us/3ov9yFW)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 1/29: [Tech Intersections: Women of Color in Computing - Oakland, CA](https://jasong.us/3DaMVLe)  {% include snippets/twitter-account.html url="https://jasong.us/2WHV0HI" account="@tech_intersect" %}
 - 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 
 #### February
 - 2/1-3: [Enigma - Santa Clara, CA](https://jasong.us/2YiQOPg)  {% include snippets/twitter-account.html url="https://jasong.us/3A8DbPD" account="@enigmaconf" %}
+- 2/2-3: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
 - 2/2-4: [DeveloperWeek 2022 - Oakland, CA + Virtual Event](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
+- 2/7-10: [RSA Conference - San Francisco, CA + Virtual Event](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@RSAConference" %} 
 - 2/9-11: [JSWorld Conference - Amsterdam, Netherlands](https://jasong.us/3lahdYs)
+- 2/10: [.NET Frontend Day - Virtual Event](https://jasong.us/3oqV5L1)  {% include snippets/twitter-account.html url="https://jasong.us/3rFou61" account="@dotnet_frontend" %}   
 - 2/15-16: [QA Global Summit - Virtual Event](https://jasong.us/3iBzk81)
+- 2/17: [Conf42: Mobile 2022 - Virtual Event](https://jasong.us/3Dsj3Kc)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 2/22: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
 - 2/22-25: [ConFoo Montreal - Montreal, Canada](https://jasong.us/3Dhk0Fd)  {% include snippets/twitter-account.html url="https://jasong.us/3oDVVEC" account="@confooca" %}
 - 2/28-3/1: [Gartner CIO Leadership Forum - Phoenix, AZ](https://jasong.us/395jvlF)
 
 #### March
 - 3/6-10: [OFC - San Diego, CA](https://jasong.us/362mtp4)
+- 3/10: [Conf42: Chaos Engineering 2022 - Virtual Event](https://jasong.us/3Iptsdf)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
+- 3/16-17: [StrapiConf 2022 - Virtual Event](https://jasong.us/3EwtRZ5)  {% include snippets/twitter-account.html url="https://jasong.us/3lEN8jx" account="@strapijs" %} 
+- 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
+- 3/21-25: [GDC 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
+- 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
 #### April
 - 4/7-8: [CodeStock - Knoxville, TN](https://jasong.us/3mq969F)  {% include snippets/twitter-account.html url="https://jasong.us/3FnFylM" account="@CodeStock" %}
