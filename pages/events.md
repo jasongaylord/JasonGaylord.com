@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2021 
 
 #### December
-- 12/10-11: [DevTernity - Virtual Event](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %} 
 - 12/13-14: [droidcon San Francisco - Virtual Event](https://jasong.us/3AgFfVQ)
 - 12/13-16: [ArchConf 2021 - Clearwater, FL](https://jasong.us/3AcYrUs)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
 - 12/14: [Microsoft Envision Episode 2 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
