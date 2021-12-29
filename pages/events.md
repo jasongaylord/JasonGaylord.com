@@ -11,11 +11,6 @@ Below you'll find a list of technical conferences and events for in-person and v
 
 If you have a conference, event, or webinar you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v), message on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin), or submit a pull request of this page by visiting [GitHub](https://jasong.us/39JIVEO).
 
-## 2021 
-
-#### December
-- 12/23: [XtremeJS - Virtual Event](https://jasong.us/3oxtMPF)  {% include snippets/twitter-account.html url="https://jasong.us/3a6omTc" account="@xtremejsconf" %}
-
 ## 2022
 
 #### January
@@ -25,6 +20,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 1/17-20: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)
 - 1/17-20: [That Conference - Round Rock, TX](https://jasong.us/3do4tsq)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 1/24-26: [.NET Conference 2022 - Virtual Event](https://jasong.us/3oqLqnM) 
+- 1/26-27: [Check Point CPX 360 2022 - Virtual Event](https://jasong.us/348KEnJ)  {% include snippets/twitter-account.html url="https://jasong.us/3sH2XKR" account="@checkpointsw" %}
 - 1/27: [Conf42: Python 2022 - Virtual Event](https://jasong.us/3ov9yFW)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 1/27: [Leadership eXchange Forum - Virtual Event](https://jasong.us/3GgqWEj)  {% include snippets/twitter-account.html url="https://jasong.us/3IrYb9C" account="@skillsmatter" %}
 - 1/29: [Tech Intersections: Women of Color in Computing - Oakland, CA](https://jasong.us/3DaMVLe)  {% include snippets/twitter-account.html url="https://jasong.us/2WHV0HI" account="@tech_intersect" %}
