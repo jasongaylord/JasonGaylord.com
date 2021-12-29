@@ -11,11 +11,6 @@ Below you'll find a list of technical conferences and events for in-person and v
 
 If you have a conference, event, or webinar you'd like me to list, be sure to send me a message on Twitter at [@jgaylord](http://jasong.us/eUDX9v), message on LinkedIn at [linkedin.com/in/jasongaylord](http://jasong.us/linkedin), or submit a pull request of this page by visiting [GitHub](https://jasong.us/39JIVEO).
 
-## 2021 
-
-#### December
-- 12/23: [XtremeJS - Virtual Event](https://jasong.us/3oxtMPF)  {% include snippets/twitter-account.html url="https://jasong.us/3a6omTc" account="@xtremejsconf" %}
-
 ## 2022
 
 #### January
