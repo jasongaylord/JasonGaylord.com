@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### January
-- 1/11-14: [CodeMash - Sandusky, OH](https://jasong.us/2YkAZY2)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
-- 1/15-16: [That Online - Virtual Event](https://jasong.us/31BEqey)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 1/17-20: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)
 - 1/24-26: [.NET Conference 2022 - Virtual Event](https://jasong.us/3oqLqnM) 
 - 1/26-27: [Check Point CPX 360 2022 - Virtual Event](https://jasong.us/348KEnJ)  {% include snippets/twitter-account.html url="https://jasong.us/3sH2XKR" account="@checkpointsw" %}
