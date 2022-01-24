@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### January
-- 1/17-20: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)
 - 1/24-26: [.NET Conference 2022 - Virtual Event](https://jasong.us/3oqLqnM) 
 - 1/26-27: [Check Point CPX 360 2022 - Virtual Event](https://jasong.us/348KEnJ)  {% include snippets/twitter-account.html url="https://jasong.us/3sH2XKR" account="@checkpointsw" %}
 - 1/27: [Conf42: Python 2022 - Virtual Event](https://jasong.us/3ov9yFW)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
@@ -52,6 +51,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/8-11: [Esri Developer Summit - Palm Springs, CA](https://jasong.us/2LWLjjb)
 - 3/10: [Conf42: Chaos Engineering 2022 - Virtual Event](https://jasong.us/3Iptsdf)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
+- 3/15-17: [Adobe SUMMIT - Virtual Event](https://jasong.us/394ykoi)  {% include snippets/twitter-account.html url="https://jasong.us/3nVJ935" account="@AdobeSummit" %} 
 - 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
 - 3/15-17: [SAP Concur Fusion - Orlando, FL + Virtual Event](https://jasong.us/2XZQl0G)
 - 3/16-17: [StrapiConf 2022 - Virtual Event](https://jasong.us/3EwtRZ5)  {% include snippets/twitter-account.html url="https://jasong.us/3lEN8jx" account="@strapijs" %} 
