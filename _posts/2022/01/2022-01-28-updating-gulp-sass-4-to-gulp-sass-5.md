@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2022/01/28/gulp-sass.jpg
 bitly: https://jasong.us/3ADSm5d
 ---
 
-On the heals of my pipeline issue I mentioned earlier this week, I also had an issue with SASS compilation. I currently use Gulp in this project for compiling SASS.
+On the heels of my pipeline issue I mentioned earlier this week, I also had an issue with SASS compilation. I currently use Gulp in this project for compiling SASS.
 
 My project was still configured to use the `gulp.sass` package version 4 instead of version 5. When upgrading to version 5, I discovered that I needed to include a SASS compiler such as the `sass` or `node-sass` package, although `node-sass` has been deprecated. 
 
