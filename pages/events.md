@@ -14,9 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### January
-- 1/26-27: [Check Point CPX 360 2022 - Virtual Event](https://jasong.us/348KEnJ)  {% include snippets/twitter-account.html url="https://jasong.us/3sH2XKR" account="@checkpointsw" %}
-- 1/27: [Conf42: Python 2022 - Virtual Event](https://jasong.us/3ov9yFW)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-- 1/27: [Leadership eXchange Forum - Virtual Event](https://jasong.us/3GgqWEj)  {% include snippets/twitter-account.html url="https://jasong.us/3IrYb9C" account="@skillsmatter" %}
 - 1/29: [POSTPONED - Tech Intersections: Women of Color in Computing - Oakland, CA](https://jasong.us/3DaMVLe)  {% include snippets/twitter-account.html url="https://jasong.us/2WHV0HI" account="@tech_intersect" %}
 - 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 
