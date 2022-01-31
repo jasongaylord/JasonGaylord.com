@@ -16,7 +16,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### February
 - 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 - 2/1-3: [Enigma - Santa Clara, CA](https://jasong.us/2YiQOPg)  {% include snippets/twitter-account.html url="https://jasong.us/3A8DbPD" account="@enigmaconf" %}
-- 2/2-3: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
+- 2/2-3: [Flutter Vikings - Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
 - 2/5-6: [Pycascades - Virtual Event](https://jasong.us/3GmR28q)  {% include snippets/twitter-account.html url="https://jasong.us/3rDrBvh" account="@pycascades" %}
 - 2/6-9: [3DExperience World 2022 - Atlanta, GA + Virtual Event](https://jasong.us/3Geok9Q)
 - 2/6-10: [RSA Conference - San Francisco, CA + Virtual Event](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@RSAConference" %} 
