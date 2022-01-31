@@ -13,10 +13,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### January
-- 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
-
 #### February
+- 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 - 2/1-3: [Enigma - Santa Clara, CA](https://jasong.us/2YiQOPg)  {% include snippets/twitter-account.html url="https://jasong.us/3A8DbPD" account="@enigmaconf" %}
 - 2/2-3: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
 - 2/5-6: [Pycascades - Virtual Event](https://jasong.us/3GmR28q)  {% include snippets/twitter-account.html url="https://jasong.us/3rDrBvh" account="@pycascades" %}
@@ -65,6 +63,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 4/12: [Microsoft Envision Episode 4 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
 - 4/13-14: [Devopsdays Raleigh - Raleigh, NC](https://jasong.us/3uI1seo)
 - 4/18-19: [React Miami - Miami, FL](https://jasong.us/3050oqc)
+- 4/19-20: [Azure Cosmos DB Conf - Virtual Event](https://jasong.us/3KV2StI)
 - 4/19-21: [ODSC East - Boston, MA](https://jasong.us/3qTlJL5)
 - 4/21-22: [Re-Work Deep New York Summit - New York, NY + Virtual Event](https://jasong.us/3rB5m9s)  {% include snippets/twitter-account.html url="https://jasong.us/3lBWfBl" account="@teamrework" %}
 - 4/21-23: [Midwest PHP 2022 - Minneapolis, MN](https://jasong.us/3orAjL5)  {% include snippets/twitter-account.html url="https://jasong.us/3rGLTnB" account="@midwestphp" %}
