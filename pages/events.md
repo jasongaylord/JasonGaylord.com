@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### January
-- 1/29: [POSTPONED - Tech Intersections: Women of Color in Computing - Oakland, CA](https://jasong.us/3DaMVLe)  {% include snippets/twitter-account.html url="https://jasong.us/2WHV0HI" account="@tech_intersect" %}
 - 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 
 #### February
