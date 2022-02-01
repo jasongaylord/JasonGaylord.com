@@ -13,25 +13,24 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### January
-- 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
-
 #### February
+- 1/31-2/2: [Metro Connect USA 2022 - Miami, FL](https://jasong.us/3A7ZSnj)
 - 2/1-3: [Enigma - Santa Clara, CA](https://jasong.us/2YiQOPg)  {% include snippets/twitter-account.html url="https://jasong.us/3A8DbPD" account="@enigmaconf" %}
-- 2/2-3: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
+- 2/2-3: [Flutter Vikings - Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
 - 2/5-6: [Pycascades - Virtual Event](https://jasong.us/3GmR28q)  {% include snippets/twitter-account.html url="https://jasong.us/3rDrBvh" account="@pycascades" %}
 - 2/6-9: [3DExperience World 2022 - Atlanta, GA + Virtual Event](https://jasong.us/3Geok9Q)
 - 2/6-10: [RSA Conference - San Francisco, CA + Virtual Event](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@RSAConference" %} 
 - 2/7-9: [DeveloperWeek 2022 - Virtual Event](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
 - 2/7-11: [Automation Guild 2022 - Virtual Event](https://jasong.us/3rH9ZPo)
 - 2/8: [Microsoft Envision Episode 3 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
-- 2/8-9: [Esri Federal GIS Conference - Washington DC](https://jasong.us/2LU4pGD)
+- 2/8-9: [CANCELLED Esri Federal GIS Conference - Washington DC](https://jasong.us/2LU4pGD)
 - 2/9-11: [JSWorld Conference - Amsterdam, Netherlands](https://jasong.us/3lahdYs)
 - 2/10: [.NET Frontend Day - Virtual Event](https://jasong.us/3oqV5L1)  {% include snippets/twitter-account.html url="https://jasong.us/3rFou61" account="@dotnet_frontend" %}   
 - 2/15-16: [QA Global Summit - Virtual Event](https://jasong.us/3iBzk81)
 - 2/17: [Conf42: Mobile 2022 - Virtual Event](https://jasong.us/3Dsj3Kc)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 2/17-18: [Re-Work Deep Learning Hybrid Summit - San Francisco, CA + Virtual Event](https://jasong.us/3y2gzkl)  {% include snippets/twitter-account.html url="https://jasong.us/3lBWfBl" account="@teamrework" %}
 - 2/22: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
+- 2/22: [Esri Keynote Live Stream - Virtual Event](https://jasong.us/2LU4pGD)
 - 2/23-25: [ConFoo Montreal - Montreal, Canada](https://jasong.us/3Dhk0Fd)  {% include snippets/twitter-account.html url="https://jasong.us/3oDVVEC" account="@confooca" %}
 - 2/28-3/1: [Gartner CIO Leadership Forum - Virtual Event](https://jasong.us/395jvlF)
 - 2/28-3/3: [Black Hat Spring Trainings 2022 - Arlington, VA](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
@@ -65,6 +64,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 4/12: [Microsoft Envision Episode 4 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
 - 4/13-14: [Devopsdays Raleigh - Raleigh, NC](https://jasong.us/3uI1seo)
 - 4/18-19: [React Miami - Miami, FL](https://jasong.us/3050oqc)
+- 4/19-20: [Azure Cosmos DB Conf - Virtual Event](https://jasong.us/3KV2StI)
 - 4/19-21: [ODSC East - Boston, MA](https://jasong.us/3qTlJL5)
 - 4/21-22: [Re-Work Deep New York Summit - New York, NY + Virtual Event](https://jasong.us/3rB5m9s)  {% include snippets/twitter-account.html url="https://jasong.us/3lBWfBl" account="@teamrework" %}
 - 4/21-23: [Midwest PHP 2022 - Minneapolis, MN](https://jasong.us/3orAjL5)  {% include snippets/twitter-account.html url="https://jasong.us/3rGLTnB" account="@midwestphp" %}
@@ -110,6 +110,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/30-9/2: [ElixirConf 2022 - Aurora, CO](https://jasong.us/32YrujD)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@elixirconf" %}
 - 8/30-9/2: [Rails Camp West 2022 - Diablo Lake, WA](https://jasong.us/3dsmp5o)  {% include snippets/twitter-account.html url="https://jasong.us/3y3pP7V" account="@railscamp_usa" %}
 - 8/30-9/2: [CascadiaJS - Sunriver Resort, OR](https://jasong.us/3EC8W72)  {% include snippets/twitter-account.html url="https://jasong.us/3osBnOQ" account="@cascadiajs" %}
+- 8/31-9/1: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
 
 #### September
 - 9/1: [Conf42: Rustlang 2022 - Virtual Event](https://jasong.us/3oumtYu)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
