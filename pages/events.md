@@ -14,14 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### February
-- 2/6-9: [3DExperience World 2022 - Atlanta, GA + Virtual Event](https://jasong.us/3Geok9Q)
-- 2/6-10: [RSA Conference - San Francisco, CA + Virtual Event](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@RSAConference" %} 
-- 2/7-9: [DeveloperWeek 2022 - Virtual Event](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
-- 2/7-11: [Automation Guild 2022 - Virtual Event](https://jasong.us/3rH9ZPo)
-- 2/8: [Microsoft Envision Episode 3 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
-- 2/8-9: [CANCELLED Esri Federal GIS Conference - Washington DC](https://jasong.us/2LU4pGD)
-- 2/9-11: [JSWorld Conference - Amsterdam, Netherlands](https://jasong.us/3lahdYs)
-- 2/10: [.NET Frontend Day - Virtual Event](https://jasong.us/3oqV5L1)  {% include snippets/twitter-account.html url="https://jasong.us/3rFou61" account="@dotnet_frontend" %}   
 - 2/15-16: [QA Global Summit - Virtual Event](https://jasong.us/3iBzk81)
 - 2/17: [Conf42: Mobile 2022 - Virtual Event](https://jasong.us/3Dsj3Kc)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 2/17-18: [Re-Work Deep Learning Hybrid Summit - San Francisco, CA + Virtual Event](https://jasong.us/3y2gzkl)  {% include snippets/twitter-account.html url="https://jasong.us/3lBWfBl" account="@teamrework" %}
