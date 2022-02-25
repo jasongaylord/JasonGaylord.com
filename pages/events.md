@@ -14,11 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### February
-- 2/15-16: [QA Global Summit - Virtual Event](https://jasong.us/3iBzk81)
-- 2/17: [Conf42: Mobile 2022 - Virtual Event](https://jasong.us/3Dsj3Kc)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 2/17-18: [Re-Work Deep Learning Hybrid Summit - San Francisco, CA + Virtual Event](https://jasong.us/3y2gzkl)  {% include snippets/twitter-account.html url="https://jasong.us/3lBWfBl" account="@teamrework" %}
-- 2/22: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
-- 2/22: [Esri Keynote Live Stream - Virtual Event](https://jasong.us/2LU4pGD)
 - 2/23-25: [ConFoo Montreal - Montreal, Canada](https://jasong.us/3Dhk0Fd)  {% include snippets/twitter-account.html url="https://jasong.us/3oDVVEC" account="@confooca" %}
 - 2/28-3/1: [Gartner CIO Leadership Forum - Virtual Event](https://jasong.us/395jvlF)
 - 2/28-3/3: [Black Hat Spring Trainings 2022 - Arlington, VA](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
