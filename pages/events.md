@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### February
-- 2/23-25: [ConFoo Montreal - Montreal, Canada](https://jasong.us/3Dhk0Fd)  {% include snippets/twitter-account.html url="https://jasong.us/3oDVVEC" account="@confooca" %}
 - 2/28-3/1: [Gartner CIO Leadership Forum - Virtual Event](https://jasong.us/395jvlF)
 - 2/28-3/3: [Black Hat Spring Trainings 2022 - Arlington, VA](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 2/28-3/3: [Mobile World Congress Barcelona 2022 - Barcelona, Spain](https://jasong.us/3o4irTd)
