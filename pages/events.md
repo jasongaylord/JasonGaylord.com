@@ -13,12 +13,9 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### February
-- 2/28-3/1: [Gartner CIO Leadership Forum - Virtual Event](https://jasong.us/395jvlF)
+#### March
 - 2/28-3/3: [Black Hat Spring Trainings 2022 - Arlington, VA](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 2/28-3/3: [Mobile World Congress Barcelona 2022 - Barcelona, Spain](https://jasong.us/3o4irTd)
-
-#### March
 - 3/2-3: [GatsbyConf 2022 - Virtual Event](https://jasong.us/3dmwhxs)  {% include snippets/twitter-account.html url="https://jasong.us/3dnUaVt" account="@gatsbyjs" %}
 - 3/2-3: [Big Data & AI World - London, UK](https://jasong.us/302TbXC)
 - 3/4: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
