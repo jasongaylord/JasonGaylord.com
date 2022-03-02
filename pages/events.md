@@ -14,10 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 2/28-3/3: [Black Hat Spring Trainings 2022 - Arlington, VA](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
-- 2/28-3/3: [Mobile World Congress Barcelona 2022 - Barcelona, Spain](https://jasong.us/3o4irTd)
-- 3/2-3: [GatsbyConf 2022 - Virtual Event](https://jasong.us/3dmwhxs)  {% include snippets/twitter-account.html url="https://jasong.us/3dnUaVt" account="@gatsbyjs" %}
-- 3/2-3: [Big Data & AI World - London, UK](https://jasong.us/302TbXC)
 - 3/4: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
 - 3/4-5: [BSides Tampa IT Security Conference - Tampa, FL + Virtual Event](https://jasong.us/3pvphnu)  {% include snippets/twitter-account.html url="https://jasong.us/31vtzTO" account="@BSidesTampa" %}
 - 3/6-10: [OFC 2022 - San Diego, CA](https://jasong.us/362mtp4)
