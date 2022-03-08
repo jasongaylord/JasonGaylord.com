@@ -26,6 +26,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
 - 3/21-25: [Game Developers Conference 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
 - 3/23: [Domopalooza - Virtual Event](https://jasong.us/3paaOvR)  {% include snippets/twitter-account.html url="https://jasong.us/3lHoQoZ" account="@domotalk" %}
+- 3/23: [SIM-RTP Tech Connect](https://jasong.us/34u8OcU)
 - 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
 - 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
