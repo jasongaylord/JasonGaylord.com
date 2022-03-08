@@ -105,6 +105,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 9/1-2: [DroidCon NYC - New York, NY](https://jasong.us/2ZTmFql)
 - 9/11-16: [Cppcon - Aurora, CO](https://jasong.us/3dqfvxp)  {% include snippets/twitter-account.html url="https://jasong.us/32UGD5w" account="@cppcon" %}
 - 9/25-29: [VSLive! San Diego - San Diego, CA](https://jasong.us/3pLJGFG)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 9/26-28: [GopherCon - Lake Buena Vista, FL](https://jasong.us/3HT7ZrF)
 - 9/27-30: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)
 - 9/28-30: [SpiceWorld 2022 - Austin, TX](https://jasong.us/3Mva2G1)  {% include snippets/twitter-account.html url="https://jasong.us/3pJCnP1" account="@spiceworks" %}
 - 9/29: [Conf42: Incident Management 2022 - Virtual Event](https://jasong.us/3GkSU1y)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
