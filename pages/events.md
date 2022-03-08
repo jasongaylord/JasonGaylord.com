@@ -28,9 +28,12 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/23: [Domopalooza - Virtual Event](https://jasong.us/3paaOvR)  {% include snippets/twitter-account.html url="https://jasong.us/3lHoQoZ" account="@domotalk" %}
 - 3/23: [SIM-RTP Tech Connect](https://jasong.us/34u8OcU)
 - 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
+- 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
+- 3/29-31: [Microsoft MVP Global Summit - Virtual Event](https://jasong.us/3HVQBlU)
 - 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
 #### April
+- 4/5-7: [LeadDev - New York, NY](https://jasong.us/3hRxoYg)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 4/6-9: [Bitcoin 2022 - Miami, FL](https://jasong.us/3rEKrlP)  {% include snippets/twitter-account.html url="https://jasong.us/3GkWZ5Q" account="@thebitcoinconf" %}
 - 4/7-8: [CodeStock - Knoxville, TN](https://jasong.us/3mq969F)  {% include snippets/twitter-account.html url="https://jasong.us/3FnFylM" account="@CodeStock" %}
 - 4/11-13: [Dev Nexus - Atlanta, GA + Virtual Event](https://jasong.us/3DhBJwe)  {% include snippets/twitter-account.html url="https://jasong.us/3a8jWv1" account="@devnexus" %}
@@ -45,10 +48,12 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 4/21-23: [Midwest PHP 2022 - Minneapolis, MN](https://jasong.us/3orAjL5)  {% include snippets/twitter-account.html url="https://jasong.us/3rGLTnB" account="@midwestphp" %}
 - 4/23: [BSides Tampa IT Security Conference - Tampa, FL + Virtual Event](https://jasong.us/3pvphnu)  {% include snippets/twitter-account.html url="https://jasong.us/31vtzTO" account="@BSidesTampa" %}
 - 4/25-26: [Devopsdays Denver - Denver, CO](https://jasong.us/3pzIK6n)  {% include snippets/twitter-account.html url="https://jasong.us/3ovGPjW" account="@devopsdaysrox" %}
+- 4/26-28: [GamesBeat Summit 2022 - Los Angeles, CA](https://jasong.us/3vVGnQt)
 - 4/28: [Conf42: Cloud Native 2022 - Virtual Event](https://jasong.us/3rCb22Z)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
 #### May
 - 5/1-6: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)  {% include snippets/twitter-account.html url="https://jasong.us/3mpQeaz" account="@cppnow" %}
+- 5/4: [Gateway to Innovation - St Louis, MO](https://jasong.us/360YdGu)
 - 5/4-5: [Devopsdays Austin - Austin, TX](https://jasong.us/3rGK1LG)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
 - 5/6-13: [Web Directions Laxy Load - Virtual Event](https://jasong.us/3In8NGF)  {% include snippets/twitter-account.html url="https://jasong.us/3dsUr9z" account="@WebDirections" %}
 - 5/9-12: [International Telecoms Week 2022 - National Harbor, MD](https://jasong.us/3BguBj8)  {% include snippets/twitter-account.html url="https://jasong.us/3DjICgV" account="@ITW_Telecoms" %}
@@ -56,6 +61,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/10-11: [Devopsdays Austin - Chicago, IL](https://jasong.us/31BpZam)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 5/10-12: [Adobe Ditaworld 2022 - Virtual Event](https://jasong.us/3rGKfCs)  {% include snippets/twitter-account.html url="https://jasong.us/3DB8swE" account="@AdobeTCS" %} 
 - 5/10-13: [Black Hat Asia 2022 - Marina Bay Sands, Singapore](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
+- 5/11-12: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 5/17-19: [Ingram Micro Cloud Summit 22 - Miami Beach, FL](https://jasong.us/31ExPA0)  {% include snippets/twitter-account.html url="https://jasong.us/3EzYTPF" account="@IngramCloud" %}
 - 5/19-20: [ACE! - Krakow, Poland + Virtual Event](https://jasong.us/3Iq6jqT)  {% include snippets/twitter-account.html url="https://jasong.us/3ds41t7" account="@aceconf" %}
 - 5/19: [Conf42: Machine Learning 2022 - Virtual Event](https://jasong.us/3DtC4vI)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
