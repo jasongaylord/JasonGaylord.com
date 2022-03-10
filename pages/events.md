@@ -14,9 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/6-10: [OFC 2022 - San Diego, CA](https://jasong.us/362mtp4)
 - 3/8-11: [Esri Developer Summit - Palm Springs, CA](https://jasong.us/2LWLjjb)
-- 3/10: [Conf42: Chaos Engineering 2022 - Virtual Event](https://jasong.us/3Iptsdf)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
 - 3/15-17: [Adobe SUMMIT - Virtual Event](https://jasong.us/394ykoi)  {% include snippets/twitter-account.html url="https://jasong.us/3nVJ935" account="@AdobeSummit" %} 
 - 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
