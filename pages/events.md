@@ -138,7 +138,9 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### August
 - 8/6-11: [Black Hat USA 2022 - Las Vegas, NV](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
+- 8/8-10: [Kansas City Developers Conference (KCDC) - Kansas City, MO](https://jasong.us/36a7Xyy)  {% include snippets/twitter-account.html url="https://jasong.us/3tVWTxg" account="@kc_dc" %}
 - 8/8-12: [VSLive! Microsoft HQ - Redmond, WA](https://jasong.us/35DBUad)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 8/17-19: [Code PaLOUsa 2022 - Louisville, KY](https://jasong.us/3vZsdh5)  {% include snippets/twitter-account.html url="https://jasong.us/3CAI9Yf" account="@CodePaLOUsa" %}
 - 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
 - 8/28-31: [360|iDev - Denver, CO](https://jasong.us/34wGxCt)
@@ -155,9 +157,11 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 9/5-7: [Hybrid Container Days - Hamburg, Germany + Virtual Event](https://jasong.us/3J1gQcj)  {% include snippets/twitter-account.html url="https://jasong.us/3pTY3Iq" account="@ConDaysEU" %}
 - 9/11-16: [Cppcon - Aurora, CO](https://jasong.us/3dqfvxp)  {% include snippets/twitter-account.html url="https://jasong.us/32UGD5w" account="@cppcon" %}
 - 9/13-16: [HR Technology Conference and Expo - Las Vegas, NV](https://jasong.us/3tFbzjS)  {% include snippets/twitter-account.html url="https://jasong.us/3KxVpQb" account="@hrtechconf" %}
+- 9/19-21: [Devopsdays Portland - Portland, OR](https://jasong.us/3t2GBmX)  {% include snippets/twitter-account.html url="https://jasong.us/3weXnkT" account="@devopsdayspdx" %}
+- 9/20-23: [JCON-Online 2022 - Virtual Event](https://jasong.us/3CO1AgF)  {% include snippets/twitter-account.html url="https://jasong.us/36axGGQ" account="@jcon_conference" %}
 - 9/25-29: [VSLive! San Diego - San Diego, CA](https://jasong.us/3pLJGFG)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 9/26-28: [GopherCon - Lake Buena Vista, FL](https://jasong.us/3HT7ZrF)
-- 9/27-30: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)
+- 9/27-30: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 9/28-30: [SpiceWorld 2022 - Austin, TX](https://jasong.us/3Mva2G1)  {% include snippets/twitter-account.html url="https://jasong.us/3pJCnP1" account="@spiceworks" %}
 - 9/29: [Conf42: Incident Management 2022 - Virtual Event](https://jasong.us/3GkSU1y)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 
