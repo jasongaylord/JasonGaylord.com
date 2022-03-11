@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/8-11: [Esri Developer Summit - Palm Springs, CA](https://jasong.us/2LWLjjb)
-- 3/12: [1337 UP Live - Virtual Event](https://jasong.us/3vW9P8I)
 - 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
 - 3/14-16: [SREcon 22 Americas - Virtual Event](https://jasong.us/3sZ4nzY)
 - 3/15-17: [Adobe SUMMIT - Virtual Event](https://jasong.us/394ykoi)  {% include snippets/twitter-account.html url="https://jasong.us/3nVJ935" account="@AdobeSummit" %} 
