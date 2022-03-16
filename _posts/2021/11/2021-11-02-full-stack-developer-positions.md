@@ -2,8 +2,8 @@
 title: Full Stack Developer Openings at biBERK
 author: Jason Gaylord
 date: 2021-11-02
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1201
 image: https://cdn.jasongaylord.com/images/2021/11/02/full-stack-developer-opening.jpg
 bitly: https://jasong.us/3jVyyU3
