@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### March
 - 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
-- 3/14-16: [SREcon 22 Americas - Virtual Event](https://jasong.us/3sZ4nzY)
 - 3/15-17: [Adobe SUMMIT - Virtual Event](https://jasong.us/394ykoi)  {% include snippets/twitter-account.html url="https://jasong.us/3nVJ935" account="@AdobeSummit" %} 
 - 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
 - 3/15-17: [SAP Concur Fusion - Orlando, FL + Virtual Event](https://jasong.us/2XZQl0G)

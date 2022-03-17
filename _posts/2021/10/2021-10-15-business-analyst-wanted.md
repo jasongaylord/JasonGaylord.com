@@ -2,8 +2,8 @@
 title: Business Analyst Wanted
 author: Jason Gaylord
 date: 2021-10-15
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1192
 image: https://cdn.jasongaylord.com/images/2021/10/15/business-analyst-wanted.jpg
 bitly: https://jasong.us/3AyRFsh
