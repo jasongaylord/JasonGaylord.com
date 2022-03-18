@@ -15,10 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### March
 - 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
-- 3/15-17: [Adobe SUMMIT - Virtual Event](https://jasong.us/394ykoi)  {% include snippets/twitter-account.html url="https://jasong.us/3nVJ935" account="@AdobeSummit" %} 
-- 3/15-17: [axe-con - Virtual Event](https://jasong.us/2WJ02DX)
-- 3/15-17: [SAP Concur Fusion - Orlando, FL + Virtual Event](https://jasong.us/2XZQl0G)
-- 3/16-17: [StrapiConf 2022 - Virtual Event](https://jasong.us/3EwtRZ5)  {% include snippets/twitter-account.html url="https://jasong.us/3lEN8jx" account="@strapijs" %} 
 - 3/17-19: [Global Artificial Intelligence - Virtual Event](https://jasong.us/3sZNjdb)
 - 3/21-22: [VSLive!: .NET 6 App - Virtual Event](https://jasong.us/3tCjZZn)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 3/21-24: [dotnetdays Romania - Virtual Event](https://jasong.us/34wS2d7)  {% include snippets/twitter-account.html url="https://jasong.us/3vWHLC3" account="@dotnetdaysro" %} 
