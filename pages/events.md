@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/11-20: [SXSW 2022 - Austin, TX](https://jasong.us/2Mgb8uj)  {% include snippets/twitter-account.html url="https://jasong.us/3Ew0Yfw" account="@sxsw" %}
 - 3/21-22: [VSLive!: .NET 6 App - Virtual Event](https://jasong.us/3tCjZZn)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 3/21-24: [dotnetdays Romania - Virtual Event](https://jasong.us/34wS2d7)  {% include snippets/twitter-account.html url="https://jasong.us/3vWHLC3" account="@dotnetdaysro" %} 
 - 3/21-24: [nvidia GTC - San Jose, CA + Virtual Event](https://jasong.us/3pSeLYy)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@NVIDIAGTC" %}
