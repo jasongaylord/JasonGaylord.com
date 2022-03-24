@@ -18,9 +18,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/21-24: [nvidia GTC - San Jose, CA + Virtual Event](https://jasong.us/3pSeLYy)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@NVIDIAGTC" %}
 - 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
 - 3/21-25: [Game Developers Conference 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
-- 3/23: [Domopalooza - Virtual Event](https://jasong.us/3paaOvR)  {% include snippets/twitter-account.html url="https://jasong.us/3lHoQoZ" account="@domotalk" %}
-- 3/23: [Machine Learning Day - Virtual Event](https://jasong.us/3hZ5nhw)
-- 3/23: [SIM-RTP Tech Connect - Raleigh, NC](https://jasong.us/34u8OcU)
 - 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
 - 3/24-25: [devops.js - Virtual Event](https://jasong.us/3hYxo8F)  {% include snippets/twitter-account.html url="https://jasong.us/3pU6B1Y" account="@DevOpsJS" %}
 - 3/24-26: [Open Source Festival - Lagos, Nigeria + Virtual Event](https://jasong.us/3MBPzzc)
