@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/21-24: [dotnetdays Romania - Virtual Event](https://jasong.us/34wS2d7)  {% include snippets/twitter-account.html url="https://jasong.us/3vWHLC3" account="@dotnetdaysro" %} 
-- 3/21-24: [nvidia GTC - San Jose, CA + Virtual Event](https://jasong.us/3pSeLYy)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@NVIDIAGTC" %}
 - 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
 - 3/21-25: [Game Developers Conference 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
 - 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
