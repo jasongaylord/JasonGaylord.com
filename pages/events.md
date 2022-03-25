@@ -14,10 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/21-25: [Python Web Conf - Virtual Event](https://jasong.us/3ImUh1J)
-- 3/21-25: [Game Developers Conference 2022 - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %} 
-- 3/23-25: [CityJS Conference 2022 - London, UK + Virtual Event](https://jasong.us/3dsy6Jk)  {% include snippets/twitter-account.html url="https://jasong.us/3orQg3V" account="@cityjsconf" %} 
-- 3/24-25: [devops.js - Virtual Event](https://jasong.us/3hYxo8F)  {% include snippets/twitter-account.html url="https://jasong.us/3pU6B1Y" account="@DevOpsJS" %}
 - 3/24-26: [Open Source Festival - Lagos, Nigeria + Virtual Event](https://jasong.us/3MBPzzc)
 - 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
 - 3/29: [Design Value Conference - Virtual Event](https://jasong.us/3I2jNbd)
