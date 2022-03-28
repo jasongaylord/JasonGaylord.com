@@ -118,7 +118,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/17-19: [Code PaLOUsa 2022 - Louisville, KY](https://jasong.us/3vZsdh5)  {% include snippets/twitter-account.html url="https://jasong.us/3CAI9Yf" account="@CodePaLOUsa" %}
 - 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
-- 8/28-31: [360|iDev - Denver, CO](https://jasong.us/34wGxCt)
+- 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
 - 8/28-31: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 8/29-9/1: [IEEE AutoTestCon 2022 - National Harbor, MD](https://jasong.us/3lI8RHh)
 - 8/30-9/2: [ElixirConf 2022 - Aurora, CO](https://jasong.us/32YrujD)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@elixirconf" %}
