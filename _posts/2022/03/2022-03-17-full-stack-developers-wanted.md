@@ -15,8 +15,8 @@ We're looking for several full stack developers to join our growing team. More s
 
 Many of our back office applications have a Microsoft SQL server backend and an ASP.NET MVC front end. As we continue to revamp our applications, we're moving several of them to Microsoft Azure and rewriting for native cloud. Many of our databases are migrating to Cosmos DB and our apps are using a .NET Core service layer with an Angular front end.
 
-{% include link-thumbnail.html path="2022/03/17/full-stack-developer-opening.jpg" alt="Full Stack Developer Openings" url="https://jasong.us/3CLZQnO" %}
+{% include link-thumbnail.html path="2022/03/17/full-stack-developer-opening.jpg" alt="Full Stack Developer Openings" url="https://jasong.us/3LqqbLx" %}
 
-You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/3675/job](https://jasong.us/3CLZQnO).
+You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/3758/job](https://jasong.us/3LqqbLx).
 
 {% include snippets/job-opportunities.html intro="In addition to our Full Stack Developer openings, I have several other openings. " %}
