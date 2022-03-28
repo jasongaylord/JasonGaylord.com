@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### March
-- 3/24-26: [Open Source Festival - Lagos, Nigeria + Virtual Event](https://jasong.us/3MBPzzc)
 - 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
 - 3/29: [Design Value Conference - Virtual Event](https://jasong.us/3I2jNbd)
 - 3/29-31: [Microsoft MVP Global Summit - Virtual Event](https://jasong.us/3HVQBlU)
