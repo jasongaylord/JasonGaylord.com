@@ -13,12 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### March
-- 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
-- 3/29-31: [Microsoft MVP Global Summit - Virtual Event](https://jasong.us/3HVQBlU)
-- 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-- 3/31: [Timescale Community Day - Virtual Event](https://jasong.us/3MFM9eF)  {% include snippets/twitter-account.html url="https://jasong.us/36a4tvW" account="@timescaledb" %}
-
 #### April
 - 4/3-6: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 4/4-5: [StaffPlus - New York, NY](https://jasong.us/3tH4P5f)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
