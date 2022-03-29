@@ -78,6 +78,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/17-19: [RailsConf 2022 - Portland, OR](https://jasong.us/3vVGwDt)  {% include snippets/twitter-account.html url="https://jasong.us/3I6ZTfi" account="@railsconf" %}
 - 5/17-19: [New Relic {Future} Stack - Las Vegas, NV](https://jasong.us/3HXYLdF)
 - 5/17-19: [Ingram Micro Cloud Summit 22 - Miami Beach, FL](https://jasong.us/31ExPA0)  {% include snippets/twitter-account.html url="https://jasong.us/3EzYTPF" account="@IngramCloud" %}
+- 5/18-19: [AppSecCon 2022 - Virtual Event](https://jasong.us/3qE7SKI) 
 - 5/19: [Conf42: Machine Learning 2022 - Virtual Event](https://jasong.us/3DtC4vI)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 5/19: [Nebraska IT Symposium - Omaha, NE](https://jasong.us/3I16jfW)
 - 5/19-20: [ACE! - Krakow, Poland + Virtual Event](https://jasong.us/3Iq6jqT)  {% include snippets/twitter-account.html url="https://jasong.us/3ds41t7" account="@aceconf" %}
