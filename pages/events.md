@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### March
 - 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
-- 3/29: [Design Value Conference - Virtual Event](https://jasong.us/3I2jNbd)
 - 3/29-31: [Microsoft MVP Global Summit - Virtual Event](https://jasong.us/3HVQBlU)
 - 3/30: [Codementor: How to work with your engineering lead to grow your career - Virtual Event](https://jasong.us/3KwlxuR)
 - 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
