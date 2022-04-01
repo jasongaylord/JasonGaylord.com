@@ -13,12 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### March
-- 3/28-31: [Data Center World - Austin, TX](https://jasong.us/3tJ1Zg7)  {% include snippets/twitter-account.html url="https://jasong.us/3Comh2e" account="@DataCenterWorld" %}
-- 3/29-31: [Microsoft MVP Global Summit - Virtual Event](https://jasong.us/3HVQBlU)
-- 3/31: [Conf42: Golang 2022 - Virtual Event](https://jasong.us/3lE9UrP)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-- 3/31: [Timescale Community Day - Virtual Event](https://jasong.us/3MFM9eF)  {% include snippets/twitter-account.html url="https://jasong.us/36a4tvW" account="@timescaledb" %}
-
 #### April
 - 4/3-6: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 4/4-5: [StaffPlus - New York, NY](https://jasong.us/3tH4P5f)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
@@ -124,7 +118,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/17-19: [Code PaLOUsa 2022 - Louisville, KY](https://jasong.us/3vZsdh5)  {% include snippets/twitter-account.html url="https://jasong.us/3CAI9Yf" account="@CodePaLOUsa" %}
 - 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
-- 8/28-31: [360|iDev - Denver, CO](https://jasong.us/34wGxCt)
+- 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
 - 8/28-31: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 8/29-9/1: [IEEE AutoTestCon 2022 - National Harbor, MD](https://jasong.us/3lI8RHh)
 - 8/30-9/2: [ElixirConf 2022 - Aurora, CO](https://jasong.us/32YrujD)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@elixirconf" %}
