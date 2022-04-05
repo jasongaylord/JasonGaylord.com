@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### April
 - 4/3-6: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
-- 4/4-5: [StaffPlus - New York, NY](https://jasong.us/3tH4P5f)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 4/4-8: [Java Z-Day 2022 - Virtual Event](https://jasong.us/364rq3F)
 - 4/5-7: [DEVintersection Conference - Last Vegas, NV](https://jasong.us/3izNq9H)  {% include snippets/twitter-account.html url="https://jasong.us/2YkqxQk" account="@devintersection" %}
 - 4/5-7: [LeadDev - New York, NY](https://jasong.us/3hRxoYg)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
