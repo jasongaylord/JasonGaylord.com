@@ -14,14 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### April
-- 4/3-6: [NDC Security - Oslo, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
-- 4/4-8: [Java Z-Day 2022 - Virtual Event](https://jasong.us/364rq3F)
-- 4/5-7: [DEVintersection Conference - Last Vegas, NV](https://jasong.us/3izNq9H)  {% include snippets/twitter-account.html url="https://jasong.us/2YkqxQk" account="@devintersection" %}
-- 4/5-7: [LeadDev - New York, NY](https://jasong.us/3hRxoYg)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 4/6-9: [Bitcoin 2022 - Miami, FL](https://jasong.us/3rEKrlP)  {% include snippets/twitter-account.html url="https://jasong.us/3GkWZ5Q" account="@thebitcoinconf" %}
-- 4/7-8: [CodeStock - Knoxville, TN](https://jasong.us/3mq969F)  {% include snippets/twitter-account.html url="https://jasong.us/3FnFylM" account="@CodeStock" %}
-- 4/7-8: [WebGameDev Summit - Virtual Event](https://jasong.us/3MC62n1)  {% include snippets/twitter-account.html url="https://jasong.us/3vYQcx3" account="@webgamedevconf" %}
-- 4/7-8: [LeadingEng - New York, NY](https://jasong.us/34wfiIe)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 4/11-13: [Dev Nexus - Atlanta, GA + Virtual Event](https://jasong.us/3DhBJwe)  {% include snippets/twitter-account.html url="https://jasong.us/3a8jWv1" account="@devnexus" %}
 - 4/12: [Microsoft Envision Episode 4 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
 - 4/13-14: [Devopsdays Raleigh - Raleigh, NC](https://jasong.us/3uI1seo)
