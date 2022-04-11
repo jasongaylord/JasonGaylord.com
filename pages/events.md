@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### April
-- 4/6-9: [Bitcoin 2022 - Miami, FL](https://jasong.us/3rEKrlP)  {% include snippets/twitter-account.html url="https://jasong.us/3GkWZ5Q" account="@thebitcoinconf" %}
 - 4/11-13: [Dev Nexus - Atlanta, GA + Virtual Event](https://jasong.us/3DhBJwe)  {% include snippets/twitter-account.html url="https://jasong.us/3a8jWv1" account="@devnexus" %}
 - 4/12: [Microsoft Envision Episode 4 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
 - 4/13-14: [Devopsdays Raleigh - Raleigh, NC](https://jasong.us/3uI1seo)
