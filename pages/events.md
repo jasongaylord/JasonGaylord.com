@@ -67,6 +67,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/20: [200OK Web Developer Conference - Tulsa, OK](https://jasong.us/35KCdjq)
 - 5/23-26: [That Conference - Round Rock, TX](https://jasong.us/3do4tsq)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 5/24-25: [Remix Conf - Salt Lake City, UT](https://jasong.us/3J7a3xz)  {% include snippets/twitter-account.html url="https://jasong.us/367IHZB" account="@remix_run" %}
+- 5/24-26: [Microsoft Build - Virtual Event](https://jasong.us/37Ntmhx)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
 - 5/27: [Devopsdays Tampa Bay - Tampa Bay, FL](https://jasong.us/3I4tkyc)  {% include snippets/twitter-account.html url="https://jasong.us/3KA9jBp" account="@devopsdaystb" %}
 
 #### June
