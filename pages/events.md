@@ -14,9 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### April
-- 4/13-14: [Devopsdays Raleigh - Raleigh, NC](https://jasong.us/3uI1seo)
 - 4/18-19: [React Conference Miami - Miami, FL](https://jasong.us/3050oqc)
-- 4/13-14: [Devopsdays Birmingham - Birmingham, AL](https://jasong.us/36a5Yu4)
 - 4/19-20: [Azure Cosmos DB Conf - Virtual Event](https://jasong.us/3KV2StI)
 - 4/19-20: [VSLive!: Data Analytics](https://jasong.us/3Mvp66r)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 4/19-20: [Enterprise Data World 2022 - Virtual Event](https://jasong.us/3Dz3rnX)  {% include snippets/twitter-account.html url="https://jasong.us/3xXTZcV" account="@enterprisedata" %}
