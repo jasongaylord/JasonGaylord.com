@@ -17,4 +17,4 @@ TechBash 2022 will take place at the Kalahari Resort and Convention Center in th
 
 Stay posted for more information.
 
-{% include link-thumbnail.html path="2022/03/15/TechBash2022.png" alt="TechBash 2021" url="https://jasong.us/36hydqw" %}
+{% include link-thumbnail.html path="2022/03/15/TechBash2022.png" alt="TechBash 2022" url="https://jasong.us/36hydqw" %}
