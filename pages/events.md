@@ -22,26 +22,22 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### May
 - 5/1-6: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)  {% include snippets/twitter-account.html url="https://jasong.us/3mpQeaz" account="@cppnow" %}
-- 5/2-3: [Reactathon in the Park - San Francisco, CA](https://jasong.us/3tHTt0E)  {% include snippets/twitter-account.html url="https://jasong.us/3i4sE1e" account="@reactathon" %}
+- 5/2-5: [Reactathon in the Park - San Francisco, CA](https://jasong.us/3tHTt0E)  {% include snippets/twitter-account.html url="https://jasong.us/3i4sE1e" account="@reactathon" %}
 - 5/3: [Devopsdays Boise - Boise, ID](https://jasong.us/3MCSoA1)  {% include snippets/twitter-account.html url="https://jasong.us/3I0ch0k" account="@devopsdaysboise" %}
 - 5/4: [Google Workplace Summit - Virtual Event](https://jasong.us/3uRcD68)
 - 5/4: [Gateway to Innovation - St Louis, MO](https://jasong.us/360YdGu)
 - 5/4-5: [Devopsdays Austin - Austin, TX](https://jasong.us/3rGK1LG)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
-- 5/5-6: [Devopsdays Nashville - Nashville, TN](https://jasong.us/3MGhrlO)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
 - 5/5-6: [InflectraCON Agile Testing & DevOps Conference - Washington, DC](https://jasong.us/3CuJcsU)  {% include snippets/twitter-account.html url="https://jasong.us/3sY4NXx" account="@inflectraCon" %}
-- 5/6-13: [Web Directions Laxy Load - Virtual Event](https://jasong.us/3In8NGF)  {% include snippets/twitter-account.html url="https://jasong.us/3dsUr9z" account="@WebDirections" %}
 - 5/9-11: [CA HR Conference - Anaheim, CA + Virtual Event](https://jasong.us/3hTXutp)  {% include snippets/twitter-account.html url="https://jasong.us/3J2rkrO" account="@cahrconference" %}
 - 5/9-12: [International Telecoms Week 2022 - National Harbor, MD](https://jasong.us/3BguBj8)  {% include snippets/twitter-account.html url="https://jasong.us/3DjICgV" account="@ITW_Telecoms" %}
 - 5/9-12: [o11yfest - Virtual Event](https://jasong.us/3HZhzcn)
 - 5/10-11: [Developer Week Global Management - Virtual Event](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
-- 5/10-11: [Devopsdays Chicago - Chicago, IL](https://jasong.us/31BpZam)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 5/10-12: [Adobe Ditaworld 2022 - Virtual Event](https://jasong.us/3rGKfCs)  {% include snippets/twitter-account.html url="https://jasong.us/3DB8swE" account="@AdobeTCS" %} 
 - 5/10-12: [DevOps Enterprise Summit - Virtual Event](https://jasong.us/3hWyCRX)
 - 5/10-12: [Push Discovery Conference - Virtual Event](https://jasong.us/3sWEgK5)  {% include snippets/twitter-account.html url="https://jasong.us/36atU07" account="@pushconf" %}
 - 5/10-13: [Black Hat Asia 2022 - Marina Bay Sands, Singapore](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 5/10-20: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
 - 5/11-12: [Google I/O - Virtual Event](https://jasong.us/3LjAD7M)  {% include snippets/twitter-account.html url="https://jasong.us/3vQqJ70" account="@googledevs" %}
-- 5/11-12: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 5/17: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
 - 5/17-18: [Data Summit Connect 2022 - Boston, MA](https://jasong.us/3vLht48) {% include snippets/twitter-account.html url="https://jasong.us/3kjRZpo" account="@DBTADataSummit" %}
 - 5/17-19: [RailsConf 2022 - Portland, OR](https://jasong.us/3vVGwDt)  {% include snippets/twitter-account.html url="https://jasong.us/3I6ZTfi" account="@railsconf" %}
@@ -51,17 +47,16 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/19: [Conf42: Machine Learning 2022 - Virtual Event](https://jasong.us/3DtC4vI)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 5/19: [Nebraska IT Symposium - Omaha, NE](https://jasong.us/3I16jfW)
 - 5/19-20: [ACE! - Krakow, Poland + Virtual Event](https://jasong.us/3Iq6jqT)  {% include snippets/twitter-account.html url="https://jasong.us/3ds41t7" account="@aceconf" %}
-- 5/19-20: [The Principal Developer Masterclass - Virtual Event](https://jasong.us/34tAui1)
-- 5/20: [200OK Web Developer Conference - Tulsa, OK](https://jasong.us/35KCdjq)
 - 5/23-26: [That Conference - Round Rock, TX](https://jasong.us/3do4tsq)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 5/24-25: [Remix Conf - Salt Lake City, UT](https://jasong.us/3J7a3xz)  {% include snippets/twitter-account.html url="https://jasong.us/367IHZB" account="@remix_run" %}
 - 5/24-26: [Microsoft Build - Virtual Event](https://jasong.us/37Ntmhx)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
 - 5/26: [No-Code Days - Chicago, IL](https://jasong.us/3vkVWjW) 
-- 5/27: [Devopsdays Tampa Bay - Tampa Bay, FL](https://jasong.us/3I4tkyc)  {% include snippets/twitter-account.html url="https://jasong.us/3KA9jBp" account="@devopsdaystb" %}
+- 5/27, 6/3: [Web Directions Laxy Load - Virtual Event](https://jasong.us/3In8NGF)  {% include snippets/twitter-account.html url="https://jasong.us/3dsUr9z" account="@WebDirections" %}
 
 #### June
 - 6/1-4: [Render-Atlanta 2022 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3hYnUKA" account="@renderATL" %}
 - 6/2-3: [droidcon San Francisco 22 - San Francisco, CA](https://jasong.us/3J0mVpm)  {% include snippets/twitter-account.html url="https://jasong.us/3sVLOwF" account="@droidcon" %}
+- 6/3: [200OK Web Developer Conference - Tulsa, OK](https://jasong.us/35KCdjq)
 - 6/5-8: [Global Scrum Gathering - Denver, CO](https://jasong.us/3vON3xP)  {% include snippets/twitter-account.html url="https://jasong.us/3ESYrgo" account="@ScrumAlliance" %}
 - 6/5-9: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3ldIxVE" account="@AgileTDUSA" %}
 - 6/6-7: [UXRCONF by Learners - New York, NY + Virtual Event](https://jasong.us/3ESYYyU)
@@ -93,7 +88,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### July
 - 7/11-15: [Esri User Conference - San Diego, CA](https://jasong.us/3DomscQ)
 - 7/12-15: [UberConf - Denver, CO](https://jasong.us/3pQkhe8)
-- 7/17-20: [CppNorth - Toronto, Canada](https://jasong.us/3IAcgBY)  {% include snippets/twitter-account.html url="https://jasong.us/3IocN9S" account="@cppnorth" %}
+- 7/18-20: [CppNorth - Toronto, Canada](https://jasong.us/3IAcgBY)  {% include snippets/twitter-account.html url="https://jasong.us/3IocN9S" account="@cppnorth" %}
 - 7/18-22: [Agile 2022 - Nashville, TN](https://jasong.us/31B7L8Y)
 - 7/19-20: [DevOpsDays Seattle - Seattle, WA](https://jasong.us/3rUvWJU)  {% include snippets/twitter-account.html url="https://jasong.us/3Kq1Fci" account="@DevOpsDaysSEA" %}
 - 7/25-27: [Code On The Beach - Atlantic Beach, FL + Virtual Event](https://jasong.us/3vMwIK3)  {% include snippets/twitter-account.html url="https://jasong.us/3rSmoPt" account="@CodeOnTheBeach" %}
@@ -151,6 +146,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### October
 - 10/3: [AgileCincy Conference 2022 - Cincinnati, OH](https://jasong.us/399E0jp)
 - 10/3-6: [Black Hat Trainings at Sector 2022 - Toronto, Canada + Virtual Event](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
+- 10/5-6: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 10/10-12: [Pacific NW Software Quality Conference - Portland, OR + Virtual Event](https://jasong.us/3OEM7EV)  {% include snippets/twitter-account.html url="https://jasong.us/3OJEtck" account="@PNSQC" %}
 - 10/10-12: [DotNetOS Conference - Virtual Event](https://jasong.us/3tLgccs)  {% include snippets/twitter-account.html url="https://jasong.us/3hSDbfZ" account="@Dotnetos" %}
 - 10/10-13: [SmashingConf NY - New York, NY + Virtual Event](https://jasong.us/3ETt1GM)
