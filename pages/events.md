@@ -14,9 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### April
-- 4/26-28: [GamesBeat Summit 2022 - Los Angeles, CA](https://jasong.us/3vVGnQt)
 - 4/27-5/3: [PyCon US 2022 - Salt Lake City, UT](https://jasong.us/3MEHwBw)
-- 4/28: [Conf42: Cloud Native 2022 - Virtual Event](https://jasong.us/3rCb22Z)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 4/29: [TS Congress - Virtual Event](https://jasong.us/3J2XPpR)  {% include snippets/twitter-account.html url="https://jasong.us/3IV0txL" account="@ts_congress" %}
 - 4/29: [Web Directions hover 2022 Day 2 - New York, NY + Virtual Event](https://jasong.us/367gySq)
 
