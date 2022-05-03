@@ -14,10 +14,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 4/27-5/3: [PyCon US 2022 - Salt Lake City, UT](https://jasong.us/3MEHwBw)
 - 5/1-6: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)  {% include snippets/twitter-account.html url="https://jasong.us/3mpQeaz" account="@cppnow" %}
 - 5/2-5: [Reactathon in the Park - San Francisco, CA](https://jasong.us/3tHTt0E)  {% include snippets/twitter-account.html url="https://jasong.us/3i4sE1e" account="@reactathon" %}
-- 5/3: [Devopsdays Boise - Boise, ID](https://jasong.us/3MCSoA1)  {% include snippets/twitter-account.html url="https://jasong.us/3I0ch0k" account="@devopsdaysboise" %}
 - 5/4: [Google Workplace Summit - Virtual Event](https://jasong.us/3uRcD68)
 - 5/4: [Gateway to Innovation - St Louis, MO](https://jasong.us/360YdGu)
 - 5/4-5: [Devopsdays Austin - Austin, TX](https://jasong.us/3rGK1LG)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
