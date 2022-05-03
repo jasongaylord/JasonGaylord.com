@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 5/1-6: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)  {% include snippets/twitter-account.html url="https://jasong.us/3mpQeaz" account="@cppnow" %}
-- 5/5-6: [InflectraCON Agile Testing & DevOps Conference - Washington, DC](https://jasong.us/3CuJcsU)  {% include snippets/twitter-account.html url="https://jasong.us/3sY4NXx" account="@inflectraCon" %}
 - 5/9-11: [CA HR Conference - Anaheim, CA + Virtual Event](https://jasong.us/3hTXutp)  {% include snippets/twitter-account.html url="https://jasong.us/3J2rkrO" account="@cahrconference" %}
 - 5/9-12: [International Telecoms Week 2022 - National Harbor, MD](https://jasong.us/3BguBj8)  {% include snippets/twitter-account.html url="https://jasong.us/3DjICgV" account="@ITW_Telecoms" %}
 - 5/9-12: [o11yfest - Virtual Event](https://jasong.us/3HZhzcn)
