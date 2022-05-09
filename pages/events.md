@@ -14,14 +14,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 5/9-12: [International Telecoms Week 2022 - National Harbor, MD](https://jasong.us/3BguBj8)  {% include snippets/twitter-account.html url="https://jasong.us/3DjICgV" account="@ITW_Telecoms" %}
-- 5/9-12: [o11yfest - Virtual Event](https://jasong.us/3HZhzcn)
-- 5/10-12: [Adobe Ditaworld 2022 - Virtual Event](https://jasong.us/3rGKfCs)  {% include snippets/twitter-account.html url="https://jasong.us/3DB8swE" account="@AdobeTCS" %} 
-- 5/10-12: [DevOps Enterprise Summit - Virtual Event](https://jasong.us/3hWyCRX)
-- 5/10-12: [Push Discovery Conference - Virtual Event](https://jasong.us/3sWEgK5)  {% include snippets/twitter-account.html url="https://jasong.us/36atU07" account="@pushconf" %}
 - 5/10-13: [Black Hat Asia 2022 - Marina Bay Sands, Singapore](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 5/10-20: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
-- 5/11-12: [Google I/O - Virtual Event](https://jasong.us/3LjAD7M)  {% include snippets/twitter-account.html url="https://jasong.us/3vQqJ70" account="@googledevs" %}
 - 5/17: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
 - 5/17-18: [Data Summit Connect 2022 - Boston, MA](https://jasong.us/3vLht48) {% include snippets/twitter-account.html url="https://jasong.us/3kjRZpo" account="@DBTADataSummit" %}
 - 5/17-19: [RailsConf 2022 - Portland, OR](https://jasong.us/3vVGwDt)  {% include snippets/twitter-account.html url="https://jasong.us/3I6ZTfi" account="@railsconf" %}
