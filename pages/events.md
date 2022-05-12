@@ -14,10 +14,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 5/9-11: [CA HR Conference - Anaheim, CA + Virtual Event](https://jasong.us/3hTXutp)  {% include snippets/twitter-account.html url="https://jasong.us/3J2rkrO" account="@cahrconference" %}
 - 5/9-12: [International Telecoms Week 2022 - National Harbor, MD](https://jasong.us/3BguBj8)  {% include snippets/twitter-account.html url="https://jasong.us/3DjICgV" account="@ITW_Telecoms" %}
 - 5/9-12: [o11yfest - Virtual Event](https://jasong.us/3HZhzcn)
-- 5/10-11: [Developer Week Global Management - Virtual Event](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@DeveloperWeek" %}
 - 5/10-12: [Adobe Ditaworld 2022 - Virtual Event](https://jasong.us/3rGKfCs)  {% include snippets/twitter-account.html url="https://jasong.us/3DB8swE" account="@AdobeTCS" %} 
 - 5/10-12: [DevOps Enterprise Summit - Virtual Event](https://jasong.us/3hWyCRX)
 - 5/10-12: [Push Discovery Conference - Virtual Event](https://jasong.us/3sWEgK5)  {% include snippets/twitter-account.html url="https://jasong.us/36atU07" account="@pushconf" %}
