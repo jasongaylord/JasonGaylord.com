@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 5/10-13: [Black Hat Asia 2022 - Marina Bay Sands, Singapore](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 5/10-20: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
 - 5/17: [QA or the Highway - Columbus, OH](https://jasong.us/3AjCaEM)
 - 5/17-18: [Data Summit Connect 2022 - Boston, MA](https://jasong.us/3vLht48) {% include snippets/twitter-account.html url="https://jasong.us/3kjRZpo" account="@DBTADataSummit" %}
