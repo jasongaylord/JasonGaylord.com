@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### May
-- 5/10-20: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
-- 5/19-20: [ACE! - Krakow, Poland + Virtual Event](https://jasong.us/3Iq6jqT)  {% include snippets/twitter-account.html url="https://jasong.us/3ds41t7" account="@aceconf" %}
 - 5/23-26: [That Conference - Round Rock, TX](https://jasong.us/3do4tsq)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 5/24-25: [Remix Conf - Salt Lake City, UT](https://jasong.us/3J7a3xz)  {% include snippets/twitter-account.html url="https://jasong.us/367IHZB" account="@remix_run" %}
 - 5/24-26: [Microsoft Build - Virtual Event](https://jasong.us/37Ntmhx)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
