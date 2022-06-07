@@ -14,10 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### June
-- 6/1-4: [Render-Atlanta 2022 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3hYnUKA" account="@renderATL" %}
-- 6/2-3: [droidcon San Francisco 22 - San Francisco, CA](https://jasong.us/3J0mVpm)  {% include snippets/twitter-account.html url="https://jasong.us/3sVLOwF" account="@droidcon" %}
-- 6/3: [200OK Web Developer Conference - Tulsa, OK](https://jasong.us/35KCdjq)
-- 6/3: [Web Directions Laxy Load - Virtual Event](https://jasong.us/3In8NGF)  {% include snippets/twitter-account.html url="https://jasong.us/3dsUr9z" account="@WebDirections" %}
 - 6/5-8: [Global Scrum Gathering - Denver, CO](https://jasong.us/3vON3xP)  {% include snippets/twitter-account.html url="https://jasong.us/3ESYrgo" account="@ScrumAlliance" %}
 - 6/5-9: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3ldIxVE" account="@AgileTDUSA" %}
 - 6/6-7: [UXRCONF by Learners - New York, NY + Virtual Event](https://jasong.us/3ESYYyU)
