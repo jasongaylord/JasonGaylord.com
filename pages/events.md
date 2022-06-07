@@ -16,7 +16,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### June
 - 6/5-8: [Global Scrum Gathering - Denver, CO](https://jasong.us/3vON3xP)  {% include snippets/twitter-account.html url="https://jasong.us/3ESYrgo" account="@ScrumAlliance" %}
 - 6/5-9: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3ldIxVE" account="@AgileTDUSA" %}
-- 6/6-7: [UXRCONF by Learners - New York, NY + Virtual Event](https://jasong.us/3ESYYyU)
 - 6/6-9: [RSAConference - San Francisco, CA](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@rsaconference" %}
 - 6/6-9: [ArchConf 2022 - Chicago, IL](https://jasong.us/3AcYrUs)
 - 6/6-10: [Apple WWDC - Virtual Event](https://jasong.us/3LjAOzY)
