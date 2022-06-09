@@ -14,16 +14,10 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### June
-- 6/5-8: [Global Scrum Gathering - Denver, CO](https://jasong.us/3vON3xP)  {% include snippets/twitter-account.html url="https://jasong.us/3ESYrgo" account="@ScrumAlliance" %}
-- 6/5-9: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3ldIxVE" account="@AgileTDUSA" %}
-- 6/6-9: [RSAConference - San Francisco, CA](https://jasong.us/3sFOQmJ)  {% include snippets/twitter-account.html url="https://jasong.us/302rUVe" account="@rsaconference" %}
-- 6/6-9: [ArchConf 2022 - Chicago, IL](https://jasong.us/3AcYrUs)
 - 6/6-10: [Apple WWDC - Virtual Event](https://jasong.us/3LjAOzY)
 - 6/6-10: [Hardwear.io Security Trainings and Conference - Santa Clara, CA](https://jasong.us/3CBjkLT)  {% include snippets/twitter-account.html url="https://jasong.us/3HXxY16" account="@hardwear_io" %}
-- 6/7-9: [MongoDB World - New York, NY + Virtual Event](https://jasong.us/3Exu2TI)  {% include snippets/twitter-account.html url="https://jasong.us/3drEIYc" account="@mongodb" %}
 - 6/7-10: [Women in Tech Global Conference 2022 - Limited In Person + Virtual Event](https://jasong.us/3IqtKQT)  {% include snippets/twitter-account.html url="https://jasong.us/3ouF9ay" account="@WomenTechNet" %}
 - 6/8-10: [VueConf US - Fort Lauderdale, FL](https://jasong.us/3MIkXMl)  {% include snippets/twitter-account.html url="https://jasong.us/3MDNKC1" account="@vueconfus" %}
-- 6/9: [Conf42: Site Reliability Engineering 2022 - Virtual Event](https://jasong.us/31BUfCm)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 6/13-15: [1 MarketPlaceLIVE - New York, NY + Virtual Event](https://jasong.us/38sR0jH)  {% include snippets/twitter-account.html url="https://jasong.us/3ETqooh" account="@MPLevent" %}
 - 6/13-17: [VSLive! Austin - Austin, TX](https://jasong.us/3Cn6l0m)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 6/14: [Microsoft Envision Episode 5 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
