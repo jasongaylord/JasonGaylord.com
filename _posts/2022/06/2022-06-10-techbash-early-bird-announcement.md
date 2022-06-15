@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2022-06-10
 categories: [events,techbash]
 tags:  [events,techbash]
-post-number: 1222
+post-number: 1224
 image: https://cdn.jasongaylord.com/images/2022/06/10/techbash-promo-teaser.jpg
 bitly: https://jasong.us/3MDh2iA
 ---
