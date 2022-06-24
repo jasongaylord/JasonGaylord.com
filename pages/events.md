@@ -14,18 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### June
-- 6/13-15: [1 MarketPlaceLIVE - New York, NY + Virtual Event](https://jasong.us/38sR0jH)  {% include snippets/twitter-account.html url="https://jasong.us/3ETqooh" account="@MPLevent" %}
-- 6/13-17: [VSLive! Austin - Austin, TX](https://jasong.us/3Cn6l0m)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 6/14: [Microsoft Envision Episode 5 - Virtual Event](https://jasong.us/31Du7XG)  {% include snippets/twitter-account.html url="https://jasong.us/3lHfauJ" account="@MSFTEnvision" %}
-- 6/14-15: [WeAreDevelopers World Congress - Berlin, Germany](https://jasong.us/3rGuICI)
-- 6/15-16: [SKILup Festival: Denver - Denver, Co](https://jasong.us/38wcb4r)
-- 6/20: [JSNation - Virtual Event](https://jasong.us/3pSzMlG)  {% include snippets/twitter-account.html url="https://jasong.us/3J11RPj" account="@thejsnation" %}
-- 6/20-23: [SmashingConf SF - San Francisco, CA + Virtual Event](https://jasong.us/3MEyLH7)
-- 6/20-23: [Collision - Toronto, Canada](https://jasong.us/3Bd8ZEA)
-- 6/20-23: [IoT Week - Dublin](https://jasong.us/3ExdbjU)  {% include snippets/twitter-account.html url="https://jasong.us/3DxGT78" account="@IoT_Forum" %}
-- 6/21: [React Summit - Virtual Event](https://jasong.us/3MEUakd)  {% include snippets/twitter-account.html url="https://jasong.us/3KQ3akX" account="@reactsummit" %}
-- 6/21-24: [identiverse - Denver, Co](https://jasong.us/3rR3PLG)  {% include snippets/twitter-account.html url="https://jasong.us/3xV810M" account="@identiverse" %}
-- 6/23: [Big Data Management and Monetization - New York, NY](https://jasong.us/3OKH1qH)
 - 6/27-29: [Monitorama 2022 - Portland, OR](https://jasong.us/3rKKa0H)
 - 6/27-30: [SmashingConf Austin - Austin, TX + Virtual Event](https://jasong.us/3xWeJn8)
 - 6/27-30: [Databricks Data+AI Summit 2022 - San Francisco, CA + Virtual Event](https://jasong.us/3hTWJkc)  {% include snippets/twitter-account.html url="https://jasong.us/3MIC6FJ" account="@databricks" %}
