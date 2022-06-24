@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2022-06-29
 categories: [events,techbash]
 tags:  [events,techbash]
-post-number: 1226
+post-number: 1227
 image: https://cdn.jasongaylord.com/images/2022/06/29/techbash-session-image.jpg
 bitly: https://jasong.us/3Op1AZs
 ---
