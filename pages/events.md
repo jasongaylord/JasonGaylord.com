@@ -13,12 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### June
-- 6/27-29: [Monitorama 2022 - Portland, OR](https://jasong.us/3rKKa0H)
-- 6/27-30: [SmashingConf Austin - Austin, TX + Virtual Event](https://jasong.us/3xWeJn8)
-- 6/27-30: [Databricks Data+AI Summit 2022 - San Francisco, CA + Virtual Event](https://jasong.us/3hTWJkc)  {% include snippets/twitter-account.html url="https://jasong.us/3MIC6FJ" account="@databricks" %}
-- 6/30: [Conf42: Quantum Computing 2022 - Virtual Event](https://jasong.us/3ovIeHz)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-
 #### July
 - 7/11-15: [Esri User Conference - San Diego, CA](https://jasong.us/3DomscQ)
 - 7/12-15: [UberConf - Denver, CO](https://jasong.us/3pQkhe8)
