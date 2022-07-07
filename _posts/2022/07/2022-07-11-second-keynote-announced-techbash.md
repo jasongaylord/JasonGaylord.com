@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags:  [events,techbash]
 post-number: 1231
 image: https://cdn.jasongaylord.com/images/2022/07/11/Crux.png
-bitly: https://jasong.us/3AdIeSI
+bitly: https://jasong.us/3ymy93f
 ---
 
 We have announced our second keynote presenter for TechBash 2022. We welcome Crux Conception, a retired detective and hostage negotiator, to the big stage at TechBash. You can read more about Crux's keynote by visiting [jasong.us/3yP5rtr](https://jasong.us/3yP5rtr).
