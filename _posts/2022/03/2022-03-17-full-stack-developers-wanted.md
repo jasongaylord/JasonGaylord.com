@@ -2,8 +2,8 @@
 title: Full Stack Developer Openings at biBERK
 author: Jason Gaylord
 date: 2022-03-17
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1218
 image: https://cdn.jasongaylord.com/images/2022/03/17/full-stack-developer-opening.jpg
 bitly: https://jasong.us/3MUs0BL
