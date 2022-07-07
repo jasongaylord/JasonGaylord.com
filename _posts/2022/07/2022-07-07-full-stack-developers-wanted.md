@@ -1,12 +1,12 @@
 ---
 title: Full Stack Developer Openings at biBERK
 author: Jason Gaylord
-date: 2022-03-17
-categories: [archive]
-tags:  [archive]
-post-number: 1218
-image: https://cdn.jasongaylord.com/images/2022/03/17/full-stack-developer-opening.jpg
-bitly: https://jasong.us/3MUs0BL
+date: 2022-07-07
+categories: [business,job-opportunities]
+tags:  [business,job-opportunities]
+post-number: 1230
+image: https://cdn.jasongaylord.com/images/2022/07/07/full-stack-developer-opening.jpg
+bitly: https://jasong.us/3ymz0kD
 ---
 
 biBERK is hiring several Full Stack Developers. biBERK is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We also have many team members that are fully remote.
@@ -15,8 +15,8 @@ We're looking for several full stack developers to join our growing team. More s
 
 Many of our back office applications have a Microsoft SQL server backend and an ASP.NET MVC front end. As we continue to revamp our applications, we're moving several of them to Microsoft Azure and rewriting for native cloud. Many of our databases are migrating to Cosmos DB and our apps are using a .NET Core service layer with an Angular front end.
 
-{% include link-thumbnail.html path="2022/03/17/full-stack-developer-opening.jpg" alt="Full Stack Developer Openings" url="https://jasong.us/3LqqbLx" %}
+{% include link-thumbnail.html path="2022/07/07/full-stack-developer-opening.jpg" alt="Full Stack Developer Openings" url="https://jasong.us/3bknCO5" %}
 
-You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/3758/job](https://jasong.us/3LqqbLx).
+You can read more about the opportunity by visiting [careers-biberk.icims.com/jobs/3896/job](https://jasong.us/3bknCO5).
 
 {% include snippets/job-opportunities.html intro="In addition to our Full Stack Developer openings, I have several other openings. " %}
