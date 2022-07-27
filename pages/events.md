@@ -14,12 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### July
-- 7/11-15: [Esri User Conference - San Diego, CA](https://jasong.us/3DomscQ)
-- 7/12-15: [UberConf - Denver, CO](https://jasong.us/3pQkhe8)
-- 7/18-20: [CppNorth - Toronto, Canada](https://jasong.us/3IAcgBY)  {% include snippets/twitter-account.html url="https://jasong.us/3IocN9S" account="@cppnorth" %}
-- 7/18-22: [Agile 2022 - Nashville, TN](https://jasong.us/31B7L8Y)
-- 7/19-20: [DevOpsDays Seattle - Seattle, WA](https://jasong.us/3rUvWJU)  {% include snippets/twitter-account.html url="https://jasong.us/3Kq1Fci" account="@DevOpsDaysSEA" %}
-- 7/25-27: [Code On The Beach - Atlantic Beach, FL + Virtual Event](https://jasong.us/3vMwIK3)  {% include snippets/twitter-account.html url="https://jasong.us/3rSmoPt" account="@CodeOnTheBeach" %}
 - 7/25-28: [That Conference - Wisconsin Dells, WI](https://jasong.us/3y0s4sz)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
 - 7/28: [App Growth Masterminds Seattle - Seattle, WA](https://jasong.us/3OSSXqL)
 - 7/29: [NFT Expoverse - Los Angeles, CA](https://jasong.us/3vUlGEj)
