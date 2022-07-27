@@ -2,8 +2,8 @@
 title: Business System Analyst Job Opportunities
 author: Jason Gaylord
 date: 2021-11-03
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1202
 image: https://cdn.jasongaylord.com/images/2021/11/03/business-analyst-job-opportunity.jpg
 bitly: https://jasong.us/3CH6nzl
