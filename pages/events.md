@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### July
-- 7/25-28: [That Conference - Wisconsin Dells, WI](https://jasong.us/3y0s4sz)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
-- 7/28: [App Growth Masterminds Seattle - Seattle, WA](https://jasong.us/3OSSXqL)
 - 7/29: [NFT Expoverse - Los Angeles, CA](https://jasong.us/3vUlGEj)
 - 7/29: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
 - 7/29: [UXOK Design Conference - Tulsa, OK](https://jasong.us/35KGh3j)  {% include snippets/twitter-account.html url="https://jasong.us/3tP33PB" account="@uxokconf" %}
