@@ -6,7 +6,7 @@ categories: [business,job-opportunities]
 tags:  [business,job-opportunities]
 post-number: 1232
 image: https://cdn.jasongaylord.com/images/2022/07/28/business-analyst-job-opportunity.jpg
-bitly: https://jasong.us/3CH6nzl
+bitly: https://jasong.us/3OFXYkZ
 ---
 
 biBERK is hiring several Business System Analysts. biBERK is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania.
