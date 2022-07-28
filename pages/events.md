@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### July
-- 7/25-28: [That Conference - Wisconsin Dells, WI](https://jasong.us/3y0s4sz)  {% include snippets/twitter-account.html url="https://jasong.us/3IpW5qJ" account="@thatconference" %}
-- 7/28: [App Growth Masterminds Seattle - Seattle, WA](https://jasong.us/3OSSXqL)
 - 7/29: [NFT Expoverse - Los Angeles, CA](https://jasong.us/3vUlGEj)
 - 7/29: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
 - 7/29: [UXOK Design Conference - Tulsa, OK](https://jasong.us/35KGh3j)  {% include snippets/twitter-account.html url="https://jasong.us/3tP33PB" account="@uxokconf" %}
@@ -32,7 +30,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
 - 8/25-26: [DevOpsDays Detroit - Detroit, MI](https://jasong.us/3w7opZN)  {% include snippets/twitter-account.html url="https://jasong.us/36T8PIp" account="@devopsdaysdet" %}
 - 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
-- 8/28-31: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
+- 8/29-9/1: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 8/29-9/1: [IEEE AutoTestCon 2022 - National Harbor, MD](https://jasong.us/3lI8RHh)
 - 8/30-9/2: [ElixirConf 2022 - Aurora, CO](https://jasong.us/32YrujD)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@elixirconf" %}
 - 8/30-9/2: [Rails Camp West 2022 - Diablo Lake, WA](https://jasong.us/3dsmp5o)  {% include snippets/twitter-account.html url="https://jasong.us/3y3pP7V" account="@railscamp_usa" %}
@@ -60,7 +58,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 9/25-29: [VSLive! San Diego - San Diego, CA](https://jasong.us/3pLJGFG)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 9/26-28: [GopherCon - Lake Buena Vista, FL](https://jasong.us/3HT7ZrF)
 - 9/26-29: [International JavaScript Conference - New York, NY + Virtual Event](https://jasong.us/37O6OxH)  {% include snippets/twitter-account.html url="https://jasong.us/3xZOhJy" account="@JavaScriptCon" %}
-- 9/27-30: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
+- 9/26-30: [NDC Oslo - Oslo, Norway](https://jasong.us/3OEoWJy)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 9/28-30: [SpiceWorld 2022 - Austin, TX](https://jasong.us/3Mva2G1)  {% include snippets/twitter-account.html url="https://jasong.us/3pJCnP1" account="@spiceworks" %}
 - 9/29: [App Growth Masterminds NYC - New York, NY](https://jasong.us/3OSSXqL)
 - 9/29: [Conf42: Incident Management 2022 - Virtual Event](https://jasong.us/3GkSU1y)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
@@ -72,6 +70,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 10/10-12: [Pacific NW Software Quality Conference - Portland, OR + Virtual Event](https://jasong.us/3OEM7EV)  {% include snippets/twitter-account.html url="https://jasong.us/3OJEtck" account="@PNSQC" %}
 - 10/10-12: [DotNetOS Conference - Virtual Event](https://jasong.us/3tLgccs)  {% include snippets/twitter-account.html url="https://jasong.us/3hSDbfZ" account="@Dotnetos" %}
 - 10/10-13: [SmashingConf NY - New York, NY + Virtual Event](https://jasong.us/3ETt1GM)
+- 10/10-14: [NDC Sydney - Sydney, Australia](https://jasong.us/3J7AHY6)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 10/18-20: [TechCrunch Disrupt 2022 - San Francisco, CA](https://jasong.us/3lajD9k)
 - 10/19: [Indy.Code() - Carmel, Indiana](https://jasong.us/3xXRkSo)
 - 10/19-21: [Think Innovate 2022 - Baltimore, MD](https://jasong.us/3tCPPW5)  {% include snippets/twitter-account.html url="https://jasong.us/3Co75SZ" account="@Think_Innovate_" %}
@@ -89,8 +88,10 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### November
 - 11/1-3: [ODSC West Reconnect - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
 - 11/1-4: [Web Summit - Lisbon, Portugal](https://jasong.us/393Panf) 
+- 11/8-10: [.NET Conf 2022 - Virtual Event](https://jasong.us/2WleqPy)  {% include snippets/twitter-account.html url="https://jasong.us/3zCybpG" account="@dotnetcnf" %}
 - 11/8-11: [TechBash 2022 - Pocono, PA](https://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@TechBash" %}
 - 11/13-18: [VSLive! Orlando - Orlando, FL](https://jasong.us/3Mrxi7A)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 11/15-18: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 11/16: [App Growth Summit Austin - Austin, TX](https://jasong.us/3OSSXqL)
 - 11/17: [Conf42: JavaScript 2022 - Virtual Event](https://jasong.us/3ovOOOh)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 11/29-12/9: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
