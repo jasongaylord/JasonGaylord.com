@@ -14,10 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### July
-- 7/29: [NFT Expoverse - Los Angeles, CA](https://jasong.us/3vUlGEj)
-- 7/29: [Devopsdays Los Angeles - Los Angeles, CA](https://jasong.us/3Ijup6V)  {% include snippets/twitter-account.html url="https://jasong.us/3ExbTp5" account="@devopsdayla2022" %}
-- 7/29: [UXOK Design Conference - Tulsa, OK](https://jasong.us/35KGh3j)  {% include snippets/twitter-account.html url="https://jasong.us/3tP33PB" account="@uxokconf" %}
-- 7/29: [CincyDeliver - Cincinnati, OH](https://jasong.us/3Kou2I2)
 - 7/29-31: [NFT Expoverse - Los Angeles, CA](https://jasong.us/3vUlGEj)
 
 #### August
