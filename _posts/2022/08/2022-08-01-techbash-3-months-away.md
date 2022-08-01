@@ -13,4 +13,4 @@ TechBash 2022 is just 3 months away and we can already feel the hype for this ye
 
 Not sure if you can attend all four days of the event? That's ok. We have a 3-day main conference ticket available. Tickets for both the 3-day and 4-day conference passes can be purchased on our [EventBrite page](https://jasong.us/3tFZ5to). We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/3xuwLLA). Great rooms are still available, but are going fast. To book a room, follow the process outlined in our [Stay and Play section](https://jasong.us/hotelreg) of the website.  Want to send your dev team? Reach out to TechBash to ask about discounts for groups of five or more.
 
-{% include link-thumbnail.html path="2022/08/01/techbash-session-image.png" alt="An image from TechBash 2019" url="http://jasong.us/tb" %}
+{% include link-thumbnail.html path="2022/08/01/techbash-session-image.jpg" alt="An image from TechBash 2019" url="http://jasong.us/tb" %}
