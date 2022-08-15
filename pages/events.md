@@ -14,9 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### August
-- 8/6-11: [Black Hat USA 2022 - Las Vegas, NV](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
-- 8/8-10: [Kansas City Developers Conference (KCDC) - Kansas City, MO](https://jasong.us/36a7Xyy)  {% include snippets/twitter-account.html url="https://jasong.us/3tVWTxg" account="@kc_dc" %}
-- 8/8-12: [VSLive! Microsoft HQ - Redmond, WA](https://jasong.us/35DBUad)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 8/17-19: [Code PaLOUsa 2022 - Louisville, KY](https://jasong.us/3vZsdh5)  {% include snippets/twitter-account.html url="https://jasong.us/3CAI9Yf" account="@CodePaLOUsa" %}
 - 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
