@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### August
-- 8/17-19: [Code PaLOUsa 2022 - Louisville, KY](https://jasong.us/3vZsdh5)  {% include snippets/twitter-account.html url="https://jasong.us/3CAI9Yf" account="@CodePaLOUsa" %}
 - 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
 - 8/25-26: [DevOpsDays Detroit - Detroit, MI](https://jasong.us/3w7opZN)  {% include snippets/twitter-account.html url="https://jasong.us/36T8PIp" account="@devopsdaysdet" %}
@@ -55,12 +54,15 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### October
 - 10/3: [AgileCincy Conference 2022 - Cincinnati, OH](https://jasong.us/399E0jp)
+- 10/3-5: [FullStory User Conference 2022 - Atlanta, GA](https://jasong.us/3T2Hgzt)
 - 10/3-6: [Black Hat Trainings at Sector 2022 - Toronto, Canada + Virtual Event](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 10/5-6: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 10/10-12: [Pacific NW Software Quality Conference - Portland, OR + Virtual Event](https://jasong.us/3OEM7EV)  {% include snippets/twitter-account.html url="https://jasong.us/3OJEtck" account="@PNSQC" %}
 - 10/10-12: [DotNetOS Conference - Virtual Event](https://jasong.us/3tLgccs)  {% include snippets/twitter-account.html url="https://jasong.us/3hSDbfZ" account="@Dotnetos" %}
 - 10/10-13: [SmashingConf NY - New York, NY + Virtual Event](https://jasong.us/3ETt1GM)
 - 10/10-14: [NDC Sydney - Sydney, Australia](https://jasong.us/3J7AHY6)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
+- 10/12-14: [Microsoft Ignite - Virtual Event](https://jasong.us/3K33ZHP)  {% include snippets/twitter-account.html url="https://jasong.us/3kKCOnQ" account="@MS_Ignite" %}
+- 10/18: [Lenovo Tech World '22 - Virtual Event](https://jasong.us/3pw1AM9)
 - 10/18-20: [TechCrunch Disrupt 2022 - San Francisco, CA](https://jasong.us/3lajD9k)
 - 10/19: [Indy.Code() - Carmel, Indiana](https://jasong.us/3xXRkSo)
 - 10/19-21: [Think Innovate 2022 - Baltimore, MD](https://jasong.us/3tCPPW5)  {% include snippets/twitter-account.html url="https://jasong.us/3Co75SZ" account="@Think_Innovate_" %}
