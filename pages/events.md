@@ -95,3 +95,9 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 12/7-9: [TechLeader Summit 2022 - Clearwater, FL](https://jasong.us/369KA7Z)
 - 12/8-9: [DevTernity - Virtual Event](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %}
 - 12/12-15: [ArchConf 2022 - Clearwater, FL](https://jasong.us/3AcYrUs)
+
+
+## 2023
+
+#### June
+- 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)
