@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### August
-- 8/24-25: [Devopsdays Dallas - Dallas, TX](https://jasong.us/3lcp2gj)  {% include snippets/twitter-account.html url="https://jasong.us/3Adg1Yo" account="@DevOpsDaysDFW" %}
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
 - 8/25-26: [DevOpsDays Detroit - Detroit, MI](https://jasong.us/3w7opZN)  {% include snippets/twitter-account.html url="https://jasong.us/36T8PIp" account="@devopsdaysdet" %}
 - 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
