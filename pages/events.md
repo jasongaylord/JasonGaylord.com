@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### August
 - 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
-- 8/25-26: [DevOpsDays Detroit - Detroit, MI](https://jasong.us/3w7opZN)  {% include snippets/twitter-account.html url="https://jasong.us/36T8PIp" account="@devopsdaysdet" %}
 - 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
 - 8/29-9/1: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
 - 8/29-9/1: [IEEE AutoTestCon 2022 - National Harbor, MD](https://jasong.us/3lI8RHh)
