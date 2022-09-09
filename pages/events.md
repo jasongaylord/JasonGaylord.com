@@ -13,21 +13,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### August
-- 8/24-28: [Gamescom 2022 - Cologne, Germany](https://jasong.us/3lHcHk6)
-- 8/28-31: [360 iDev - Denver, CO](https://jasong.us/34wGxCt)
-- 8/29-9/1: [NDC TechTown - Kongsberg, Norway](https://jasong.us/3laM3zZ)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
-- 8/29-9/1: [IEEE AutoTestCon 2022 - National Harbor, MD](https://jasong.us/3lI8RHh)
-- 8/30-9/2: [ElixirConf 2022 - Aurora, CO](https://jasong.us/32YrujD)  {% include snippets/twitter-account.html url="https://jasong.us/3BePnQq" account="@elixirconf" %}
-- 8/30-9/2: [Rails Camp West 2022 - Diablo Lake, WA](https://jasong.us/3dsmp5o)  {% include snippets/twitter-account.html url="https://jasong.us/3y3pP7V" account="@railscamp_usa" %}
-- 8/30-9/2: [CascadiaJS - Bend, OR](https://jasong.us/3EC8W72)  {% include snippets/twitter-account.html url="https://jasong.us/3osBnOQ" account="@cascadiajs" %}
-- 8/31-9/1: [Flutter Vikings - Oslo, Norway + Virtual Event](https://jasong.us/3y1RhCV)  {% include snippets/twitter-account.html url="https://jasong.us/3lEDuNS" account="@FlutterVikings" %} 
-
 #### September
-- 9/1: [Conf42: Rustlang 2022 - Virtual Event](https://jasong.us/3oumtYu)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-- 9/1-2: [DroidCon NYC - New York, NY](https://jasong.us/2ZTmFql)
-- 9/5-7: [Hybrid Container Days - Hamburg, Germany + Virtual Event](https://jasong.us/3J1gQcj)  {% include snippets/twitter-account.html url="https://jasong.us/3pTY3Iq" account="@ConDaysEU" %}
-- 9/6-8: [Into the Box 2022 Web Development Conference - Houston, TX](https://jasong.us/3KsEq1g)  {% include snippets/twitter-account.html url="https://jasong.us/3OHMsGY" account="@gointothebox" %}
 - 9/7-14: [DeveloperWeek Cloud - Austin, TX + Virtual Event](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3MAG1Uh" account="@DeveloperWeek" %}
 - 9/8-9: [DevOpsDays Charlotte - Charlotte, NC](https://jasong.us/39fwOlT)  {% include snippets/twitter-account.html url="https://jasong.us/3LqakwT" account="@devopsdays_clt" %}
 - 9/11-14: [DevReach - Boston, MA](https://jasong.us/3vjQNrR)  {% include snippets/twitter-account.html url="https://jasong.us/3S7WmDk" account="@devreach" %}
