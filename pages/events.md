@@ -14,17 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### September
-- 9/7-14: [DeveloperWeek Cloud - Austin, TX + Virtual Event](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3MAG1Uh" account="@DeveloperWeek" %}
-- 9/8-9: [DevOpsDays Charlotte - Charlotte, NC](https://jasong.us/39fwOlT)  {% include snippets/twitter-account.html url="https://jasong.us/3LqakwT" account="@devopsdays_clt" %}
-- 9/11-14: [DevReach - Boston, MA](https://jasong.us/3vjQNrR)  {% include snippets/twitter-account.html url="https://jasong.us/3S7WmDk" account="@devreach" %}
-- 9/11-16: [Cppcon - Aurora, CO](https://jasong.us/3dqfvxp)  {% include snippets/twitter-account.html url="https://jasong.us/32UGD5w" account="@cppcon" %}
-- 9/12-13: [DevOpsDays Boston - Boston, MA](https://jasong.us/3rWKzwd)  {% include snippets/twitter-account.html url="https://jasong.us/3vmu0w3" account="@devopsdaysbos" %}
-- 9/13-14: [Edge AI Summit - Santa Clara, CA](https://jasong.us/3vjq8vC)
-- 9/13-16: [HR Technology Conference and Expo - Las Vegas, NV](https://jasong.us/3tFbzjS)  {% include snippets/twitter-account.html url="https://jasong.us/3KxVpQb" account="@hrtechconf" %}
-- 9/14-15: [DataCloud USA 2022 - Austin, TX](https://jasong.us/3xSxp7r)  {% include snippets/twitter-account.html url="https://jasong.us/3rQmKGz" account="@BroadGroup_intl" %}
-- 9/15-16: [REFACTR.TECH - Atlanta, GA](https://jasong.us/3LrvpH2)  {% include snippets/twitter-account.html url="https://jasong.us/3ETeH0Q" account="@RefactrTech" %}
-- 9/15-16: [DevOpsDays Washington - Washington, DC](https://jasong.us/3KnM4dx)  {% include snippets/twitter-account.html url="https://jasong.us/3ETHDpA" account="@devopsdaysdc" %}
-- 9/19-21: [Devopsdays Portland - Portland, OR](https://jasong.us/3t2GBmX)  {% include snippets/twitter-account.html url="https://jasong.us/3weXnkT" account="@devopsdayspdx" %}
 - 9/20-23: [JCON-Online 2022 - Virtual Event](https://jasong.us/3CO1AgF)  {% include snippets/twitter-account.html url="https://jasong.us/36axGGQ" account="@jcon_conference" %}
 - 9/21-22: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/31BpZam)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 9/22-24: [Strange Loop - St Louis, MO](https://jasong.us/3OI6O2V)  {% include snippets/twitter-account.html url="https://jasong.us/3EX7JId" account="@strangeloop_stl" %}
