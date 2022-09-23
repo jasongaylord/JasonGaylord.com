@@ -5,7 +5,7 @@ date: 2022-09-24
 categories: [events,techbash]
 tags:  [events,techbash]
 post-number: 1237
-image: https://cdn.jasongaylord.com/images/2022/09/21/rit-jobfair.jpg
+image: https://cdn.jasongaylord.com/images/2022/09/24/waterslides.jpg
 bitly: https://jasong.us/3f29UkP
 ---
 
