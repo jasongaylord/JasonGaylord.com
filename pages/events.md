@@ -14,9 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### September
-- 9/20-23: [JCON-Online 2022 - Virtual Event](https://jasong.us/3CO1AgF)  {% include snippets/twitter-account.html url="https://jasong.us/36axGGQ" account="@jcon_conference" %}
-- 9/21-22: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/31BpZam)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
-- 9/22-24: [Strange Loop - St Louis, MO](https://jasong.us/3OI6O2V)  {% include snippets/twitter-account.html url="https://jasong.us/3EX7JId" account="@strangeloop_stl" %}
 - 9/25-29: [VSLive! San Diego - San Diego, CA](https://jasong.us/3pLJGFG)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 9/26-28: [GopherCon - Lake Buena Vista, FL](https://jasong.us/3HT7ZrF)
 - 9/26-29: [International JavaScript Conference - New York, NY + Virtual Event](https://jasong.us/37O6OxH)  {% include snippets/twitter-account.html url="https://jasong.us/3xZOhJy" account="@JavaScriptCon" %}

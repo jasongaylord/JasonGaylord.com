@@ -13,4 +13,4 @@ Are you attending the Rochester Institute of Technology job fair? Feel free to s
 
 I'll also be more than happy to talk to you more about TechBash, a developer conference that is taking place within a reasonable drive of Rochester. If you stop by, I'll be happy to take your contact info and provide you with a special discount to TechBash.
 
-{% include link-thumbnail.html path="2022/09/21/rit-jobfair.jpg" alt="RIT Job Fair 2021" url="https://jasong.us/bbcareers" %}
+{% include link-thumbnail.html path="2022/09/21/rit-jobfair.jpg" alt="RIT Job Fair 2021" url="https://jasong.us/biberkcareers" %}
