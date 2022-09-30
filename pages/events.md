@@ -13,15 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### September
-- 9/25-29: [VSLive! San Diego - San Diego, CA](https://jasong.us/3pLJGFG)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 9/26-28: [GopherCon - Lake Buena Vista, FL](https://jasong.us/3HT7ZrF)
-- 9/26-29: [International JavaScript Conference - New York, NY + Virtual Event](https://jasong.us/37O6OxH)  {% include snippets/twitter-account.html url="https://jasong.us/3xZOhJy" account="@JavaScriptCon" %}
-- 9/26-30: [NDC Oslo - Oslo, Norway](https://jasong.us/3OEoWJy)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
-- 9/28-30: [SpiceWorld 2022 - Austin, TX](https://jasong.us/3Mva2G1)  {% include snippets/twitter-account.html url="https://jasong.us/3pJCnP1" account="@spiceworks" %}
-- 9/29: [App Growth Masterminds NYC - New York, NY](https://jasong.us/3OSSXqL)
-- 9/29: [Conf42: Incident Management 2022 - Virtual Event](https://jasong.us/3GkSU1y)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
-
 #### October
 - 10/3: [AgileCincy Conference 2022 - Cincinnati, OH](https://jasong.us/399E0jp)
 - 10/3-5: [FullStory User Conference 2022 - Atlanta, GA](https://jasong.us/3T2Hgzt)
