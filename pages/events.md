@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### October
-- 10/3: [AgileCincy Conference 2022 - Cincinnati, OH](https://jasong.us/399E0jp)
-- 10/3-5: [FullStory User Conference 2022 - Atlanta, GA](https://jasong.us/3T2Hgzt)
 - 10/3-6: [Black Hat Trainings at Sector 2022 - Toronto, Canada + Virtual Event](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 10/5-6: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 10/10-12: [Pacific NW Software Quality Conference - Portland, OR + Virtual Event](https://jasong.us/3OEM7EV)  {% include snippets/twitter-account.html url="https://jasong.us/3OJEtck" account="@PNSQC" %}
