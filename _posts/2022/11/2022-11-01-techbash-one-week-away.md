@@ -31,7 +31,7 @@ Like previous years, family members are encouraged to begin joining TechBash on 
 While our deepest discounts expired, we can still receive 10% off by [booking online here](https://jasong.us/3ztM5tM). You'll want to stay on the property as we'll have activities into the late evening hours on both Wednesday and Thursday evenings.
 
 ## Connecting with TechBash ##
-We have a TechBash mobile app this year with event info, sessions, and schedule. You can grab it from the iOS or [Android](https://jasong.us/3U09hru) app stores by searching for TechBash.
+We have a TechBash mobile app this year with event info, sessions, and schedule. You can grab it from the [iOS](https://jasong.us/3SI7LsF) or [Android](https://jasong.us/3U09hru) app stores by searching for TechBash.
 
 We also recommend that you join the TechBashConf Slack. Here attendees can interact with speakers and sponsors. Plus, we have dedicated channels for game night, family sessions, and announcements. You can join by [clicking here](https://jasong.us/3NhxJSM).
 
