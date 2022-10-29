@@ -13,14 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2022
 
-#### October
-- 10/24-28: [QCon San Francisco](https://jasong.us/3I0s5A8)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
-- 10/25-27: [LeadDev San Francisco - San Francisco, CA](https://jasong.us/3rYqTZ2)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
-- 10/25-27: [API:World - San Jose, CA](https://jasong.us/3uH81xP)  {% include snippets/twitter-account.html url="https://jasong.us/3BfKgzt" account="@apiworld" %}
-- 10/26-27: [DevOpsDays Montreal - Montreal](https://jasong.us/3khtGbl)  {% include snippets/twitter-account.html url="https://jasong.us/3OHGPsd" account="@devopsmontreal" %}
-- 10/27: [App Growth Masterminds LA - Los Angeles, CA](https://jasong.us/3OSSXqL)
-- 10/28: [ThunderPlains Developer Conference - Oklahoma City, OK](https://jasong.us/3CuA6wl)  {% include snippets/twitter-account.html url="https://jasong.us/3sY7Bnj" account="@thunderplains" %}
-
 #### November
 - 11/1-3: [ODSC West Reconnect - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
 - 11/1-4: [Web Summit - Lisbon, Portugal](https://jasong.us/393Panf) 
