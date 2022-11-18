@@ -14,14 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2022
 
 #### November
-- 11/1-3: [ODSC West Reconnect - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
-- 11/1-4: [Web Summit - Lisbon, Portugal](https://jasong.us/393Panf) 
-- 11/8-10: [.NET Conf 2022 - Virtual Event](https://jasong.us/2WleqPy)  {% include snippets/twitter-account.html url="https://jasong.us/3zCybpG" account="@dotnetcnf" %}
-- 11/8-11: [TechBash 2022 - Pocono, PA](https://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@TechBash" %}
-- 11/13-18: [VSLive! Orlando - Orlando, FL](https://jasong.us/3Mrxi7A)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 11/15-18: [NDC Minnesota - Minneapolis, MN](https://jasong.us/3oBo7rU)  {% include snippets/twitter-account.html url="https://jasong.us/3J76EPl" account="@NDC_Conferences" %}
-- 11/16: [App Growth Summit Austin - Austin, TX](https://jasong.us/3OSSXqL)
-- 11/17: [Conf42: JavaScript 2022 - Virtual Event](https://jasong.us/3ovOOOh)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %} 
 - 11/29-12/9: [QCon Plus - Virtual Event](https://jasong.us/3HTyn4I)  {% include snippets/twitter-account.html url="https://jasong.us/3sYZEhR" account="@QCon" %}
 
 #### December
