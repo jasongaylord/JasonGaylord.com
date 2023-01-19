@@ -48,6 +48,16 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/9-12: [SCALE 20x - Pasadena, CA](https://jasong.us/3Xdyxwd)  {% include snippets/twitter-account.html url="https://jasong.us/3GSTjdG" account="@socallinuxexpo" %}
 - 3/10: [DevOpsDays Los Angeles - Pasadena, CA](https://jasong.us/3iOZdEE)  {% include snippets/twitter-account.html url="https://jasong.us/3ZNy59s" account="@socaldevops" %}
 - 3/14-15: [DevOpsDays Salt Lake City - Salt Lake City, CA](https://jasong.us/3CTawm3)  {% include snippets/twitter-account.html url="https://jasong.us/3XFj481" account="@devopsdaysslc" %}
+- 3/15: [Open Confidential Computing Conference 2023 - Virtual](https://jasong.us/3CZo0MV)  {% include snippets/twitter-account.html url="https://jasong.us/3iO6EMa" account="@EdgelessSystems" %}
+- 3/15-16: [axe-con 2023 - Virtual](https://jasong.us/2WJ02DX)  {% include snippets/twitter-account.html url="https://jasong.us/3XqsnsI" account="@dequesystems" %}
+- 3/16-19: [International Space Convention 2023 - Virtual](https://jasong.us/3WnDOjq)  {% include snippets/twitter-account.html url="https://jasong.us/3iJvRHP" account="@isconvention" %}
+- 3/18: [DevOps fwdays'23 - Virtual](https://jasong.us/3ZOWFXw)  {% include snippets/twitter-account.html url="https://jasong.us/3XDZ0CU" account="@fwdays" %}
+- 3/19-24: [Visual Studio Live! - Las Vegas, NV](https://jasong.us/3XoPmUU)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 3/22-23: [The DevOps Conference - Virtual](https://jasong.us/3ku1KnX)  {% include snippets/twitter-account.html url="https://jasong.us/3XoQb01" account="@eficode" %}
+- 3/28: [Azure Cosmos DB Conf 2023 - Virtual](https://jasong.us/3CY5Z1H)  {% include snippets/twitter-account.html url="https://jasong.us/3ZO7KbG" account="@AzureCosmosDB" %}
+- 3/30: [Conf42: Cloud Native 2023 - Virtual](https://jasong.us/3D0VwCG)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 3/30: [MLCONF - New York, NY](https://jasong.us/3WpmZ7I)  {% include snippets/twitter-account.html url="https://jasong.us/3iO9osW" account="@MLconf" %}
+- 3/31-4/1: [2023 Gateway Software Symposium - St Louis, MO](https://jasong.us/3J3Yj1E)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
 
 #### April
 - 4/6-7: [DevOpsDays Nashville - Nashville, TN](https://jasong.us/3ZLPHml)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
@@ -58,12 +68,17 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### May
 - 5/4-5: [DevOpsDays Austin - Austin, TX](https://jasong.us/3IY6DA0)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
 - 5/9-10: [DeveloperWeek Management - Virtual](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
+- 5/15-19: [Visual Studio Live! - Nashville, TN](https://jasong.us/3ZPK46L)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 5/23-24: [DevOpsDays Baltimore - Baltimore, MD](https://jasong.us/3koxV8u)  {% include snippets/twitter-account.html url="https://jasong.us/3iW8URz" account="@devopsdaysbmore" %}
 
 #### June
 - 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)
 
+#### July
+- 7/17-21: [Visual Studio Live! - Redmond, WA](https://jasong.us/3XeUWJz)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+
 #### August
+- 8/7-11: [Visual Studio Live! - San Diego, CA](https://jasong.us/3ZPBqF6)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 8/8: [DevOpsDays Global Organizer Summit - Chicago, IL](https://jasong.us/3HfVGIM)  {% include snippets/twitter-account.html url="https://jasong.us/3iQVTss" account="@devopsdays" %}
 - 8/9-10: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/3Xn1UMJ)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 8/16-17: [DeveloperWeek Cloud - Virtual](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
@@ -72,4 +87,5 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 10/5-6: [DevOpsDays Indianapolis - Indianapolis, IN](https://jasong.us/3ZHarf7)  {% include snippets/twitter-account.html url="https://jasong.us/3ZL1KjN" account="@devopsdaysindy" %}
 
 #### November
+- 11/12-17: [Visual Studio Live! - Orlando, FL]()  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 11/15-16: [DeveloperWeek Enterprise - Virtual](https://jasong.us/3AdQwqb)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
