@@ -96,10 +96,21 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/31-6/2: [ATL2023 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3iSU52o" account="@RenderATL" %}
 
 #### June
-- 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)
+- 6/2: [Scenic City Summit - Chattanooga, TN](https://jasong.us/3wdlPBF)  {% include snippets/twitter-account.html url="https://jasong.us/3XyubzA" account="@ScenicSummit" %}
+- 6/4-6: [North American Technology Executive Summit - Scottsdale, AZ](https://jasong.us/3XJ8vka)  {% include snippets/twitter-account.html url="https://jasong.us/3ktm7BZ" account="@EP_NATES" %}
+- 6/5-8: [DrupalCon Pittsburgh - Pittsburgh, PA](https://jasong.us/3Hjs1i5)  {% include snippets/twitter-account.html url="https://jasong.us/3IWAIjl" account="@drupalcon" %}
+- 6/8: [Conf42: Observability 2023 - Virtual](https://jasong.us/3QYEo6f)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 6/8-9: [PlatformCon 2023 - Virtual](https://jasong.us/3XF8m1l)
+- 6/8-11: [State of the Map US - Richard, VA](https://jasong.us/3IYs9og)  {% include snippets/twitter-account.html url="https://jasong.us/3WnXRhG" account="@sotmus" %}
+- 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)  {% include snippets/twitter-account.html url="https://jasong.us/3tVWTxg" account="@kc_dc" %}
+- 6/28-29: [BCI Summit: Transforming Data and AI - New York, NY](https://jasong.us/3XluUnT)  {% include snippets/twitter-account.html url="https://jasong.us/3Wif7Vz" account="@bcisummit" %}
+- 6/29: [Conf42: Quantum Computing 2023 - Virtual](https://jasong.us/3WnZnAo)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 
 #### July
+- 7/13-16: [FOSSY - Portland, OR](https://jasong.us/3ZO1MY1)
+- 7/17-19: [Cpp North - Toronto, Canada](https://jasong.us/3IAcgBY)  {% include snippets/twitter-account.html url="https://jasong.us/3IAcgBY" account="@CppNorth" %}
 - 7/17-21: [Visual Studio Live! - Redmond, WA](https://jasong.us/3XeUWJz)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 7/20-21: [DataConnect Conference - Columbus, OH](https://jasong.us/3XoATZi)  {% include snippets/twitter-account.html url="https://jasong.us/3iLIfai" account="@dataconnectconf" %}
 
 #### August
 - 8/7-11: [Visual Studio Live! - San Diego, CA](https://jasong.us/3ZPBqF6)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
@@ -107,9 +118,27 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/9-10: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/3Xn1UMJ)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 8/16-17: [DeveloperWeek Cloud - Virtual](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
 
+#### September
+- 9/7: [Conf42: Rustlang 2023 - Virtual](https://jasong.us/3QPLidQ)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 9/28: [Conf42: Kube Native 2023 - Virtual](https://jasong.us/3Hg18v9)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+
 #### October
+- 10/2-4: [Industry The Product Conference - Cleveland, OH](https://jasong.us/3GRmuxC)  {% include snippets/twitter-account.html url="https://jasong.us/3CUU84v" account="@prodcollective" %}
 - 10/5-6: [DevOpsDays Indianapolis - Indianapolis, IN](https://jasong.us/3ZHarf7)  {% include snippets/twitter-account.html url="https://jasong.us/3ZL1KjN" account="@devopsdaysindy" %}
+- 10/12-13: [EuroRust - Virtual](https://jasong.us/3QUgx7W)  {% include snippets/twitter-account.html url="https://jasong.us/3HgmCIh" account="@euro_rust" %}
+- 10/15-17: [All Things Open - Raleigh, NC + Virtual](https://jasong.us/3XAaXK4)  {% include snippets/twitter-account.html url="https://jasong.us/3HdnFsB" account="@AllThingsOpen" %}
+- 10/17-18: [MagnoliaJS - Jackson, MS + Virtual](https://jasong.us/3IWHdmf)  {% include snippets/twitter-account.html url="https://jasong.us/3wdS0kv" account="@magnoliajsconf" %}
+- 10/19: [Conf42: Incident Management 2023 - Virtual](https://jasong.us/3XG9Vfl)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 10/20-22: [Big Boys Toys - Las Vegas, NV](https://jasong.us/3kqP1CD)  {% include snippets/twitter-account.html url="https://jasong.us/3Wn2wAD" account="@globalbbt" %}
 
 #### November
+- 11/1-3: [ODSC West - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
+- 11/6-9: [KubeCon + CloudNativeCon - Chicago, IL](https://jasong.us/3XoWbFY)
 - 11/12-17: [Visual Studio Live! - Orlando, FL]()  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 11/16: [Conf42: JavaScript 2023 - Virtual](https://jasong.us/3Woy8Wr)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 11/15-16: [DeveloperWeek Enterprise - Virtual](https://jasong.us/3AdQwqb)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
+- 11/30: [Conf42: DevSecOps 2023 - Virtual](https://jasong.us/3ZMl4gA)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+
+#### December
+- 12/7-8: [DevTernity - Virtual](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %}
+- 12/14: [Conf42: Internet of Things 2023 - Virtual](https://jasong.us/3XFaPc3)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
