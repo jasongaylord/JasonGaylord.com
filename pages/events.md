@@ -47,7 +47,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/9-10: [TechLead Conference - Virtual](https://jasong.us/3kp0Vgj)  {% include snippets/twitter-account.html url="https://jasong.us/3wwLAxf" account="@TechLeadJS" %}
 - 3/9-12: [SCALE 20x - Pasadena, CA](https://jasong.us/3Xdyxwd)  {% include snippets/twitter-account.html url="https://jasong.us/3GSTjdG" account="@socallinuxexpo" %}
 - 3/10: [DevOpsDays Los Angeles - Pasadena, CA](https://jasong.us/3iOZdEE)  {% include snippets/twitter-account.html url="https://jasong.us/3ZNy59s" account="@socaldevops" %}
-- 3/14-15: [DevOpsDays Salt Lake City - Salt Lake City, CA](https://jasong.us/3CTawm3)  {% include snippets/twitter-account.html url="https://jasong.us/3XFj481" account="@devopsdaysslc" %}
+- 3/14-15: [DevOpsDays Salt Lake City - Salt Lake City, UT](https://jasong.us/3CTawm3)  {% include snippets/twitter-account.html url="https://jasong.us/3XFj481" account="@devopsdaysslc" %}
 - 3/15: [Open Confidential Computing Conference 2023 - Virtual](https://jasong.us/3CZo0MV)  {% include snippets/twitter-account.html url="https://jasong.us/3iO6EMa" account="@EdgelessSystems" %}
 - 3/15-16: [axe-con 2023 - Virtual](https://jasong.us/2WJ02DX)  {% include snippets/twitter-account.html url="https://jasong.us/3XqsnsI" account="@dequesystems" %}
 - 3/16-19: [International Space Convention 2023 - Virtual](https://jasong.us/3WnDOjq)  {% include snippets/twitter-account.html url="https://jasong.us/3iJvRHP" account="@isconvention" %}
@@ -60,10 +60,20 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 3/31-4/1: [2023 Gateway Software Symposium - St Louis, MO](https://jasong.us/3J3Yj1E)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
 
 #### April
+- 4/4-6: [Devnexus 2023 - Atlanta, GA](https://jasong.us/3DhBJwe)  {% include snippets/twitter-account.html url="https://jasong.us/3a8jWv1" account="@devnexus" %}
+- 4/5-6: [Develop - Mountain View, CA](https://jasong.us/3XLXqPD)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}  
 - 4/6-7: [DevOpsDays Nashville - Nashville, TN](https://jasong.us/3ZLPHml)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
 - 4/12-13: [DevOpsDays Raleigh - Raleigh, NC](https://jasong.us/3Hi1NMA)  {% include snippets/twitter-account.html url="https://jasong.us/3kmScv7" account="@devopsdaysrdu" %}
+- 4/18-19: [NYSwifty - New York, NY](https://jasong.us/3IYx6xg)  {% include snippets/twitter-account.html url="https://jasong.us/3kqu1Mj" account="@nyswifty" %}
+- 4/19-21: [Inflectracon - Washington DC](https://jasong.us/3CuJcsU)  {% include snippets/twitter-account.html url="https://jasong.us/3IVd1Il" account="@inflectracon" %}
+- 4/19-27: [PyCon US 2023 - Salt Lake City, UT](https://jasong.us/3GKXZly)  {% include snippets/twitter-account.html url="https://jasong.us/3GZg6EO" account="@pycon" %}
+- 4/20: [Conf42: GoLang - Virtual](https://jasong.us/3QSWAy5)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 4/20-21: [DevOpsDays Birmingham - Birmingham, AL](https://jasong.us/3XoMibm)  {% include snippets/twitter-account.html url="https://jasong.us/3XoX8OP" account="@DevOpsDaysBham" %}
+- 4/20-21: [ReactMiami - Miami, FL](https://jasong.us/3QNCFAI)  {% include snippets/twitter-account.html url="https://jasong.us/3CVcmmb" account="@reactmiamiconf" %}
+- 4/22: [PHP fwdays'23 - Virtual](https://jasong.us/3iSZZ3p)  {% include snippets/twitter-account.html url="https://jasong.us/3XDZ0CU" account="@fwdays" %}
 - 4/23-25: [DevOpsDays Denver - Denver, CO](https://jasong.us/3ZODNIs)  {% include snippets/twitter-account.html url="https://jasong.us/3ovGPjW" account="@devopsdaysrox" %}
+- 4/26-28: [PyData Seattle 2023 - Seattle, WA](https://jasong.us/3XEArpt)  {% include snippets/twitter-account.html url="https://jasong.us/3ZNJx4Z" account="@PyData" %}
+- 4/30-5/2: [Deep Dish Swift - Chicago, IL](https://jasong.us/3kuucX6)  {% include snippets/twitter-account.html url="https://jasong.us/3ZPQCCn" account="@DeepDishSwift" %}
 
 #### May
 - 5/4-5: [DevOpsDays Austin - Austin, TX](https://jasong.us/3IY6DA0)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
