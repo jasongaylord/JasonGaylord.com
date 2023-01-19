@@ -76,10 +76,24 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 4/30-5/2: [Deep Dish Swift - Chicago, IL](https://jasong.us/3kuucX6)  {% include snippets/twitter-account.html url="https://jasong.us/3ZPQCCn" account="@DeepDishSwift" %}
 
 #### May
+- 5/2-4: [ConveyUX '23 - Virtual](https://jasong.us/3WpuueS)  {% include snippets/twitter-account.html url="https://jasong.us/3iL4rBp" account="@conveyux" %}
+- 5/4: [Conf42: Site Reliability Engineering 2023 - Virtual](https://jasong.us/3Hg7o6c)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 5/4: [The New York Product Conference - New York, NY](https://jasong.us/3XLz48B)
 - 5/4-5: [DevOpsDays Austin - Austin, TX](https://jasong.us/3IY6DA0)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
 - 5/9-10: [DeveloperWeek Management - Virtual](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
+- 5/9-11: [Remix Conf 2023 - Salt Lake City, UT](https://jasong.us/3QUHmZp)  {% include snippets/twitter-account.html url="https://jasong.us/367IHZB" account="@remix_run" %}
+- 5/9-11: [ODSC East - Boston, MA](https://jasong.us/3qTlJL5)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
+- 5/9-12: [Women in Tech - New York, NY + Virtual](https://jasong.us/3WpCooy)  {% include snippets/twitter-account.html url="https://jasong.us/3kuSNuZ" account="@womentechnet" %}
 - 5/15-19: [Visual Studio Live! - Nashville, TN](https://jasong.us/3ZPK46L)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 5/17-18: [KubeHuddle 2023 - Toronto, Canada](https://jasong.us/3XkPNQ8)  {% include snippets/twitter-account.html url="https://jasong.us/3CYnU8t" account="@kubehuddle" %}
+- 5/18: [Conf42: Machine Learning 2023 - Virtual](https://jasong.us/3kuoy7h)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+- 5/18: [Industry The Product Conference - Virtual](https://jasong.us/3GVFmvD)
+- 5/22-24: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3kusu89" account="@AgileTDZone" %}
 - 5/23-24: [DevOpsDays Baltimore - Baltimore, MD](https://jasong.us/3koxV8u)  {% include snippets/twitter-account.html url="https://jasong.us/3iW8URz" account="@devopsdaysbmore" %}
+- 5/23-26: [SmashingConf SF - San Francisco, CA](https://jasong.us/3wf0RCt)
+- 5/24-26: [VueConf US - New Orleans, LA](https://jasong.us/3MIkXMl)  {% include snippets/twitter-account.html url="https://jasong.us/3QNNGly" account="@vueconf.us" %}
+- 5/30: [QA or the Highway - Columbus, OH](https://jasong.us/3WvKvAk)  {% include snippets/twitter-account.html url="https://jasong.us/3ZNUfsd" account="@qaorthehighway" %}
+- 5/31-6/2: [ATL2023 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3iSU52o" account="@RenderATL" %}
 
 #### June
 - 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)
