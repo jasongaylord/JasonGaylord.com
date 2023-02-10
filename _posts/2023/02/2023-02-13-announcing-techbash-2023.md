@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1240
 image: https://cdn.jasongaylord.com/images/2023/02/13/techbash2023.jpg
-bitly: https://bit.ly/3HRbDEy
+bitly: https://jasong.us/3jN0w7o
 ---
 
 I'm happy to announce that TechBash is coming back to the Kalahari Resort and Convention Center in Pocono Manor, PA this November! TechBash 2023 will return to the Poconos Tuesday, November 7, 2023 through Friday, November 10, 2023.
