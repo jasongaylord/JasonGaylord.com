@@ -13,25 +13,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### January
-- 1/24-26: [SpringOne Essentials - Virtual](https://jasong.us/3kjZTPu)  {% include snippets/twitter-account.html url="https://jasong.us/3rXZt5E" account="@springone" %}
-- 1/25: [Data Teams Summit - Virtual](https://jasong.us/3WoqATA)  {% include snippets/twitter-account.html url="https://jasong.us/3kdU6Ov" account="@ilovedataops" %}
-- 1/25-26: [Global Summit for Node.js - Virtual](https://jasong.us/3CYKM7E)  {% include snippets/twitter-account.html url="https://jasong.us/3ks7DSE" account="@node_fellows" %}
-- 1/25-27: [Quantum Miami - Miami, FL](https://jasong.us/3ZMBNjT)  {% include snippets/twitter-account.html url="https://jasong.us/3iTCnM3" account="@quantum_miami" %}
-- 1/26: [Conf42 DevOps - Virtual](https://jasong.us/3GQYcDQ)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 1/27-28: [CactusCon - Mesa, AZ](https://jasong.us/3J03CPC)  {% include snippets/twitter-account.html url="https://jasong.us/3CWKHla" account="@CactusCon" %}
-- 1/30: [SPIE AR|VR|MR - San Francisco, CA](https://jasong.us/3iQpMJv)  {% include snippets/twitter-account.html url="https://jasong.us/3ZQ5CQo" account="@spietweets" %}
-- 1/31-2/2: [Talent Acquisition Week - Coronado, CA](https://jasong.us/3iR628I)  {% include snippets/twitter-account.html url="https://jasong.us/3iUWLwb" account="@Talent_Week" %}
-- 1/31-2/3: [SpringOne Essentials - Virtual](https://jasong.us/3kjZTPu)  {% include snippets/twitter-account.html url="https://jasong.us/3rXZt5E" account="@springone" %}
-
 #### February
-- 2/1: [WeAreDevelopers Vue.js Day - Virtual](https://jasong.us/3D0c2Tl)  {% include snippets/twitter-account.html url="https://jasong.us/3GQS5PT" account="@WeAreDevs" %}
-- 2/1-2: [CloudNativeSecurityCon - Seattle, WA](https://jasong.us/3IVLV3E)
-- 2/1-3: [Zero TrustWorld 23 - ChampionsGate, FL](https://jasong.us/3Heqiuj)  {% include snippets/twitter-account.html url="https://jasong.us/3HiPjEP" account="@ThreatLocker" %}
-- 2/3: [HalfStack - Phoenix, AZ](https://jasong.us/3CYM42u)  {% include snippets/twitter-account.html url="https://jasong.us/3Xz733K" account="@halfstackconf" %}
-- 2/7-8: [Civo Navigate - Tampa Bay, FL](https://jasong.us/3iRvOJN)  {% include snippets/twitter-account.html url="https://jasong.us/3Wl2TeT" account="@CivoCloud" %}
-- 2/7-8: [Flutter Global Summit'23 - Virtual](https://jasong.us/3HfeyI7)  {% include snippets/twitter-account.html url="https://jasong.us/3Wmy49A" account="@FlutterSummit" %}
-- 2/8-10: [Check Point CPX 360 2023 - Virtual](https://jasong.us/3XiGDDW)
 - 2/14-15: [Angular Global Summit'23 - Virtual](https://jasong.us/3QLnUON)  {% include snippets/twitter-account.html url="https://jasong.us/3GoHIR2" account="@GeekleOfficial" %}
 - 2/14-17: [The Blockchain Event - Fort Lauderdale, FL](https://jasong.us/3WhNlbW)  {% include snippets/twitter-account.html url="https://jasong.us/3wkEawA" account="@BlockchainEvent" %}
 - 2/14-18: [IoT Evolution Expo - Fort Lauderdale, FL](https://jasong.us/3XpP4gy)  {% include snippets/twitter-account.html url="https://jasong.us/3GWlWGC" account="@IoTEvolution" %}
@@ -154,6 +136,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 8/8: [DevOpsDays Global Organizer Summit - Chicago, IL](https://jasong.us/3HfVGIM)  {% include snippets/twitter-account.html url="https://jasong.us/3iQVTss" account="@devopsdays" %}
 - 8/9-10: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/3Xn1UMJ)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 8/16-17: [DeveloperWeek Cloud - Virtual](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
+- 8/29-31: [Google Cloud Next - San Francisco, CA](https://jasong.us/3imABQt)
 
 #### September
 - 9/7: [Conf42: Rustlang 2023 - Virtual](https://jasong.us/3QPLidQ)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
