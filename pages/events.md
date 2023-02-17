@@ -14,11 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### February
-- 2/14-17: [The Blockchain Event - Fort Lauderdale, FL](https://jasong.us/3WhNlbW)  {% include snippets/twitter-account.html url="https://jasong.us/3wkEawA" account="@BlockchainEvent" %}
 - 2/14-18: [IoT Evolution Expo - Fort Lauderdale, FL](https://jasong.us/3XpP4gy)  {% include snippets/twitter-account.html url="https://jasong.us/3GWlWGC" account="@IoTEvolution" %}
-- 2/15-17: [DeveloperWeek - San Francisco, CA](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
-- 2/15-17: [ProductWorld - San Francisco, CA](https://jasong.us/3XhQOII)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
-- 2/16-17: [HashiTalks 2023 - Virtual](https://jasong.us/3XvqzhM)
 - 2/21-22: [Java Devs Online Summit - Virtual](https://jasong.us/3CYwW5j)  {% include snippets/twitter-account.html url="https://jasong.us/3GoHIR2" account="@GeekleOfficial" %}
 - 2/21-23: [DeveloperWeek - Virtual](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
 - 2/21-23: [ProductWorld - Virtual](https://jasong.us/3XhQOII)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
