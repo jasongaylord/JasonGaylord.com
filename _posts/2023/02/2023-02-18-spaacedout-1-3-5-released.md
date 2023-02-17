@@ -12,6 +12,7 @@ bitly: https://bit.ly/3XDmdVy
 In May 2020, I [had announced](https://jasong.us/3fBMNtn) a new Jekyll theme called [SpaacedOut](https://jasong.us/2ywUm3C). Since that time, I've made a couple of updates for [a 1.1.x version](https://jasong.us/3ehYK5i), [a 1.2.x version](https://jasong.us/3bgqQyZ), and [major version 1.3.x](https://jasong.us/3IkiPbc). Yesterday, I released another minor change for the 1.3.x version. This change included:
 
 - Support for `mastodon` as a social icon
+- Update to FontAwesome v6.x icons
 
 [![Gem Version](https://badge.fury.io/rb/spaacedout.svg)](https://jasong.us/3bp45GJ)
 
