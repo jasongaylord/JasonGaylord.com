@@ -6,7 +6,7 @@ categories: [css,dev,jekyll,web]
 tags:  [css,dev,jekyll,web]
 post-number: 1241
 image: https://cdn.jasongaylord.com/images/2020/05/12/SpaacedOut-Theme.jpg
-bitly: https://bit.ly/3XDmdVy
+bitly: https://jasong.us/417J0vq 
 ---
 
 In May 2020, I [had announced](https://jasong.us/3fBMNtn) a new Jekyll theme called [SpaacedOut](https://jasong.us/2ywUm3C). Since that time, I've made a couple of updates for [a 1.1.x version](https://jasong.us/3ehYK5i), [a 1.2.x version](https://jasong.us/3bgqQyZ), and [major version 1.3.x](https://jasong.us/3IkiPbc). Yesterday, I released another minor change for the 1.3.x version. This change included:
