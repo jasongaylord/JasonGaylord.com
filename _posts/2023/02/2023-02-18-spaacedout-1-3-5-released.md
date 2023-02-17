@@ -1,5 +1,5 @@
 ---
-title: Announcing SpaacedOut Gem Jekyll Theme v1.3.4
+title: Announcing SpaacedOut Gem Jekyll Theme v1.3.5
 author: Jason Gaylord
 date: 2023-02-18
 categories: [css,dev,jekyll,web]
