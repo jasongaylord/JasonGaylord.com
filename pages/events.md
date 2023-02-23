@@ -14,10 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### February
-- 2/21-22: [Java Devs Online Summit - Virtual](https://jasong.us/3CYwW5j)  {% include snippets/twitter-account.html url="https://jasong.us/3GoHIR2" account="@GeekleOfficial" %}
-- 2/21-23: [DeveloperWeek - Virtual](https://jasong.us/2Yhduze)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
-- 2/21-23: [ProductWorld - Virtual](https://jasong.us/3XhQOII)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
-- 2/22-24: [Confoo - Montreal, Canada](https://jasong.us/3GO6tIH)  {% include snippets/twitter-account.html url="https://jasong.us/3oDVVEC" account="@confooca" %}
 - 2/22-25: [MGS 23 - Las Vegas, NV](https://jasong.us/3iS9U9s)  {% include snippets/twitter-account.html url="https://jasong.us/3Xk39My" account="@MobileGrowthMGA" %}
 - 2/23-3/1: [Pink23 IT Service Management Conference - Las Vegas, NV](https://jasong.us/3IVuS1K)
 - 2/28: [LevelUp Productivity Conference - Virtual](https://jasong.us/3iNBdBO)  {% include snippets/twitter-account.html url="https://jasong.us/3WotqYK" account="@clickup" %}
