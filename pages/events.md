@@ -13,14 +13,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### February
-- 2/22-25: [MGS 23 - Las Vegas, NV](https://jasong.us/3iS9U9s)  {% include snippets/twitter-account.html url="https://jasong.us/3Xk39My" account="@MobileGrowthMGA" %}
-- 2/23-3/1: [Pink23 IT Service Management Conference - Las Vegas, NV](https://jasong.us/3IVuS1K)
-- 2/28: [LevelUp Productivity Conference - Virtual](https://jasong.us/3iNBdBO)  {% include snippets/twitter-account.html url="https://jasong.us/3WotqYK" account="@clickup" %}
-
 #### March
-- 3/2: [SnowFROC 2023 - Denver, CO](https://jasong.us/3ZRAMqD)
-- 3/8: [WeAreDevelopers Women in Tech Day - Virtual](https://jasong.us/3HcQPbq)  {% include snippets/twitter-account.html url="https://jasong.us/3GQS5PT" account="@WeAreDevs" %}
 - 3/9: [Conf42 Python - Virtual](https://jasong.us/3IYcUvz)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 3/9-10: [Agile International Conference 2023 - Miami, FL](https://jasong.us/3CWx6Ks)  {% include snippets/twitter-account.html url="https://jasong.us/3HgTm49" account="@Agile_TE" %}
 - 3/9-10: [TechLead Conference - Virtual](https://jasong.us/3kp0Vgj)  {% include snippets/twitter-account.html url="https://jasong.us/3wwLAxf" account="@TechLeadJS" %}
