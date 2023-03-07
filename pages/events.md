@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### March
-- 3/9: [Conf42 Python - Virtual](https://jasong.us/3IYcUvz)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 3/9-10: [Agile International Conference 2023 - Miami, FL](https://jasong.us/3CWx6Ks)  {% include snippets/twitter-account.html url="https://jasong.us/3HgTm49" account="@Agile_TE" %}
 - 3/9-10: [TechLead Conference - Virtual](https://jasong.us/3kp0Vgj)  {% include snippets/twitter-account.html url="https://jasong.us/3wwLAxf" account="@TechLeadJS" %}
 - 3/9-12: [SCALE 20x - Pasadena, CA](https://jasong.us/3Xdyxwd)  {% include snippets/twitter-account.html url="https://jasong.us/3GSTjdG" account="@socallinuxexpo" %}
