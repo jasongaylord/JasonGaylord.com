@@ -133,6 +133,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### November
 - 11/1-3: [ODSC West - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
 - 11/6-9: [KubeCon + CloudNativeCon - Chicago, IL](https://jasong.us/3XoWbFY)
+- 11/7/10: [TechBash 2023 - Pocono Manor, PA](http://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@techbash" %}
 - 11/12-17: [Visual Studio Live! - Orlando, FL]()  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 11/16: [Conf42: JavaScript 2023 - Virtual](https://jasong.us/3Woy8Wr)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 11/15-16: [DeveloperWeek Enterprise - Virtual](https://jasong.us/3AdQwqb)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
