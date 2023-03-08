@@ -141,3 +141,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### December
 - 12/7-8: [DevTernity - Virtual](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %}
 - 12/14: [Conf42: Internet of Things 2023 - Virtual](https://jasong.us/3XFaPc3)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+
+## 2023
+
+#### January
+- 1/9-12: [CodeMash - Sandusky, OH](https://jasong.us/codemash)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
