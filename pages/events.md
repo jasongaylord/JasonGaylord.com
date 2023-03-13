@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### March
-- 3/9-12: [SCALE 20x - Pasadena, CA](https://jasong.us/3Xdyxwd)  {% include snippets/twitter-account.html url="https://jasong.us/3GSTjdG" account="@socallinuxexpo" %}
 - 3/14-15: [DevOpsDays Salt Lake City - Salt Lake City, UT](https://jasong.us/3CTawm3)  {% include snippets/twitter-account.html url="https://jasong.us/3XFj481" account="@devopsdaysslc" %}
 - 3/15: [Open Confidential Computing Conference 2023 - Virtual](https://jasong.us/3CZo0MV)  {% include snippets/twitter-account.html url="https://jasong.us/3iO6EMa" account="@EdgelessSystems" %}
 - 3/15-16: [axe-con 2023 - Virtual](https://jasong.us/2WJ02DX)  {% include snippets/twitter-account.html url="https://jasong.us/3XqsnsI" account="@dequesystems" %}
@@ -142,3 +141,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### December
 - 12/7-8: [DevTernity - Virtual](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %}
 - 12/14: [Conf42: Internet of Things 2023 - Virtual](https://jasong.us/3XFaPc3)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
+
+## 2023
+
+#### January
+- 1/9-12: [CodeMash - Sandusky, OH](https://jasong.us/codemash)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
