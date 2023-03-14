@@ -56,6 +56,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/4: [Conf42: Site Reliability Engineering 2023 - Virtual](https://jasong.us/3Hg7o6c)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 5/4: [The New York Product Conference - New York, NY](https://jasong.us/3XLz48B)
 - 5/4-5: [DevOpsDays Austin - Austin, TX](https://jasong.us/3IY6DA0)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
+- 5/5: [Stir Trek - Columbus, OH](https://stirtrek.com)  {% include snippets/twitter-account.html url="https://stirtrek.com" account="@stirtrek" %}
 - 5/7-10: [World Conference on Quality & Improvement - Philadelphia, PA](https://jasong.us/3D1H2T7)  {% include snippets/twitter-account.html url="https://jasong.us/3kiQrPu" account="@asq" %}
 - 5/7-12: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)
 - 5/9-10: [DeveloperWeek Management - Virtual](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
@@ -106,6 +107,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 7/17-21: [Visual Studio Live! - Redmond, WA](https://jasong.us/3XeUWJz)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
 - 7/18-21: [ÜberConf - Denver, CO](https://jasong.us/3pQkhe8)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
 - 7/20-21: [DataConnect Conference - Columbus, OH](https://jasong.us/3XoATZi)  {% include snippets/twitter-account.html url="https://jasong.us/3iLIfai" account="@dataconnectconf" %}
+- 7/24-27: [THAT Conference - Wisconsin Dells, WI](https://thatconference.com)
 - 7/24-28: [Agile2023 - Orlando, FL](https://jasong.us/3XJCVmA)  {% include snippets/twitter-account.html url="https://jasong.us/3WmqonV" account="@AgileAlliance" %}
 
 #### August
@@ -148,7 +150,8 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 12/7-8: [DevTernity - Virtual](https://jasong.us/3Ey3qC9)  {% include snippets/twitter-account.html url="https://jasong.us/3lELI8P" account="@devternity" %}
 - 12/14: [Conf42: Internet of Things 2023 - Virtual](https://jasong.us/3XFaPc3)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 
-## 2023
+## 2024
 
 #### January
 - 1/9-12: [CodeMash - Sandusky, OH](https://jasong.us/codemash)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
+- 1/29-2/1: [THAT Conference - Round Rock, TX](https://thatconference.com)
