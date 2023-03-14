@@ -75,6 +75,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/18: [Conf42: Machine Learning 2023 - Virtual](https://jasong.us/3kuoy7h)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 5/18: [Industry The Product Conference - Virtual](https://jasong.us/3GVFmvD)
 - 5/22-24: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3kusu89" account="@AgileTDZone" %}
+- 5/22-25: [Microsoft Build - Seattle, WA](https://jasong.us/3JBUCPF)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
 - 5/23-24: [DevOpsDays Baltimore - Baltimore, MD](https://jasong.us/3koxV8u)  {% include snippets/twitter-account.html url="https://jasong.us/3iW8URz" account="@devopsdaysbmore" %}
 - 5/23-26: [SmashingConf SF - San Francisco, CA](https://jasong.us/3wf0RCt)
 - 5/24-26: [VueConf US - New Orleans, LA](https://jasong.us/3MIkXMl)  {% include snippets/twitter-account.html url="https://jasong.us/3QNNGly" account="@vueconf.us" %}
