@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### March
-- 3/15-16: [axe-con 2023 - Virtual](https://jasong.us/2WJ02DX)  {% include snippets/twitter-account.html url="https://jasong.us/3XqsnsI" account="@dequesystems" %}
-- 3/16: [StaffPlus New York - New York, NY](https://jasong.us/3tH4P5f)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 3/16-17: [SERVUS Conference 2023 - Sumner, WA](https://jasong.us/3kxh2bW)  {% include snippets/twitter-account.html url="https://jasong.us/3H06qtI" account="@ServusCon" %}
 - 3/16-19: [International Space Convention 2023 - Virtual](https://jasong.us/3WnDOjq)  {% include snippets/twitter-account.html url="https://jasong.us/3iJvRHP" account="@isconvention" %}
 - 3/18: [DevOps fwdays'23 - Virtual](https://jasong.us/3ZOWFXw)  {% include snippets/twitter-account.html url="https://jasong.us/3XDZ0CU" account="@fwdays" %}
