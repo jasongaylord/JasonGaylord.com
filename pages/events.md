@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### March
-- 3/14-15: [DevOpsDays Salt Lake City - Salt Lake City, UT](https://jasong.us/3CTawm3)  {% include snippets/twitter-account.html url="https://jasong.us/3XFj481" account="@devopsdaysslc" %}
-- 3/15: [Open Confidential Computing Conference 2023 - Virtual](https://jasong.us/3CZo0MV)  {% include snippets/twitter-account.html url="https://jasong.us/3iO6EMa" account="@EdgelessSystems" %}
 - 3/15-16: [axe-con 2023 - Virtual](https://jasong.us/2WJ02DX)  {% include snippets/twitter-account.html url="https://jasong.us/3XqsnsI" account="@dequesystems" %}
 - 3/16: [StaffPlus New York - New York, NY](https://jasong.us/3tH4P5f)  {% include snippets/twitter-account.html url="https://jasong.us/3tF0UpA" account="@theleaddev" %}
 - 3/16-17: [SERVUS Conference 2023 - Sumner, WA](https://jasong.us/3kxh2bW)  {% include snippets/twitter-account.html url="https://jasong.us/3H06qtI" account="@ServusCon" %}
@@ -58,7 +56,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 5/4: [Conf42: Site Reliability Engineering 2023 - Virtual](https://jasong.us/3Hg7o6c)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 5/4: [The New York Product Conference - New York, NY](https://jasong.us/3XLz48B)
 - 5/4-5: [DevOpsDays Austin - Austin, TX](https://jasong.us/3IY6DA0)  {% include snippets/twitter-account.html url="https://jasong.us/3pyJTve" account="@DoDAustin" %}
-- 5/5: [Stir Trek - Columbus, OH](https://stirtrek.com)  {% include snippets/twitter-account.html url="https://stirtrek.com" account="@stirtrek" %}
+- 5/5: [Stir Trek - Columbus, OH](https://jasong.us/3FkjzxG)  {% include snippets/twitter-account.html url="https://jasong.us/3JCISNW" account="@stirtrek" %}
 - 5/7-10: [World Conference on Quality & Improvement - Philadelphia, PA](https://jasong.us/3D1H2T7)  {% include snippets/twitter-account.html url="https://jasong.us/3kiQrPu" account="@asq" %}
 - 5/7-12: [C++ Now - Aspen, CO](https://jasong.us/2Ym7ghn)
 - 5/9-10: [DeveloperWeek Management - Virtual](https://jasong.us/3mrlw0T)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
@@ -156,4 +154,4 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### January
 - 1/9-12: [CodeMash - Sandusky, OH](https://jasong.us/codemash)  {% include snippets/twitter-account.html url="https://jasong.us/3FjlZeb" account="@codemash" %}
-- 1/29-2/1: [THAT Conference - Round Rock, TX](https://thatconference.com)
+- 1/29-2/1: [THAT Conference - Round Rock, TX](https://jasong.us/3FpHwnc)
