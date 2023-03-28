@@ -14,14 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### March
-- 3/16-17: [SERVUS Conference 2023 - Sumner, WA](https://jasong.us/3kxh2bW)  {% include snippets/twitter-account.html url="https://jasong.us/3H06qtI" account="@ServusCon" %}
-- 3/16-19: [International Space Convention 2023 - Virtual](https://jasong.us/3WnDOjq)  {% include snippets/twitter-account.html url="https://jasong.us/3iJvRHP" account="@isconvention" %}
-- 3/18: [DevOps fwdays'23 - Virtual](https://jasong.us/3ZOWFXw)  {% include snippets/twitter-account.html url="https://jasong.us/3XDZ0CU" account="@fwdays" %}
-- 3/19-24: [Visual Studio Live! - Las Vegas, NV](https://jasong.us/3XoPmUU)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 3/20-24: [Game Developers Conference - San Francisco, CA](https://jasong.us/3xZK5r8)  {% include snippets/twitter-account.html url="https://jasong.us/3oqxHNK" account="@Official_GDC" %}
-- 3/21-23: [SRE CON Americas - Santa Clara, CA](https://jasong.us/3J0gjde)  {% include snippets/twitter-account.html url="https://jasong.us/3CZXSBU" account="@srecon" %}
-- 3/22-23: [The DevOps Conference - Virtual](https://jasong.us/3ku1KnX)  {% include snippets/twitter-account.html url="https://jasong.us/3XoQb01" account="@eficode" %}
-- 3/23-26: [PAX East - Boston, MA](https://jasong.us/3Xz82Bc)  {% include snippets/twitter-account.html url="https://jasong.us/3QULwRi" account="@pax" %}
 - 3/28: [Azure Cosmos DB Conf 2023 - Virtual](https://jasong.us/3CY5Z1H)  {% include snippets/twitter-account.html url="https://jasong.us/3ZO7KbG" account="@AzureCosmosDB" %}
 - 3/30: [Conf42: Cloud Native 2023 - Virtual](https://jasong.us/3D0VwCG)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 3/30: [MLCONF - New York, NY](https://jasong.us/3WpmZ7I)  {% include snippets/twitter-account.html url="https://jasong.us/3iO9osW" account="@MLconf" %}
