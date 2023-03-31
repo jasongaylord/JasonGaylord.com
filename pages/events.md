@@ -13,12 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### March
-- 3/28: [Azure Cosmos DB Conf 2023 - Virtual](https://jasong.us/3CY5Z1H)  {% include snippets/twitter-account.html url="https://jasong.us/3ZO7KbG" account="@AzureCosmosDB" %}
-- 3/30: [Conf42: Cloud Native 2023 - Virtual](https://jasong.us/3D0VwCG)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 3/30: [MLCONF - New York, NY](https://jasong.us/3WpmZ7I)  {% include snippets/twitter-account.html url="https://jasong.us/3iO9osW" account="@MLconf" %}
-- 3/31-4/1: [2023 Gateway Software Symposium - St Louis, MO](https://jasong.us/3J3Yj1E)  {% include snippets/twitter-account.html url="https://jasong.us/3oyQRkU" account="@nofluff" %}
-
 #### April
 - 4/4-6: [Devnexus 2023 - Atlanta, GA](https://jasong.us/3DhBJwe)  {% include snippets/twitter-account.html url="https://jasong.us/3a8jWv1" account="@devnexus" %}
 - 4/5-6: [Develop - Mountain View, CA](https://jasong.us/3XLXqPD)  {% include snippets/twitter-account.html url="https://jasong.us/3lj47bz" account="@CiscoDevNet" %}  
