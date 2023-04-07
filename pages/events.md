@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### April
-- 4/6-7: [DevOpsDays Nashville - Nashville, TN](https://jasong.us/3ZLPHml)  {% include snippets/twitter-account.html url="https://jasong.us/3Agwvz0" account="@nashvilledevops" %}
 - 4/12-13: [DevOpsDays Raleigh - Raleigh, NC](https://jasong.us/3Hi1NMA)  {% include snippets/twitter-account.html url="https://jasong.us/3kmScv7" account="@devopsdaysrdu" %}
 - 4/18-19: [NYSwifty - New York, NY](https://jasong.us/3IYx6xg)  {% include snippets/twitter-account.html url="https://jasong.us/3kqu1Mj" account="@nyswifty" %}
 - 4/19-21: [Inflectracon - Washington DC](https://jasong.us/3CuJcsU)  {% include snippets/twitter-account.html url="https://jasong.us/3IVd1Il" account="@inflectracon" %}
