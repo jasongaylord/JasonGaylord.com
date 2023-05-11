@@ -19,7 +19,7 @@ The quick start available on the [Statiq website](https://jasong.us/3VTUIYj) is 
 1. A `readme.md` file that may or may contain some markdown
 2. More importantly, the `VisualStudio.gitignore` file from the `github/gitignore` repository by clicking below...
 
-{% include github-browse.html bitly="https://jasong.us/2xlcFrZ" repo="github/gitignore" branch="main" %}
+{% include github-browse.html bitly="jasong.us/2xlcFrZ" repo="github/gitignore" branch="main" %}
 
 Next, make sure that you have .NET Core 3.1, .NET 6, or later installed on your device. From there we'll setup a new .NET console application by opening up a command-line and using the `dotnet` CLI like so:
 
