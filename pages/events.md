@@ -15,12 +15,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### May
 - 5/15-19: [Visual Studio Live! - Nashville, TN](https://jasong.us/3ZPK46L)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 5/16-18: [UXDX USA 2023 - New York, NY + Virtual](https://jasong.us/3WpJnOy)  {% include snippets/twitter-account.html url="https://jasong.us/3XFXKPN" account="@uxdxconf" %}
-- 5/17-18: [KubeHuddle 2023 - Toronto, Canada](https://jasong.us/3XkPNQ8)  {% include snippets/twitter-account.html url="https://jasong.us/3CYnU8t" account="@kubehuddle" %}
-- 5/17-18: [AI & Big Data Expo - Santa Clara, CA](https://jasong.us/3Kp0oCQ)  {% include snippets/twitter-account.html url="https://jasong.us/3Cqe8dK" account="@ai_expo" %}
 - 5/17-19: [Chain React - Portland, OR](https://jasong.us/3XpjmAc)  {% include snippets/twitter-account.html url="https://jasong.us/3ZHF04h" account="@ChainReactConf" %}
-- 5/18: [Conf42: Machine Learning 2023 - Virtual](https://jasong.us/3kuoy7h)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 5/18: [Industry The Product Conference - Virtual](https://jasong.us/3GVFmvD)
 - 5/22-24: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3kusu89" account="@AgileTDZone" %}
 - 5/22-25: [Microsoft Build - Seattle, WA](https://jasong.us/3JBUCPF)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
 - 5/23-24: [DevOpsDays Baltimore - Baltimore, MD](https://jasong.us/3koxV8u)  {% include snippets/twitter-account.html url="https://jasong.us/3iW8URz" account="@devopsdaysbmore" %}
