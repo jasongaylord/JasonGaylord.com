@@ -2,8 +2,8 @@
 title: Using Statiq, a .NET Static Content Generator
 author: Jason Gaylord
 date: 2023-05-11
-categories: [dev,web]
-tags: [dev,web]
+categories: [dev,statiq,web]
+tags: [dev,statiq,web]
 post-number: 1250
 image: https://cdn.jasongaylord.com/images/2023/05/11/statiq-web.jpg
 bitly: https://jasong.us/3VZBsJe
