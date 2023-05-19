@@ -14,8 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### May
-- 5/15-19: [Visual Studio Live! - Nashville, TN](https://jasong.us/3ZPK46L)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 5/17-19: [Chain React - Portland, OR](https://jasong.us/3XpjmAc)  {% include snippets/twitter-account.html url="https://jasong.us/3ZHF04h" account="@ChainReactConf" %}
 - 5/22-24: [Agile Testing Days USA - Chicago, IL](https://jasong.us/3Dh3NAe)  {% include snippets/twitter-account.html url="https://jasong.us/3kusu89" account="@AgileTDZone" %}
 - 5/22-25: [Microsoft Build - Seattle, WA](https://jasong.us/3JBUCPF)  {% include snippets/twitter-account.html url="https://jasong.us/3uD2cmD" account="@msdev" %}
 - 5/23-24: [DevOpsDays Baltimore - Baltimore, MD](https://jasong.us/3koxV8u)  {% include snippets/twitter-account.html url="https://jasong.us/3iW8URz" account="@devopsdaysbmore" %}
