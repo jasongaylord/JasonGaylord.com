@@ -19,4 +19,4 @@ Want to send your dev team? Reach out to TechBash to ask about discounts for gro
 
 In addition, get your room at the Kalahari starting at just $179 a night for each night you choose to stay between Monday, November 6th and Friday, November 10th. [Click here for complete details](https://jasong.us/hotelreg).
 
-{% include link-thumbnail.html path="2023/02/13/techbash2023.jpg" alt="TechBash 2023" url="http://jasong.us/tb" %}https://jasong.us/hotelreg
+{% include link-thumbnail.html path="2023/02/13/techbash2023.jpg" alt="TechBash 2023" url="http://jasong.us/tb" %}
