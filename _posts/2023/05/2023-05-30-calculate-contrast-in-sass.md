@@ -64,4 +64,82 @@ In the above, `contrast-ratio` is not a valid CSS property and will be ignored. 
 
 {% include open-thumbnail.html path="2023/05/30/contrast-calculated.jpg" alt="Calculating Color Contrast in Dart SASS" %}
 
+But, this doesn't really show the power of what we're trying to do. Really, we want to be able to calculate a WCAG safe color when we have a background (or foreground) color. So, I whipped up a couple of quick helper functions to do just that:
+
+```scss
+@function find-safe-color($color, $ratio: 4.5) {
+    $lightness: lightness($color);
+    $value: $color;
+    $contrast: 0.0;
+
+    @if $lightness < 50 {
+        $value: lighten($value, 5%);
+        $contrast: calculate-contrast($color,$value);
+
+        @while $contrast < $ratio {
+            $value: lighten($value, 5%);
+            $contrast: calculate-contrast($color,$value);
+        }
+    } @else {
+        $value: darken($value, 5%);
+        $contrast: calculate-contrast($color,$value);
+
+        @while $contrast < $ratio {
+            $value: darken($value, 5%);
+            $contrast: calculate-contrast($color,$value);
+        }
+    }
+
+    @return ($value, $contrast);
+}
+
+@function wcag-safe-colors($base-color) {
+    $colors: ();
+
+    $wcag30: find-safe-color($base-color, 3.0);
+    $wcag45: find-safe-color($base-color);
+    $wcag70: find-safe-color($base-color, 7.0);
+
+    // Generate shades
+    $colors: map-merge($colors, (
+        'base-color': $base-color,
+        'wcag20-aa-normal-color': nth($wcag45, 1),
+        'wcag20-aa-normal-ratio': nth($wcag45, 2),
+        'wcag20-aa-large-color': nth($wcag30, 1),
+        'wcag20-aa-large-ratio': nth($wcag30, 2),
+        'wcag21-aa-input-color': nth($wcag30, 1),
+        'wcag21-aa-input-ratio': nth($wcag30, 1),
+        'wcag21-aaa-normal-color': nth($wcag70, 1),
+        'wcag21-aaa-normal-ratio': nth($wcag70, 2),
+        'wcag21-aaa-large-color': nth($wcag45, 1),
+        'wcag21-aaa-large-ratio': nth($wcag45, 2)
+    ));
+
+    @return $colors;
+}
+```
+
+The first function, `find-safe-color`, will find a color that meets the appropriate contrast ratio. If the `lightness` value is less than 50%, meaning it's a dark color, we'll step and lighten by 5% until we find the color we're looking for. Conversely, we'll darken the color by 5% if it's a light color. The return value includes not only the color, but the calculated contrast value.
+
+The second function, `wcag-safe-colors`, builds an array map of values. This will allow you to use the value you need for your use case. WCAG 2.0 states that if you use large text, which is defined as 18pt text or 14pt bold text, a ratio of 3:1 is all that's needed. Smaller text requires a ratio of 4.5:1. For WCAG 2.1, input box borders should have a ratio of 3:1, large text at 4.5:1, and normal text at 7:1. 
+
+Using these functions like so:
+
+```scss
+$base-color: #5fb0e5;
+$colors: wcag-safe-colors($base-color);
+
+.wcag-safe-base-colors {
+    background-color: $color2;
+    color: map-get($colors, 'wcag21-aaa-normal-color');
+    font-size: 12pt;
+}
+```
+
+I can now generate "WCAG safe" CSS that looks like this:
+
+```css
+.wcag-safe-base-colors{background-color:#5fb0e5;color:#061925;font-size:12pt}
+```
+
 I'll show further examples of how I plan on using this in a future post.
