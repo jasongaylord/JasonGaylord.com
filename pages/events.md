@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### May
-- 5/30: [QA or the Highway - Columbus, OH](https://jasong.us/3WvKvAk)  {% include snippets/twitter-account.html url="https://jasong.us/3ZNUfsd" account="@qaorthehighway" %}
 - 5/31-6/2: [ATL2023 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3iSU52o" account="@RenderATL" %}
 - 5/31-6/2: [AWE USA 2023 - Santa Clara, CA](https://jasong.us/3CWKWwo)  {% include snippets/twitter-account.html url="https://jasong.us/2YgZp4Q" account="@ARealityEvent" %}
 
