@@ -71,23 +71,32 @@ But, this doesn't really show the power of what we're trying to do. Really, we w
     $lightness: lightness($color);
     $value: $color;
     $contrast: 0.0;
+    $i: 0;
 
     @if $lightness < 50 {
         $value: lighten($value, 5%);
         $contrast: calculate-contrast($color,$value);
+        $i: $i + 1;
 
-        @while $contrast < $ratio {
+        @while $contrast < $ratio and $i < 20 {
             $value: lighten($value, 5%);
             $contrast: calculate-contrast($color,$value);
+            $i: $i + 1;
         }
     } @else {
         $value: darken($value, 5%);
         $contrast: calculate-contrast($color,$value);
+        $i: $i + 1;
 
-        @while $contrast < $ratio {
+        @while $contrast < $ratio and $i < 20 {
             $value: darken($value, 5%);
             $contrast: calculate-contrast($color,$value);
+            $i: $i + 1;
         }
+    }
+
+    @if $i >= 20 {
+        @debug "Color not safe";
     }
 
     @return ($value, $contrast);
@@ -119,7 +128,7 @@ But, this doesn't really show the power of what we're trying to do. Really, we w
 }
 ```
 
-The first function, `find-safe-color`, will find a color that meets the appropriate contrast ratio. If the `lightness` value is less than 50%, meaning it's a dark color, we'll step and lighten by 5% until we find the color we're looking for. Conversely, we'll darken the color by 5% if it's a light color. The return value includes not only the color, but the calculated contrast value.
+The first function, `find-safe-color`, will find a color that meets the appropriate contrast ratio. If the `lightness` value is less than 50%, meaning it's a dark color, we'll step and lighten by 5% until we find the color we're looking for. Conversely, we'll darken the color by 5% if it's a light color. The return value includes not only the color, but the calculated contrast value. If we loop through 20 or more times, that means that the base color cannot work within the standards set by WCAG. Currently, I'm just writing out a `debug` message to say just that.
 
 The second function, `wcag-safe-colors`, builds an array map of values. This will allow you to use the value you need for your use case. WCAG 2.0 states that if you use large text, which is defined as 18pt text or 14pt bold text, a ratio of 3:1 is all that's needed. Smaller text requires a ratio of 4.5:1. For WCAG 2.1, input box borders should have a ratio of 3:1, large text at 4.5:1, and normal text at 7:1. 
 
