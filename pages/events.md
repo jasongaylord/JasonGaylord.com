@@ -13,27 +13,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### May
-- 5/31-6/2: [ATL2023 - Atlanta, GA](https://jasong.us/3MEhiz8)  {% include snippets/twitter-account.html url="https://jasong.us/3iSU52o" account="@RenderATL" %}
-- 5/31-6/2: [AWE USA 2023 - Santa Clara, CA](https://jasong.us/3CWKWwo)  {% include snippets/twitter-account.html url="https://jasong.us/2YgZp4Q" account="@ARealityEvent" %}
-
 #### June
-- 6/2: [Scenic City Summit - Chattanooga, TN](https://jasong.us/3wdlPBF)  {% include snippets/twitter-account.html url="https://jasong.us/3XyubzA" account="@ScenicSummit" %}
-- 6/3: [200OK - Tulsa, Oklahoma](https://jasong.us/35KCdjq)  {% include snippets/twitter-account.html url="https://jasong.us/3QQsUl4" account="@200okconf" %}
-- 6/4-6: [North American Technology Executive Summit - Scottsdale, AZ](https://jasong.us/3XJ8vka)  {% include snippets/twitter-account.html url="https://jasong.us/3ktm7BZ" account="@EP_NATES" %}
-- 6/5-8: [DrupalCon Pittsburgh - Pittsburgh, PA](https://jasong.us/3Hjs1i5)  {% include snippets/twitter-account.html url="https://jasong.us/3IWAIjl" account="@drupalcon" %}
-- 6/8: [Conf42: Observability 2023 - Virtual](https://jasong.us/3QYEo6f)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 6/8-9: [droidcon San Francisco - San Francisco, CA](https://jasong.us/3ZS1Hmu)  {% include snippets/twitter-account.html url="https://bit.ly/3QOlZZX" account="@droidcon" %}
-- 6/8-9: [PlatformCon 2023 - Virtual](https://jasong.us/3XF8m1l)
-- 6/8-11: [State of the Map US - Richard, VA](https://jasong.us/3IYs9og)  {% include snippets/twitter-account.html url="https://jasong.us/3WnXRhG" account="@sotmus" %}
-- 6/9: [GothamGo - New York, NY](https://jasong.us/3DnL8Fp)
-- 6/13-14: [AWS re:Inforce - Anaheim, CA](https://jasong.us/3SVYNKl)  {% include snippets/twitter-account.html url="https://jasong.us/3L3nzpX" account="@AWSSecurityInfo" %}
-- 6/13-16: [E3 2023 - Los Angeles, CA](https://jasong.us/3XmAOFf)
-- 6/19-21: [TechConnect World Innovation - Washington, DC](https://jasong.us/3GLiHlu)
-- 6/20-22: [UXPA International 2023 - Austin, TX](https://jasong.us/3WmpAPV)  {% include snippets/twitter-account.html url="https://jasong.us/3QPPQRI" account="@UXPA_Int" %}
-- 6/21-23: [KCDC - Kansas City, MO](https://jasong.us/36a7Xyy)  {% include snippets/twitter-account.html url="https://jasong.us/3tVWTxg" account="@kc_dc" %}
-- 6/26-29: [Snowflake Summit 2023 - Las Vegas, NV](https://jasong.us/3iXk1tv)
-- 6/28-29: [BCI Summit: Transforming Data and AI - New York, NY](https://jasong.us/3XluUnT)  {% include snippets/twitter-account.html url="https://jasong.us/3Wif7Vz" account="@bcisummit" %}
 - 6/29: [Conf42: Quantum Computing 2023 - Virtual](https://jasong.us/3WnZnAo)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 
 #### July
