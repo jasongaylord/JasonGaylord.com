@@ -13,9 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### June
-- 6/29: [Conf42: Quantum Computing 2023 - Virtual](https://jasong.us/3WnZnAo)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-
 #### July
 - 7/13-16: [FOSSY - Portland, OR](https://jasong.us/3ZO1MY1)
 - 7/17-19: [Cpp North - Toronto, Canada](https://jasong.us/3IAcgBY)  {% include snippets/twitter-account.html url="https://jasong.us/3IAcgBY" account="@CppNorth" %}
