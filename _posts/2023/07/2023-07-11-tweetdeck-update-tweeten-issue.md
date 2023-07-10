@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2023/07/11/tweetdeck-preview-optout.j
 bitly: https://jasong.us/44hqRg5
 ---
 
-TweetDeck recently "chose" me to use their new preview. The problem is that I never opted in and it broke Tweeten. Until yesterday, the feature to opt-out of the new TweetDeck was broken.
+TweetDeck recently "choose" me to use their new preview. The problem is that I never opted in and it broke Tweeten. Until yesterday, the feature to opt-out of the new TweetDeck was broken.
 
 You can opt-out by going into Settings and Privacy, choosing TweetDeck Version, and selecting to opt-out:
 
