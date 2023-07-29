@@ -2,8 +2,8 @@
 title: Azure Cloud Administrator Opening at biBERK
 author: Jason Gaylord
 date: 2023-03-15
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1246
 image: https://cdn.jasongaylord.com/images/2023/03/15/cloud-administrator-job-opportunity.jpg
 bitly: https://jasong.us/3YJQK4p
