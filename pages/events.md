@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### August
-- 8/2-3: [DASH by Datadog - San Francisco, CA](https://jasong.us/3uK3n2f)  {% include snippets/twitter-account.html url="https://jasong.us/46EfFM3" account="@dashconio" %}
 - 8/4-5: [Beer City Code - Grand Rapids, MI](https://jasong.us/44nEYAn)  {% include snippets/twitter-account.html url="https://jasong.us/3rlu3IO" account="@beercitycode" %}
 - 8/5-10: [BlackHat USA 2023 - Las Vegas, NV](https://jasong.us/3EyCPFg)  {% include snippets/twitter-account.html url="https://jasong.us/2ZZ5p3o" account="@BlackHatEvents" %}
 - 8/7-11: [Visual Studio Live! - San Diego, CA](https://jasong.us/3ZPBqF6)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
