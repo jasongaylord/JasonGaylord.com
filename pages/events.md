@@ -15,7 +15,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### August
 - 8/7-11: [Visual Studio Live! - San Diego, CA](https://jasong.us/3ZPBqF6)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
-- 8/8: [DevOpsDays Global Organizer Summit - Chicago, IL](https://jasong.us/3HfVGIM)  {% include snippets/twitter-account.html url="https://jasong.us/3iQVTss" account="@devopsdays" %}
 - 8/8-9: [BSidesLV - Las Vegas, NV](https://jasong.us/46JpkRg)  {% include snippets/twitter-account.html url="https://jasong.us/44oT04Y" account="@bsideslv" %}
 - 8/9-10: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/3Xn1UMJ)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
 - 8/11: [Azure OpenAI ChatGPT Bootcamp - Reston, VA](https://jasong.us/3rnhjBH)  {% include snippets/twitter-account.html url="https://jasong.us/44fhBJa" account="@nextfiveio" %}
