@@ -14,13 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### August
-- 8/9-10: [DevOpsDays Chicago - Chicago, IL](https://jasong.us/3Xn1UMJ)  {% include snippets/twitter-account.html url="https://jasong.us/3Dz1Bn3" account="@devopsdayschi" %}
-- 8/11: [Azure OpenAI ChatGPT Bootcamp - Reston, VA](https://jasong.us/3rnhjBH)  {% include snippets/twitter-account.html url="https://jasong.us/44fhBJa" account="@nextfiveio" %}
-- 8/11: [UXOK - Oklahoma City, OK](https://jasong.us/35KGh3j)
-- 8/11-12: [Powershell on the River - Chattanooga, TN](https://jasong.us/3rqF77n)
-- 8/15-16: [mobileWeek - San Francisco, CA](https://jasong.us/44H1B2B)
-- 8/16-17: [DeveloperWeek Cloud - Virtual](https://jasong.us/3kgk8gS)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
-- 8/17-18: [React Rally - Salt Lake City, UT](https://jasong.us/3JSxrRY)  {% include snippets/twitter-account.html url="https://jasong.us/43iEVEH" account="@reactrally" %}
 - 8/19: [Carolina Code Conference - Greenville, SC](https://jasong.us/3JRhM5v)  {% include snippets/twitter-account.html url="https://jasong.us/3D7JiI8" account="@CodesCarolina" %}
 - 8/22-23: [mobileWeek - Virtual](https://jasong.us/44H1B2B)
 - 8/26: [outland - Palm Springs, CA](https://jasong.us/3PQBzpl)
