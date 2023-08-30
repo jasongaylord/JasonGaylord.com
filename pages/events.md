@@ -13,13 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### August
-- 8/19: [Carolina Code Conference - Greenville, SC](https://jasong.us/3JRhM5v)  {% include snippets/twitter-account.html url="https://jasong.us/3D7JiI8" account="@CodesCarolina" %}
-- 8/22-23: [mobileWeek - Virtual](https://jasong.us/44H1B2B)
-- 8/26: [outland - Palm Springs, CA](https://jasong.us/3PQBzpl)
-- 8/28-30: [dev up 2023 - St Charles, MO](https://jasong.us/3Q7upxh)  {% include snippets/twitter-account.html url="https://jasong.us/3pJD2Dh" account="@devupconf" %}
-- 8/29-31: [Google Cloud Next - San Francisco, CA](https://jasong.us/3imABQt)
-
 #### September
 - 9/7: [Conf42: Rustlang 2023 - Virtual](https://jasong.us/3QPLidQ)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 9/11-13: [Permissionless 2023 - Austin, TX](https://jasong.us/3H0lbwC)
