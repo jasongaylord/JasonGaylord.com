@@ -2,8 +2,8 @@
 title: .NET Developer Openings at biBERK
 author: Jason Gaylord
 date: 2023-03-13
-categories: [business,job-opportunities]
-tags:  [business,job-opportunities]
+categories: [archive]
+tags:  [archive]
 post-number: 1244
 image: https://cdn.jasongaylord.com/images/2023/03/13/dotnet-developer-openings.jpg
 bitly: https://jasong.us/3F5VQ3X
