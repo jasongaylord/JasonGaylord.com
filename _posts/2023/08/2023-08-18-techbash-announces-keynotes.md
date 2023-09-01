@@ -11,7 +11,7 @@ bitly: https://jasong.us/3QDbsTg
 
 TechBash just announced three amazing keynotes and a Labor Day sale which takes place now through Labor Day, September 4th.
 
-Save $75 on 3-day and 4-day standard registration with **discount code __SUMMER75__**.
+Save $75 on 3-day and 4-day standard registration with **discount code SUMMER75**.
 
 Here are the three keynote presentations:
 
