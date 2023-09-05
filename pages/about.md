@@ -19,4 +19,3 @@ In addition to his daily duties, Jason, is a founding board member of the [TechB
 #### Websites I Maintain
 - [techbash.com](https://jasong.us/tb)
 - [mylightdisplay.com](http://jasong.us/mylightdisplay)
-- [exeterlionslittleleague.org](https://jasong.us/elll)
