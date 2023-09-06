@@ -24,6 +24,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 #### October
 - 10/2-4: [Industry The Product Conference - Cleveland, OH](https://jasong.us/3GRmuxC)  {% include snippets/twitter-account.html url="https://jasong.us/3CUU84v" account="@prodcollective" %}
+- 10/3-5: [Microsoft Power Platform Conference - Las Vegas, NV](https://jasong.us/3P7bHU9)  {% include snippets/twitter-account.html url="https://jasong.us/3Rb13hY" account="@powerplatconf" %}
 - 10/5-6: [DevOpsDays Indianapolis - Indianapolis, IN](https://jasong.us/3ZHarf7)  {% include snippets/twitter-account.html url="https://jasong.us/3ZL1KjN" account="@devopsdaysindy" %}
 - 10/10: [NextFive - Kansas City, KS](https://jasong.us/46I7Vsd)
 - 10/12-13: [EuroRust - Virtual](https://jasong.us/3QUgx7W)  {% include snippets/twitter-account.html url="https://jasong.us/3HgmCIh" account="@euro_rust" %}
@@ -38,6 +39,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 11/6-9: [KubeCon + CloudNativeCon - Chicago, IL](https://jasong.us/3XoWbFY)
 - 11/7/10: [TechBash 2023 - Pocono Manor, PA](http://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@techbash" %}
 - 11/12-17: [Visual Studio Live! - Orlando, FL](https://jasong.us/3JqkCP3)  {% include snippets/twitter-account.html url="https://jasong.us/3tCk3Z7" account="@VSLive" %}
+- 11/14-17: [Microsoft Ignite 2023 - Seattle, WA + Virtual](https://jasong.us/44LryNP)  {% include snippets/twitter-account.html url="https://jasong.us/3kKCOnQ" account="@MS_Ignite" %}
 - 11/16: [Conf42: JavaScript 2023 - Virtual](https://jasong.us/3Woy8Wr)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 11/15-16: [DeveloperWeek Enterprise - Virtual](https://jasong.us/3AdQwqb)  {% include snippets/twitter-account.html url="https://jasong.us/3BkIQUs" account="@developerweek" %}
 - 11/27-12/1: [AWS re:Invent - Las Vegas, NV](https://jasong.us/36bVXJf)  {% include snippets/twitter-account.html url="https://jasong.us/3Yy0wGX" account="@AWScloud" %}
