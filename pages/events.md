@@ -14,7 +14,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### September
-- 9/7: [Conf42: Rustlang 2023 - Virtual](https://jasong.us/3QPLidQ)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 9/11-13: [Permissionless 2023 - Austin, TX](https://jasong.us/3H0lbwC)
 - 9/12-14: [Salesforce Dreamforce - San Francisco, CA](https://jasong.us/3yk3Fzp)  {% include snippets/twitter-account.html url="https://jasong.us/3mFcYYc" account="@dreamforce" %}
 - 9/14-15: [droidcon New York - New York, NY](https://jasong.us/3wgOLZG)  {% include snippets/twitter-account.html url="https://bit.ly/3QOlZZX" account="@droidcon" %}
