@@ -56,4 +56,4 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 - 2/4-11: [M365 Community Days at Sea - Miami, FL](https://jasong.us/3JPgHuO)
 
 #### April
-- 4/9-11: [Google Next '24 - Las Vegas, NV](https://cloud.withgoogle.com/next)  {% include snippets/twitter-account.html url="https://twitter.com/googlecloud" account="@googlecloud" %}
+- 4/9-11: [Google Next '24 - Las Vegas, NV](https://jasong.us/3imABQt)  {% include snippets/twitter-account.html url="https://jasong.us/3RFVrwv" account="@googlecloud" %}
