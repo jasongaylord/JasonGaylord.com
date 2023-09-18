@@ -54,3 +54,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 #### February
 - 2/2: [Microsoft 365 Community Day - Miami, FL](https://jasong.us/3D3MQLk)  {% include snippets/twitter-account.html url="https://jasong.us/3O7s1oC" account="@m365miami" %}
 - 2/4-11: [M365 Community Days at Sea - Miami, FL](https://jasong.us/3JPgHuO)
+
+#### April
+- 4/9-11: [Google Next '24 - Las Vegas, NV](https://jasong.us/3imABQt)  {% include snippets/twitter-account.html url="https://jasong.us/3RFVrwv" account="@googlecloud" %}
