@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2022/09/24/waterslides.jpg
 bitly: https://jasong.us/3LrX90h
 ---
 
-TechBash has some of the biggest names in the industry coming this November to talk about the latest tech in the industry. However, TechBash has more to offer than just the conference.
+TechBash has some of the biggest names in the industry coming this November to talk about the latest tech in the industry. However, TechBash has more to offer than just the conference. You can register for the conference by visiting [our registration page](https://jasong.us/3sBQEBH).
 
 ### Welcome Reception
 Following our first full day of sessions on Wednesday, we invite our attendees to enjoy an evening event in our attendee lounge with some light appetizers. Enjoy some time unwinding and getting to know the speakers and other attendees. There's also a great outdoor space to take in the evening autumn air in the Poconos.
@@ -24,3 +24,5 @@ Bring your whole family to TechBash. On Friday, we have sessions for the kids! W
 The food at the Kalahari is always a highlight for our attendees. We'll have a hot breakfast and lunch daily at the event. Lunches each day are themed. In past years, we've had BBQ picnic, Italian dinner, Fajita Friday, and more. When you register, make sure you indicate any food allergies so the Kalahari staff can accommodate your needs
 
 There are also amazing restaurants at the Kalahari, including a [world-class steakhouse](https://jasong.us/3PGOqtS), a new [Mexican restaurant](https://jasong.us/3PDCMQo), and [Sortino's Italian Kitchen](https://jasong.us/3EGa8aZ).
+
+**Psst - Don't forget to register using [our registration page](https://jasong.us/3sBQEBH).**
