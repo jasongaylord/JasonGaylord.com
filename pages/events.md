@@ -13,17 +13,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### September
-- 9/19-21: [TechCrunch Disrupt 2023 - San Francisco, CA](https://jasong.us/3XLwkYT)  {% include snippets/twitter-account.html url="https://jasong.us/3IZzcgm" account="@techcrunch" %}
-- 9/28: [Conf42: Kube Native 2023 - Virtual](https://jasong.us/3Hg18v9)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
-- 9/29: [Microsoft 365 Ottawa - Ottawa, ON](https://jasong.us/44fzmIz)  {% include snippets/twitter-account.html url="https://jasong.us/46K2l91" account="@spsottawa" %}
-
 #### October
-- 10/2-4: [Industry The Product Conference - Cleveland, OH](https://jasong.us/3GRmuxC)  {% include snippets/twitter-account.html url="https://jasong.us/3CUU84v" account="@prodcollective" %}
-- 10/3-5: [Microsoft Power Platform Conference - Las Vegas, NV](https://jasong.us/3P7bHU9)  {% include snippets/twitter-account.html url="https://jasong.us/3Rb13hY" account="@powerplatconf" %}
-- 10/5-6: [DevOpsDays Indianapolis - Indianapolis, IN](https://jasong.us/3ZHarf7)  {% include snippets/twitter-account.html url="https://jasong.us/3ZL1KjN" account="@devopsdaysindy" %}
-- 10/10: [NextFive - Kansas City, KS](https://jasong.us/46I7Vsd)
-- 10/12-13: [EuroRust - Virtual](https://jasong.us/3QUgx7W)  {% include snippets/twitter-account.html url="https://jasong.us/3HgmCIh" account="@euro_rust" %}
 - 10/15-17: [All Things Open - Raleigh, NC + Virtual](https://jasong.us/3XAaXK4)  {% include snippets/twitter-account.html url="https://jasong.us/3HdnFsB" account="@AllThingsOpen" %}
 - 10/16-20: [Coalesce - San Diego, CA + Virtual](https://jasong.us/3wgPava)
 - 10/17-18: [MagnoliaJS - Jackson, MS + Virtual](https://jasong.us/3IWHdmf)  {% include snippets/twitter-account.html url="https://jasong.us/3wdS0kv" account="@magnoliajsconf" %}
