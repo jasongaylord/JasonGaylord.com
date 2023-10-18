@@ -14,10 +14,7 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 ## 2023
 
 #### October
-- 10/15-17: [All Things Open - Raleigh, NC + Virtual](https://jasong.us/3XAaXK4)  {% include snippets/twitter-account.html url="https://jasong.us/3HdnFsB" account="@AllThingsOpen" %}
 - 10/16-20: [Coalesce - San Diego, CA + Virtual](https://jasong.us/3wgPava)
-- 10/17-18: [MagnoliaJS - Jackson, MS + Virtual](https://jasong.us/3IWHdmf)  {% include snippets/twitter-account.html url="https://jasong.us/3wdS0kv" account="@magnoliajsconf" %}
-- 10/19: [Conf42: Incident Management 2023 - Virtual](https://jasong.us/3XG9Vfl)  {% include snippets/twitter-account.html url="https://jasong.us/3oqTiph" account="@conf42com" %}
 - 10/20-22: [Big Boys Toys - Las Vegas, NV](https://jasong.us/3kqP1CD)  {% include snippets/twitter-account.html url="https://jasong.us/3Wn2wAD" account="@globalbbt" %}
 
 #### November
