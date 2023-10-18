@@ -9,10 +9,15 @@ image: https://cdn.jasongaylord.com/images/2023/09/01/scott-hunter-techbash.jpg
 bitly: https://jasong.us/3QkEDtK
 ---
 
-Today is the final day for standard ticket pricing for TechBash. It's also the final day to book a hotel room at our rate of $179. If you've been procrastinating, now is the time to book your room and get your TechBash tickets. While complete details about the event can be found on the [techbash.com](https://jasong.us/tb) website, below you'll find some highlights for this year's event:
+By now, you are most likely aware that TechBash is a 3-day conference with a 4th day option for pre-conference workshops. However, what you may not know is that once the event gets closer, TechBash often opens up single day ticket options. That's right, come experience TechBash for just one day. These tickets are great for folks looking to get just one of the conference days in. 
 
-### 3 Amazing Keynotes by 4 Speakers
-What do Scott Hunter, Paul Yuknewicz, Kathleen Dollard, and Mads Kristensen all have in common? They are all going to be at TechBash to talk about the latest technology and trends. They're also all product leads or program managers for Microsoft. You'll learn how to keep up with the ever quickly changing world of technology. You'll learn how to build and scale cloud native applications. You'll also learn tip and tricks with Visual Studio.
+[TechBash](https://jasong.us/tb) is a conference located in the Poconos and covers a variety of topics including, but not limited to, application and web development, design, QA and test engineering methods, and soft skills. TechBash is now offering single-day tickets for those who cannot attend the 3 or 4 days. You can choose your favorite [one or two days of content](https://jasong.us/2xZvzoM) and [get tickets for only $199 per day](https://jasong.us/tbreg). Each single day registration includes breakfast, lunch, coffee, and snacks. It also includes the activities for that individual day. For example:
+
+- **Wednesday** - Keynote with Kathleen Dollard & Evening Welcome Reception
+- **Thursday** - Keynote with Scott Hunter and Paul Yuknewicz plus FamilyGame Night
+- **Friday** - Keynote with Mads Kristensen and Family Day Learning and Activities
+
+Of course, there are still great 3-day and 4-day tickets available. Here's more about the event:
 
 ### 8 Workshop Sessions
 TechBash also has 2 full day workshops and 6 half day workshops. The workshops will cover:
