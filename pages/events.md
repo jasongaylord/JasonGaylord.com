@@ -13,10 +13,6 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2023
 
-#### October
-- 10/16-20: [Coalesce - San Diego, CA + Virtual](https://jasong.us/3wgPava)
-- 10/20-22: [Big Boys Toys - Las Vegas, NV](https://jasong.us/3kqP1CD)  {% include snippets/twitter-account.html url="https://jasong.us/3Wn2wAD" account="@globalbbt" %}
-
 #### November
 - 11/1-3: [ODSC West - San Francisco, CA](https://jasong.us/3mrh6Hh)  {% include snippets/twitter-account.html url="https://jasong.us/3oBpjvo" account="@ODSC" %}
 - 11/6-9: [KubeCon + CloudNativeCon - Chicago, IL](https://jasong.us/3XoWbFY)
