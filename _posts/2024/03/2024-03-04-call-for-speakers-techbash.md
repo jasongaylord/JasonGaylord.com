@@ -1,7 +1,7 @@
 ---
 title: TechBash 2024 Call for Speakers Ends Friday
 author: Jason Gaylord
-date: 2023-03-04
+date: 2024-03-04
 categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1273
