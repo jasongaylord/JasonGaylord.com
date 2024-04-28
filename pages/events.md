@@ -13,8 +13,5 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2024
 
-#### April
-- 4/9-11: [Google Next '24 - Las Vegas, NV](https://jasong.us/3imABQt)  {% include snippets/twitter-account.html url="https://jasong.us/3RFVrwv" account="@googlecloud" %}
-
 #### September
 - 9/24-27: [TechBash 2024 - Pocono Manor, PA](http://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@techbash" %}
