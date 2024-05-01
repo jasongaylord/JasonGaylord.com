@@ -10,7 +10,7 @@ permalink: /about-jason/
 <img src="https://avatars3.githubusercontent.com/jasongaylord?v=3&s=200" class="github-avatar" alt="Jason N. Gaylord" />
 
 #### Quick Bio
-Jason is the Assistant Vice President of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
+Jason is the Assistant Vice President of Technology for [biBerk](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
 
 In addition to his daily duties, Jason, is a founding board member of the [TechBash Foundation](https://jasong.us/tbfoundation), organizer of [TechBash](https://jasong.us/tb), [ASPInsider](https://jasong.us/3csnPdY), and a [former Microsoft MVP](https://jasong.us/msftmvp). He creates web applications and has authored a book. He resides in Northeastern Pennsylvania with his family.
 
@@ -56,7 +56,7 @@ On April 11, 2003, I authored my very first blog post. I've ported it from my ol
 
 Before I left Parente in September 2003, I was notified that I would be a [Microsoft MVP](https://jasong.us/msftmvp). In September, I started working for [United One Resources](https://jasong.us/3qTytqF), a company that offers title insurance, credit reports, and courthouse record searches for customers. The primary application I helped to maintain was written in VB6. Still stuck in a VB world, I started to expand out further into the world of C# writing articles and applications. I also expanded into other areas of technology by helping to maintain our network and servers.
 
-In November 2013, I made the choice to leave for [Berkshire Hathaway GUARD Insurance](https://jasong.us/45Z6btv). I've been with the Berkshire Hathaway family ever since and now lead the technology team for [biBERK](https://jasong.us/biberk), a direct market commercial insurance company. You can learn all about biBERK on their website [biBERK.com](https://jasong.us/480P50d).
+In November 2013, I made the choice to leave for [Berkshire Hathaway GUARD Insurance](https://jasong.us/45Z6btv). I've been with the Berkshire Hathaway family ever since and now lead the technology team for [biBerk](https://jasong.us/biberk), a direct market commercial insurance company. You can learn all about biBerk on their website [biBerk.com](https://jasong.us/480P50d).
 
 #### Books I Authored
 [![Professional ASP.NET 4.5 in C# and VB](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1118311825&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=jasongaylor01-20&language=en_US)](https://www.amazon.com/Professional-ASP-NET-4-5-C-VB-ebook/dp/B00CX6S7UO/ref=as_li_ss_tl?dchild=1&keywords=ASP.NET+Professional+4.5+C&tag=&linkCode=ll1&tag=jasongaylor01-20&linkId=b3d20d95644dd016965e83d5a0861ce5&language=en_US)
