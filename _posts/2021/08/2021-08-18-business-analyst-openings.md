@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2021/08/18/business-analyst.jpg
 bitly: https://jasong.us/3xWYhQ1
 ---
 
-I'm hiring a Business Analyst who has experience with Commercial Property and Casualty Insurance for our growing team. This position is for biBERK, a direct insurance company. If you have experience in Worker's Compensation, Commercial Auto, E&O, General Liability, or Business Owner's Policies, this position is for you.
+I'm hiring a Business Analyst who has experience with Commercial Property and Casualty Insurance for our growing team. This position is for biBerk, a direct insurance company. If you have experience in Worker's Compensation, Commercial Auto, E&O, General Liability, or Business Owner's Policies, this position is for you.
 
 {% include link-thumbnail.html path="2021/08/18/business-analyst.jpg" alt="Commercial Insurance Business Analyst Opening" url="https://jasong.us/2VOPNNV" %}
 

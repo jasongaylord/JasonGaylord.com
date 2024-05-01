@@ -1,5 +1,5 @@
 ---
-title: Full Stack Developer Openings at biBERK
+title: Full Stack Developer Openings at biBerk
 author: Jason Gaylord
 date: 2023-08-09
 categories: [business,job-opportunities]
@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2023/03/09/full-stack-developer-openi
 bitly: https://jasong.us/44XcMVt
 ---
 
-biBERK is hiring several Full Stack Developers. biBERK is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We also have many team members that are fully remote.
+biBerk is hiring several Full Stack Developers. biBerk is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We also have many team members that are fully remote.
 
 We are looking for Full Stack Developers interested in working in a dynamic, fast paced organization. As a developer on our team, you will create cutting edge functionality and help to enable our team to be cloud-first. In this role, you will be an integral team member with outstanding communication, collaboration, and attention to detail. You will be counted on to write functional code and to work with others to design, develop, and maintain our software. If this sounds like you, then we should talk. Remote opportunities are possible.
 

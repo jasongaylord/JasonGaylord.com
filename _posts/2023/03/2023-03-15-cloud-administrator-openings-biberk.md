@@ -1,5 +1,5 @@
 ---
-title: Azure Cloud Administrator Opening at biBERK
+title: Azure Cloud Administrator Opening at biBerk
 author: Jason Gaylord
 date: 2023-03-15
 categories: [archive]
@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2023/03/15/cloud-administrator-job-op
 bitly: https://jasong.us/3YJQK4p
 ---
 
-biBERK is hiring yet again! biBERK is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We're hiring an additional Azure Cloud Administrator for our growing team. Candidates can be in office or remote, but our preference would be a candidate located in either Mountain or Pacific Time with the ability to work from 8am-4:30pm local time.
+biBerk is hiring yet again! biBerk is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We're hiring an additional Azure Cloud Administrator for our growing team. Candidates can be in office or remote, but our preference would be a candidate located in either Mountain or Pacific Time with the ability to work from 8am-4:30pm local time.
 
 We're looking for a cloud administrator to join our growing team. More specifically, we're looking for someone who can demonstrate the ability to work in a team setting, is passionate about technology, and has experience with Microsoft Azure. This individual must be an outstanding communicator, able to collaborate with others, and have a high attention to detail. If this sounds like you, then we should talk. Remote opportunities are possible.
 

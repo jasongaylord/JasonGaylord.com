@@ -1,5 +1,5 @@
 ---
-title: DevOps Engineer Opening at biBERK
+title: DevOps Engineer Opening at biBerk
 author: Jason Gaylord
 date: 2020-10-15
 categories: [archive]
@@ -44,6 +44,6 @@ If this sounds like something of interest then let's chat. Visit [jasong.us/2STS
 
 {% include snippets/job-opportunities.html intro="In addition to our DevOps engineer opening, I have several other openings. " %}
 
-For a complete listing of all biBERK IT openings, click the image below:
+For a complete listing of all biBerk IT openings, click the image below:
 
-{% include link-thumbnail.html path="2020/10/01/biberk-it-careers.jpg" alt="biBERK IT Job Openings" url="https://jasong.us/3mvKr2y" %}
+{% include link-thumbnail.html path="2020/10/01/biberk-it-careers.jpg" alt="biBerk IT Job Openings" url="https://jasong.us/3mvKr2y" %}

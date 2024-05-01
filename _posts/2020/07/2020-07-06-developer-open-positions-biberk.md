@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/07/06/biberk-it-job-listings.jpg
 bitly: https://jasong.us/38AFoqX
 ---
 
-I'm looking for passionate developers looking to grow within a stable company called biBERK. biBERK is a commercial insurance company and part of the Berkshire Hathaway family. I've listed a few of the highlights for each opening below. Some of the openings have more than one position. Please apply directly using the link within each position and reach out to me for any more specific questions.
+I'm looking for passionate developers looking to grow within a stable company called biBerk. biBerk is a commercial insurance company and part of the Berkshire Hathaway family. I've listed a few of the highlights for each opening below. Some of the openings have more than one position. Please apply directly using the link within each position and reach out to me for any more specific questions.
 
 - **Senior .NET Developer**
   - 7+ Years of proven experience as a web developer _preferred, but not required_
@@ -33,6 +33,6 @@ I'm looking for passionate developers looking to grow within a stable company ca
 
 To apply, click the image below:
 
-{% include link-thumbnail.html path="2020/07/06/biberk-it-job-listings.jpg" alt="biBERK is Hiring Application and Web Developers" url="https://jasong.us/3bwvs1M" %}
+{% include link-thumbnail.html path="2020/07/06/biberk-it-job-listings.jpg" alt="biBerk is Hiring Application and Web Developers" url="https://jasong.us/3bwvs1M" %}
 
 {% include snippets/job-opportunities.html %}
