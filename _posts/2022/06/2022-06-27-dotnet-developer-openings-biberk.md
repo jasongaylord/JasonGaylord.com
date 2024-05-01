@@ -1,5 +1,5 @@
 ---
-title: .NET Developer Openings at biBERK
+title: .NET Developer Openings at biBerk
 author: Jason Gaylord
 date: 2022-06-27
 categories: [archive]
@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2022/06/27/dotnet-developer-openings.
 bitly: https://jasong.us/3QFuKVH
 ---
 
-biBERK is hiring yet again! biBERK is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We're hiring additional .NET developers for our growing team. Candidates can be in office or remote!
+biBerk is hiring yet again! biBerk is a direct insurance company with offices in Omaha, Nebraska and Wilkes-Barre, Pennsylvania. We're hiring additional .NET developers for our growing team. Candidates can be in office or remote!
 
 We're looking for several full stack developers to join our growing team. More specifically, we're looking for someone who can demonstrate the ability to work in a team setting and passionate about technology. This individual must be an outstanding communicator, able to collaborate with others, and have a high attention to detail. While both Angular and .NET Core experience is preferred, it's not required. If this sounds like you, then we should talk. Remote opportunities are possible.
 

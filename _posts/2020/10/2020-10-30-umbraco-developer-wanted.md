@@ -1,5 +1,5 @@
 ---
-title: Umbraco Developer Opening at biBERK
+title: Umbraco Developer Opening at biBerk
 author: Jason Gaylord
 date: 2020-10-30
 categories: [archive]
@@ -18,7 +18,7 @@ I have yet another opening on my team. This opening is for an Umbraco Developer.
 - Work with other internal teams and assist with software design and architecture
 - Develop strong partnerships with business teams and other groups
 - Demonstrate the ability to test and deploy applications and revise, update, debug, and refactor code
-- Deliver the required capabilities per biBERK standards
+- Deliver the required capabilities per biBerk standards
 - Enhance the software capabilities by continuous improvement and innovation
 - Assist and consult with other Berkshire Hathaway brands on an as-needed basis
 
@@ -39,6 +39,6 @@ If this position is of interest, let's chat. Visit [jasong.us/3mM0IQr](https://j
 
 {% include snippets/job-opportunities.html intro="In addition to our Umbraco developer opening, I have several other openings. " %}
 
-For a complete listing of all biBERK IT openings, click the image below:
+For a complete listing of all biBerk IT openings, click the image below:
 
-{% include link-thumbnail.html path="2020/10/30/biberk-it-careers.jpg" alt="biBERK IT Job Openings" url="https://jasong.us/3mvKr2y" %}
+{% include link-thumbnail.html path="2020/10/30/biberk-it-careers.jpg" alt="biBerk IT Job Openings" url="https://jasong.us/3mvKr2y" %}

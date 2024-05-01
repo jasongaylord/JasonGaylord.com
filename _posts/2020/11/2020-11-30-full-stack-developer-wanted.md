@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2020/11/19/fullstack-developer.jpg
 bitly: https://jasong.us/36k9GyK
 ---
 
-I'm hiring an Full Stack Developer for our growing team. This position is for biBERK, a direct insurance company. I'm looking for someone who can demonstrate sound experience with .NET and has experience with Angular and Azure. We're looking for someone interested in working in a dynamic, fast paced organization. As a developer on our team, you will create cutting edge functionality and help to enable our team to be cloud-first. 
+I'm hiring an Full Stack Developer for our growing team. This position is for biBerk, a direct insurance company. I'm looking for someone who can demonstrate sound experience with .NET and has experience with Angular and Azure. We're looking for someone interested in working in a dynamic, fast paced organization. As a developer on our team, you will create cutting edge functionality and help to enable our team to be cloud-first. 
 
 {% include link-thumbnail.html path="2020/11/19/fullstack-developer.jpg" alt="Full Stack Developer Opening" url="https://jasong.us/3mlTIcT" %}
 

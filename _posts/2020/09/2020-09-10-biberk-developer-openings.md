@@ -1,5 +1,5 @@
 ---
-title: Developer Openings for biBERK
+title: Developer Openings for biBerk
 author: Jason Gaylord
 date: 2020-09-10
 categories: [archive]
@@ -19,6 +19,6 @@ I'm hiring! I continue to have [new openings](https://jasong.us/3m4UVFS) for dev
 
 While the title posted may be misleading, if any of the above are related to your experience, apply to the **.NET Developer** position at: [jasong.us/3m4UVFS](https://jasong.us/3m4UVFS)
 
-{% include link-thumbnail.html path="2020/09/10/biberk-dotnet-developer.jpg" alt="Developer Openings for biBERK" url="https://jasong.us/3m4UVFS" %}
+{% include link-thumbnail.html path="2020/09/10/biberk-dotnet-developer.jpg" alt="Developer Openings for biBerk" url="https://jasong.us/3m4UVFS" %}
 
 {% include snippets/job-opportunities.html intro="" %}

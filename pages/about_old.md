@@ -29,7 +29,7 @@ Created in WCF, ASMX and other Web Services on Mon, Nov 25 2002 09:10 AM.
 
 <img src="https://avatars3.githubusercontent.com/jasongaylord?v=3&s=200" class="github-avatar" alt="Jason N. Gaylord" />
 
-Jason is the AVP of Application Development and Infrastructure for [biBERK.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
+Jason is the AVP of Application Development and Infrastructure for [biBerk.com](https://jasong.us/biberk), a Berkshire Hathaway Insurance Company.
 
 In addition to his daily duties, Jason, is a founding board member of the [TechBash Foundation](https://jasong.us/tbfoundation), organizer of [TechBash](https://jasong.us/tb), [ASPInsider](https://jasong.us/3csnPdY), and a [former Microsoft MVP](https://jasong.us/msftmvp). He creates web applications and has even authored a book. He resides in Northeastern Pennsylvania with his family.
 

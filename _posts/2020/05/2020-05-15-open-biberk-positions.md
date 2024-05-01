@@ -1,5 +1,5 @@
 ---
-title: I'm Hiring at biBERK
+title: I'm Hiring at biBerk
 author: Jason Gaylord
 date: 2020-05-15
 categories: [archive]
