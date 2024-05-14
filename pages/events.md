@@ -13,5 +13,11 @@ If you have a conference, event, or webinar you'd like me to list, be sure to se
 
 ## 2024
 
+#### May
+- 5/21-23 [Microsoft Build - Seattle, WA + Virtual](https://jasong.us/3JBUCPF)
+
 #### September
 - 9/24-27: [TechBash 2024 - Pocono Manor, PA](http://jasong.us/tb)  {% include snippets/twitter-account.html url="https://jasong.us/tbtwitter" account="@techbash" %}
+
+#### November
+- 11/18-22: [Microsoft Ignite - Chicago, IL + Virtual](https://jasong.us/44LryNP)
