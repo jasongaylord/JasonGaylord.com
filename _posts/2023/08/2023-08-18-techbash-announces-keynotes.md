@@ -62,7 +62,7 @@ Here is the pricing:
 
 All attendees get three days of awesome technical content, hot breakfast & lunch daily, coffee, snacks, game night, an evening welcome reception, and cool swag. Our 4-day attendees also get a full-day of deep-dive technical [workshop content](https://jasong.us/tbworkshops) on Tuesday. Get more information about our speakers, sponsors, hotel rooms, and more on [techbash.com](https://jasong.us/tb).
 
-We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/3xuwLLA). Join us November 7-10 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Register soon because early bird rates are valid only through the US Independence Day, July 4th. At that point, ticket prices increase by $100 and will increase by another $100 beginning October 7th. So, it **SAVES** to register early.
+We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/hotelreg). Join us November 7-10 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Register soon because early bird rates are valid only through the US Independence Day, July 4th. At that point, ticket prices increase by $100 and will increase by another $100 beginning October 7th. So, it **SAVES** to register early.
 
 In addition, get your room at the Kalahari starting at just $179 a night for each night you choose to stay between Monday, November 6th and Friday, November 10th. [Click here for complete details](https://jasong.us/hotelreg). These hotel rates are only available until **October 6th**.
 

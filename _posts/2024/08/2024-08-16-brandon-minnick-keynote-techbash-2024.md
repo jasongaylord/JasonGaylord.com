@@ -21,7 +21,7 @@ Here are some more details about Brandon's talk:
 > 
 > Join Brandon for this session where he'll discuss how confusion is an important part of the learning process. He'll cover how to identify it, what steps to take when we're confused, and how the act of finding the answer can be more important than the answer itself.
 
-Don't forget that time is running out to save on standard pricing for TechBash. During the month of August, you can save $100 on all ticket types. It's time to register for a 3-day and 4-day early bird ticket, which is available on [EventBrite](https://jasong.us/3QoMndL). In addition, our room block at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/3xuwLLA) expire that same day. After that, expect to pay even more money to enjoy the amenities of the Kalahari.
+Don't forget that time is running out to save on standard pricing for TechBash. During the month of August, you can save $100 on all ticket types. It's time to register for a 3-day and 4-day early bird ticket, which is available on [EventBrite](https://jasong.us/3QoMndL). In addition, our room block at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/hotelreg) expire that same day. After that, expect to pay even more money to enjoy the amenities of the Kalahari.
 
 If you're interested in sending your entire dev team, or even just a group of five or more, be sure to reach out to [the TechBash Groups email](mailto:groups@techbash.com). 
 

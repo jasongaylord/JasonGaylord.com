@@ -11,7 +11,7 @@ bitly: https://jasong.us/3xVo68R
 
 It's time to register for **TechBash 2024**. 3-day and 4-day early bird tickets are now available on [EventBrite](https://jasong.us/3QoMndL).
 
-We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/3xuwLLA). Join us September 24-27 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Register soon because early bird rates are valid only through May 21st, 2024. At that point, ticket prices increase by $100 so, it **SAVES** to register early.
+We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/hotelreg). Join us September 24-27 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Register soon because early bird rates are valid only through May 21st, 2024. At that point, ticket prices increase by $100 so, it **SAVES** to register early.
 
 Get more information about our speakers, sponsors, hotel rooms, and more on [techbash.com](https://jasong.us/tb).
 

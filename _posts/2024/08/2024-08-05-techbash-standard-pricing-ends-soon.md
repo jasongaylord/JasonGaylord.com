@@ -13,7 +13,7 @@ Later this month, the TechBash standard pricing increases by $100 for all ticket
 
 In addition to the two keynote presenters, the [full schedule](https://jasong.us/tbschedule) has also been released. 
 
-The same day that standard pricing expires, so do the hotel discounts we can offer you at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/3xuwLLA). Join us September 24-27 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. In addition, get your room at the Kalahari starting at just $184 a night for each night you choose to stay between Monday, September 23rd and Friday, September 27th. This offer ends on August 24th so don't forget and get our guaranteed low rates! [Click here for complete details](https://jasong.us/hotelreg).
+The same day that standard pricing expires, so do the hotel discounts we can offer you at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/hotelreg). Join us September 24-27 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. In addition, get your room at the Kalahari starting at just $184 a night for each night you choose to stay between Monday, September 23rd and Friday, September 27th. This offer ends on August 24th so don't forget and get our guaranteed low rates! [Click here for complete details](https://jasong.us/hotelreg).
 
 Want to send your dev team? Reach out to TechBash to ask about discounts for groups of five or more.
 
