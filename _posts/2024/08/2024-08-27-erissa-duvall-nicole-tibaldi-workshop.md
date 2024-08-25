@@ -1,5 +1,5 @@
 ---
-title: Build Your First Application with Blazor with Jeffrey Fritz
+title: Accessibility Testing, Public Speaking Workshops at TechBash
 author: Jason Gaylord
 date: 2024-08-27
 categories: [events,techbash]
