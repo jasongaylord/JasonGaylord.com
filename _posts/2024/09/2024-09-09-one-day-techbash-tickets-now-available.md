@@ -5,7 +5,7 @@ date: 2024-09-09
 categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1292
-image: https://cdn.jasongaylord.com/images/2024/09/06/techbash-talk.jpg
+image: https://cdn.jasongaylord.com/images/2024/09/09/jeff-fritz-talk.jpg
 bitly: https://jasong.us/3Zf6DUy
 ---
 
@@ -15,4 +15,4 @@ Not sure which day you want to attend? Don't worry. The schedule may still chang
 
 Join us September 24-27 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Want to send your dev team? Reach out to TechBash to ask about discounts for groups of five or more.
 
-{% include link-thumbnail.html path="2024/09/06/techbash-talk.jpg" alt="TechBash 2024" url="http://jasong.us/tb" %}
+{% include link-thumbnail.html path="2024/09/09/jeff-fritz-talk.jpg" alt="TechBash 2024" url="http://jasong.us/tb" %}
