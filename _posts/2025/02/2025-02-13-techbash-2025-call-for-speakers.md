@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1294
 image: https://cdn.jasongaylord.com/images/2025/02/13/techbash2025.png
-bitly: https://jasong.us/4goItwT
+bitly: https://jasong.us/42Ofyhq
 ---
 
 The TechBash 2025 Call for Speakers is now open. The CFP is open now through March 31, 2025. To submit to TechBash 2025, [click here](https://jasong.us/tb2025cfp). The event takes place in Pocono Manor, PA this November 4-7, 2025.
