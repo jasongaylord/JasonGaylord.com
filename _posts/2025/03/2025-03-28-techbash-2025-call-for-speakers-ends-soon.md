@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2025/02/13/techbash2025.png
 bitly: https://www.jasongaylord.com/blog/2025/03/28/techbash-2025-call-for-speakers-ends-soon
 ---
 
-Attention all speakers: The time to submit your sessions for TechBash 2025 is now! The CFP ends Monday, March 31st. 
+Attention all speakers: The time to submit your sessions for TechBash 2025 is now! The CFP ends Monday, March 31st. Be sure to get your sessions in today!
 
 The TechBash 2025 Call for Speakers is now open. The CFP is open now through March 31, 2025. To submit to TechBash 2025, [click here](https://jasong.us/tb2025cfp). The event takes place in Pocono Manor, PA this November 4-7, 2025.
 
