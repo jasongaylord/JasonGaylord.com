@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1294
 image: https://cdn.jasongaylord.com/images/2025/02/13/techbash2025.png
-bitly: https://www.jasongaylord.com/blog/2025/03/28/techbash-2025-call-for-speakers-ends-soon
+bitly: https://jasong.us/4hUlVnc
 ---
 
 Attention all speakers: The time to submit your sessions for TechBash 2025 is now! The CFP ends Monday, March 31st. Be sure to get your sessions in today!
