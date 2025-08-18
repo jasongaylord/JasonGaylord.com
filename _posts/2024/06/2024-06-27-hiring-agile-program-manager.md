@@ -39,7 +39,7 @@ Here is the job posting:
 > * Remote with occasional travel to Wilkes-Barre/Scranton, PA and Omaha, NE
 > * Normal working hours based on Eastern US time
 
-If you're interested, please reach out to me directly via email or via [LinkedIn](https://www.linkedin.com/in/jasongaylord).
+If you're interested, please reach out to me directly via email or via [LinkedIn](http://jasong.us/4mgaBoo).
 
 {% include open-thumbnail.html path="2024/05/01/agile-program-manager.png" alt="Agile Program Manager Opening" url="https://jasong.us/3QpMoxX" %}
 
