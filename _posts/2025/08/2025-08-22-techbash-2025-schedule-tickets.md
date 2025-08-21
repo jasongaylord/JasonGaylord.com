@@ -9,7 +9,7 @@ image: https://cdn.jasongaylord.com/images/2025/02/13/techbash2025.png
 bitly: https://jasong.us/402k1uD
 ---
 
-The schedule for **TechBash 2025** has been published to the [techbash.com](https://jasong.us/43XkZtc) website. You can also register for 3-day and 4-day tickets right now! But, you better hurry! Prices will go up $100 and the room block will expire on 10/5. 
+The schedule for **TechBash 2025** has been published to the [techbash.com](https://jasong.us/43XkZtc) website. You can also register for 3-day and 4-day tickets right now! But, you better hurry! Prices will go up $100 and the room block will expire on 10/4. 
 
 We're back this fall, in-person, at the [Kalahari Resort and Convention Center in Pocono Manor, PA](https://jasong.us/hotelreg). Join us November 4-7 for great keynotes, workshops, sessions, food, swag, and the best water slides in the Northeast U.S. Register soon because early bird rates are valid only through June 30th, 2025. At that point, ticket prices increase by $100 so, it **SAVES** to register early.
 
