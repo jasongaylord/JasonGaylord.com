@@ -5,8 +5,8 @@ date: 2025-08-22
 categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1297
-image: https://cdn.jasongaylord.com/images/2025/02/13/techbash2025.png
-bitly: https://jasong.us/402k1uD
+image: https://cdn.jasongaylord.com/images/2025/08/22/tb-schedule.png
+bitly: http://bit.ly/45KJJpo
 ---
 
 The schedule for **TechBash 2025** has been published to the [techbash.com](https://jasong.us/43XkZtc) website. You can also register for 3-day and 4-day tickets right now! But, you better hurry! Prices will go up $100 and the room block will expire on 10/4. 
@@ -19,4 +19,4 @@ Want to send your dev team? Reach out to TechBash to ask about discounts for gro
 
 In addition, get your room at the Kalahari starting at just $169 a night for each night you choose to stay between Monday, November 3rd and Friday, November 7th. [Click here for complete details](https://jasong.us/hotelreg). That's right. That's $15 cheaper than last year's event!
 
-{% include link-thumbnail.html path="2025/02/13/techbash2025.png" alt="TechBash 2025" url="http://jasong.us/tb" %}
+{% include link-thumbnail.html path="2025/08/22/tb-schedule.png" alt="TechBash 2025" url="http://jasong.us/tb" %}
