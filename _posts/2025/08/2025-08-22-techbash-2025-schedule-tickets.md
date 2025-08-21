@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1297
 image: https://cdn.jasongaylord.com/images/2025/08/22/tb-schedule.png
-bitly: http://bit.ly/45KJJpo
+bitly: http://jasong.us/4lG3Gnt
 ---
 
 The schedule for **TechBash 2025** has been published to the [techbash.com](https://jasong.us/43XkZtc) website. You can also register for 3-day and 4-day tickets right now! But, you better hurry! Prices will go up $100 and the room block will expire on 10/4. 
