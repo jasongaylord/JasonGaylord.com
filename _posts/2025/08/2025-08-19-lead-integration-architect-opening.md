@@ -17,6 +17,6 @@ The position comes with a competitive compensation package, generous time off, h
 
 If you're interested, please reach out to me directly via email or via [LinkedIn](http://jasong.us/4mgaBoo).
 
-{% include open-thumbnail.html path="2025/08/19/lead-integration-architect.png" alt="Lead Integration Architect" url="http://jasong.us/4oHf6de" %}
+{% include open-thumbnail.html path="2025/08/19/lead-integration-architect.png" alt="Lead Integration Architect" url="http://jasong.us/3JF6gN1" %}
 
 {% include snippets/job-opportunities.html intro="In addition to the Lead Integration Architect position, I have several other openings. " %}
