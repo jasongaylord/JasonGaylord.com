@@ -6,7 +6,7 @@ categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1300
 image: https://cdn.jasongaylord.com/images/2025/09/19/TechBash2024-Intro.jpg
-bitly: http://jasong.us/47UC373
+bitly: https://jasong.us/47UC373
 ---
 
 In just two more weeks, the pricing for **TechBash 2025** increases. We are currently in the _Standard Pricing_ period, but starting on October 4th, pricing will increase $100 for all ticket types during the _Late Bird Pricing_ period. So, what are you waiting for? Register today at [techbash.com](https://jasong.us/43XkZtc). 
