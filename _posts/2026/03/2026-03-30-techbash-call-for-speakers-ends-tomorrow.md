@@ -5,7 +5,7 @@ date: 2026-03-30
 categories: [events,techbash]
 tags: [events,techbash]
 post-number: 1302
-image: https://cdn.jasongaylord.com/images/2025/09/19/TechBash2024-Intro.jpg
+image: https://raw.githubusercontent.com/TechBash/Marketing/refs/heads/master/2026/Logos/techbash2026-web.png
 bitly: https://jasong.us/47YO1eU
 ---
 
