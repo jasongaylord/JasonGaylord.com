@@ -1,4 +1,13 @@
-
+---
+title: TechBash 2026 Call for Speakers Ends Tomorrow
+author: Jason Gaylord
+date: 2026-03-30
+categories: [events,techbash]
+tags: [events,techbash]
+post-number: 1302
+image: https://cdn.jasongaylord.com/images/2025/09/19/TechBash2024-Intro.jpg
+bitly: https://jasong.us/4pN3R3y
+---
 
 The TechBash 2026 Call for Speakers is coming down to the wire, with submissions officially closing tomorrow, March 31 at 11:59pm Eastern. If you’ve been thinking about sharing your experience, insights, or hard‑won lessons with a passionate developer audience, this is your moment. TechBash has built a reputation for practical, community-driven content, and the conference is actively looking for speakers who want to educate, inspire, and spark meaningful conversations across the tech community.
 
