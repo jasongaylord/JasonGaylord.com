@@ -4,7 +4,7 @@ author: Jason Gaylord
 date: 2026-03-30
 categories: [events,techbash]
 tags: [events,techbash]
-post-number: 1302
+post-number: 1305
 image: https://raw.githubusercontent.com/TechBash/Marketing/refs/heads/master/2026/Logos/techbash2026-web.png
 bitly: https://jasong.us/47YO1eU
 ---

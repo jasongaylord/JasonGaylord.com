@@ -1,19 +1,19 @@
 ---
 title: TechBash 2026 Registration Is Open and Hotel Rooms Are Going Fast
 author: Jason Gaylord
-date: 2026-07-28
+date: 2026-07-29
 categories: [events,techbash]
 tags: [events,techbash]
-post-number: 1305
-image: https://raw.githubusercontent.com/TechBash/Marketing/refs/heads/master/2026/Logos/techbash2026-web.png
-bitly: https://jasong.us/XXXXXX
+post-number: 1306
+image: https://cdn.jasongaylord.com/images/2026/07/29/techbash2026-web.png
+bitly: https://jasong.us/4pNkFIj
 ---
 
 [TechBash 2026](https://jasong.us/tb) registration is now open, and if you're planning to attend, there are two things you should do right now: grab your ticket and book your hotel room. Both Early Bird ticket pricing and the discounted hotel room block are available today — but neither will last forever.
 
 ## The Conference: October 13–16, 2026
 
-TechBash 2026 takes place October 13–16 at the [Kalahari Resorts & Convention Center](https://www.kalahariresorts.com/pennsylvania/) in Pocono Manor, PA. This community-driven, non-profit developer conference delivers three full days of keynotes and breakout sessions, plus an optional fourth day of deep-dive workshops. Topics span Web, Cloud, DevOps, Architecture, AI, Best Practices, Soft Skills, and more — all in an environment designed to inspire, educate, and connect.
+TechBash 2026 takes place October 13–16 at the [Kalahari Resorts & Convention Center](https://jasong.us/4fp2k0y) in Pocono Manor, PA. This community-driven, non-profit developer conference delivers three full days of keynotes and breakout sessions, plus an optional fourth day of deep-dive workshops. Topics span Web, Cloud, DevOps, Architecture, AI, Best Practices, Soft Skills, and more — all in an environment designed to inspire, educate, and connect.
 
 ## Keynotes
 
@@ -43,6 +43,6 @@ Don't wait — book your room at [techbash.com](https://jasong.us/tb) while disc
 
 ## Plan Your Schedule with the TechBash App
 
-The [TechBash app](https://apps.apple.com/tj/app/techbash/id6443588937) is available on the [Apple App Store](https://apps.apple.com/tj/app/techbash/id6443588937) and [Google Play](https://play.google.com/store/apps/details?id=com.pennstreetdesign.techbash&hl=en) to help you build and manage your schedule before and during the event.
+The [TechBash app](https://jasong.us/3Tp0CUs) is available on the [Apple App Store](https://jasong.us/4xc5TNG) and [Google Play](https://jasong.us/45yWjZb) to help you build and manage your schedule before and during the event.
 
-{% include link-thumbnail.html path="2026/07/28/techbash2026-web.png" alt="TechBash 2026" url="https://jasong.us/tb" %}
+{% include link-thumbnail.html path="2026/07/29/techbash2026-web.png" alt="TechBash 2026" url="https://jasong.us/tb" %}
