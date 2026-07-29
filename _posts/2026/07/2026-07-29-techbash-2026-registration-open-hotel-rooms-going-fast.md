@@ -9,7 +9,11 @@ image: https://cdn.jasongaylord.com/images/2026/07/29/techbash2026-web.png
 bitly: https://jasong.us/4pNkFIj
 ---
 
-[TechBash 2026](https://jasong.us/tb) registration is now open, and if you're planning to attend, there are two things you should do right now: grab your ticket and book your hotel room. Both Early Bird ticket pricing and the discounted hotel room block are available today — but neither will last forever.
+[TechBash 2026](https://jasong.us/tb) registration is now open, and if you're planning to attend, there are two things you should do right now: grab your ticket and book your hotel room. Both standard ticket pricing and the discounted hotel room block are available today — but neither will last forever.
+
+{% include info-notice.html %}
+You can use promo code <strong>SUMMERTIME</strong> to save 12%. However, this code is only good through Friday, July 31st..
+{% include end-notice.html %}
 
 ## The Conference: October 13–16, 2026
 
